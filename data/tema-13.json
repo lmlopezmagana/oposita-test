@@ -1,0 +1,16 @@
+{
+  "tema": 13,
+  "titulo": "Recursos administrativos",
+  "preguntas": [
+    {
+      "id": "T13-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 13: Recursos administrativos.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

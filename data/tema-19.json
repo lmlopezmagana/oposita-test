@@ -1,0 +1,16 @@
+{
+  "tema": 19,
+  "titulo": "Ciudadanía y Sistema Público de Servicios Sociales",
+  "preguntas": [
+    {
+      "id": "T19-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 19: Ciudadanía y Sistema Público de Servicios Sociales.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

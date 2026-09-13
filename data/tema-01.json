@@ -1,0 +1,56 @@
+{
+  "tema": 1,
+  "titulo": "Constitución Española de 1978",
+  "preguntas": [
+    {
+      "id": "T01-P001",
+      "pregunta": "¿En qué fecha fue ratificada en referéndum la Constitución Española de 1978?",
+      "opciones": [
+        "6 de diciembre de 1978",
+        "27 de diciembre de 1978",
+        "29 de diciembre de 1978"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P002",
+      "pregunta": "¿Cuál de los siguientes es un valor superior del ordenamiento jurídico según el artículo 1.1 de la Constitución?",
+      "opciones": [
+        "Pluralismo político",
+        "Seguridad jurídica",
+        "Solidaridad territorial"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P003",
+      "pregunta": "¿Cuál es la forma política del Estado español según la Constitución?",
+      "opciones": [
+        "Monarquía parlamentaria",
+        "República parlamentaria",
+        "Monarquía absoluta"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P004",
+      "pregunta": "¿Dónde reside la soberanía nacional según la Constitución?",
+      "opciones": [
+        "En el pueblo español",
+        "En las Cortes Generales",
+        "En el Rey"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P005",
+      "pregunta": "¿Cuál de estos principios está garantizado por el artículo 9.3 de la Constitución?",
+      "opciones": [
+        "Seguridad jurídica",
+        "Confesionalidad del Estado",
+        "Mandato imperativo"
+      ],
+      "correcta": 0
+    }
+  ]
+}

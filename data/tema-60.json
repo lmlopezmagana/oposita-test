@@ -1,0 +1,16 @@
+{
+  "tema": 60,
+  "titulo": "Instrumento Valórame",
+  "preguntas": [
+    {
+      "id": "T60-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 60: Instrumento Valórame.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

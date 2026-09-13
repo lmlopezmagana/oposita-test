@@ -1,0 +1,16 @@
+{
+  "tema": 22,
+  "titulo": "Servicio de Ayuda a Domicilio: regulación autonómica",
+  "preguntas": [
+    {
+      "id": "T22-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 22: Servicio de Ayuda a Domicilio: regulación autonómica.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tema": 49,
+  "titulo": "Iniciativa privada y social y contratación pública",
+  "preguntas": [
+    {
+      "id": "T49-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 49: Iniciativa privada y social y contratación pública.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

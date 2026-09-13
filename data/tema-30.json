@@ -1,0 +1,16 @@
+{
+  "tema": 30,
+  "titulo": "Servicios Sociales Comunitarios",
+  "preguntas": [
+    {
+      "id": "T30-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 30: Servicios Sociales Comunitarios.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

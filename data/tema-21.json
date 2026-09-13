@@ -1,0 +1,16 @@
+{
+  "tema": 21,
+  "titulo": "Servicio de información, orientación, valoración y asesoramiento",
+  "preguntas": [
+    {
+      "id": "T21-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 21: Servicio de información, orientación, valoración y asesoramiento.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

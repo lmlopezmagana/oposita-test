@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Simulador de test para las oposiciones de Trabajo Social del Ayuntamiento de Mairena del Aljarafe.">
+    <title>Test Oposiciones Trabajo Social · Mairena del Aljarafe</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+<header class="header">
+    <div class="container">
+        <h1>Oposiciones Trabajo Social</h1>
+        <p>Ayuntamiento de Mairena del Aljarafe · Simulador v1.0</p>
+        <nav class="main-nav" aria-label="Navegación principal">
+            <button id="nav-test" type="button">Nuevo test</button>
+            <button id="nav-history" type="button">Historial</button>
+            <button id="nav-statistics" type="button">Estadísticas</button>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
+    <section id="resume-screen" class="hidden resume-card">
+        <h2>Test sin finalizar</h2>
+        <p>Existe un test guardado. Puedes continuar exactamente desde el punto en el que lo dejaste.</p>
+        <div id="resume-info"></div>
+        <div class="resume-actions">
+            <button id="resume-test" type="button" class="primary">Continuar test</button>
+            <button id="discard-test" type="button" class="secondary">Descartar</button>
+        </div>
+    </section>
+
+    <section id="config-screen" class="hidden">
+        <h2>Nuevo test</h2>
+
+        <div class="notice">
+            <strong>Versión 1.0:</strong> los ficheros JSON incluyen la estructura completa de 60 temas.
+            El tema 1 contiene preguntas de ejemplo; los demás contienen una pregunta marcada expresamente como demostración
+            para que puedas sustituirla por tu banco real.
+        </div>
+
+        <div class="mode-buttons">
+            <button id="official-mode" type="button" class="secondary">Simulacro oficial</button>
+        </div>
+
+        <div class="form-group">
+            <label for="question-count">Número de preguntas</label>
+            <input id="question-count" type="number" min="5" max="200" value="50">
+        </div>
+
+        <section class="topics">
+            <div class="topics-header">
+                <h3>Temas</h3>
+                <div>
+                    <button id="select-all" type="button" class="small">Todos</button>
+                    <button id="select-none" type="button" class="small">Ninguno</button>
+                </div>
+            </div>
+
+            <div class="block-actions">
+                <button id="select-common" type="button" class="small">Temas comunes</button>
+                <button id="select-specific" type="button" class="small">Temas específicos</button>
+            </div>
+
+            <div id="topics-container"></div>
+        </section>
+
+        <div id="config-error" class="error hidden" role="alert"></div>
+
+        <button id="start-test" type="button" class="primary">Comenzar test</button>
+    </section>
+
+    <section id="test-screen" class="hidden">
+        <div class="test-status">
+            <div><strong id="progress"></strong></div>
+            <div id="timer-container" class="hidden">⏱ <strong id="timer"></strong></div>
+        </div>
+
+        <div id="question-container"></div>
+
+        <div class="navigation">
+            <button id="previous-question" type="button" class="secondary">← Anterior</button>
+            <button id="next-question" type="button" class="secondary">Siguiente →</button>
+        </div>
+
+        <div id="question-grid" class="question-grid" aria-label="Navegación por preguntas"></div>
+
+        <button id="finish-test" type="button" class="danger">Finalizar test</button>
+    </section>
+
+    <section id="results-screen" class="hidden">
+        <h2>Resultado</h2>
+
+        <div class="results-summary">
+            <div class="result correct"><span id="correct-count">0</span><small>Correctas</small></div>
+            <div class="result incorrect"><span id="incorrect-count">0</span><small>Incorrectas</small></div>
+            <div class="result blank"><span id="blank-count">0</span><small>En blanco</small></div>
+        </div>
+
+        <div class="score">Nota: <strong id="score-value"></strong></div>
+        <div id="passed-result"></div>
+
+        <h3>Revisión</h3>
+        <p>Se muestran únicamente las preguntas incorrectas o no contestadas.</p>
+        <div id="review-container"></div>
+
+        <button id="new-test" type="button" class="primary">Realizar otro test</button>
+    </section>
+
+    <section id="history-screen" class="hidden">
+        <div class="section-title">
+            <h2>Historial de tests</h2>
+            <button id="clear-history" type="button" class="danger-outline">Borrar historial</button>
+        </div>
+        <div id="history-container"></div>
+    </section>
+
+    <section id="statistics-screen" class="hidden">
+        <h2>Estadísticas</h2>
+        <div id="statistics-container"></div>
+        <h3>Rendimiento por tema</h3>
+        <p class="muted">Los temas se ordenan de menor a mayor porcentaje de aciertos.</p>
+        <div id="topic-statistics"></div>
+    </section>
+</main>
+
+<script type="module" src="./js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "bloque": "comun",
+    "titulo": "Constitución Española de 1978"
+  },
+  {
+    "id": 2,
+    "bloque": "comun",
+    "titulo": "Estado español y organización territorial"
+  },
+  {
+    "id": 3,
+    "bloque": "comun",
+    "titulo": "Cortes Generales"
+  },
+  {
+    "id": 4,
+    "bloque": "comun",
+    "titulo": "Poder Judicial y CGPJ"
+  },
+  {
+    "id": 5,
+    "bloque": "comun",
+    "titulo": "Organización territorial del Estado y Comunidades Autónomas"
+  },
+  {
+    "id": 6,
+    "bloque": "comun",
+    "titulo": "Régimen Local Español"
+  },
+  {
+    "id": 7,
+    "bloque": "comun",
+    "titulo": "El municipio"
+  },
+  {
+    "id": 8,
+    "bloque": "comun",
+    "titulo": "Personal al servicio de las Entidades Locales"
+  },
+  {
+    "id": 9,
+    "bloque": "comun",
+    "titulo": "Selección del personal al servicio de las Entidades Locales"
+  },
+  {
+    "id": 10,
+    "bloque": "comun",
+    "titulo": "Derechos de los funcionarios y régimen disciplinario"
+  },
+  {
+    "id": 11,
+    "bloque": "comun",
+    "titulo": "Deberes, incompatibilidades y responsabilidad de los funcionarios"
+  },
+  {
+    "id": 12,
+    "bloque": "comun",
+    "titulo": "Procedimiento administrativo común"
+  },
+  {
+    "id": 13,
+    "bloque": "comun",
+    "titulo": "Recursos administrativos"
+  },
+  {
+    "id": 14,
+    "bloque": "comun",
+    "titulo": "Igualdad efectiva y medidas para personas trans y LGTBI"
+  },
+  {
+    "id": 15,
+    "bloque": "comun",
+    "titulo": "Protección integral contra la violencia de género"
+  },
+  {
+    "id": 16,
+    "bloque": "especifico",
+    "titulo": "Servicios Sociales en España"
+  },
+  {
+    "id": 17,
+    "bloque": "especifico",
+    "titulo": "Servicios Sociales en Andalucía"
+  },
+  {
+    "id": 18,
+    "bloque": "especifico",
+    "titulo": "Servicios Sociales en la administración local"
+  },
+  {
+    "id": 19,
+    "bloque": "especifico",
+    "titulo": "Ciudadanía y Sistema Público de Servicios Sociales"
+  },
+  {
+    "id": 20,
+    "bloque": "especifico",
+    "titulo": "Plan Concertado"
+  },
+  {
+    "id": 21,
+    "bloque": "especifico",
+    "titulo": "Servicio de información, orientación, valoración y asesoramiento"
+  },
+  {
+    "id": 22,
+    "bloque": "especifico",
+    "titulo": "Servicio de Ayuda a Domicilio: regulación autonómica"
+  },
+  {
+    "id": 23,
+    "bloque": "especifico",
+    "titulo": "Servicio de Ayuda a Domicilio: Diputación de Sevilla"
+  },
+  {
+    "id": 24,
+    "bloque": "especifico",
+    "titulo": "Servicio de Cooperación Social"
+  },
+  {
+    "id": 25,
+    "bloque": "especifico",
+    "titulo": "Servicio de Convivencia y Reinserción Social"
+  },
+  {
+    "id": 26,
+    "bloque": "especifico",
+    "titulo": "Titulares del derecho a los Servicios Sociales"
+  },
+  {
+    "id": 27,
+    "bloque": "especifico",
+    "titulo": "Participación ciudadana en Servicios Sociales de Andalucía"
+  },
+  {
+    "id": 28,
+    "bloque": "especifico",
+    "titulo": "Financiación del Sistema Público de Servicios Sociales de Andalucía"
+  },
+  {
+    "id": 29,
+    "bloque": "especifico",
+    "titulo": "Equipo de trabajo en los Servicios Sociales municipales"
+  },
+  {
+    "id": 30,
+    "bloque": "especifico",
+    "titulo": "Servicios Sociales Comunitarios"
+  },
+  {
+    "id": 31,
+    "bloque": "especifico",
+    "titulo": "Servicios Sociales especializados"
+  },
+  {
+    "id": 32,
+    "bloque": "especifico",
+    "titulo": "Coordinación entre Servicios Sociales y otros sistemas de protección"
+  },
+  {
+    "id": 33,
+    "bloque": "especifico",
+    "titulo": "Evaluación en los Servicios Sociales"
+  },
+  {
+    "id": 34,
+    "bloque": "especifico",
+    "titulo": "Ética y Servicios Sociales"
+  },
+  {
+    "id": 35,
+    "bloque": "especifico",
+    "titulo": "Investigación social y planificación de Servicios Sociales"
+  },
+  {
+    "id": 36,
+    "bloque": "especifico",
+    "titulo": "Intervención social individual y familiar"
+  },
+  {
+    "id": 37,
+    "bloque": "especifico",
+    "titulo": "El reto social ante la dependencia"
+  },
+  {
+    "id": 38,
+    "bloque": "especifico",
+    "titulo": "Sistema de autonomía y atención a la dependencia"
+  },
+  {
+    "id": 39,
+    "bloque": "especifico",
+    "titulo": "Catálogo de prestaciones y servicios de dependencia"
+  },
+  {
+    "id": 40,
+    "bloque": "especifico",
+    "titulo": "Reconocimiento de dependencia y Programa Individual de Atención"
+  },
+  {
+    "id": 41,
+    "bloque": "especifico",
+    "titulo": "Exclusión social, pobreza y desigualdad"
+  },
+  {
+    "id": 42,
+    "bloque": "especifico",
+    "titulo": "Reconocimiento de las personas con discapacidad"
+  },
+  {
+    "id": 43,
+    "bloque": "especifico",
+    "titulo": "Prestaciones para las personas con discapacidad"
+  },
+  {
+    "id": 44,
+    "bloque": "especifico",
+    "titulo": "Informe social"
+  },
+  {
+    "id": 45,
+    "bloque": "especifico",
+    "titulo": "Ficha social"
+  },
+  {
+    "id": 46,
+    "bloque": "especifico",
+    "titulo": "Visita a domicilio"
+  },
+  {
+    "id": 47,
+    "bloque": "especifico",
+    "titulo": "Historia social y Sistema CoheSSiona"
+  },
+  {
+    "id": 48,
+    "bloque": "especifico",
+    "titulo": "Sistema de Información de Usuarios de Servicios Sociales"
+  },
+  {
+    "id": 49,
+    "bloque": "especifico",
+    "titulo": "Iniciativa privada y social y contratación pública"
+  },
+  {
+    "id": 50,
+    "bloque": "especifico",
+    "titulo": "Concierto social"
+  },
+  {
+    "id": 51,
+    "bloque": "especifico",
+    "titulo": "Plan de Cohesión Social e Igualdad de la Diputación de Sevilla"
+  },
+  {
+    "id": 52,
+    "bloque": "especifico",
+    "titulo": "Programa Extraordinario de gestión municipal de Emergencia Social"
+  },
+  {
+    "id": 53,
+    "bloque": "especifico",
+    "titulo": "Competencias locales en Infancia y Adolescencia"
+  },
+  {
+    "id": 54,
+    "bloque": "especifico",
+    "titulo": "Plan de Infancia y Adolescencia de Andalucía"
+  },
+  {
+    "id": 55,
+    "bloque": "especifico",
+    "titulo": "Prevención y parentalidad positiva"
+  },
+  {
+    "id": 56,
+    "bloque": "especifico",
+    "titulo": "Actuaciones de protección de riesgo y declaración de riesgo"
+  },
+  {
+    "id": 57,
+    "bloque": "especifico",
+    "titulo": "Programa de Atención Familiar"
+  },
+  {
+    "id": 58,
+    "bloque": "especifico",
+    "titulo": "Hoja de notificación ante situaciones de riesgo o maltrato"
+  },
+  {
+    "id": 59,
+    "bloque": "especifico",
+    "titulo": "Aplicación SIMIA"
+  },
+  {
+    "id": 60,
+    "bloque": "especifico",
+    "titulo": "Instrumento Valórame"
+  }
+]

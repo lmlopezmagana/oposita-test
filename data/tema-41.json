@@ -1,0 +1,16 @@
+{
+  "tema": 41,
+  "titulo": "Exclusión social, pobreza y desigualdad",
+  "preguntas": [
+    {
+      "id": "T41-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 41: Exclusión social, pobreza y desigualdad.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tema": 27,
+  "titulo": "Participación ciudadana en Servicios Sociales de Andalucía",
+  "preguntas": [
+    {
+      "id": "T27-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 27: Participación ciudadana en Servicios Sociales de Andalucía.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

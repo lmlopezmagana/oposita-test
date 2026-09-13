@@ -1,0 +1,16 @@
+{
+  "tema": 36,
+  "titulo": "Intervención social individual y familiar",
+  "preguntas": [
+    {
+      "id": "T36-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 36: Intervención social individual y familiar.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

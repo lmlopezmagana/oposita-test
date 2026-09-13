@@ -1,0 +1,16 @@
+{
+  "tema": 25,
+  "titulo": "Servicio de Convivencia y Reinserción Social",
+  "preguntas": [
+    {
+      "id": "T25-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 25: Servicio de Convivencia y Reinserción Social.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

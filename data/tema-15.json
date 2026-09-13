@@ -1,0 +1,16 @@
+{
+  "tema": 15,
+  "titulo": "Protección integral contra la violencia de género",
+  "preguntas": [
+    {
+      "id": "T15-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 15: Protección integral contra la violencia de género.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

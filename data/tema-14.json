@@ -1,0 +1,16 @@
+{
+  "tema": 14,
+  "titulo": "Igualdad efectiva y medidas para personas trans y LGTBI",
+  "preguntas": [
+    {
+      "id": "T14-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 14: Igualdad efectiva y medidas para personas trans y LGTBI.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

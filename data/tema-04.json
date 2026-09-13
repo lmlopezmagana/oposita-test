@@ -1,0 +1,16 @@
+{
+  "tema": 4,
+  "titulo": "Poder Judicial y CGPJ",
+  "preguntas": [
+    {
+      "id": "T04-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 4: Poder Judicial y CGPJ.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

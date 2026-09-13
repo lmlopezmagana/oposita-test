@@ -1,0 +1,16 @@
+{
+  "tema": 6,
+  "titulo": "Régimen Local Español",
+  "preguntas": [
+    {
+      "id": "T06-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 6: Régimen Local Español.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tema": 7,
+  "titulo": "El municipio",
+  "preguntas": [
+    {
+      "id": "T07-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 7: El municipio.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

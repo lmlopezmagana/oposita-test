@@ -1,0 +1,16 @@
+{
+  "tema": 28,
+  "titulo": "Financiación del Sistema Público de Servicios Sociales de Andalucía",
+  "preguntas": [
+    {
+      "id": "T28-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 28: Financiación del Sistema Público de Servicios Sociales de Andalucía.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

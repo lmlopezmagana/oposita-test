@@ -1,0 +1,16 @@
+{
+  "tema": 5,
+  "titulo": "Organización territorial del Estado y Comunidades Autónomas",
+  "preguntas": [
+    {
+      "id": "T05-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 5: Organización territorial del Estado y Comunidades Autónomas.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tema": 3,
+  "titulo": "Cortes Generales",
+  "preguntas": [
+    {
+      "id": "T03-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 3: Cortes Generales.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

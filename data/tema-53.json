@@ -1,0 +1,16 @@
+{
+  "tema": 53,
+  "titulo": "Competencias locales en Infancia y Adolescencia",
+  "preguntas": [
+    {
+      "id": "T53-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 53: Competencias locales en Infancia y Adolescencia.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

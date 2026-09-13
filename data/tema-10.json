@@ -1,0 +1,16 @@
+{
+  "tema": 10,
+  "titulo": "Derechos de los funcionarios y régimen disciplinario",
+  "preguntas": [
+    {
+      "id": "T10-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 10: Derechos de los funcionarios y régimen disciplinario.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

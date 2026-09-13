@@ -1,0 +1,16 @@
+{
+  "tema": 57,
+  "titulo": "Programa de Atención Familiar",
+  "preguntas": [
+    {
+      "id": "T57-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 57: Programa de Atención Familiar.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

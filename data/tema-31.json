@@ -1,0 +1,16 @@
+{
+  "tema": 31,
+  "titulo": "Servicios Sociales especializados",
+  "preguntas": [
+    {
+      "id": "T31-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 31: Servicios Sociales especializados.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}

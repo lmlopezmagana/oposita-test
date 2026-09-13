@@ -1,0 +1,16 @@
+{
+  "tema": 9,
+  "titulo": "Selección del personal al servicio de las Entidades Locales",
+  "preguntas": [
+    {
+      "id": "T09-DEMO",
+      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 9: Selección del personal al servicio de las Entidades Locales.",
+      "opciones": [
+        "Respuesta correcta de ejemplo",
+        "Respuesta incorrecta de ejemplo 1",
+        "Respuesta incorrecta de ejemplo 2"
+      ],
+      "correcta": 0
+    }
+  ]
+}
