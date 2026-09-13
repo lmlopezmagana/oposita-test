@@ -1,14 +1,504 @@
 {
   "tema": 9,
-  "titulo": "Selección del personal al servicio de las Entidades Locales",
+  "titulo": "Tema 9",
   "preguntas": [
     {
-      "id": "T09-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 9: Selección del personal al servicio de las Entidades Locales.",
+      "id": "T09-P001",
+      "pregunta": "Según el artículo 55 del TREBEP, ¿qué tríada constituye el núcleo constitucional del acceso al empleo público?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Igualdad, mérito y capacidad",
+        "Publicidad, transparencia y agilidad",
+        "Profesionalidad, independencia y discrecionalidad técnica"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P002",
+      "pregunta": "Además de igualdad, mérito y capacidad, ¿qué principio exige el TREBEP respecto de la relación entre las pruebas selectivas y el puesto?",
+      "opciones": [
+        "La adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar",
+        "La identidad entre las pruebas de todas las Administraciones Públicas",
+        "La prevalencia de la antigüedad sobre cualquier prueba de capacidad"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P003",
+      "pregunta": "Según el Tema 9, la selección del personal de las Entidades Locales debe distinguirse de la provisión porque...",
+      "opciones": [
+        "la selección supone acceso al empleo público y la provisión adjudica puestos a quienes ya reúnen la condición funcionarial exigida",
+        "la selección sólo afecta al personal laboral y la provisión exclusivamente al funcionario",
+        "la provisión siempre exige oposición y la selección siempre concurso"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P004",
+      "pregunta": "Conforme al artículo 91 LBRL recogido en los apuntes, la selección del personal local se realizará...",
+      "opciones": [
+        "conforme a la oferta de empleo público, mediante convocatoria pública y a través de concurso, oposición o concurso-oposición libre",
+        "exclusivamente mediante oposición, con independencia de la naturaleza de las plazas",
+        "mediante libre designación cuando se trate de funcionarios de carrera"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P005",
+      "pregunta": "Según el artículo 100 LBRL, ¿a quién corresponde, con carácter general, la selección de los funcionarios de una Corporación Local?",
+      "opciones": [
+        "A cada Corporación Local, salvo los funcionarios con habilitación de carácter nacional",
+        "Al Estado en todo caso",
+        "A la Comunidad Autónoma en exclusiva"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P006",
+      "pregunta": "¿Qué norma se presenta en los apuntes como específica para las reglas básicas y programas mínimos de selección de funcionarios de Administración Local?",
+      "opciones": [
+        "El Real Decreto 896/1991, de 7 de junio",
+        "El Real Decreto 365/1995, de 10 de marzo",
+        "La Ley 39/2015, de 1 de octubre"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P007",
+      "pregunta": "Según el RD 896/1991 expuesto en el Tema 9, el ingreso en la Función Pública Local se realizará con carácter general mediante...",
+      "opciones": [
+        "oposición",
+        "concurso",
+        "libre designación"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P008",
+      "pregunta": "En la oposición, ¿qué se valora esencialmente?",
+      "opciones": [
+        "La capacidad y aptitud mediante una o más pruebas",
+        "Sólo los méritos previamente baremados",
+        "La antigüedad en cualquier Administración Pública"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P009",
+      "pregunta": "¿Qué combina el concurso-oposición?",
+      "opciones": [
+        "La valoración de méritos con pruebas de capacidad o aptitud",
+        "La libre designación con una entrevista no eliminatoria",
+        "Dos fases exclusivamente de valoración de méritos"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P010",
+      "pregunta": "En el concurso como sistema selectivo, ¿qué elemento constituye el objeto principal de valoración?",
+      "opciones": [
+        "Los méritos previamente definidos y baremados",
+        "Únicamente una prueba práctica",
+        "Sólo la titulación mínima exigida"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P011",
+      "pregunta": "Para el ingreso de funcionarios, el concurso tiene en el TREBEP, según los apuntes, carácter...",
+      "opciones": [
+        "excepcional cuando una ley lo establezca",
+        "ordinario y preferente frente a la oposición",
+        "obligatorio para todas las plazas de Administración Especial"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P012",
+      "pregunta": "En el concurso-oposición regulado por el RD 896/1991, la fase de concurso es...",
+      "opciones": [
+        "previa, no eliminatoria y no puede utilizarse para compensar un suspenso en la oposición",
+        "posterior, eliminatoria y puede compensar cualquier suspenso",
+        "simultánea a la oposición y siempre eliminatoria"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P013",
+      "pregunta": "Las pruebas selectivas, según el Tema 9, deben...",
+      "opciones": [
+        "guardar conexión con las tareas de las plazas convocadas",
+        "ser exclusivamente teóricas cuando se seleccionen funcionarios",
+        "ser idénticas para todas las escalas y subescalas"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P014",
+      "pregunta": "Según el RD 896/1991, ¿qué exigencia se establece respecto de los ejercicios obligatorios?",
+      "opciones": [
+        "Al menos uno debe tener carácter práctico",
+        "Todos deben ser exclusivamente prácticos",
+        "Ninguno puede tener carácter práctico"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P015",
+      "pregunta": "En los ejercicios escritos, el RD 896/1991 exige que, siempre que sea posible, se garantice...",
+      "opciones": [
+        "el anonimato de los aspirantes",
+        "la corrección pública en presencia de todos los aspirantes",
+        "la elección del ejercicio por cada aspirante"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P016",
+      "pregunta": "¿Qué consideración tienen las bases dentro de un proceso selectivo?",
+      "opciones": [
+        "Constituyen la norma específica del proceso selectivo",
+        "Son recomendaciones sin fuerza reguladora para el procedimiento",
+        "Sólo regulan la publicación de la convocatoria"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P017",
+      "pregunta": "¿Cuál de los siguientes elementos forma parte del contenido mínimo de las bases según el esquema del Tema 9?",
+      "opciones": [
+        "El sistema de calificación de los ejercicios",
+        "La identidad de todos los futuros aspirantes",
+        "La fecha de jubilación prevista de cada miembro del tribunal"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P018",
+      "pregunta": "En las bases de un concurso o concurso-oposición deben figurar, respecto de los méritos...",
+      "opciones": [
+        "los méritos, su valoración y la forma de acreditarlos",
+        "únicamente los méritos que aleguen los aspirantes después de finalizar las pruebas",
+        "sólo la antigüedad, sin necesidad de baremación previa"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P019",
+      "pregunta": "¿Cuál de estas secuencias reproduce el esquema de memorización del contenido mínimo de las bases?",
+      "opciones": [
+        "Plaza, sistema, pruebas, méritos, programa, tribunal, calificación y requisitos",
+        "Plaza, presupuesto, contrato, nómina, sanción y jubilación",
+        "Oferta, padrón, tributos, patrimonio, contratación y archivo"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P020",
+      "pregunta": "Con carácter general, el tribunal no puede declarar un número de aprobados...",
+      "opciones": [
+        "superior al de plazas convocadas, sin perjuicio de las previsiones legales aplicables",
+        "inferior al doble de las plazas convocadas",
+        "igual al de plazas convocadas"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P021",
+      "pregunta": "Según el artículo 60 TREBEP, los órganos de selección deben ser...",
+      "opciones": [
+        "colegiados",
+        "unipersonales",
+        "necesariamente judiciales"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P022",
+      "pregunta": "La composición de los órganos de selección debe ajustarse especialmente a los principios de...",
+      "opciones": [
+        "imparcialidad y profesionalidad",
+        "jerarquía política y representación sindical",
+        "antigüedad y libre designación"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P023",
+      "pregunta": "La pertenencia a un órgano de selección se ostenta...",
+      "opciones": [
+        "siempre a título individual, sin representación o actuación por cuenta de otra persona",
+        "en representación obligatoria del órgano que propuso al miembro",
+        "por delegación de las organizaciones sindicales"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P024",
+      "pregunta": "¿Quién NO puede formar parte de los órganos de selección conforme al TREBEP recogido en los apuntes?",
+      "opciones": [
+        "El personal de elección o designación política",
+        "El personal funcionario de carrera con cualificación suficiente",
+        "El personal funcionario de carrera designado a título individual"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P025",
+      "pregunta": "¿Cuál de los siguientes colectivos está excluido de los órganos de selección por el artículo 60 TREBEP?",
+      "opciones": [
+        "Los funcionarios interinos",
+        "Todos los funcionarios de carrera",
+        "Los funcionarios de carrera del mismo subgrupo que la plaza"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P026",
+      "pregunta": "La previsión histórica del RD 896/1991 sobre una Presidencia política del tribunal debe estudiarse actualmente...",
+      "opciones": [
+        "conjuntamente con el artículo 60 TREBEP, que excluye al personal de elección o designación política",
+        "como norma prevalente frente al TREBEP",
+        "sin tener en cuenta ninguna legislación posterior"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P027",
+      "pregunta": "En las bases de Mairena de 2026, el Tribunal Calificador está integrado, con derecho a voto, por...",
+      "opciones": [
+        "una Presidencia y cuatro vocalías designadas entre personal funcionario de carrera",
+        "una Presidencia política, dos vocalías sindicales y dos funcionarios interinos",
+        "la Vicesecretaría y cuatro asesores especialistas"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P028",
+      "pregunta": "En el Tribunal previsto en las bases de Mairena, la Secretaría...",
+      "opciones": [
+        "tiene voz y no voto",
+        "tiene voto de calidad en caso de empate",
+        "carece tanto de voz como de voto"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P029",
+      "pregunta": "Las personas integrantes del Tribunal de Mairena deben poseer...",
+      "opciones": [
+        "titulación o especialización igual o superior a la exigida para la plaza",
+        "necesariamente el mismo grado universitario exacto que cada aspirante",
+        "una antigüedad mínima de diez años en el Ayuntamiento"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P030",
+      "pregunta": "Los asesores especialistas que pueda incorporar el Tribunal de Mairena actúan...",
+      "opciones": [
+        "con voz, pero sin voto",
+        "con voto, pero sin voz",
+        "con voz y voto en todas las decisiones"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P031",
+      "pregunta": "Según el RD 896/1991, las materias comunes de los programas deben constituir al menos...",
+      "opciones": [
+        "una quinta parte del contenido",
+        "la mitad exacta del contenido",
+        "cuatro quintas partes del contenido"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P032",
+      "pregunta": "Para la Escala de Administración Especial, el RD 896/1991 dispone que las materias orientadas a determinar la capacidad profesional y relativas a la normativa específica de las funciones representen...",
+      "opciones": [
+        "cuatro quintas partes",
+        "una quinta parte",
+        "un tercio"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P033",
+      "pregunta": "¿Qué referencia debe prevalecer operativamente para esta oposición ante la antigua nomenclatura de grupos del RD 896/1991?",
+      "opciones": [
+        "El Anexo I de las bases de Mairena, con 60 temas: 15 comunes y 45 específicos",
+        "La nomenclatura A/B/C/D/E del RD 896/1991 sin adaptación",
+        "Un programa estatal único de 100 temas"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P034",
+      "pregunta": "La promoción interna es, según el Tema 9...",
+      "opciones": [
+        "una modalidad de carrera profesional que permite acceder a otros cuerpos o escalas",
+        "un procedimiento para adjudicar un puesto dentro del mismo cuerpo sin proceso selectivo",
+        "una situación administrativa equivalente a la excedencia"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P035",
+      "pregunta": "El artículo 18 TREBEP exige que los procesos de promoción interna respeten...",
+      "opciones": [
+        "igualdad, mérito y capacidad y los principios del artículo 55",
+        "exclusivamente antigüedad y libre designación",
+        "sólo publicidad y jerarquía"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P036",
+      "pregunta": "¿Qué antigüedad mínima señala el Tema 9 para la promoción interna, en los términos del TREBEP?",
+      "opciones": [
+        "Dos años de servicio activo en el subgrupo o grupo de clasificación profesional de origen",
+        "Un año de servicios en cualquier situación administrativa",
+        "Cinco años de servicio activo en la Administración de destino"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P037",
+      "pregunta": "Además de la antigüedad mínima, para la promoción interna debe...",
+      "opciones": [
+        "poseerse la titulación exigida, reunir los requisitos de acceso y superar las pruebas correspondientes",
+        "bastar con poseer la titulación, sin proceso selectivo",
+        "renunciarse previamente a la condición de funcionario de carrera"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P038",
+      "pregunta": "La promoción interna horizontal se refiere al acceso...",
+      "opciones": [
+        "a cuerpos o escalas del mismo subgrupo profesional, en los supuestos legales",
+        "exclusivamente a un subgrupo superior",
+        "a un puesto de libre designación dentro del mismo órgano"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P039",
+      "pregunta": "¿Cuál de las siguientes NO es una de las cinco situaciones administrativas básicas del artículo 85 TREBEP enumeradas en el Tema 9?",
+      "opciones": [
+        "Expectativa de destino",
+        "Servicio activo",
+        "Suspensión de funciones"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P040",
+      "pregunta": "Como regla, el tiempo permanecido en servicios especiales se computa, en los términos del artículo 87 TREBEP, a efectos de...",
+      "opciones": [
+        "ascensos, trienios, promoción interna y los derechos de Seguridad Social que procedan",
+        "únicamente vacaciones anuales",
+        "ningún derecho de carrera profesional"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P041",
+      "pregunta": "El servicio en otras Administraciones Públicas comprende, entre otros, a funcionarios...",
+      "opciones": [
+        "transferidos o que obtienen destino en otra Administración mediante procedimientos de provisión o movilidad",
+        "suspendidos provisionalmente de funciones",
+        "en excedencia por interés particular"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P042",
+      "pregunta": "En la excedencia por agrupación familiar, según el cuadro del Tema 9...",
+      "opciones": [
+        "no se exigen servicios previos mínimos y, con carácter general, no hay retribuciones ni cómputos",
+        "se exigen siempre cinco años de servicio activo y se mantienen todas las retribuciones",
+        "se reserva necesariamente el mismo puesto durante toda la excedencia y se perciben trienios"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P043",
+      "pregunta": "En la excedencia por cuidado de familiares, el Tema 9 señala como duración máxima por cada sujeto causante...",
+      "opciones": [
+        "hasta tres años",
+        "seis meses",
+        "seis años"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P044",
+      "pregunta": "En la excedencia por violencia de género o sexual, la reserva del puesto se establece inicialmente durante...",
+      "opciones": [
+        "los seis primeros meses, con posibilidad de prórroga judicial hasta dieciocho meses",
+        "los dos primeros años sin posibilidad de prórroga",
+        "un mes, prorrogable administrativamente hasta tres meses"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P045",
+      "pregunta": "La suspensión firme de funciones determina la pérdida del puesto cuando...",
+      "opciones": [
+        "excede de seis meses",
+        "alcanza exactamente un mes",
+        "se impone cualquier suspensión, con independencia de su duración"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P046",
+      "pregunta": "El RD 365/1995 es relevante para esta oposición porque...",
+      "opciones": [
+        "las propias bases de Mairena lo citan expresamente como norma de referencia, aunque debe leerse conforme al marco posterior del TREBEP",
+        "derogó íntegramente el TREBEP",
+        "regula exclusivamente la selección del personal laboral local"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P047",
+      "pregunta": "En las bases de Mairena, el sistema elegido para las tres plazas de Trabajador/a Social es...",
+      "opciones": [
+        "oposición por turno libre",
+        "concurso de méritos",
+        "concurso-oposición por promoción interna"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P048",
+      "pregunta": "¿Cómo se configura el primer ejercicio de la oposición de Mairena según las bases?",
+      "opciones": [
+        "100 preguntas tipo test más 10 de reserva, con 120 minutos y carácter eliminatorio",
+        "50 preguntas tipo test sin reserva, con 90 minutos y carácter no eliminatorio",
+        "100 preguntas de desarrollo, con 180 minutos"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P049",
+      "pregunta": "¿En qué consiste el segundo ejercicio de las bases de Mairena?",
+      "opciones": [
+        "Una prueba práctica sobre la parte específica del temario, obligatoria y eliminatoria, con 90 minutos",
+        "Una entrevista curricular no eliminatoria de 30 minutos",
+        "Un concurso de méritos profesionales sin prueba práctica"
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T09-P050",
+      "pregunta": "¿Quiénes integran la lista de reserva prevista en las bases de Mairena?",
+      "opciones": [
+        "Las personas que hayan superado al menos el primer ejercicio",
+        "Sólo quienes hayan superado los dos ejercicios y obtenido plaza",
+        "Todas las personas admitidas definitivamente, aunque no superen el primer ejercicio"
       ],
       "correcta": 0
     }

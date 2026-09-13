@@ -1,14 +1,504 @@
 {
   "tema": 2,
-  "titulo": "Estado español y organización territorial",
+  "titulo": "Tema 2",
   "preguntas": [
     {
-      "id": "T02-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 2: Estado español y organización territorial.",
+      "id": "T02-P001",
+      "pregunta": "Según el artículo 1.1 de la Constitución Española, ¿qué combinación recoge íntegramente los valores superiores del ordenamiento jurídico?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Libertad, justicia, igualdad y pluralismo político.",
+        "Libertad, seguridad jurídica, igualdad y pluralismo político.",
+        "Justicia, solidaridad, igualdad y participación política."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P002",
+      "pregunta": "¿Cuál de las siguientes afirmaciones reproduce correctamente la relación entre soberanía y poderes del Estado establecida en el artículo 1.2 CE?",
+      "opciones": [
+        "La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+        "La soberanía nacional reside en las Cortes Generales, que representan al pueblo español.",
+        "La soberanía nacional se distribuye entre el Estado y las Comunidades Autónomas conforme a sus competencias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P003",
+      "pregunta": "¿Qué establece el artículo 1.3 CE respecto de la forma política del Estado español?",
+      "opciones": [
+        "Que es la Monarquía parlamentaria.",
+        "Que es un Estado autonómico de estructura parlamentaria.",
+        "Que es una Monarquía constitucional y social."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P004",
+      "pregunta": "¿Qué tríada sintetiza, según el Tema 2, el núcleo del modelo territorial derivado del artículo 2 CE?",
+      "opciones": [
+        "Unidad, autonomía y solidaridad.",
+        "Unidad, descentralización y coordinación.",
+        "Autonomía, igualdad y subsidiariedad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P005",
+      "pregunta": "En la relación entre los artículos 1.2 y 2 CE, ¿qué afirmación es correcta?",
+      "opciones": [
+        "La soberanía nacional corresponde al pueblo español, mientras que nacionalidades y regiones tienen reconocido un derecho a la autonomía.",
+        "La autonomía de nacionalidades y regiones implica una soberanía territorial limitada por la Constitución.",
+        "La soberanía nacional corresponde conjuntamente al pueblo español y a las Comunidades Autónomas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P006",
+      "pregunta": "¿Qué expresa de forma directa el artículo 9.1 CE como manifestación del Estado de Derecho?",
+      "opciones": [
+        "La sujeción de los ciudadanos y de los poderes públicos a la Constitución y al resto del ordenamiento jurídico.",
+        "La sujeción exclusiva de los poderes públicos a la Constitución y de los ciudadanos únicamente a la ley.",
+        "La prevalencia de la potestad reglamentaria sobre la ley cuando exista interés general."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P007",
+      "pregunta": "¿Cuál de los siguientes principios NO aparece entre las garantías enumeradas en el artículo 9.3 CE según el documento de estudio?",
+      "opciones": [
+        "Eficacia administrativa.",
+        "Seguridad jurídica.",
+        "Interdicción de la arbitrariedad de los poderes públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P008",
+      "pregunta": "¿Cómo formula el artículo 9.3 CE la garantía de irretroactividad recogida en el Tema 2?",
+      "opciones": [
+        "Irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+        "Irretroactividad de toda disposición sancionadora, sea favorable o desfavorable.",
+        "Irretroactividad de cualquier norma que afecte a derechos o intereses legítimos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P009",
+      "pregunta": "¿Qué conjunto coincide con los principios expresamente destacados del artículo 103 CE para la actuación de la Administración Pública?",
+      "opciones": [
+        "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+        "Eficacia, legalidad, autonomía, subsidiariedad y cooperación.",
+        "Jerarquía, descentralización, solidaridad, publicidad y participación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P010",
+      "pregunta": "Según el artículo 106 CE tal como se expone en el Tema 2, ¿qué corresponde controlar a los tribunales?",
+      "opciones": [
+        "La potestad reglamentaria y la legalidad de la actuación administrativa.",
+        "La oportunidad política de los reglamentos y la actividad legislativa del Gobierno.",
+        "La constitucionalidad de todas las leyes y la conveniencia de los actos administrativos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P011",
+      "pregunta": "¿Cuál de las siguientes secuencias recoge íntegramente los tres mandatos que el artículo 9.2 CE dirige a los poderes públicos?",
+      "opciones": [
+        "Promover condiciones para que libertad e igualdad sean reales y efectivas; remover obstáculos; y facilitar la participación en la vida política, económica, cultural y social.",
+        "Garantizar la igualdad formal; eliminar toda diferencia económica; y asegurar la participación exclusivamente política.",
+        "Promover la seguridad jurídica; remover obstáculos administrativos; y facilitar la participación política y sindical."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P012",
+      "pregunta": "Según el artículo 53.3 CE, ¿qué efecto tienen el reconocimiento, respeto y protección de los principios rectores del Capítulo III del Título I?",
+      "opciones": [
+        "Informan la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+        "Vinculan directamente a todos los jueces como derechos fundamentales susceptibles de amparo.",
+        "Solo informan la legislación positiva y carecen de relevancia para la práctica judicial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P013",
+      "pregunta": "¿Cuál es la precisión correcta sobre la tutela de los principios rectores de la política social y económica?",
+      "opciones": [
+        "Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.",
+        "Son directamente invocables mediante recurso de amparo en las mismas condiciones que los artículos 15 a 29 CE.",
+        "No pueden ser alegados ante ningún órgano jurisdiccional, aunque exista una ley de desarrollo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P014",
+      "pregunta": "Conforme al artículo 6 CE, ¿qué función atribuye la Constitución a los partidos políticos?",
+      "opciones": [
+        "Expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política.",
+        "Ejercen la representación directa de la soberanía nacional y sustituyen a las Cortes Generales en la formación de la voluntad popular.",
+        "Canalizan exclusivamente la participación electoral y su funcionamiento interno no está sujeto a exigencias democráticas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P015",
+      "pregunta": "¿Qué reconoce el artículo 23 CE en relación con la participación en los asuntos públicos?",
+      "opciones": [
+        "El derecho a participar directamente o por medio de representantes libremente elegidos en elecciones periódicas por sufragio universal.",
+        "Únicamente el derecho a participar por medio de representantes elegidos mediante sufragio censitario.",
+        "El derecho a participar directamente en todo asunto público sin necesidad de regulación legal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P016",
+      "pregunta": "¿Cuál es el mínimo de firmas acreditadas exigido constitucionalmente para la iniciativa legislativa popular mencionada en el Tema 2?",
+      "opciones": [
+        "500.000 firmas.",
+        "250.000 firmas.",
+        "600.000 firmas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P017",
+      "pregunta": "¿Qué caracteriza al referéndum previsto en el artículo 92 CE según el documento?",
+      "opciones": [
+        "Es consultivo y puede versar sobre decisiones políticas de especial trascendencia en los términos constitucionalmente previstos.",
+        "Es vinculante y se reserva a reformas de leyes orgánicas.",
+        "Es un mecanismo legislativo ordinario para aprobar cualquier proyecto de ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P018",
+      "pregunta": "¿Qué distinción conceptual es correcta respecto del artículo 1 CE?",
+      "opciones": [
+        "“Monarquía parlamentaria” define la forma política, mientras que “Estado social y democrático de Derecho” caracteriza constitucionalmente al Estado.",
+        "“Estado social y democrático de Derecho” define la forma política, mientras que “Monarquía parlamentaria” es un valor superior.",
+        "Ambas expresiones son equivalentes y describen exclusivamente la forma de gobierno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P019",
+      "pregunta": "Según la caracterización constitucional de la Corona expuesta en el Tema 2, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "El Rey es Jefe del Estado, símbolo de su unidad y permanencia, y arbitra y modera el funcionamiento regular de las instituciones.",
+        "El Rey dirige la política interior y exterior y ejerce personalmente la función ejecutiva.",
+        "El Rey representa al pueblo español en las Cortes y ejerce la potestad legislativa ordinaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P020",
+      "pregunta": "¿Qué combinación recoge funciones constitucionales generales de las Cortes Generales señaladas en el documento?",
+      "opciones": [
+        "Potestad legislativa del Estado, aprobación de los Presupuestos y control de la acción del Gobierno.",
+        "Potestad reglamentaria, dirección de la Administración y control del Poder Judicial.",
+        "Dirección de la política exterior, aprobación de reglamentos y nombramiento de todos los jueces."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P021",
+      "pregunta": "¿Qué consideración constitucional tiene el Senado según el Tema 2?",
+      "opciones": [
+        "Cámara de representación territorial.",
+        "Cámara exclusiva de representación de las Comunidades Autónomas.",
+        "Cámara de representación municipal y provincial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P022",
+      "pregunta": "Según el artículo 97 CE, ¿cuál de las siguientes funciones corresponde al Gobierno?",
+      "opciones": [
+        "Dirigir la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejercer la función ejecutiva y la potestad reglamentaria.",
+        "Ejercer la potestad legislativa, aprobar los Presupuestos y controlar a las Cortes Generales.",
+        "Administrar justicia, dirigir el Poder Judicial y ejercer el control de constitucionalidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P023",
+      "pregunta": "¿Qué diferencia establece el documento entre Gobierno y Administración Pública?",
+      "opciones": [
+        "El Gobierno asume la dirección política y la función ejecutiva; la Administración sirve objetivamente los intereses generales y ejecuta las políticas sometida al ordenamiento.",
+        "La Administración dirige políticamente al Estado y el Gobierno se limita a ejecutar materialmente sus decisiones.",
+        "Gobierno y Administración son expresiones equivalentes de una misma organización constitucional sin funciones diferenciadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P024",
+      "pregunta": "¿Cuál de las siguientes notas NO se atribuye en el Tema 2 a jueces y magistrados integrantes del Poder Judicial?",
+      "opciones": [
+        "Dependencia jerárquica del Gobierno.",
+        "Independencia.",
+        "Sometimiento únicamente al imperio de la ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P025",
+      "pregunta": "Según el artículo 117 CE, ¿de dónde emana la justicia y en nombre de quién se administra?",
+      "opciones": [
+        "Emana del pueblo y se administra en nombre del Rey.",
+        "Emana de las Cortes Generales y se administra en nombre del pueblo español.",
+        "Emana del Rey y se administra en nombre de la Constitución."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P026",
+      "pregunta": "¿Cuál de las siguientes materias figura entre las competencias del Tribunal Constitucional señaladas en el Tema 2?",
+      "opciones": [
+        "Los conflictos de competencia entre el Estado y las Comunidades Autónomas o entre estas.",
+        "La revisión ordinaria de las sentencias firmes de cualquier jurisdicción.",
+        "El control general de oportunidad de los actos administrativos de las Entidades Locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P027",
+      "pregunta": "¿Cómo configura el artículo 54 CE al Defensor del Pueblo en el documento de estudio?",
+      "opciones": [
+        "Como alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el Título I, con capacidad de supervisar la actividad de la Administración.",
+        "Como órgano del Gobierno encargado de controlar la constitucionalidad de los reglamentos.",
+        "Como órgano jurisdiccional especial para resolver recursos de amparo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P028",
+      "pregunta": "¿Qué naturaleza atribuye el artículo 136 CE al Tribunal de Cuentas según el Tema 2?",
+      "opciones": [
+        "Supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público.",
+        "Órgano superior consultivo del Gobierno en materia presupuestaria.",
+        "Órgano constitucional encargado de aprobar definitivamente los Presupuestos Generales del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P029",
+      "pregunta": "¿Cómo define el artículo 107 CE al Consejo de Estado en el documento?",
+      "opciones": [
+        "Como supremo órgano consultivo del Gobierno.",
+        "Como supremo órgano de control de la Administración.",
+        "Como cámara consultiva de las Cortes Generales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P030",
+      "pregunta": "Según la Ley 40/2015 tal como se resume en el Tema 2, ¿qué cuatro grandes componentes se distinguen dentro del sector público?",
+      "opciones": [
+        "Administración General del Estado, Administraciones de las Comunidades Autónomas, Entidades integrantes de la Administración Local y sector público institucional.",
+        "Estado, Comunidades Autónomas, provincias y municipios exclusivamente.",
+        "Administraciones territoriales, Poder Judicial, Cortes Generales y empresas privadas concesionarias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P031",
+      "pregunta": "¿Cuál de las siguientes entidades integra el sector público institucional conforme al artículo 2.2 de la Ley 40/2015 según el documento?",
+      "opciones": [
+        "Las entidades de Derecho privado vinculadas o dependientes de las Administraciones Públicas, en los términos legalmente establecidos.",
+        "Todas las sociedades privadas que contraten con cualquier Administración Pública.",
+        "Los partidos políticos por su función constitucional de participación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P032",
+      "pregunta": "¿Qué precisión formula el Tema 2 respecto de la relación entre sector público y Administraciones Públicas?",
+      "opciones": [
+        "El sector público es más amplio y no todas las entidades del sector público institucional tienen la consideración de Administración Pública a todos los efectos.",
+        "Sector público y Administraciones Públicas son categorías exactamente equivalentes.",
+        "Solo las entidades de Derecho privado forman parte del sector público institucional y nunca de la Administración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P033",
+      "pregunta": "¿Cuál es el rasgo que mejor diferencia funcionalmente a un ente institucional de una Administración territorial según el documento?",
+      "opciones": [
+        "La especialización en determinados fines, programas, servicios o actividades públicas.",
+        "La titularidad de soberanía sobre un territorio determinado.",
+        "La elección directa de todos sus órganos por sufragio universal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P034",
+      "pregunta": "¿Por qué sería incorrecto afirmar que todos los componentes del sector público institucional tienen personalidad jurídica propia?",
+      "opciones": [
+        "Porque el artículo 84 de la Ley 40/2015 incluye fondos sin personalidad jurídica.",
+        "Porque los organismos autónomos carecen siempre de personalidad jurídica.",
+        "Porque las entidades públicas empresariales son simples órganos internos de los ministerios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P035",
+      "pregunta": "¿Cuál de las siguientes relaciones reproduce correctamente la clasificación del sector público institucional estatal del artículo 84 de la Ley 40/2015?",
+      "opciones": [
+        "Organismos públicos, autoridades administrativas independientes, sociedades mercantiles estatales, consorcios, fundaciones del sector público, fondos sin personalidad jurídica y universidades públicas no transferidas.",
+        "Organismos autónomos, ministerios, diputaciones, sociedades mercantiles estatales, mancomunidades, fundaciones privadas y universidades transferidas.",
+        "Administración General del Estado, Comunidades Autónomas, Entidades Locales, consorcios, partidos políticos, sindicatos y universidades privadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P036",
+      "pregunta": "Dentro del primer grupo del artículo 84 de la Ley 40/2015, ¿qué tres tipos de organismos públicos estatales identifica el Tema 2?",
+      "opciones": [
+        "Organismos autónomos, entidades públicas empresariales y agencias estatales.",
+        "Organismos autónomos, autoridades administrativas independientes y consorcios.",
+        "Entidades públicas empresariales, sociedades mercantiles estatales y fundaciones del sector público."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P037",
+      "pregunta": "Según los artículos 88 y siguientes de la Ley 40/2015 tal como se exponen en el Tema 2, ¿cuándo se justifica la creación de organismos públicos estatales?",
+      "opciones": [
+        "Cuando determinadas actividades públicas justifican una organización diferenciada en régimen de descentralización funcional o independencia.",
+        "Siempre que una actividad administrativa pueda ser financiada íntegramente con impuestos.",
+        "Únicamente cuando sea necesario sustituir a una Administración territorial en el ejercicio de sus competencias generales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P038",
+      "pregunta": "¿Cuál de las siguientes características se atribuye a los organismos autónomos estatales en el Tema 2?",
+      "opciones": [
+        "Personalidad jurídica propia, tesorería y patrimonio propios y autonomía de gestión.",
+        "Ausencia de personalidad jurídica y dependencia presupuestaria absoluta sin autonomía de gestión.",
+        "Personalidad privada, financiación exclusivamente de mercado y plena independencia estratégica de la AGE."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P039",
+      "pregunta": "¿Qué rasgo financiero caracteriza principalmente a las entidades públicas empresariales según el documento?",
+      "opciones": [
+        "Su financiación se basa esencialmente en ingresos de mercado, con las excepciones legales correspondientes.",
+        "Se financian exclusivamente mediante transferencias presupuestarias y nunca con ingresos de mercado.",
+        "Deben financiarse obligatoriamente mediante tasas locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P040",
+      "pregunta": "¿Para qué finalidad se configuran las agencias estatales en el artículo 108 bis según el Tema 2?",
+      "opciones": [
+        "Para el cumplimiento de programas correspondientes a las políticas públicas desarrolladas por la Administración General del Estado.",
+        "Para ejercer exclusivamente funciones jurisdiccionales especializadas.",
+        "Para asumir la representación territorial de las Comunidades Autónomas ante el Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P041",
+      "pregunta": "¿Qué establece el artículo 137 CE sobre la organización territorial del Estado?",
+      "opciones": [
+        "Que se organiza en municipios, provincias y Comunidades Autónomas que se constituyan, todas ellas con autonomía para la gestión de sus respectivos intereses.",
+        "Que se organiza en municipios, comarcas y Comunidades Autónomas, todas ellas soberanas en su ámbito competencial.",
+        "Que se organiza exclusivamente en Comunidades Autónomas y Entidades Locales menores."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P042",
+      "pregunta": "Según el artículo 138 CE tal como se resume en el Tema 2, ¿qué debe garantizar el Estado en relación con la solidaridad territorial?",
+      "opciones": [
+        "Su realización efectiva, velando por un equilibrio económico adecuado y justo y atendiendo especialmente a las circunstancias del hecho insular.",
+        "La igualdad absoluta de recursos presupuestarios entre todas las Comunidades Autónomas.",
+        "La desaparición de cualquier diferencia económica entre municipios mediante financiación estatal uniforme."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P043",
+      "pregunta": "¿Qué doble garantía territorial se destaca del artículo 139 CE?",
+      "opciones": [
+        "Los mismos derechos y obligaciones de todos los españoles en cualquier parte del territorio y la prohibición de obstaculizar la libre circulación y establecimiento de personas y la libre circulación de bienes.",
+        "La identidad de todos los Estatutos de Autonomía y la prohibición de tributos autonómicos.",
+        "La uniformidad de competencias municipales y la libre circulación exclusiva de personas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P044",
+      "pregunta": "¿Qué garantiza expresamente el artículo 140 CE respecto del municipio?",
+      "opciones": [
+        "Su autonomía y personalidad jurídica plena.",
+        "Su soberanía normativa y personalidad jurídica limitada.",
+        "Su autonomía financiera plena y potestad legislativa propia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P045",
+      "pregunta": "Según el Tema 2, ¿cómo son elegidos los concejales?",
+      "opciones": [
+        "Por los vecinos mediante sufragio universal, igual, libre, directo y secreto, en la forma establecida por la ley.",
+        "Por el alcalde mediante designación entre los vecinos empadronados.",
+        "Por las diputaciones provinciales mediante sufragio indirecto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P046",
+      "pregunta": "¿Qué doble naturaleza constitucional presenta la provincia conforme al artículo 141 CE?",
+      "opciones": [
+        "Entidad local con personalidad jurídica propia, determinada por la agrupación de municipios, y división territorial para el cumplimiento de actividades del Estado.",
+        "Órgano desconcentrado de la Comunidad Autónoma y circunscripción exclusivamente electoral.",
+        "Entidad institucional dependiente del Estado y agrupación voluntaria de municipios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P047",
+      "pregunta": "¿Qué forma de administración propia se menciona para las islas en los archipiélagos?",
+      "opciones": [
+        "Cabildos o Consejos.",
+        "Diputaciones insulares o mancomunidades.",
+        "Delegaciones del Gobierno o subdelegaciones autonómicas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P048",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre las Comunidades Autónomas se ajusta al Tema 2?",
+      "opciones": [
+        "Cuentan con un Estatuto de Autonomía como norma institucional básica y asumen competencias en los términos establecidos por la Constitución y sus Estatutos.",
+        "Ejercen soberanía propia y sus Estatutos prevalecen sobre la Constitución en las materias asumidas.",
+        "Carecen de autonomía financiera y dependen íntegramente del presupuesto estatal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P049",
+      "pregunta": "¿Qué criterio distingue principalmente la organización territorial de la organización institucional?",
+      "opciones": [
+        "La organización territorial se vincula al territorio y a la gestión general de intereses propios; la institucional se vincula a una función o finalidad especializada.",
+        "La territorial carece de personalidad jurídica y la institucional la posee siempre.",
+        "La territorial depende jerárquicamente de la institucional y esta ejerce soberanía sobre aquella."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T02-P050",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la distinción entre municipio y organismo autónomo municipal señalada en el Tema 2?",
+      "opciones": [
+        "El municipio es una entidad territorial constitucionalmente dotada de autonomía; un organismo autónomo municipal es una entidad instrumental creada para actividades determinadas.",
+        "Ambos son entes institucionales, aunque el municipio tiene una competencia funcional más amplia.",
+        "El organismo autónomo municipal es una entidad territorial menor con la misma autonomía constitucional que el municipio."
       ],
       "correcta": 0
     }

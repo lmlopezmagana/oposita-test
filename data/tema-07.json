@@ -1,14 +1,504 @@
 {
   "tema": 7,
-  "titulo": "El municipio",
+  "titulo": "Tema 7",
   "preguntas": [
     {
-      "id": "T07-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 7: El municipio.",
+      "id": "T07-P001",
+      "pregunta": "Según el artículo 11.2 de la LBRL, ¿cuáles son los elementos del municipio?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Territorio, población y organización.",
+        "Territorio, competencias y hacienda.",
+        "Población, ayuntamiento y provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P002",
+      "pregunta": "¿Cómo define la LBRL al municipio?",
+      "opciones": [
+        "Como la entidad local básica de la organización territorial del Estado, con personalidad jurídica y plena capacidad.",
+        "Como una entidad territorial dependiente de la provincia y sin personalidad jurídica propia.",
+        "Como un órgano administrativo de la Comunidad Autónoma con autonomía financiera exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P003",
+      "pregunta": "Según la Constitución, el gobierno y administración de los municipios corresponde:",
+      "opciones": [
+        "A sus respectivos ayuntamientos, integrados por alcaldes y concejales.",
+        "A las diputaciones provinciales, salvo delegación expresa.",
+        "A las comunidades autónomas mediante sus delegaciones territoriales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P004",
+      "pregunta": "La autonomía municipal implica que el municipio:",
+      "opciones": [
+        "Dispone de un ámbito propio de decisión y gestión dentro de la Constitución y las leyes.",
+        "Es soberano dentro de su término municipal.",
+        "Puede inaplicar la legislación autonómica cuando afecte a intereses locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P005",
+      "pregunta": "¿Qué artículo de la Constitución garantiza específicamente la autonomía municipal y regula el gobierno por ayuntamientos?",
+      "opciones": [
+        "El artículo 140.",
+        "El artículo 137 exclusivamente.",
+        "El artículo 149."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P006",
+      "pregunta": "Con carácter general, ¿quiénes integran el Ayuntamiento?",
+      "opciones": [
+        "El Alcalde y los Concejales.",
+        "El Alcalde, los Tenientes de Alcalde y los funcionarios municipales.",
+        "El Pleno y la Junta de Gobierno Local exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P007",
+      "pregunta": "¿Cuál de los siguientes órganos existe en todos los ayuntamientos?",
+      "opciones": [
+        "Los Tenientes de Alcalde.",
+        "La Junta de Gobierno Local.",
+        "La Comisión Especial de Sugerencias y Reclamaciones."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P008",
+      "pregunta": "La Junta de Gobierno Local existe necesariamente:",
+      "opciones": [
+        "En los municipios con población superior a 5.000 habitantes.",
+        "En todos los municipios sin excepción.",
+        "Solo en municipios de gran población."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P009",
+      "pregunta": "En municipios de 5.000 habitantes o menos, la Junta de Gobierno Local puede existir:",
+      "opciones": [
+        "Si lo dispone el reglamento orgánico o lo acuerda el Pleno.",
+        "Únicamente si lo autoriza la Diputación Provincial.",
+        "Solo cuando lo acuerde la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P010",
+      "pregunta": "¿Cuál es la función esencial de los Tenientes de Alcalde?",
+      "opciones": [
+        "Sustituir al Alcalde, por el orden de su nombramiento, en los supuestos legalmente previstos.",
+        "Presidir necesariamente las comisiones informativas.",
+        "Ejercer el control y fiscalización del Pleno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P011",
+      "pregunta": "Los Tenientes de Alcalde son nombrados y cesados:",
+      "opciones": [
+        "Libremente por el Alcalde.",
+        "Por el Pleno por mayoría absoluta.",
+        "Por la Junta de Gobierno Local a propuesta del Alcalde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P012",
+      "pregunta": "¿Quién integra el Pleno municipal?",
+      "opciones": [
+        "Todos los concejales, bajo la presidencia del Alcalde.",
+        "El Alcalde y un máximo de un tercio de los concejales.",
+        "El Alcalde, los portavoces de los grupos y los Tenientes de Alcalde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P013",
+      "pregunta": "¿Cuál de las siguientes atribuciones corresponde al Pleno según el material de estudio?",
+      "opciones": [
+        "La aprobación del reglamento orgánico y de las ordenanzas.",
+        "Dictar bandos.",
+        "Ejercer la jefatura superior de todo el personal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P014",
+      "pregunta": "¿Cuál de las siguientes atribuciones se identifica como propia del Alcalde?",
+      "opciones": [
+        "Dirigir el gobierno y la administración municipal.",
+        "Aprobar el reglamento orgánico.",
+        "Aprobar la plantilla de personal y la relación de puestos de trabajo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P015",
+      "pregunta": "La Junta de Gobierno Local está integrada por:",
+      "opciones": [
+        "El Alcalde y un número de concejales no superior a un tercio del número legal de los mismos.",
+        "El Alcalde y exactamente un tercio de los concejales presentes.",
+        "Todos los concejales y el Alcalde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P016",
+      "pregunta": "Los miembros de la Junta de Gobierno Local son:",
+      "opciones": [
+        "Nombrados y separados libremente por el Alcalde, dando cuenta al Pleno.",
+        "Elegidos por el Pleno mediante mayoría absoluta.",
+        "Designados por los grupos políticos en proporción a su representación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P017",
+      "pregunta": "La Comisión Especial de Cuentas:",
+      "opciones": [
+        "Existe en todos los municipios.",
+        "Solo existe en municipios de más de 5.000 habitantes.",
+        "Es exclusiva de los municipios de gran población."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P018",
+      "pregunta": "La Comisión Especial de Sugerencias y Reclamaciones se contempla:",
+      "opciones": [
+        "En municipios de gran población y en otros cuando proceda.",
+        "En todos los municipios obligatoriamente.",
+        "Solo en municipios de menos de 5.000 habitantes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P019",
+      "pregunta": "Los órganos complementarios municipales pueden ser creados y regulados por los municipios:",
+      "opciones": [
+        "Mediante sus reglamentos orgánicos, dentro del marco legal.",
+        "Mediante bandos de Alcaldía sin límite legal.",
+        "Únicamente mediante ley autonómica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P020",
+      "pregunta": "En el régimen de Concejo Abierto, las funciones de gobierno y administración corresponden:",
+      "opciones": [
+        "Al Alcalde y a la asamblea vecinal.",
+        "A la Diputación y al Alcalde.",
+        "A la Junta de Gobierno Local y al Pleno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P021",
+      "pregunta": "Según la LBRL, las competencias municipales se distinguen fundamentalmente en:",
+      "opciones": [
+        "Propias y delegadas, además de poder ejercerse otras distintas bajo condiciones legales.",
+        "Exclusivas y compartidas únicamente.",
+        "Obligatorias y voluntarias exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P022",
+      "pregunta": "¿Qué materia aparece en el artículo 25.2.e) LBRL?",
+      "opciones": [
+        "Evaluación e información de situaciones de necesidad social y atención inmediata a personas en situación o riesgo de exclusión social.",
+        "Gestión integral de todas las prestaciones de dependencia.",
+        "Reconocimiento del grado de discapacidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P023",
+      "pregunta": "La nueva letra p) del artículo 25.2 LBRL, destacada en la revisión de 2026, se refiere a:",
+      "opciones": [
+        "Comunidades ciudadanas de energía, comunidades de energías renovables y actuaciones de transición energética.",
+        "Vivienda de protección pública y rehabilitación de edificios.",
+        "Participación ciudadana mediante tecnologías de la información."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P024",
+      "pregunta": "Según el Estatuto de Autonomía para Andalucía, artículo 92.2.c, constituye competencia municipal propia:",
+      "opciones": [
+        "La gestión de los servicios sociales comunitarios.",
+        "La gestión exclusiva de la Seguridad Social.",
+        "La declaración de situaciones de dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P025",
+      "pregunta": "En todos los municipios es obligatorio prestar:",
+      "opciones": [
+        "Alumbrado público, cementerio, recogida de residuos, limpieza viaria, agua potable, alcantarillado, acceso a núcleos y pavimentación.",
+        "Biblioteca pública, parque público y tratamiento de residuos.",
+        "Protección civil, extinción de incendios e instalaciones deportivas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P026",
+      "pregunta": "En municipios de más de 5.000 habitantes se añaden como servicios mínimos:",
+      "opciones": [
+        "Parque público, biblioteca pública y tratamiento de residuos.",
+        "Protección civil y atención inmediata a la exclusión social.",
+        "Transporte colectivo urbano y medio ambiente urbano."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P027",
+      "pregunta": "En municipios de más de 20.000 habitantes es servicio mínimo:",
+      "opciones": [
+        "La evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social.",
+        "El transporte colectivo urbano de viajeros.",
+        "La promoción y gestión de vivienda de protección pública."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P028",
+      "pregunta": "En municipios de más de 50.000 habitantes son además servicios mínimos:",
+      "opciones": [
+        "El transporte colectivo urbano de viajeros y el medio ambiente urbano.",
+        "La biblioteca pública y el tratamiento de residuos.",
+        "La protección civil y las instalaciones deportivas únicamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P029",
+      "pregunta": "Respecto de las competencias delegadas, el material señala que:",
+      "opciones": [
+        "La titularidad permanece en la Administración delegante y se delega el ejercicio.",
+        "La titularidad se transmite definitivamente al municipio.",
+        "Solo pueden ser delegadas por el Estado, no por las comunidades autónomas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P030",
+      "pregunta": "El término municipal es:",
+      "opciones": [
+        "El territorio en el que el Ayuntamiento ejerce sus competencias.",
+        "El conjunto de personas inscritas en el Padrón.",
+        "La delimitación de la provincia en la que se integra el municipio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P031",
+      "pregunta": "Cada municipio:",
+      "opciones": [
+        "Pertenece a una sola provincia.",
+        "Puede pertenecer a dos provincias si su término es discontinuo.",
+        "Debe pertenecer a una comarca y a una provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P032",
+      "pregunta": "Según la LAULA, el término municipal comprende:",
+      "opciones": [
+        "Suelo, vuelo y subsuelo.",
+        "Solo suelo y subsuelo.",
+        "Únicamente el suelo delimitado cartográficamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P033",
+      "pregunta": "La alteración de términos municipales:",
+      "opciones": [
+        "Nunca puede modificar los límites provinciales.",
+        "Puede modificar límites provinciales con autorización estatal.",
+        "Solo puede afectar a municipios de la misma comarca."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P034",
+      "pregunta": "La creación de un nuevo municipio exige, entre otros requisitos, un núcleo territorialmente diferenciado de al menos:",
+      "opciones": [
+        "4.000 habitantes.",
+        "5.000 habitantes.",
+        "10.000 habitantes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P035",
+      "pregunta": "Además del mínimo poblacional, la creación de nuevos municipios requiere:",
+      "opciones": [
+        "Sostenibilidad financiera, recursos suficientes y que no disminuya la calidad de los servicios.",
+        "Únicamente acuerdo unánime de los municipios afectados.",
+        "Que el nuevo municipio supere los 20.000 habitantes en cinco años."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P036",
+      "pregunta": "En Andalucía, la competencia para efectuar modificaciones de términos municipales corresponde en exclusiva:",
+      "opciones": [
+        "A la Junta de Andalucía.",
+        "A las diputaciones provinciales.",
+        "Al Consejo de Ministros."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P037",
+      "pregunta": "¿Cuál de las siguientes figura entre las modificaciones del término municipal recogidas en el material conforme a la LAULA?",
+      "opciones": [
+        "Segregación.",
+        "Delegación territorial.",
+        "Desconcentración administrativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P038",
+      "pregunta": "La fusión municipal consiste en:",
+      "opciones": [
+        "La unión de dos o más municipios preexistentes y limítrofes para crear uno nuevo, suprimiéndose los anteriores.",
+        "La incorporación de una parte territorial de un municipio a otro sin suprimir ninguno.",
+        "La fijación técnica de una línea límite discutida."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P039",
+      "pregunta": "¿Qué diferencia esencial existe entre deslinde y alteración del término municipal?",
+      "opciones": [
+        "El deslinde comprueba y ejecuta la demarcación, pero no modifica el término municipal.",
+        "El deslinde modifica el término y la alteración solo lo representa cartográficamente.",
+        "No existe diferencia jurídica entre ambos conceptos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P040",
+      "pregunta": "¿Cuál es la norma andaluza vigente destacada para los procedimientos de deslinde municipal?",
+      "opciones": [
+        "El Decreto 157/2016, de 4 de octubre.",
+        "El Decreto 185/2005.",
+        "El Real Decreto 2568/1986."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P041",
+      "pregunta": "El Decreto 157/2016:",
+      "opciones": [
+        "Derogó expresamente el Decreto 185/2005.",
+        "Fue derogado por el Decreto 185/2005.",
+        "Regula exclusivamente el Padrón municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P042",
+      "pregunta": "El replanteo consiste en:",
+      "opciones": [
+        "Proyectar sobre la realidad física una línea definitiva ya fijada.",
+        "Modificar jurídicamente los límites de dos municipios.",
+        "Materializar necesariamente una nueva demarcación provincial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P043",
+      "pregunta": "El amojonamiento:",
+      "opciones": [
+        "Materializa la línea mediante hitos o mojones y no perfecciona ni modifica el deslinde.",
+        "Constituye por sí mismo una alteración del término municipal.",
+        "Sustituye jurídicamente al acto de deslinde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P044",
+      "pregunta": "Toda persona que viva en España debe inscribirse en el Padrón:",
+      "opciones": [
+        "Del municipio en el que resida habitualmente.",
+        "Del municipio en el que haya nacido.",
+        "De cualquier municipio de la provincia en que trabaje."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P045",
+      "pregunta": "Quien viva en varios municipios debe inscribirse:",
+      "opciones": [
+        "Únicamente en aquel en el que habite durante más tiempo al año.",
+        "En todos ellos, indicando cuál es su residencia principal.",
+        "En el municipio que libremente elija, con independencia del tiempo de residencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P046",
+      "pregunta": "La condición de vecino se adquiere:",
+      "opciones": [
+        "En el mismo momento de la inscripción en el Padrón.",
+        "Tras seis meses de residencia continuada.",
+        "Al aprobarse la revisión anual del Padrón."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P047",
+      "pregunta": "El Padrón municipal es:",
+      "opciones": [
+        "El registro administrativo donde constan los vecinos de un municipio.",
+        "Un registro de la propiedad de las viviendas del municipio.",
+        "Un censo electoral gestionado exclusivamente por el INE."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P048",
+      "pregunta": "Los datos del Padrón prueban:",
+      "opciones": [
+        "La residencia en el municipio y el domicilio habitual.",
+        "La residencia legal en España de cualquier extranjero.",
+        "La titularidad jurídica de la vivienda ocupada."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P049",
+      "pregunta": "La formación, mantenimiento, revisión y custodia del Padrón corresponde:",
+      "opciones": [
+        "Al Ayuntamiento, con coordinación del Instituto Nacional de Estadística.",
+        "Exclusivamente al Instituto Nacional de Estadística.",
+        "A la Diputación Provincial con supervisión municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T07-P050",
+      "pregunta": "Determinadas inscripciones de extranjeros sin autorización de residencia de larga duración están sujetas a renovación:",
+      "opciones": [
+        "Cada dos años.",
+        "Cada año.",
+        "Cada cinco años."
       ],
       "correcta": 0
     }

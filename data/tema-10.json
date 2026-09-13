@@ -1,14 +1,504 @@
 {
   "tema": 10,
-  "titulo": "Derechos de los funcionarios y régimen disciplinario",
+  "titulo": "Tema 10",
   "preguntas": [
     {
-      "id": "T10-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 10: Derechos de los funcionarios y régimen disciplinario.",
+      "id": "T10-P001",
+      "pregunta": "Según el TREBEP, ¿qué derecho corresponde específicamente al funcionario de carrera?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "La inamovilidad en su condición de funcionario de carrera.",
+        "La huelga sin obligación de mantener servicios esenciales.",
+        "La negociación individual de sus retribuciones básicas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P002",
+      "pregunta": "¿En qué artículo del TREBEP se enumeran los derechos individuales ejercidos colectivamente?",
+      "opciones": [
+        "En el artículo 15.",
+        "En el artículo 14.",
+        "En el artículo 31."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P003",
+      "pregunta": "¿Cuál de los siguientes NO forma parte de los derechos del artículo 15 TREBEP?",
+      "opciones": [
+        "La libre asociación profesional.",
+        "La libertad sindical.",
+        "El derecho de reunión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P004",
+      "pregunta": "La libertad sindical reconocida en el artículo 28.1 CE comprende, entre otros aspectos:",
+      "opciones": [
+        "El derecho a no afiliarse a sindicato alguno.",
+        "La obligación de afiliarse para participar en elecciones sindicales.",
+        "La autorización administrativa previa para fundar un sindicato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P005",
+      "pregunta": "Según la LOLS, para ser sindicato más representativo a nivel estatal se exige, como referencia esencial:",
+      "opciones": [
+        "Al menos el 10 % de delegados de personal y representantes unitarios en los términos legales.",
+        "Al menos el 15 % y 1.500 representantes.",
+        "Al menos el 5 % de representantes en cualquier ámbito territorial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P006",
+      "pregunta": "Para alcanzar la condición de sindicato más representativo en una Comunidad Autónoma, el tema destaca:",
+      "opciones": [
+        "Al menos el 15 % y un mínimo de 1.500 representantes, con los demás requisitos legales.",
+        "Al menos el 10 % y un mínimo de 500 representantes.",
+        "Más del 20 % sin exigencia de número mínimo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P007",
+      "pregunta": "En una Mesa de Negociación del TREBEP pueden participar, además de los sindicatos más representativos:",
+      "opciones": [
+        "Los sindicatos que hayan obtenido al menos el 10 % de los representantes en las unidades electorales comprendidas en su ámbito.",
+        "Todos los sindicatos legalmente constituidos, con independencia de su implantación.",
+        "Sólo los sindicatos que superen el 15 % de representación estatal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P008",
+      "pregunta": "Respecto del derecho de huelga de los empleados públicos, el TREBEP establece que:",
+      "opciones": [
+        "Su ejercicio debe garantizar el mantenimiento de los servicios esenciales de la comunidad.",
+        "Está prohibido para todo funcionario de carrera.",
+        "Sólo puede ejercerse previa autorización del órgano de gobierno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P009",
+      "pregunta": "Cuando la huelga afecta a servicios públicos, el RDL 17/1977 prevé un preaviso de al menos:",
+      "opciones": [
+        "10 días naturales.",
+        "5 días hábiles.",
+        "15 días naturales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P010",
+      "pregunta": "El comité de huelga, según la regulación estudiada, no puede exceder de:",
+      "opciones": [
+        "12 miembros.",
+        "15 miembros.",
+        "10 miembros."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P011",
+      "pregunta": "La deducción de haberes correspondiente al tiempo de huelga de un empleado público:",
+      "opciones": [
+        "No tiene carácter sancionador.",
+        "Constituye una sanción disciplinaria leve.",
+        "Sólo puede practicarse tras expediente disciplinario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P012",
+      "pregunta": "La participación legítima en una huelga:",
+      "opciones": [
+        "No extingue la relación de servicio ni es por sí misma sancionable.",
+        "Determina siempre la suspensión disciplinaria de funciones.",
+        "Supone renuncia temporal a la condición de funcionario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P013",
+      "pregunta": "Según el artículo 31 TREBEP, la negociación colectiva es:",
+      "opciones": [
+        "El derecho a negociar la determinación de las condiciones de trabajo de los empleados públicos.",
+        "La facultad exclusiva de la Administración para fijar unilateralmente condiciones de trabajo.",
+        "La intervención sindical únicamente en órganos de control presupuestario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P014",
+      "pregunta": "¿Cuál de los siguientes es un principio de la negociación colectiva funcionarial señalado en el tema?",
+      "opciones": [
+        "La buena fe negocial.",
+        "La autonomía absoluta respecto de la ley.",
+        "La ausencia de límites presupuestarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P015",
+      "pregunta": "La negociación colectiva de los funcionarios se articula fundamentalmente mediante:",
+      "opciones": [
+        "Mesas de Negociación.",
+        "Juntas Arbitrales obligatorias.",
+        "Comités de Empresa exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P016",
+      "pregunta": "¿Cuál de estas materias se incluye entre las negociables conforme al artículo 37 TREBEP, dentro del marco legal?",
+      "opciones": [
+        "Los criterios generales en materia de carrera y provisión.",
+        "La regulación de los derechos de los usuarios de los servicios públicos.",
+        "La determinación de las condiciones de trabajo del personal directivo como regla general."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P017",
+      "pregunta": "Una decisión organizativa de la Administración que repercute directamente sobre condiciones de trabajo:",
+      "opciones": [
+        "Obliga a negociar esas condiciones o sus efectos en los términos del artículo 37 TREBEP.",
+        "Queda siempre excluida de cualquier negociación por ser organizativa.",
+        "Sólo puede negociarse si afecta al personal laboral, nunca a funcionarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P018",
+      "pregunta": "En el TREBEP, un Pacto se diferencia de un Acuerdo porque el Pacto:",
+      "opciones": [
+        "Versa sobre materias competencia del órgano administrativo que lo suscribe.",
+        "Requiere siempre aprobación expresa del órgano de gobierno.",
+        "Sólo puede referirse a materias reservadas a ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P019",
+      "pregunta": "Un Acuerdo alcanzado en negociación colectiva sobre materias competencia de un órgano de gobierno:",
+      "opciones": [
+        "Requiere aprobación expresa y formal del órgano de gobierno.",
+        "Se aplica automáticamente desde su firma sin ratificación.",
+        "Carece de eficacia incluso tras su aprobación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P020",
+      "pregunta": "Si una materia negociada está reservada a ley:",
+      "opciones": [
+        "El acuerdo no sustituye a la ley y, cuando proceda, puede implicar el compromiso de impulsar el correspondiente proyecto normativo.",
+        "El acuerdo sindical deroga la ley anterior desde su firma.",
+        "El Pacto se convierte automáticamente en norma con rango de ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P021",
+      "pregunta": "En una unidad electoral de 6 a 30 funcionarios, el órgano unitario de representación es:",
+      "opciones": [
+        "Un Delegado de Personal.",
+        "Tres Delegados de Personal.",
+        "Una Junta de Personal de cinco miembros."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P022",
+      "pregunta": "En una unidad electoral de 31 a 49 funcionarios corresponden:",
+      "opciones": [
+        "Tres Delegados de Personal.",
+        "Un Delegado de Personal.",
+        "Una Junta de Personal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P023",
+      "pregunta": "A partir de 50 funcionarios, el órgano unitario de representación es:",
+      "opciones": [
+        "La Junta de Personal.",
+        "El Comité de Huelga.",
+        "La Mesa General de Negociación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P024",
+      "pregunta": "¿Cuál de las siguientes funciones corresponde a los órganos unitarios de representación según el tema?",
+      "opciones": [
+        "Conocer las sanciones impuestas por faltas muy graves.",
+        "Imponer sanciones por faltas graves.",
+        "Aprobar definitivamente la relación de puestos de trabajo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P025",
+      "pregunta": "Entre las garantías de los representantes de los funcionarios se encuentra:",
+      "opciones": [
+        "La protección frente a sanciones basadas en el ejercicio de su función representativa.",
+        "La inmunidad absoluta frente a cualquier expediente disciplinario.",
+        "La exención permanente del deber de sigilo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P026",
+      "pregunta": "El TREBEP clasifica las faltas disciplinarias en:",
+      "opciones": [
+        "Muy graves, graves y leves.",
+        "Gravísimas, graves y leves.",
+        "Muy graves y leves únicamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P027",
+      "pregunta": "¿Qué faltas tipifica directamente el artículo 95.2 TREBEP?",
+      "opciones": [
+        "Las faltas muy graves.",
+        "Todas las faltas graves y leves.",
+        "Exclusivamente las faltas leves."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P028",
+      "pregunta": "Las faltas graves, conforme al esquema del tema, deben ser establecidas:",
+      "opciones": [
+        "Por ley estatal o autonómica o, para personal laboral, por convenio colectivo, atendiendo a los criterios del TREBEP.",
+        "Exclusivamente por reglamento estatal.",
+        "Únicamente mediante ordenanza municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P029",
+      "pregunta": "¿Cuál de las siguientes conductas figura entre las faltas muy graves destacadas del TREBEP?",
+      "opciones": [
+        "El abandono del servicio.",
+        "Cualquier retraso aislado de pocos minutos.",
+        "Toda discrepancia profesional con un superior."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P030",
+      "pregunta": "La desobediencia a órdenes de un superior puede constituir falta muy grave cuando sea abierta, salvo que:",
+      "opciones": [
+        "Las órdenes constituyan una infracción manifiesta del ordenamiento jurídico.",
+        "La persona funcionaria lleve menos de un año en el puesto.",
+        "La orden se haya comunicado verbalmente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P031",
+      "pregunta": "El incumplimiento de las normas sobre incompatibilidades constituye falta muy grave cuando:",
+      "opciones": [
+        "Dé lugar a una situación de incompatibilidad.",
+        "Se produzca cualquier error formal, aunque no exista incompatibilidad.",
+        "El funcionario solicite autorización de compatibilidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P032",
+      "pregunta": "En materia de huelga, el TREBEP considera muy grave, entre otras conductas:",
+      "opciones": [
+        "El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.",
+        "La mera participación en una huelga legal.",
+        "La afiliación a un sindicato convocante."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P033",
+      "pregunta": "Respecto de la responsabilidad disciplinaria, el TREBEP contempla como responsables:",
+      "opciones": [
+        "A autores, inductores y determinados encubridores en los supuestos legalmente previstos.",
+        "Sólo al autor material directo.",
+        "Únicamente al superior jerárquico del autor."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P034",
+      "pregunta": "Quien encubre una falta consumada grave o muy grave puede incurrir en responsabilidad disciplinaria cuando:",
+      "opciones": [
+        "Del encubrimiento se deriven daños graves para la Administración o la ciudadanía.",
+        "Conozca la identidad del autor, aunque no cause daño alguno.",
+        "La falta encubierta sea siempre leve."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P035",
+      "pregunta": "La separación del servicio puede imponerse:",
+      "opciones": [
+        "Sólo por la comisión de faltas muy graves.",
+        "Por faltas graves o muy graves indistintamente.",
+        "También por cualquier falta leve reincidente de forma automática."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P036",
+      "pregunta": "En el caso de funcionarios interinos, la separación del servicio por falta muy grave comporta:",
+      "opciones": [
+        "La revocación de su nombramiento.",
+        "La conversión automática en personal laboral.",
+        "La pérdida temporal del puesto con reserva indefinida."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P037",
+      "pregunta": "La suspensión firme de funciones prevista en el catálogo básico del TREBEP tiene una duración máxima general de:",
+      "opciones": [
+        "6 años.",
+        "3 años.",
+        "10 años."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P038",
+      "pregunta": "¿Cuál de las siguientes aparece expresamente como sanción en el catálogo básico del TREBEP?",
+      "opciones": [
+        "El demérito.",
+        "La multa administrativa sobre el salario.",
+        "La pérdida automática de la nacionalidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P039",
+      "pregunta": "Para graduar una sanción disciplinaria debe atenderse, entre otros criterios, a:",
+      "opciones": [
+        "La intencionalidad, el daño al interés público y el grado de participación.",
+        "La antigüedad como único criterio determinante.",
+        "La afiliación o no afiliación sindical."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P040",
+      "pregunta": "¿En qué plazo prescribe una falta muy grave según el artículo 97 TREBEP?",
+      "opciones": [
+        "3 años.",
+        "2 años.",
+        "6 años."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P041",
+      "pregunta": "¿En qué plazo prescribe una falta grave según el artículo 97 TREBEP?",
+      "opciones": [
+        "2 años.",
+        "3 años.",
+        "1 año."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P042",
+      "pregunta": "¿En qué plazo prescribe una falta leve según el artículo 97 TREBEP?",
+      "opciones": [
+        "6 meses.",
+        "1 año.",
+        "3 meses."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P043",
+      "pregunta": "¿En qué plazo prescribe una sanción impuesta por falta leve según el artículo 97 TREBEP?",
+      "opciones": [
+        "1 año.",
+        "6 meses.",
+        "2 años."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P044",
+      "pregunta": "El plazo de prescripción de una falta comienza, con carácter general:",
+      "opciones": [
+        "Desde que la falta se hubiera cometido; en faltas continuadas, desde que cesa su comisión.",
+        "Desde que la Administración abre el expediente.",
+        "Desde que la sanción adquiere firmeza."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P045",
+      "pregunta": "El plazo de prescripción de las sanciones comienza:",
+      "opciones": [
+        "Desde la firmeza de la resolución sancionadora.",
+        "Desde la comisión de la falta.",
+        "Desde la incoación del procedimiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P046",
+      "pregunta": "Según el tema, ¿cuál es una causa clásica de extinción de la responsabilidad disciplinaria recogida en el RD 33/1986 con carácter supletorio?",
+      "opciones": [
+        "El cumplimiento de la sanción.",
+        "El cambio voluntario de puesto de trabajo.",
+        "La afiliación posterior a un sindicato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P047",
+      "pregunta": "¿Qué afirmación distingue correctamente prescripción y cancelación?",
+      "opciones": [
+        "La prescripción afecta a la posibilidad de exigir o cumplir responsabilidad por transcurso del plazo; la cancelación se refiere a la eliminación de la anotación disciplinaria cuando proceda.",
+        "Son dos denominaciones equivalentes para la misma institución.",
+        "La cancelación extingue siempre la responsabilidad penal derivada de los hechos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P048",
+      "pregunta": "Para la imposición de sanciones por faltas graves o muy graves:",
+      "opciones": [
+        "Es obligatorio seguir un procedimiento previamente establecido.",
+        "Basta una audiencia verbal sin expediente.",
+        "Puede prescindirse de procedimiento si los hechos son notorios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P049",
+      "pregunta": "En el procedimiento disciplinario, el TREBEP exige como principio de diseño que:",
+      "opciones": [
+        "La fase instructora y la sancionadora se encomienden a órganos distintos.",
+        "El instructor sea necesariamente el órgano que impone la sanción.",
+        "No exista audiencia en la tramitación de faltas leves."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T10-P050",
+      "pregunta": "En la Administración Local, respecto de las competencias disciplinarias de los órganos previstos en el RD 33/1986 para la AGE:",
+      "opciones": [
+        "No deben trasladarse automáticamente a un Ayuntamiento; debe aplicarse el reparto competencial local vigente.",
+        "Son directamente aplicables al Alcalde y al Pleno con idéntica denominación.",
+        "Prevalecen siempre sobre la legislación básica de régimen local."
       ],
       "correcta": 0
     }

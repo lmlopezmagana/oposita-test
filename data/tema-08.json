@@ -1,14 +1,504 @@
 {
   "tema": 8,
-  "titulo": "Personal al servicio de las Entidades Locales",
+  "titulo": "Tema 8",
   "preguntas": [
     {
-      "id": "T08-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 8: Personal al servicio de las Entidades Locales.",
+      "id": "T08-P001",
+      "pregunta": "Según el TREBEP, ¿cuál de las siguientes NO constituye una clase de empleado público?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Personal directivo profesional.",
+        "Funcionario interino.",
+        "Personal eventual."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P002",
+      "pregunta": "¿Qué rasgo caracteriza al funcionario de carrera según el artículo 9 TREBEP?",
+      "opciones": [
+        "Está vinculado por una relación estatutaria regulada por el Derecho Administrativo para prestar servicios profesionales retribuidos de carácter permanente.",
+        "Está vinculado mediante contrato laboral indefinido.",
+        "Desempeña exclusivamente funciones de confianza o asesoramiento especial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P003",
+      "pregunta": "En la legislación local, con carácter general, los puestos de trabajo en la Administración local y sus organismos autónomos serán desempeñados por:",
+      "opciones": [
+        "Personal funcionario.",
+        "Personal laboral fijo.",
+        "Personal eventual."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P004",
+      "pregunta": "¿Qué funciones quedan reservadas a funcionarios en los términos establecidos por la legislación aplicable?",
+      "opciones": [
+        "Las que impliquen ejercicio de potestades públicas o salvaguardia de los intereses generales.",
+        "Todas las funciones auxiliares y materiales sin excepción.",
+        "Exclusivamente las funciones de confianza política."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P005",
+      "pregunta": "El nombramiento de un funcionario interino exige:",
+      "opciones": [
+        "Razones expresamente justificadas de necesidad y urgencia y alguno de los supuestos legalmente previstos.",
+        "La existencia de una relación laboral previa con la Administración.",
+        "La libre confianza de la autoridad que efectúa el nombramiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P006",
+      "pregunta": "En el supuesto de interinidad por plaza vacante, el Tema 8 señala como regla del artículo 10 TREBEP un máximo de:",
+      "opciones": [
+        "Tres años, con las precisiones establecidas en la propia norma.",
+        "Dos años improrrogables.",
+        "Cuatro años en todo caso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P007",
+      "pregunta": "¿Cuál de las siguientes afirmaciones diferencia correctamente al funcionario interino del personal eventual?",
+      "opciones": [
+        "El interino desempeña temporalmente funciones propias de funcionarios de carrera; el eventual sólo funciones de confianza o asesoramiento especial.",
+        "Ambos realizan exclusivamente funciones de confianza, pero el interino tiene mayor estabilidad.",
+        "El eventual ocupa plazas vacantes y el interino presta asesoramiento especial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P008",
+      "pregunta": "Dentro de la función pública local, las funciones de fe pública y asesoramiento legal preceptivo corresponden nuclearmente a la subescala de:",
+      "opciones": [
+        "Secretaría.",
+        "Intervención-Tesorería.",
+        "Servicios Especiales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P009",
+      "pregunta": "¿Qué subescala de funcionarios de Administración Local con habilitación de carácter nacional tiene entre sus funciones el control y fiscalización interna económico-financiera y presupuestaria?",
+      "opciones": [
+        "Intervención-Tesorería.",
+        "Secretaría.",
+        "Administración General."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P010",
+      "pregunta": "Según el documento de estudio, el sistema normal de provisión para los funcionarios de Administración Local con habilitación de carácter nacional es:",
+      "opciones": [
+        "El concurso.",
+        "La libre designación.",
+        "La oposición."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P011",
+      "pregunta": "Los funcionarios propios de la Corporación Local se ordenan, en el esquema clásico del TRRL, en:",
+      "opciones": [
+        "Administración General y Administración Especial.",
+        "Administración Común y Administración Sectorial.",
+        "Administración Nacional y Administración Territorial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P012",
+      "pregunta": "¿Cuál de las siguientes es una subescala de Administración General indicada en el Tema 8?",
+      "opciones": [
+        "Gestión.",
+        "Servicios Especiales.",
+        "Intervención-Tesorería."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P013",
+      "pregunta": "La Escala de Administración Especial comprende, según el esquema del tema, las subescalas de:",
+      "opciones": [
+        "Técnica y Servicios Especiales.",
+        "Técnica y Gestión.",
+        "Administrativa y Auxiliar."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P014",
+      "pregunta": "Las plazas de Trabajador/a Social de la convocatoria de Mairena del Aljarafe se clasifican como:",
+      "opciones": [
+        "Grupo A, Subgrupo A2, Escala de Administración Especial, Subescala Técnica, Nivel 22.",
+        "Grupo A, Subgrupo A1, Escala de Administración General, Subescala Técnica, Nivel 22.",
+        "Grupo B, Escala de Administración Especial, Subescala Servicios Especiales, Nivel 22."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P015",
+      "pregunta": "¿Cuál es la diferencia esencial entre selección y provisión de puestos?",
+      "opciones": [
+        "La selección permite ingresar en el empleo público; la provisión adjudica un puesto concreto a quien ya reúne la condición requerida.",
+        "La selección adjudica destinos y la provisión permite adquirir la condición de empleado público.",
+        "No existe diferencia jurídica relevante entre ambas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P016",
+      "pregunta": "La provisión de puestos de trabajo del personal funcionario de carrera debe basarse en los principios de:",
+      "opciones": [
+        "Igualdad, mérito, capacidad y publicidad.",
+        "Antigüedad, confianza, discrecionalidad y publicidad.",
+        "Igualdad, libre elección, oportunidad y celeridad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P017",
+      "pregunta": "¿Cuáles son los procedimientos de provisión destacados por el artículo 78 TREBEP en el Tema 8?",
+      "opciones": [
+        "Concurso y libre designación con convocatoria pública.",
+        "Oposición y concurso-oposición.",
+        "Concurso-oposición y libre nombramiento sin convocatoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P018",
+      "pregunta": "En materia de provisión funcionarial, el concurso es:",
+      "opciones": [
+        "El procedimiento normal de provisión.",
+        "Un procedimiento reservado exclusivamente al personal laboral.",
+        "Un sistema excepcional aplicable sólo a puestos de confianza."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P019",
+      "pregunta": "La libre designación con convocatoria pública se caracteriza por:",
+      "opciones": [
+        "La apreciación discrecional de la idoneidad entre candidatos que cumplen los requisitos del puesto.",
+        "La valoración exclusivamente matemática de méritos por un órgano técnico.",
+        "La adjudicación directa sin publicidad previa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P020",
+      "pregunta": "Respecto a un puesto provisto por libre designación, el Tema 8 indica que su titular:",
+      "opciones": [
+        "Puede ser cesado discrecionalmente, con las garantías de asignación de puesto que establezca su sistema de carrera.",
+        "Sólo puede cesar mediante expediente disciplinario.",
+        "Adquiere inamovilidad absoluta en el puesto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P021",
+      "pregunta": "¿Qué instrumento de ordenación del personal local se aprueba anualmente a través del Presupuesto?",
+      "opciones": [
+        "La plantilla de personal.",
+        "La relación de puestos de trabajo.",
+        "El registro de personal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P022",
+      "pregunta": "La plantilla de una Corporación Local comprende:",
+      "opciones": [
+        "Los puestos reservados a funcionarios, personal laboral y eventual.",
+        "Sólo las plazas de funcionarios de carrera.",
+        "Únicamente los puestos estructurales ocupados efectivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P023",
+      "pregunta": "Según el Tema 8, la plantilla debe responder a los principios de:",
+      "opciones": [
+        "Racionalidad, economía y eficiencia.",
+        "Exclusivamente mérito y capacidad.",
+        "Jerarquía, descentralización y desconcentración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P024",
+      "pregunta": "¿Cuál de los siguientes contenidos debe figurar, al menos, en la RPT según el artículo 74 TREBEP tal como se recoge en el tema?",
+      "opciones": [
+        "La denominación de los puestos, grupos de clasificación, cuerpos o escalas, sistemas de provisión y retribuciones complementarias.",
+        "La identidad de todos los empleados y su historial administrativo completo.",
+        "Sólo el número total de plazas y su coste presupuestario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P025",
+      "pregunta": "Si una pregunta de examen se refiere al sistema de provisión y a las retribuciones complementarias de un puesto concreto, el instrumento que debe identificarse es:",
+      "opciones": [
+        "La RPT.",
+        "La plantilla.",
+        "El registro de personal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P026",
+      "pregunta": "El Registro de Personal tiene como finalidad característica:",
+      "opciones": [
+        "Inscribir los datos relativos al personal y servir de base para la gestión de su vida administrativa.",
+        "Determinar anualmente las dotaciones presupuestarias de personal.",
+        "Establecer exclusivamente las retribuciones complementarias de cada puesto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P027",
+      "pregunta": "¿Qué asociación es correcta?",
+      "opciones": [
+        "Plantilla = presupuesto; RPT = puesto; Registro = persona/datos.",
+        "Plantilla = persona/datos; RPT = presupuesto; Registro = puesto.",
+        "Plantilla = puesto; RPT = persona/datos; Registro = presupuesto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P028",
+      "pregunta": "El personal eventual, según el artículo 12 TREBEP, realiza:",
+      "opciones": [
+        "Únicamente funciones expresamente calificadas como de confianza o asesoramiento especial.",
+        "Funciones propias de funcionarios de carrera por necesidad y urgencia.",
+        "Cualquier función administrativa que le encomiende libremente el Alcalde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P029",
+      "pregunta": "¿Cómo accede el personal eventual a su condición?",
+      "opciones": [
+        "Mediante nombramiento.",
+        "Mediante contrato de trabajo escrito.",
+        "Mediante concurso de méritos como procedimiento normal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P030",
+      "pregunta": "La condición de personal eventual:",
+      "opciones": [
+        "No constituye mérito para el acceso a la Función Pública ni para la promoción interna.",
+        "Constituye mérito preferente para la promoción interna.",
+        "Permite adquirir automáticamente la condición de funcionario interino."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P031",
+      "pregunta": "En las Entidades Locales, ¿quién determina al comienzo del mandato el número, características y retribuciones del personal eventual?",
+      "opciones": [
+        "El Pleno de la Corporación.",
+        "El Alcalde o Presidente exclusivamente.",
+        "La Junta de Gobierno Local en todo caso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P032",
+      "pregunta": "¿Quién realiza libremente el nombramiento y cese del personal eventual local?",
+      "opciones": [
+        "El Alcalde o Presidente de la Entidad Local.",
+        "El Pleno de la Corporación.",
+        "El órgano técnico de selección."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P033",
+      "pregunta": "Además del cese libre, el personal eventual cesa automáticamente:",
+      "opciones": [
+        "Cuando cesa o expira el mandato de la autoridad a la que presta la función de confianza o asesoramiento.",
+        "Al aprobarse cada presupuesto anual.",
+        "Al cumplir tres años desde su nombramiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P034",
+      "pregunta": "Según el cuadro del Tema 8, en municipios de más de 20.000 y hasta 50.000 habitantes, el máximo de puestos eventuales es:",
+      "opciones": [
+        "7.",
+        "2.",
+        "La mitad del número de concejales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P035",
+      "pregunta": "Según el Tema 8, en municipios de más de 50.000 y hasta 75.000 habitantes, el máximo de puestos eventuales es:",
+      "opciones": [
+        "Hasta la mitad del número de concejales.",
+        "Hasta el número total de concejales.",
+        "7 en todo caso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P036",
+      "pregunta": "El personal laboral al servicio de una Administración Pública se vincula mediante:",
+      "opciones": [
+        "Contrato de trabajo formalizado por escrito.",
+        "Nombramiento administrativo de carácter estatutario.",
+        "Resolución de libre designación sin contrato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P037",
+      "pregunta": "Según el TREBEP, el personal laboral puede ser:",
+      "opciones": [
+        "Fijo, por tiempo indefinido o temporal.",
+        "Sólo fijo o temporal.",
+        "De carrera, interino o eventual."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P038",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre personal laboral indefinido y fijo es correcta?",
+      "opciones": [
+        "La condición de indefinido no equivale por sí sola a adquirir una plaza fija al margen de igualdad, mérito y capacidad.",
+        "Todo contrato indefinido en el sector público convierte automáticamente al trabajador en fijo.",
+        "El personal fijo y el indefinido son categorías necesariamente sinónimas en el TREBEP."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P039",
+      "pregunta": "El artículo 15 del Estatuto de los Trabajadores, según el material, presume que el contrato se concierta:",
+      "opciones": [
+        "Por tiempo indefinido.",
+        "Por tiempo temporal.",
+        "Por obra o servicio determinado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P040",
+      "pregunta": "Los procedimientos de selección del personal laboral deben ser públicos y regirse por:",
+      "opciones": [
+        "Igualdad, mérito y capacidad.",
+        "Confianza, oportunidad y libre designación.",
+        "Antigüedad, discrecionalidad y especialidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P041",
+      "pregunta": "Para la selección del personal laboral temporal, el Tema 8 señala que se añade el principio de:",
+      "opciones": [
+        "Celeridad.",
+        "Inamovilidad.",
+        "Jerarquía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P042",
+      "pregunta": "¿Qué orden jurisdiccional es, como regla de estudio, competente para las controversias derivadas del contrato de trabajo del personal laboral?",
+      "opciones": [
+        "El orden social.",
+        "El orden contencioso-administrativo.",
+        "El orden civil."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P043",
+      "pregunta": "¿Qué orden jurisdiccional corresponde ordinariamente a litigios sobre nombramiento, carrera, provisión o sanciones de funcionarios?",
+      "opciones": [
+        "El contencioso-administrativo.",
+        "El social.",
+        "El mercantil."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P044",
+      "pregunta": "Según el Tema 8, tras la STC 145/2022, los procesos de selección para contratación de personal laboral se encuadran conforme al criterio jurisprudencial actual en:",
+      "opciones": [
+        "El orden social.",
+        "El orden contencioso-administrativo exclusivamente.",
+        "El orden civil."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P045",
+      "pregunta": "La provisión de puestos y movilidad del personal laboral se realiza, en primer término, conforme:",
+      "opciones": [
+        "Al convenio colectivo aplicable.",
+        "Al sistema de provisión de funcionarios de carrera en todo caso.",
+        "A la decisión discrecional del Alcalde."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P046",
+      "pregunta": "A falta de regulación convencional sobre provisión y movilidad del personal laboral, se aplica:",
+      "opciones": [
+        "El sistema de provisión y movilidad del personal funcionario de carrera.",
+        "El régimen del personal eventual.",
+        "Exclusivamente el Estatuto de los Trabajadores, sin reglas de empleo público."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P047",
+      "pregunta": "Las retribuciones de los funcionarios de carrera se clasifican en el TREBEP en:",
+      "opciones": [
+        "Básicas y complementarias.",
+        "Ordinarias y extraordinarias exclusivamente.",
+        "Salariales y extrasalariales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P048",
+      "pregunta": "Las retribuciones básicas de los funcionarios locales están integradas, según el Tema 8, por:",
+      "opciones": [
+        "Sueldo y trienios.",
+        "Complemento de destino y complemento específico.",
+        "Productividad y gratificaciones."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P049",
+      "pregunta": "¿Qué concepto retributivo local retribuye las condiciones particulares del puesto, como especial dificultad técnica, dedicación, responsabilidad o incompatibilidad?",
+      "opciones": [
+        "Complemento específico.",
+        "Complemento de destino.",
+        "Productividad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T08-P050",
+      "pregunta": "Las gratificaciones de los funcionarios locales retribuyen:",
+      "opciones": [
+        "Servicios extraordinarios realizados fuera de la jornada normal y no pueden ser fijas en cuantía ni periódicas en devengo.",
+        "El nivel asignado permanentemente al puesto.",
+        "La antigüedad acumulada por cada tres años de servicio."
       ],
       "correcta": 0
     }

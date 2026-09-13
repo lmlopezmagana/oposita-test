@@ -1,14 +1,504 @@
 {
   "tema": 6,
-  "titulo": "Régimen Local Español",
+  "titulo": "Tema 6",
   "preguntas": [
     {
-      "id": "T06-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 6: Régimen Local Español.",
+      "id": "T06-P001",
+      "pregunta": "Según el artículo 137 de la Constitución, ¿qué entidades integran expresamente la organización territorial del Estado?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Municipios, provincias y las Comunidades Autónomas que se constituyan.",
+        "Municipios, comarcas, provincias y Comunidades Autónomas.",
+        "Municipios, provincias, islas y Comunidades Autónomas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P002",
+      "pregunta": "La autonomía local, según el enfoque del Tema 6, debe entenderse como:",
+      "opciones": [
+        "Capacidad para ordenar y gestionar una parte relevante de los asuntos públicos bajo responsabilidad propia y dentro de la Constitución y las leyes.",
+        "Una manifestación de soberanía territorial equiparable a la de las Comunidades Autónomas.",
+        "Una potestad exclusiva para aprobar normas con rango de ley en materias de interés local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P003",
+      "pregunta": "Conforme al artículo 1 LRBRL, los municipios son:",
+      "opciones": [
+        "Entidades básicas de la organización territorial del Estado y cauces inmediatos de participación ciudadana en los asuntos públicos.",
+        "Órganos desconcentrados de las Comunidades Autónomas para la prestación de servicios públicos.",
+        "Entidades de cooperación territorial constituidas por agrupaciones voluntarias de vecinos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P004",
+      "pregunta": "¿Cuál de los siguientes factores NO aparece en el Tema como criterio del artículo 2 LRBRL para la atribución de competencias a las entidades locales?",
+      "opciones": [
+        "La jerarquía administrativa entre Administraciones territoriales.",
+        "La capacidad de gestión de la entidad local.",
+        "La estabilidad presupuestaria y sostenibilidad financiera."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P005",
+      "pregunta": "El artículo 5 LRBRL reconoce a las entidades locales:",
+      "opciones": [
+        "Plena capacidad jurídica para el cumplimiento de sus fines.",
+        "Capacidad jurídica limitada exclusivamente a la gestión de servicios públicos obligatorios.",
+        "Capacidad normativa con rango de ley en materias de interés local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P006",
+      "pregunta": "Según el artículo 140 CE, el gobierno y administración de los municipios corresponde:",
+      "opciones": [
+        "A sus Ayuntamientos, integrados por Alcaldes y Concejales.",
+        "A las Diputaciones Provinciales, salvo en municipios de gran población.",
+        "A los Alcaldes exclusivamente, asistidos por órganos consultivos de vecinos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P007",
+      "pregunta": "Respecto de la elección de los alcaldes, el artículo 140 CE establece que:",
+      "opciones": [
+        "Serán elegidos por los concejales o por los vecinos, en los términos establecidos por la ley.",
+        "Serán elegidos siempre directamente por los vecinos mediante sufragio universal.",
+        "Serán designados por los concejales de entre los miembros de la Diputación Provincial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P008",
+      "pregunta": "La provincia aparece en el artículo 141 CE como:",
+      "opciones": [
+        "Entidad local con personalidad jurídica propia, determinada por la agrupación de municipios, y división territorial para actividades del Estado.",
+        "Entidad local carente de personalidad jurídica que actúa como división territorial autonómica.",
+        "Agrupación voluntaria de municipios destinada exclusivamente a la prestación conjunta de servicios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P009",
+      "pregunta": "Según la Constitución, el gobierno y administración autónoma de las provincias estará encomendado:",
+      "opciones": [
+        "A Diputaciones u otras Corporaciones de carácter representativo.",
+        "Necesariamente a Diputaciones Provinciales, sin excepción posible.",
+        "A órganos designados conjuntamente por el Estado y la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P010",
+      "pregunta": "En los archipiélagos, las islas tendrán además su administración propia en forma de:",
+      "opciones": [
+        "Cabildos o Consejos.",
+        "Diputaciones o Mancomunidades.",
+        "Comarcas o Áreas Metropolitanas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P011",
+      "pregunta": "El principio de suficiencia financiera de las Haciendas Locales se recoge en:",
+      "opciones": [
+        "El artículo 142 CE.",
+        "El artículo 140 CE.",
+        "El artículo 149.1.18 CE."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P012",
+      "pregunta": "Según el artículo 142 CE, las Haciendas Locales se nutrirán fundamentalmente de:",
+      "opciones": [
+        "Tributos propios y participación en los tributos del Estado y de las Comunidades Autónomas.",
+        "Transferencias estatales exclusivamente y tasas por prestación de servicios.",
+        "Tributos cedidos por las Comunidades Autónomas y endeudamiento local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P013",
+      "pregunta": "¿Qué principio del artículo 103.1 CE resulta especialmente relevante para compatibilizar actuaciones de varias Administraciones sobre una misma realidad?",
+      "opciones": [
+        "Coordinación.",
+        "Soberanía.",
+        "Tutela administrativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P014",
+      "pregunta": "El título competencial estatal que fundamenta la legislación básica sobre el régimen jurídico de las Administraciones Públicas se encuentra en:",
+      "opciones": [
+        "El artículo 149.1.18 CE.",
+        "El artículo 148.1.2 CE.",
+        "El artículo 137 CE."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P015",
+      "pregunta": "Según el artículo 3.1 LRBRL, son entidades locales territoriales:",
+      "opciones": [
+        "El municipio, la provincia y la isla en los archipiélagos balear y canario.",
+        "El municipio, la provincia, la comarca y la isla.",
+        "El municipio, la provincia y la mancomunidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P016",
+      "pregunta": "¿Cuál de estas entidades figura en el artículo 3.2 LRBRL como entidad que tiene condición de Entidad Local?",
+      "opciones": [
+        "La mancomunidad de municipios.",
+        "El consorcio.",
+        "El ente de ámbito territorial inferior al municipio regulado con carácter general por el artículo 24 bis."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P017",
+      "pregunta": "¿Cuál de las siguientes combinaciones reproduce correctamente la clasificación mnemotécnica del Tema para el artículo 3 LRBRL?",
+      "opciones": [
+        "MPI como territoriales y CAM como otras Entidades Locales.",
+        "MPC como territoriales y IAM como otras Entidades Locales.",
+        "MPI como territoriales y CAC como otras Entidades Locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P018",
+      "pregunta": "En Andalucía, el artículo 97 del Estatuto caracteriza la comarca como:",
+      "opciones": [
+        "Una agrupación voluntaria de municipios limítrofes con características geográficas, económicas, sociales e históricas afines.",
+        "Una agrupación obligatoria de municipios creada por decreto del Consejo de Gobierno.",
+        "Una entidad territorial necesaria equiparada constitucionalmente a la provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P019",
+      "pregunta": "Las áreas metropolitanas se caracterizan, según el Tema, por:",
+      "opciones": [
+        "Integrar municipios de grandes aglomeraciones urbanas con vinculaciones que hacen necesaria la planificación conjunta y coordinación de determinados servicios y obras.",
+        "Agrupar exclusivamente municipios rurales para garantizar servicios mínimos.",
+        "Ser órganos autonómicos sin personalidad ni condición de entidad local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P020",
+      "pregunta": "Una mancomunidad de municipios es:",
+      "opciones": [
+        "Una entidad resultante de la asociación voluntaria de municipios para ejecutar en común obras y servicios determinados de su competencia.",
+        "Una agrupación obligatoria impuesta por la Comunidad Autónoma para coordinar competencias municipales.",
+        "Un órgano bilateral entre una Diputación y la Junta de Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P021",
+      "pregunta": "Con carácter general, los entes de ámbito territorial inferior al municipio regulados por el artículo 24 bis LRBRL:",
+      "opciones": [
+        "Carecen de personalidad jurídica y constituyen una forma de organización desconcentrada del municipio.",
+        "Tienen siempre personalidad jurídica y condición de Entidad Local territorial.",
+        "Son entidades supramunicipales destinadas a gestionar servicios comunes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P022",
+      "pregunta": "La regulación transitoria derivada de la Ley 27/2013 implica que:",
+      "opciones": [
+        "Determinadas entidades inframunicipales preexistentes pueden conservar personalidad jurídica y condición de Entidad Local.",
+        "Todas las entidades inframunicipales perdieron automáticamente su personalidad jurídica.",
+        "Las nuevas entidades inframunicipales adquieren personalidad jurídica si lo acuerda el pleno municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P023",
+      "pregunta": "Respecto de los consorcios, ¿qué afirmación es correcta?",
+      "opciones": [
+        "No figuran en la enumeración del artículo 3 LRBRL, aunque constituyen una técnica organizativa de cooperación interadministrativa.",
+        "Figuran en el artículo 3.2 LRBRL junto a las mancomunidades y áreas metropolitanas.",
+        "Son siempre entidades locales territoriales equiparadas a municipios y provincias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P024",
+      "pregunta": "En Andalucía, la LAULA considera a los consorcios:",
+      "opciones": [
+        "Entidades de cooperación territorial.",
+        "Entidades locales territoriales necesarias.",
+        "Instrumentos de cooperación territorial, pero nunca entidades."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P025",
+      "pregunta": "La norma estatal básica de referencia del régimen local es:",
+      "opciones": [
+        "La Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.",
+        "El Real Decreto Legislativo 781/1986, de 18 de abril.",
+        "La Ley 40/2015, de 1 de octubre."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P026",
+      "pregunta": "El Real Decreto Legislativo 781/1986:",
+      "opciones": [
+        "Aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local y complementa la LRBRL.",
+        "Sustituye íntegramente a la LRBRL como legislación básica estatal.",
+        "Regula exclusivamente las relaciones interadministrativas locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P027",
+      "pregunta": "El Título III de la Ley 40/2015 resulta relevante para el Tema 6 porque regula:",
+      "opciones": [
+        "Las relaciones interadministrativas.",
+        "La potestad sancionadora de las entidades locales.",
+        "La organización municipal de régimen común."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P028",
+      "pregunta": "Según el Tema, en lo no previsto en el Título III de la Ley 40/2015, las relaciones de la AGE o de las Administraciones autonómicas con la Administración Local se rigen por:",
+      "opciones": [
+        "La legislación básica de régimen local.",
+        "La normativa reglamentaria de cada Ayuntamiento.",
+        "El Derecho privado con carácter supletorio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P029",
+      "pregunta": "El artículo 89 del Estatuto de Autonomía para Andalucía establece que las relaciones entre la Administración autonómica y las Administraciones locales se ajustarán, entre otros, a los principios de:",
+      "opciones": [
+        "Información mutua, coordinación, colaboración, respeto de los ámbitos competenciales y garantía de la autonomía local.",
+        "Jerarquía, tutela, subordinación financiera y control de oportunidad.",
+        "Desconcentración, supremacía autonómica y dependencia orgánica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P030",
+      "pregunta": "La LAULA es especialmente relevante en el Tema 6 por regular:",
+      "opciones": [
+        "Autonomía local, relaciones entre Administraciones, coordinación y cooperación territorial en Andalucía.",
+        "Únicamente la organización interna de los Ayuntamientos andaluces.",
+        "Exclusivamente el régimen electoral de las entidades locales andaluzas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P031",
+      "pregunta": "La potestad reglamentaria y de autoorganización de las entidades locales territoriales se reconoce, en los términos del Tema, en:",
+      "opciones": [
+        "El artículo 4 LRBRL.",
+        "El artículo 10 LRBRL.",
+        "El artículo 57 LRBRL."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P032",
+      "pregunta": "¿Cuál es la regla general que caracteriza las relaciones entre Estado, Comunidades Autónomas, provincias y municipios?",
+      "opciones": [
+        "No existe una relación general de jerarquía entre ellas; cada Administración actúa dentro de sus competencias.",
+        "Las entidades locales están jerárquicamente subordinadas a la Comunidad Autónoma.",
+        "Las Diputaciones ejercen superioridad jerárquica sobre los Ayuntamientos de su provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P033",
+      "pregunta": "El artículo 10.1 LRBRL exige que las relaciones recíprocas entre la Administración Local y las demás Administraciones se ajusten a:",
+      "opciones": [
+        "Información mutua, colaboración, coordinación y respeto de los ámbitos competenciales respectivos.",
+        "Cooperación obligatoria, jerarquía y control de oportunidad.",
+        "Exclusivamente coordinación y asistencia financiera."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P034",
+      "pregunta": "El principio de lealtad institucional del artículo 55 LRBRL exige, entre otras conductas:",
+      "opciones": [
+        "Respetar el ejercicio legítimo de las competencias de las demás Administraciones y ponderar los intereses públicos implicados.",
+        "Renunciar al ejercicio de competencias propias cuando concurra otra Administración.",
+        "Someter toda decisión local con efectos supramunicipales a autorización autonómica previa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P035",
+      "pregunta": "Según el Tema, la colaboración interadministrativa se configura principalmente como:",
+      "opciones": [
+        "Un deber jurídico general entre Administraciones.",
+        "Una técnica voluntaria que exige siempre convenio.",
+        "Una potestad de coordinación que necesita habilitación legal específica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P036",
+      "pregunta": "La cooperación interadministrativa se caracteriza esencialmente por:",
+      "opciones": [
+        "La voluntariedad y la búsqueda de un objetivo común.",
+        "La imposición unilateral de obligaciones por una Administración sobre otra.",
+        "La existencia necesaria de una relación jerárquica entre las partes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P037",
+      "pregunta": "La formalización de relaciones de cooperación conforme al enfoque recogido de la Ley 40/2015 requiere:",
+      "opciones": [
+        "Aceptación expresa de las partes, mediante acuerdos en órganos de cooperación o convenios.",
+        "Una orden de la Administración con competencia territorial superior.",
+        "La aprobación de una ley singular para cada actuación conjunta."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P038",
+      "pregunta": "Según el artículo 57 LRBRL, la cooperación económica, técnica y administrativa puede producirse entre:",
+      "opciones": [
+        "La Administración Local y las Administraciones del Estado y de las Comunidades Autónomas.",
+        "Exclusivamente municipios pertenecientes a una misma provincia.",
+        "Únicamente Diputaciones y Comunidades Autónomas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P039",
+      "pregunta": "¿Cuál de las siguientes es una técnica de cooperación contemplada en el artículo 144 de la Ley 40/2015 según el Tema?",
+      "opciones": [
+        "La aportación de medios materiales, económicos o personales.",
+        "La avocación de competencias de otra Administración.",
+        "La sustitución automática del órgano local por el autonómico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P040",
+      "pregunta": "Los órganos de cooperación previstos en la Ley 40/2015 pueden ser:",
+      "opciones": [
+        "De composición multilateral o bilateral y de ámbito general o especial.",
+        "Siempre multilaterales y de ámbito general.",
+        "Siempre bilaterales y con capacidad jerárquica decisoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P041",
+      "pregunta": "El artículo 154 de la Ley 40/2015 contempla:",
+      "opciones": [
+        "Las Comisiones Territoriales de Coordinación.",
+        "El Consejo Andaluz de Concertación Local.",
+        "Las Juntas de Gobierno de las áreas metropolitanas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P042",
+      "pregunta": "La coordinación se diferencia de la cooperación porque:",
+      "opciones": [
+        "Busca garantizar la coherencia de actuaciones y no se caracteriza necesariamente por la voluntariedad.",
+        "Siempre modifica la titularidad de las competencias coordinadas.",
+        "Solo puede producirse entre entidades locales del mismo nivel territorial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P043",
+      "pregunta": "Conforme al Tema, cuando los mecanismos ordinarios de cooperación no basten para asegurar la coherencia administrativa:",
+      "opciones": [
+        "Las leyes sectoriales estatales o autonómicas pueden atribuir facultades de coordinación sobre la Administración Local dentro de límites legales.",
+        "La Administración estatal puede asumir directamente cualquier competencia local.",
+        "La Comunidad Autónoma puede suspender con carácter general la autonomía municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P044",
+      "pregunta": "La coordinación administrativa sobre entidades locales:",
+      "opciones": [
+        "Necesita cobertura jurídica y no puede vaciar de contenido la autonomía local.",
+        "Se presume siempre por la superioridad territorial de Estado y Comunidades Autónomas.",
+        "Permite modificar unilateralmente la titularidad de competencias locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P045",
+      "pregunta": "Según el artículo 58 LAULA, la Comunidad Autónoma puede ejercer facultades de coordinación, entre otros casos, cuando:",
+      "opciones": [
+        "Una actividad o servicio local trascienda los intereses propios locales o afecte de forma relevante a intereses autonómicos.",
+        "Cualquier Ayuntamiento adopte una decisión distinta de la preferida por la Junta de Andalucía.",
+        "Exista una mera discrepancia política entre Administraciones, aunque no haya concurrencia de intereses públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P046",
+      "pregunta": "Entre los fines de la cooperación territorial andaluza se encuentra:",
+      "opciones": [
+        "Favorecer el desarrollo sostenible y la cohesión económica, social y territorial.",
+        "Establecer una jerarquía administrativa entre Diputaciones y municipios.",
+        "Centralizar en la Junta de Andalucía la prestación ordinaria de los servicios municipales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P047",
+      "pregunta": "Según el artículo 62 LAULA, ¿cuál de las siguientes parejas está correctamente clasificada?",
+      "opciones": [
+        "Mancomunidades y consorcios: entidades de cooperación territorial; convenios y redes: instrumentos de cooperación territorial.",
+        "Mancomunidades y convenios: entidades; consorcios y redes: instrumentos.",
+        "Consorcios y redes: entidades; mancomunidades y convenios: instrumentos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P048",
+      "pregunta": "Los convenios de cooperación previstos en la LAULA pueden celebrarse:",
+      "opciones": [
+        "Entre municipios, provincias y entidades de cooperación territorial entre sí y con la Comunidad Autónoma de Andalucía.",
+        "Exclusivamente entre municipios de una misma provincia.",
+        "Solo entre Diputaciones Provinciales y la Administración General del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P049",
+      "pregunta": "El Consejo Andaluz de Concertación Local es identificado por el Tema, conforme al artículo 85 LAULA, como:",
+      "opciones": [
+        "Órgano supremo de colaboración en los términos de su legislación específica.",
+        "Órgano superior jerárquico de todos los Ayuntamientos andaluces.",
+        "Tribunal administrativo especializado en conflictos competenciales locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T06-P050",
+      "pregunta": "Cuando una actividad pública haga difícil atribuir facultades decisorias diferenciadas a cada Administración, el artículo 62 LRBRL permite que la legislación sectorial:",
+      "opciones": [
+        "Asegure a las entidades locales su participación o integración en procedimientos conjuntos con el Estado o la Comunidad Autónoma.",
+        "Transfiera automáticamente la competencia local a la Administración del Estado.",
+        "Excluya a las entidades locales de la decisión para garantizar la unidad de actuación."
       ],
       "correcta": 0
     }

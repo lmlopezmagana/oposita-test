@@ -1,54 +1,504 @@
 {
   "tema": 1,
-  "titulo": "Constitución Española de 1978",
+  "titulo": "Tema 1",
   "preguntas": [
     {
       "id": "T01-P001",
-      "pregunta": "¿En qué fecha fue ratificada en referéndum la Constitución Española de 1978?",
+      "pregunta": "¿Cuál de las siguientes combinaciones describe correctamente la estructura general de la Constitución Española de 1978 según el documento de estudio?",
       "opciones": [
-        "6 de diciembre de 1978",
-        "27 de diciembre de 1978",
-        "29 de diciembre de 1978"
+        "Preámbulo, Título Preliminar, diez títulos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final.",
+        "Preámbulo, Título Preliminar, nueve títulos, 4 disposiciones adicionales, 10 transitorias, 1 derogatoria y 1 final.",
+        "Preámbulo, once títulos, 5 disposiciones adicionales, 9 transitorias, 1 derogatoria y 2 finales."
       ],
       "correcta": 0
     },
     {
       "id": "T01-P002",
-      "pregunta": "¿Cuál de los siguientes es un valor superior del ordenamiento jurídico según el artículo 1.1 de la Constitución?",
+      "pregunta": "¿Qué afirmación refleja con mayor precisión el carácter rígido de la Constitución Española señalado en el documento de estudio?",
       "opciones": [
-        "Pluralismo político",
-        "Seguridad jurídica",
-        "Solidaridad territorial"
+        "Su reforma exige procedimientos específicos regulados en los artículos 166 a 169 y no puede realizarse mediante el procedimiento legislativo ordinario.",
+        "Solo puede reformarse mediante ley orgánica aprobada por mayoría absoluta del Congreso.",
+        "Su reforma corresponde exclusivamente a las Cortes Generales mediante el mismo procedimiento previsto para las leyes ordinarias."
       ],
       "correcta": 0
     },
     {
       "id": "T01-P003",
-      "pregunta": "¿Cuál es la forma política del Estado español según la Constitución?",
+      "pregunta": "Según el artículo 1.1 de la Constitución, ¿cuál es la enumeración exacta de los valores superiores del ordenamiento jurídico recogida en el documento de estudio?",
       "opciones": [
-        "Monarquía parlamentaria",
-        "República parlamentaria",
-        "Monarquía absoluta"
+        "Libertad, justicia, igualdad y pluralismo político.",
+        "Libertad, igualdad, solidaridad y seguridad jurídica.",
+        "Justicia, legalidad, igualdad y pluralismo social."
       ],
       "correcta": 0
     },
     {
       "id": "T01-P004",
-      "pregunta": "¿Dónde reside la soberanía nacional según la Constitución?",
+      "pregunta": "¿Qué combinación es constitucionalmente correcta respecto de la soberanía nacional y la forma política del Estado?",
       "opciones": [
-        "En el pueblo español",
-        "En las Cortes Generales",
-        "En el Rey"
+        "La soberanía nacional reside en el pueblo español y la forma política del Estado es la Monarquía parlamentaria.",
+        "La soberanía nacional reside en las Cortes Generales y la forma política del Estado es la Monarquía constitucional.",
+        "La soberanía popular reside conjuntamente en el pueblo y en las Comunidades Autónomas y la forma política es la Monarquía representativa."
       ],
       "correcta": 0
     },
     {
       "id": "T01-P005",
-      "pregunta": "¿Cuál de estos principios está garantizado por el artículo 9.3 de la Constitución?",
+      "pregunta": "El artículo 2 de la Constitución articula conjuntamente tres elementos. ¿Cuáles son?",
       "opciones": [
-        "Seguridad jurídica",
-        "Confesionalidad del Estado",
-        "Mandato imperativo"
+        "La indisoluble unidad de la Nación española, el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas.",
+        "La unidad del Estado, la soberanía de las Comunidades Autónomas y la cooperación entre territorios.",
+        "La unidad política, la descentralización administrativa y la igualdad económica entre provincias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P006",
+      "pregunta": "En materia lingüística, ¿qué establece el artículo 3 de la Constitución según el material de estudio?",
+      "opciones": [
+        "Todos los españoles tienen el deber de conocer el castellano y el derecho a usarlo.",
+        "Todos los españoles tienen el derecho, pero no el deber, de conocer y usar el castellano.",
+        "El deber de conocer el castellano solo corresponde a quienes residan en Comunidades Autónomas sin lengua cooficial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P007",
+      "pregunta": "¿Cuál de las siguientes funciones se atribuye constitucionalmente a los partidos políticos en el artículo 6?",
+      "opciones": [
+        "Concurrir a la formación y manifestación de la voluntad popular.",
+        "Representar institucionalmente a todas las organizaciones sociales y económicas.",
+        "Ejercer en exclusiva la participación política de la ciudadanía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P008",
+      "pregunta": "¿Cuál de las siguientes NO forma parte de la misión constitucional de las Fuerzas Armadas recogida en el artículo 8?",
+      "opciones": [
+        "Garantizar la seguridad ciudadana y el libre ejercicio de los derechos y libertades.",
+        "Garantizar la soberanía e independencia de España.",
+        "Defender la integridad territorial y el ordenamiento constitucional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P009",
+      "pregunta": "Según el artículo 9.2, ¿qué actuación corresponde a los poderes públicos?",
+      "opciones": [
+        "Promover las condiciones para que la libertad y la igualdad sean reales y efectivas, remover obstáculos y facilitar la participación.",
+        "Garantizar exclusivamente la igualdad formal ante la ley y evitar cualquier intervención que altere la autonomía individual.",
+        "Asegurar la igualdad económica de todos los ciudadanos mediante la planificación obligatoria de la actividad privada."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P010",
+      "pregunta": "¿Qué formulación reproduce correctamente la garantía de irretroactividad del artículo 9.3?",
+      "opciones": [
+        "La irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+        "La irretroactividad de todas las normas sancionadoras, con independencia de que sean favorables o desfavorables.",
+        "La irretroactividad de cualquier disposición legal que afecte a derechos o intereses legítimos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P011",
+      "pregunta": "Conforme al artículo 10.1, ¿qué conjunto se considera fundamento del orden político y de la paz social?",
+      "opciones": [
+        "La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás.",
+        "La igualdad material, la seguridad jurídica, la solidaridad territorial y el respeto al pluralismo político.",
+        "La dignidad humana, el derecho de propiedad, la libertad de empresa y el respeto a las instituciones del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P012",
+      "pregunta": "Respecto de los derechos del artículo 23, ¿qué excepción contempla el artículo 13 para las personas extranjeras?",
+      "opciones": [
+        "Puede reconocerse, atendiendo a criterios de reciprocidad, el sufragio activo y pasivo en las elecciones municipales.",
+        "Puede reconocerse, por ley orgánica y sin exigencia de reciprocidad, el sufragio activo en las elecciones generales.",
+        "Puede reconocerse exclusivamente el sufragio pasivo en elecciones autonómicas cuando lo prevea un tratado internacional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P013",
+      "pregunta": "¿Qué peculiaridad presenta el artículo 14 respecto del sistema de garantías constitucionales?",
+      "opciones": [
+        "Aunque no está formalmente en la Sección 1.ª del Capítulo II, disfruta de la protección reforzada del artículo 53.2.",
+        "Forma parte de la Sección 1.ª y, por ello, queda sometido exclusivamente a la garantía del artículo 53.1.",
+        "Se integra entre los principios rectores y solo puede alegarse conforme a las leyes que lo desarrollen."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P014",
+      "pregunta": "¿Cuál es el límite temporal máximo de la detención preventiva establecido en el artículo 17.2?",
+      "opciones": [
+        "Setenta y dos horas.",
+        "Cuarenta y ocho horas.",
+        "Noventa y seis horas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P015",
+      "pregunta": "¿En cuál de los siguientes supuestos permite el artículo 18.2 la entrada o registro en un domicilio sin consentimiento del titular ni resolución judicial?",
+      "opciones": [
+        "En caso de flagrante delito.",
+        "Cuando exista una investigación policial por delito grave.",
+        "Cuando lo autorice motivadamente la autoridad gubernativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P016",
+      "pregunta": "La garantía constitucional del secreto de las comunicaciones puede excepcionarse mediante:",
+      "opciones": [
+        "Resolución judicial.",
+        "Autorización administrativa motivada.",
+        "Acuerdo del Ministerio Fiscal en investigaciones penales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P017",
+      "pregunta": "¿Qué afirmación es correcta sobre las libertades del artículo 20?",
+      "opciones": [
+        "No pueden restringirse mediante censura previa y el secuestro de publicaciones, grabaciones u otros medios solo puede acordarse por resolución judicial.",
+        "La censura previa puede establecerse por ley orgánica para proteger a la juventud y la infancia.",
+        "El secuestro de publicaciones puede ser acordado por la Administración cuando exista riesgo grave para el orden público."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P018",
+      "pregunta": "¿Cuál es la diferencia constitucional entre una reunión pacífica y sin armas y una manifestación en lugar de tránsito público?",
+      "opciones": [
+        "La reunión no requiere autorización previa; la manifestación exige comunicación previa a la autoridad.",
+        "Ambas requieren autorización previa, aunque la manifestación debe comunicarse además a la autoridad judicial.",
+        "Ninguna requiere comunicación ni autorización, salvo que la autoridad aprecie riesgo para bienes públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P019",
+      "pregunta": "Según el artículo 22, ¿qué efecto tiene la inscripción registral de las asociaciones?",
+      "opciones": [
+        "Se exige a los solos efectos de publicidad.",
+        "Tiene carácter constitutivo de la personalidad jurídica de toda asociación.",
+        "Es requisito para el ejercicio del derecho de asociación y para la licitud de sus actividades."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P020",
+      "pregunta": "El derecho reconocido en el artículo 23.2 consiste en:",
+      "opciones": [
+        "Acceder en condiciones de igualdad a las funciones y cargos públicos, con los requisitos que señalen las leyes.",
+        "Acceder a cualquier empleo público por elección directa de la ciudadanía.",
+        "Acceder preferentemente a funciones públicas cuando se haya ejercido previamente un cargo representativo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P021",
+      "pregunta": "¿Cuál de las siguientes garantías forma parte expresamente del contenido del artículo 24 según el documento de estudio?",
+      "opciones": [
+        "El derecho al juez ordinario predeterminado por la ley.",
+        "El derecho a una doble instancia judicial en todo tipo de procesos.",
+        "El derecho a que todo proceso finalice mediante sentencia sobre el fondo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P022",
+      "pregunta": "¿Hacia qué fines deben orientarse las penas privativas de libertad y las medidas de seguridad según el artículo 25.2?",
+      "opciones": [
+        "Hacia la reeducación y la reinserción social.",
+        "Hacia la prevención general y la reparación económica del daño.",
+        "Hacia la rehabilitación, la ejemplaridad pública y la compensación a la víctima."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P023",
+      "pregunta": "Conforme al artículo 27, la enseñanza básica es:",
+      "opciones": [
+        "Obligatoria y gratuita.",
+        "Gratuita, pero no necesariamente obligatoria.",
+        "Obligatoria, aunque su gratuidad queda condicionada al desarrollo legislativo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P024",
+      "pregunta": "¿Qué exige el artículo 28.2 al legislador al regular el derecho de huelga?",
+      "opciones": [
+        "Establecer las garantías precisas para asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+        "Exigir autorización administrativa previa cuando afecte a servicios públicos.",
+        "Garantizar el mantenimiento de todos los servicios públicos en su nivel ordinario de funcionamiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P025",
+      "pregunta": "¿Cómo pueden ejercer el derecho de petición los miembros de las Fuerzas o Institutos armados o de cuerpos sometidos a disciplina militar?",
+      "opciones": [
+        "Solo individualmente y con arreglo a lo dispuesto en su legislación específica.",
+        "Individual o colectivamente, siempre que la petición no tenga contenido político.",
+        "Colectivamente, pero únicamente a través de sus órganos de representación profesional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P026",
+      "pregunta": "¿Qué combinación recoge correctamente los principios constitucionales del sistema tributario del artículo 31.1?",
+      "opciones": [
+        "Justicia, igualdad, progresividad y prohibición de alcance confiscatorio.",
+        "Generalidad, proporcionalidad, suficiencia y prohibición de doble imposición.",
+        "Igualdad, proporcionalidad, neutralidad y reserva absoluta de ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P027",
+      "pregunta": "Según el artículo 33, la privación de bienes y derechos requiere:",
+      "opciones": [
+        "Causa justificada de utilidad pública o interés social, correspondiente indemnización y conformidad con las leyes.",
+        "Interés general declarado por la Administración, indemnización previa en todo caso y autorización judicial.",
+        "Utilidad pública, acuerdo parlamentario y compensación fijada exclusivamente por los tribunales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P028",
+      "pregunta": "¿Cuál de los siguientes contenidos pertenece al artículo 35?",
+      "opciones": [
+        "El derecho a una remuneración suficiente para satisfacer las necesidades propias y las de la familia, sin discriminación por razón de sexo.",
+        "El derecho a una renta mínima garantizada por los poderes públicos para toda persona desempleada.",
+        "El derecho a la negociación colectiva y a la fuerza vinculante de los convenios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P029",
+      "pregunta": "El artículo 37 reconoce, entre otros contenidos:",
+      "opciones": [
+        "El derecho a la negociación colectiva laboral y la fuerza vinculante de los convenios.",
+        "La libertad sindical y el derecho de los sindicatos a formar confederaciones.",
+        "El derecho al trabajo y a la libre elección de profesión u oficio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P030",
+      "pregunta": "¿Cómo formula el artículo 38 la libertad de empresa?",
+      "opciones": [
+        "Se reconoce en el marco de la economía de mercado, con garantía y protección de su ejercicio y de la productividad conforme a las exigencias de la economía general y, en su caso, de la planificación.",
+        "Se reconoce como derecho absoluto únicamente limitado por razones de seguridad nacional y orden público.",
+        "Se reconoce dentro de una economía planificada, subordinada siempre a la autorización previa de los poderes públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P031",
+      "pregunta": "Tras la redacción vigente del artículo 49 reflejada en el documento de estudio, ¿qué objetivo deben impulsar los poderes públicos respecto de las personas con discapacidad?",
+      "opciones": [
+        "La plena autonomía personal y la inclusión social en entornos universalmente accesibles.",
+        "La integración preferente en instituciones especializadas cuando resulte más eficiente para la prestación de servicios.",
+        "La protección asistencial mediante prestaciones económicas como instrumento constitucional principal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P032",
+      "pregunta": "Además de garantizar la suficiencia económica mediante pensiones adecuadas y periódicamente actualizadas, el artículo 50 ordena promover el bienestar de las personas mayores mediante:",
+      "opciones": [
+        "Un sistema de servicios sociales que atienda sus problemas específicos de salud, vivienda, cultura y ocio.",
+        "Un sistema estatal exclusivo de asistencia sanitaria y residencial gratuita.",
+        "Programas obligatorios de vivienda protegida, dependencia y empleo adaptado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P033",
+      "pregunta": "Según el artículo 53.1, la regulación del ejercicio de los derechos y libertades del Capítulo II:",
+      "opciones": [
+        "Solo puede hacerse por ley, que en todo caso deberá respetar su contenido esencial.",
+        "Debe hacerse siempre mediante ley orgánica, cualquiera que sea el derecho afectado.",
+        "Puede hacerse por reglamento siempre que exista habilitación legal expresa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P034",
+      "pregunta": "¿A qué derechos se aplica directamente el procedimiento basado en los principios de preferencia y sumariedad previsto en el artículo 53.2?",
+      "opciones": [
+        "Al artículo 14 y a los derechos reconocidos en la Sección 1.ª del Capítulo II.",
+        "A todos los derechos y principios del Título I sin excepción.",
+        "Solo a los derechos de los artículos 15 a 29, quedando excluido el artículo 14."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P035",
+      "pregunta": "¿Cuál es el régimen constitucional de los principios rectores de los artículos 39 a 52 conforme al artículo 53.3?",
+      "opciones": [
+        "Informan la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con las leyes que los desarrollen.",
+        "Son directamente exigibles ante los tribunales mediante el procedimiento preferente y sumario.",
+        "Vinculan únicamente al legislador y carecen de relevancia para la práctica judicial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P036",
+      "pregunta": "El Defensor del Pueblo es definido en el artículo 54 como:",
+      "opciones": [
+        "Alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el Título I.",
+        "Órgano independiente del Poder Judicial encargado de la protección jurisdiccional de los derechos fundamentales.",
+        "Comisionado del Gobierno para supervisar la legalidad de la actuación de todas las Administraciones Públicas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P037",
+      "pregunta": "¿Cuál de los siguientes derechos figura entre los que pueden suspenderse con carácter general en los estados de excepción o sitio en los términos del artículo 55.1?",
+      "opciones": [
+        "El derecho de huelga del artículo 28.2.",
+        "El derecho a la educación del artículo 27.",
+        "El derecho de asociación del artículo 22."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P038",
+      "pregunta": "En relación con la suspensión general de derechos, ¿qué excepción específica señala el documento de estudio para el estado de excepción?",
+      "opciones": [
+        "El artículo 17.3 no puede suspenderse en el estado de excepción por aplicación del artículo 55.1.",
+        "El artículo 17.2 no puede suspenderse en el estado de excepción, aunque sí en el estado de sitio.",
+        "El artículo 18.3 solo puede suspenderse en el estado de sitio, nunca en el de excepción."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P039",
+      "pregunta": "La suspensión individual de derechos prevista en el artículo 55.2 puede afectar, en investigaciones relacionadas con bandas armadas o elementos terroristas, a:",
+      "opciones": [
+        "Los artículos 17.2, 18.2 y 18.3, con intervención judicial y adecuado control parlamentario.",
+        "Los artículos 17.1, 19 y 20.1, mediante autorización gubernativa y posterior control judicial.",
+        "Los artículos 18.1, 21 y 22, mediante ley ordinaria y control parlamentario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P040",
+      "pregunta": "La aprobación, modificación o derogación de una ley orgánica exige, conforme al artículo 81:",
+      "opciones": [
+        "Mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.",
+        "Mayoría de tres quintos de cada Cámara en una votación final.",
+        "Mayoría absoluta del Senado y mayoría simple del Congreso en votaciones separadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P041",
+      "pregunta": "¿Qué descripción sintetiza mejor el denominado modelo económico constitucional según el documento de estudio?",
+      "opciones": [
+        "Coexisten economía de mercado y propiedad privada con función social, iniciativa pública, intervención económica y objetivos sociales.",
+        "Predomina un modelo de planificación estatal vinculante que excluye la iniciativa económica pública descentralizada.",
+        "Se configura un sistema de libre mercado sin posibilidad constitucional de reserva de recursos o servicios al sector público."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P042",
+      "pregunta": "Conforme al artículo 128, toda la riqueza del país, sea cual fuere su forma y titularidad:",
+      "opciones": [
+        "Está subordinada al interés general.",
+        "Está subordinada exclusivamente a las exigencias de la planificación económica estatal.",
+        "Queda protegida frente a cualquier intervención pública salvo expropiación judicial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P043",
+      "pregunta": "¿Qué mandato contiene el artículo 129 respecto de la actividad económica?",
+      "opciones": [
+        "Fomentar, entre otras medidas, las sociedades cooperativas y establecer medios que faciliten el acceso de los trabajadores a la propiedad de los medios de producción.",
+        "Reservar obligatoriamente a los trabajadores una participación mínima en el capital de todas las empresas.",
+        "Transformar progresivamente las empresas privadas de sectores estratégicos en sociedades cooperativas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P044",
+      "pregunta": "¿Qué sectores menciona expresamente el artículo 130 como objeto de especial atención para su modernización y desarrollo?",
+      "opciones": [
+        "Agricultura, ganadería, pesca y artesanía.",
+        "Agricultura, industria, turismo y construcción.",
+        "Ganadería, minería, transporte y comercio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P045",
+      "pregunta": "La planificación de la actividad económica general prevista en el artículo 131 puede realizarse:",
+      "opciones": [
+        "Por el Estado mediante ley, para atender necesidades colectivas, equilibrar el desarrollo y estimular una distribución más justa de la renta y la riqueza.",
+        "Por el Gobierno mediante decreto, exclusivamente para corregir desequilibrios presupuestarios.",
+        "Por las Cortes Generales mediante ley orgánica, solo en situaciones de crisis económica grave."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P046",
+      "pregunta": "¿Qué principios menciona el artículo 132 para el régimen jurídico de los bienes de dominio público y comunales?",
+      "opciones": [
+        "Inalienabilidad, imprescriptibilidad e inembargabilidad.",
+        "Indisponibilidad, irrenunciabilidad e imprescriptibilidad.",
+        "Inalienabilidad, inviolabilidad e inderogabilidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P047",
+      "pregunta": "¿A quién corresponde la potestad originaria para establecer tributos según el artículo 133?",
+      "opciones": [
+        "Al Estado, exclusivamente mediante ley.",
+        "A las Cortes Generales y a las asambleas legislativas autonómicas, en sus respectivos ámbitos.",
+        "Al Estado y a las Comunidades Autónomas, ambos mediante ley y con igual potestad originaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P048",
+      "pregunta": "Según el artículo 134, si la Ley de Presupuestos Generales del Estado no se aprueba antes del primer día del ejercicio económico correspondiente:",
+      "opciones": [
+        "Se consideran automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los nuevos.",
+        "El Gobierno debe aprobar por decreto-ley unos presupuestos provisionales por un máximo de tres meses.",
+        "Quedan prorrogados únicamente los créditos de gasto, pero no las previsiones de ingresos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P049",
+      "pregunta": "¿Qué combinación es correcta conforme al artículo 135 según el documento de estudio?",
+      "opciones": [
+        "Todas las Administraciones Públicas deben adecuarse al principio de estabilidad presupuestaria; las Entidades Locales deben presentar equilibrio presupuestario y el pago de intereses y capital de la deuda pública goza de prioridad absoluta.",
+        "Solo el Estado y las Comunidades Autónomas están sujetos a estabilidad presupuestaria; las Entidades Locales pueden incurrir libremente en déficit si lo autoriza su Pleno.",
+        "Las Entidades Locales deben presentar superávit estructural y la deuda pública tiene prioridad únicamente sobre los gastos de inversión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T01-P050",
+      "pregunta": "¿Cuál es la caracterización constitucional del Tribunal de Cuentas en el artículo 136?",
+      "opciones": [
+        "Es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público y depende directamente de las Cortes Generales.",
+        "Es un órgano del Gobierno encargado del control previo de legalidad de los Presupuestos Generales del Estado.",
+        "Es un órgano jurisdiccional integrado en el Poder Judicial que fiscaliza exclusivamente las cuentas del Estado."
       ],
       "correcta": 0
     }

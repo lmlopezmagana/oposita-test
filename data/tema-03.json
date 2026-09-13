@@ -1,14 +1,504 @@
 {
   "tema": 3,
-  "titulo": "Cortes Generales",
+  "titulo": "Tema 3",
   "preguntas": [
     {
-      "id": "T03-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 3: Cortes Generales.",
+      "id": "T03-P001",
+      "pregunta": "¿Cuál de las siguientes combinaciones reproduce correctamente las funciones constitucionales generales de las Cortes Generales?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Ejercen la potestad legislativa del Estado, aprueban los Presupuestos Generales del Estado, controlan la acción del Gobierno y ejercen las demás competencias que les atribuya la Constitución.",
+        "Ejercen la potestad legislativa y reglamentaria del Estado, elaboran los Presupuestos Generales del Estado y dirigen la acción del Gobierno.",
+        "Aprueban las leyes y los Presupuestos, nombran al Gobierno y ejercen la dirección superior de la Administración del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P002",
+      "pregunta": "Conforme al artículo 67 de la Constitución, ¿qué combinación es correcta?",
+      "opciones": [
+        "Nadie puede pertenecer simultáneamente a las dos Cámaras, no puede acumularse el acta de una Asamblea autonómica con la de Diputado al Congreso y los parlamentarios no están ligados por mandato imperativo.",
+        "Puede pertenecerse simultáneamente al Congreso y al Senado si se renuncia a una de las retribuciones, pero no acumularse ningún acta autonómica con la de Senador.",
+        "Los Diputados no están ligados por mandato imperativo, mientras que los Senadores designados por las Comunidades Autónomas sí pueden recibir instrucciones vinculantes de su Asamblea."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P003",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la autonomía parlamentaria reconocida por la Constitución?",
+      "opciones": [
+        "Cada Cámara establece su Reglamento, aprueba autónomamente su presupuesto y elige a su Presidente y a los miembros de su Mesa; los Reglamentos y sus reformas requieren mayoría absoluta en votación final sobre su totalidad.",
+        "Cada Cámara aprueba su Reglamento por mayoría simple, mientras que sus presupuestos deben ser aprobados conjuntamente por el Congreso y el Senado.",
+        "El Gobierno aprueba los Reglamentos de las Cámaras, que posteriormente deben ser ratificados por mayoría absoluta de sus respectivos Plenos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P004",
+      "pregunta": "¿Qué distinción entre la inviolabilidad de las Cortes Generales y la inviolabilidad de sus miembros es correcta?",
+      "opciones": [
+        "La primera es una garantía institucional de las Cortes Generales; la segunda protege a Diputados y Senadores por las opiniones manifestadas en el ejercicio de sus funciones.",
+        "Ambas son idénticas y consisten exclusivamente en impedir la detención de los parlamentarios salvo flagrante delito.",
+        "La inviolabilidad institucional protege solo al Congreso, mientras que la individual se aplica únicamente a los Senadores."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P005",
+      "pregunta": "En relación con los Presupuestos Generales del Estado, ¿qué reparto de funciones es constitucionalmente correcto?",
+      "opciones": [
+        "El Gobierno los elabora y debe presentarlos ante el Congreso al menos tres meses antes de la expiración de los del año anterior; las Cortes Generales los examinan, enmiendan y aprueban.",
+        "El Congreso los elabora y el Gobierno los aprueba, previo informe del Senado, antes del inicio del ejercicio presupuestario.",
+        "Las Cortes Generales los elaboran conjuntamente y el Gobierno se limita a ejecutarlos, sin iniciativa propia en su preparación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P006",
+      "pregunta": "¿Cómo se relacionan la Constitución y la LOREG respecto del número de Diputados del Congreso?",
+      "opciones": [
+        "La Constitución fija un mínimo de 300 y un máximo de 400 Diputados, mientras que la LOREG concreta actualmente el número en 350.",
+        "La Constitución fija exactamente 350 Diputados y la LOREG permite elevar la cifra hasta 400 por decreto de convocatoria.",
+        "La Constitución establece un máximo de 350 Diputados y la LOREG fija un mínimo de 300 para cada legislatura."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P007",
+      "pregunta": "Según la regulación electoral del Congreso, ¿qué combinación sobre circunscripción y representación mínima es correcta?",
+      "opciones": [
+        "La provincia es la circunscripción electoral; a cada provincia le corresponde un mínimo inicial de dos Diputados y Ceuta y Melilla están representadas por un Diputado cada una.",
+        "La Comunidad Autónoma es la circunscripción electoral; cada provincia recibe inicialmente un Diputado y Ceuta y Melilla dos cada una.",
+        "La provincia es la circunscripción electoral; cada provincia recibe inicialmente tres Diputados y Ceuta y Melilla carecen de representación mínima propia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P008",
+      "pregunta": "Para la atribución de escaños del Congreso en una circunscripción, la LOREG dispone que no se tengan en cuenta las candidaturas que:",
+      "opciones": [
+        "No hayan obtenido al menos el 3 % de los votos válidos emitidos en la circunscripción.",
+        "No hayan obtenido al menos el 5 % de los votos válidamente emitidos en el conjunto de la Nación.",
+        "No hayan obtenido al menos el 3 % de los votos emitidos, incluidos los votos nulos, en la circunscripción."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P009",
+      "pregunta": "¿Qué afirmación describe correctamente el sistema de atribución de escaños del Congreso recogido en la LOREG?",
+      "opciones": [
+        "Los escaños se atribuyen mediante el sistema de cocientes previsto legalmente y, dentro de cada candidatura, se adjudican a los candidatos por el orden en que figuran en la lista.",
+        "Los escaños se atribuyen por mayoría simple en cada provincia y, dentro de cada candidatura, se adjudican a los candidatos con mayor número de votos preferenciales.",
+        "Los escaños se reparten proporcionalmente a escala nacional y después se asignan a las provincias en función de la participación electoral."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P010",
+      "pregunta": "¿Qué secuencia temporal es correcta respecto del Congreso de los Diputados?",
+      "opciones": [
+        "Su mandato es de cuatro años; las elecciones tienen lugar entre los 30 y 60 días desde la terminación del mandato y el Congreso electo debe ser convocado dentro de los 25 días siguientes a las elecciones.",
+        "Su mandato es de cuatro años; las elecciones deben celebrarse dentro de los 25 días siguientes y el Congreso electo reunirse entre los 30 y 60 días posteriores.",
+        "Su mandato es de cinco años; las elecciones se celebran entre los 30 y 60 días desde la disolución y el Congreso electo se convoca dentro de los 15 días siguientes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P011",
+      "pregunta": "¿Cómo define expresamente la Constitución al Senado?",
+      "opciones": [
+        "Como la Cámara de representación territorial.",
+        "Como la Cámara de representación de las Comunidades Autónomas.",
+        "Como la Cámara de representación provincial y municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P012",
+      "pregunta": "Como regla general, ¿cuántos Senadores se eligen por cada provincia?",
+      "opciones": [
+        "Cuatro.",
+        "Tres.",
+        "Cinco."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P013",
+      "pregunta": "¿Qué combinación recoge correctamente la representación directa en el Senado de las tres islas mayores citadas en el material de estudio?",
+      "opciones": [
+        "Gran Canaria, Mallorca y Tenerife eligen tres Senadores cada una.",
+        "Gran Canaria, Mallorca y Tenerife eligen cuatro Senadores cada una, como las provincias peninsulares.",
+        "Gran Canaria y Tenerife eligen tres Senadores cada una, mientras que Mallorca elige dos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P014",
+      "pregunta": "¿Cuántos Senadores eligen directamente Ceuta y Melilla?",
+      "opciones": [
+        "Dos cada una.",
+        "Uno cada una.",
+        "Tres cada una."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P015",
+      "pregunta": "¿Cuál es la regla constitucional para los Senadores designados por las Comunidades Autónomas?",
+      "opciones": [
+        "Cada Comunidad Autónoma designa un Senador y otro más por cada millón de habitantes, correspondiendo la designación a su Asamblea legislativa conforme al Estatuto y con adecuada representación proporcional.",
+        "Cada Comunidad Autónoma designa dos Senadores y uno adicional por cada dos millones de habitantes, mediante decisión exclusiva de su Consejo de Gobierno.",
+        "Cada Comunidad Autónoma designa un Senador por provincia de su territorio, sin que la población influya en el número total."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P016",
+      "pregunta": "Tras la reforma reglamentaria reflejada en el corpus, ¿cómo está compuesta la Mesa del Congreso?",
+      "opciones": [
+        "Por la Presidencia, cuatro Vicepresidencias y cuatro Secretarías.",
+        "Por la Presidencia, dos Vicepresidencias y cuatro Secretarías.",
+        "Por la Presidencia, cuatro Vicepresidencias y dos Secretarías."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P017",
+      "pregunta": "¿Qué afirmación sobre la Junta de Portavoces del Congreso es correcta?",
+      "opciones": [
+        "La integran quienes ostentan las portavocías de los Grupos Parlamentarios, se reúne bajo la Presidencia del Congreso y sus decisiones se adoptan con voto ponderado.",
+        "La integran exclusivamente los Presidentes de las Comisiones y sus decisiones se adoptan por un voto igual para cada miembro.",
+        "La integran los miembros de la Mesa y un representante del Gobierno, y sus acuerdos requieren siempre mayoría absoluta de los grupos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P018",
+      "pregunta": "¿En cuál de los siguientes supuestos NO cabe delegar en una Comisión Legislativa Permanente la aprobación de un proyecto o proposición de ley?",
+      "opciones": [
+        "En la aprobación de una ley orgánica.",
+        "En la aprobación de una ley ordinaria no incluida entre las materias constitucionalmente exceptuadas.",
+        "En la aprobación de una proposición de ley ordinaria cuando el Pleno no haya recabado su debate y votación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P019",
+      "pregunta": "Respecto de las Comisiones parlamentarias de investigación, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Pueden constituirse sobre asuntos de interés público; sus conclusiones no vinculan a los Tribunales ni afectan a las resoluciones judiciales, y el resultado puede comunicarse al Ministerio Fiscal.",
+        "Solo pueden constituirse cuando exista previamente un procedimiento judicial y sus conclusiones vinculan a los Tribunales en la valoración de los hechos.",
+        "Sus conclusiones sustituyen a la investigación penal cuando son aprobadas conjuntamente por Congreso y Senado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P020",
+      "pregunta": "¿Qué configuración constitucional corresponde a la Diputación Permanente de cada Cámara?",
+      "opciones": [
+        "Debe tener un mínimo de 21 miembros, con representación proporcional de los Grupos Parlamentarios, y está presidida por el Presidente de la Cámara respectiva.",
+        "Debe tener exactamente 21 miembros, elegidos por mayoría absoluta y presididos por el parlamentario de mayor edad.",
+        "Debe tener un mínimo de 25 miembros, con igual número por cada Grupo Parlamentario y presidencia rotatoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P021",
+      "pregunta": "¿Cuál de las siguientes funciones corresponde a las Diputaciones Permanentes según la Constitución?",
+      "opciones": [
+        "Velar por los poderes de las Cámaras cuando no estén reunidas y asumir determinadas facultades de los artículos 86 y 116 cuando las Cámaras hayan sido disueltas o haya expirado su mandato.",
+        "Ejercer con carácter general toda la potestad legislativa durante los períodos entre sesiones y aprobar definitivamente cualquier ley pendiente.",
+        "Sustituir a las Mesas de las Cámaras en la dirección administrativa ordinaria durante toda la legislatura."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P022",
+      "pregunta": "¿Cuáles son los dos períodos ordinarios de sesiones de las Cámaras?",
+      "opciones": [
+        "De septiembre a diciembre y de febrero a junio.",
+        "De septiembre a enero y de marzo a junio.",
+        "De octubre a diciembre y de febrero a julio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P023",
+      "pregunta": "¿Qué combinación describe correctamente las sesiones extraordinarias de las Cámaras?",
+      "opciones": [
+        "Pueden celebrarse a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras; deben tener un orden del día determinado y concluyen al agotarse este.",
+        "Solo pueden ser convocadas por el Gobierno o por una tercera parte de la Cámara y pueden tratar cualquier asunto sobrevenido aunque no figure en el orden del día.",
+        "Pueden ser solicitadas por cualquier Grupo Parlamentario y finalizan únicamente por acuerdo expreso de la mayoría absoluta del Pleno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P024",
+      "pregunta": "Para que una Cámara adopte válidamente acuerdos, ¿qué exige con carácter general la Constitución?",
+      "opciones": [
+        "Que esté reunida reglamentariamente, con asistencia de la mayoría de sus miembros, y que el acuerdo obtenga la mayoría de los miembros presentes, salvo mayorías especiales.",
+        "Que asista al menos un tercio de sus miembros y que el acuerdo obtenga mayoría absoluta del número legal de miembros.",
+        "Que estén presentes todos los Grupos Parlamentarios y que el acuerdo obtenga al menos tres quintos de los votos emitidos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P025",
+      "pregunta": "¿Qué regla constitucional rige el voto de Diputados y Senadores y la publicidad de las sesiones plenarias?",
+      "opciones": [
+        "El voto es personal e indelegable y las sesiones plenarias son públicas, salvo que la Cámara acuerde lo contrario por mayoría absoluta o con arreglo a su Reglamento.",
+        "El voto puede delegarse dentro del Grupo Parlamentario y las sesiones plenarias son secretas salvo acuerdo de publicidad por mayoría simple.",
+        "El voto es personal pero delegable por causa justificada, y las sesiones son siempre públicas sin excepción."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P026",
+      "pregunta": "¿Para qué se reúnen conjuntamente el Congreso y el Senado conforme al esquema constitucional estudiado?",
+      "opciones": [
+        "Para ejercer las competencias no legislativas que el Título II atribuye expresamente a las Cortes Generales, bajo la presidencia del Presidente del Congreso.",
+        "Para aprobar todas las leyes orgánicas en sesión conjunta, bajo presidencia alterna de ambas Cámaras.",
+        "Para resolver cualquier discrepancia legislativa entre Congreso y Senado, bajo la presidencia del Rey."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P027",
+      "pregunta": "Si el Senado opone un veto a un proyecto de ley, ¿qué combinación de mayorías y plazos es constitucionalmente correcta?",
+      "opciones": [
+        "El veto requiere mayoría absoluta del Senado; el Congreso puede ratificar inmediatamente el texto inicial por mayoría absoluta o hacerlo por mayoría simple una vez transcurridos dos meses desde la interposición del veto.",
+        "El veto requiere mayoría simple del Senado y solo puede ser levantado por el Congreso mediante mayoría de tres quintos, sin plazo alternativo.",
+        "El veto requiere tres quintos del Senado y el Congreso puede levantarlo inmediatamente por mayoría simple o, tras un mes, por mayoría absoluta."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P028",
+      "pregunta": "En la investidura del Presidente del Gobierno, ¿qué secuencia de votaciones establece la Constitución?",
+      "opciones": [
+        "Primera votación por mayoría absoluta del Congreso y, si no se alcanza, nueva votación 48 horas después en la que basta mayoría simple.",
+        "Primera votación por mayoría de tres quintos y, 24 horas después, segunda votación por mayoría absoluta.",
+        "Primera votación por mayoría simple y, si no se alcanza, segunda votación 48 horas después por mayoría absoluta."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P029",
+      "pregunta": "¿Qué requisitos constitucionales caracterizan la cuestión de confianza?",
+      "opciones": [
+        "La plantea el Presidente del Gobierno, previa deliberación del Consejo de Ministros, ante el Congreso sobre su programa o una declaración de política general, y se otorga por mayoría simple.",
+        "La plantea el Gobierno colegiadamente ante ambas Cámaras sobre cualquier proyecto de ley y se otorga por mayoría absoluta del Congreso.",
+        "La plantea el Presidente del Congreso a iniciativa del Gobierno y requiere mayoría de tres quintos de los Diputados."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P030",
+      "pregunta": "¿Cuál es la combinación correcta sobre la moción de censura?",
+      "opciones": [
+        "Debe ser propuesta al menos por una décima parte de los Diputados, incluir un candidato a la Presidencia del Gobierno y ser aprobada por mayoría absoluta del Congreso.",
+        "Debe ser propuesta por una quinta parte de los Diputados, puede prescindir de candidato y se aprueba por mayoría simple.",
+        "Debe ser propuesta conjuntamente por Congreso y Senado, incluir candidato y aprobarse por tres quintos de ambas Cámaras."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P031",
+      "pregunta": "Respecto de la tramitación temporal de una moción de censura, ¿qué dispone la Constitución?",
+      "opciones": [
+        "No puede votarse hasta que transcurran cinco días desde su presentación y durante los dos primeros días de ese plazo pueden presentarse mociones alternativas.",
+        "Debe votarse dentro de las 48 horas siguientes a su presentación y las mociones alternativas pueden presentarse hasta el inicio de la votación.",
+        "No puede votarse hasta que transcurran diez días y solo durante los cinco primeros pueden presentarse mociones alternativas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P032",
+      "pregunta": "¿Qué obligación constitucional existe respecto de un decreto-ley aprobado por el Gobierno?",
+      "opciones": [
+        "Debe someterse inmediatamente a debate y votación de totalidad del Congreso, que ha de pronunciarse sobre su convalidación o derogación dentro de los 30 días siguientes a su promulgación.",
+        "Debe ser ratificado por el Senado en los 30 días siguientes y posteriormente aprobado por mayoría absoluta del Congreso.",
+        "Entra definitivamente en vigor si ninguna Cámara formula objeciones dentro de los 60 días siguientes a su publicación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P033",
+      "pregunta": "En relación con el estado de alarma, ¿qué regla es correcta?",
+      "opciones": [
+        "Lo declara el Gobierno mediante decreto acordado en Consejo de Ministros por un máximo inicial de 15 días y solo puede prorrogarse con autorización del Congreso.",
+        "Lo declara el Congreso por mayoría absoluta por un máximo inicial de 30 días, a propuesta del Gobierno.",
+        "Lo declara el Gobierno por un máximo inicial de 30 días y puede prorrogarlo por otros 15 sin intervención del Congreso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P034",
+      "pregunta": "¿Qué régimen corresponde al estado de excepción según el material confirmado?",
+      "opciones": [
+        "El Gobierno necesita autorización previa del Congreso y su duración no puede exceder de 30 días, prorrogables por otro plazo igual.",
+        "El Congreso lo declara directamente por mayoría absoluta y su duración inicial máxima es de 15 días.",
+        "El Gobierno lo declara sin autorización previa por 30 días, aunque cualquier prórroga requiere aprobación del Senado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P035",
+      "pregunta": "¿Qué combinación describe correctamente el estado de sitio?",
+      "opciones": [
+        "Lo declara el Congreso por mayoría absoluta, a propuesta exclusiva del Gobierno, y el Congreso determina su ámbito territorial, duración y condiciones.",
+        "Lo declara el Gobierno por decreto, previa autorización del Senado por mayoría absoluta, y su duración máxima es de 30 días.",
+        "Lo declara el Rey a propuesta conjunta del Congreso y del Senado, correspondiendo al Gobierno fijar su duración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P036",
+      "pregunta": "¿Cómo se articula constitucionalmente la convocatoria de un referéndum consultivo sobre decisiones políticas de especial trascendencia?",
+      "opciones": [
+        "Lo convoca el Rey, a propuesta del Presidente del Gobierno y previa autorización del Congreso de los Diputados.",
+        "Lo convoca el Presidente del Gobierno, previa autorización conjunta del Congreso y del Senado.",
+        "Lo convoca el Congreso por mayoría absoluta y el Rey se limita a publicar el resultado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P037",
+      "pregunta": "En la composición del Tribunal Constitucional, ¿qué corresponde al Congreso de los Diputados?",
+      "opciones": [
+        "Proponer cuatro miembros por mayoría de tres quintos de sus miembros.",
+        "Nombrar directamente cuatro miembros por mayoría absoluta.",
+        "Proponer seis miembros por mayoría de dos tercios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P038",
+      "pregunta": "¿Cuál es la diferencia esencial entre inelegibilidad e incompatibilidad?",
+      "opciones": [
+        "La inelegibilidad opera principalmente como impedimento para acceder al mandato, mientras que la incompatibilidad impide simultanear el mandato con determinados cargos, funciones o actividades.",
+        "La inelegibilidad solo produce efectos después de adquirir el escaño, mientras que la incompatibilidad impide ser candidato antes de las elecciones.",
+        "Ambas figuras son equivalentes y únicamente se diferencian por el órgano que las declara."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P039",
+      "pregunta": "Entre las categorías que el artículo 70 de la Constitución exige que la ley electoral contemple en las causas de inelegibilidad e incompatibilidad, ¿qué excepción se establece respecto de determinados altos cargos de la Administración del Estado?",
+      "opciones": [
+        "Se exceptúa a los miembros del Gobierno.",
+        "Se exceptúa al Defensor del Pueblo.",
+        "Se exceptúa a los miembros de las Juntas Electorales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P040",
+      "pregunta": "Según el régimen electoral estudiado, una misma persona:",
+      "opciones": [
+        "No puede presentarse simultáneamente como candidata al Congreso de los Diputados y al Senado.",
+        "Puede presentarse a ambas Cámaras si lo hace por circunscripciones distintas, debiendo optar solo si resulta elegida en las dos.",
+        "Puede presentarse simultáneamente a Congreso y Senado cuando las candidaturas pertenezcan a la misma formación política."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P041",
+      "pregunta": "¿Qué relación establece la LOREG entre inelegibilidad e incompatibilidad de Diputados y Senadores?",
+      "opciones": [
+        "Las causas de inelegibilidad son también causas de incompatibilidad, sin perjuicio de otras incompatibilidades específicas previstas legalmente.",
+        "Las causas de inelegibilidad dejan de producir efectos una vez proclamado el candidato, por lo que nunca pueden operar como incompatibilidades.",
+        "Solo las causas de inelegibilidad declaradas judicialmente se transforman en incompatibilidades durante el mandato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P042",
+      "pregunta": "¿Qué afirmación recoge correctamente el régimen general de dedicación de Diputados y Senadores descrito en el corpus?",
+      "opciones": [
+        "El mandato se ejerce, como regla general, en régimen de dedicación absoluta y resulta incompatible con otros puestos, profesiones o actividades públicas o privadas en los términos y con las excepciones previstas por la ley.",
+        "El mandato parlamentario es compatible por regla general con cualquier actividad privada, salvo que exista remuneración procedente del sector público.",
+        "La dedicación absoluta afecta únicamente a los Diputados, mientras que los Senadores pueden ejercer libremente cualquier actividad profesional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P043",
+      "pregunta": "En materia de declaraciones e incompatibilidades, ¿qué secuencia es correcta?",
+      "opciones": [
+        "Diputados y Senadores deben declarar actividades susceptibles de incompatibilidad, otras actividades que produzcan o puedan producir ingresos y sus bienes; las declaraciones se inscriben en el Registro de Intereses y el Pleno resuelve la incompatibilidad a propuesta de la Comisión correspondiente.",
+        "Solo deben declarar actividades públicas remuneradas; la Mesa resuelve definitivamente las incompatibilidades sin intervención del Pleno.",
+        "Las declaraciones patrimoniales son voluntarias y las incompatibilidades se resuelven exclusivamente por la Junta Electoral Central."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P044",
+      "pregunta": "Declarada y notificada una incompatibilidad a un Diputado del Congreso, ¿qué prevé su Reglamento?",
+      "opciones": [
+        "Dispone de ocho días para optar entre el escaño y el cargo incompatible; si no ejercita la opción, se entiende que renuncia al escaño.",
+        "Dispone de quince días para solicitar autorización de compatibilidad; el silencio de la Cámara permite conservar ambas posiciones.",
+        "Debe renunciar automáticamente al cargo incompatible en cinco días, sin posibilidad de optar por abandonar el escaño."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P045",
+      "pregunta": "¿Cuál es el alcance constitucional básico de la inviolabilidad de Diputados y Senadores?",
+      "opciones": [
+        "Protege las opiniones manifestadas en el ejercicio de sus funciones; los Reglamentos parlamentarios del corpus contemplan además su proyección aun después de haber cesado respecto de las manifestaciones protegidas.",
+        "Protege cualquier actuación privada realizada durante el mandato y cesa automáticamente el mismo día en que termina la legislatura.",
+        "Impide toda investigación judicial por cualquier hecho cometido mientras se ostente el escaño, aunque sea ajeno a la función parlamentaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P046",
+      "pregunta": "¿Qué combinación define correctamente la inmunidad parlamentaria del artículo 71.2 de la Constitución?",
+      "opciones": [
+        "Opera durante el mandato; Diputados y Senadores solo pueden ser detenidos en caso de flagrante delito y no pueden ser inculpados ni procesados sin autorización previa de la Cámara respectiva.",
+        "Opera de forma vitalicia; impide toda detención incluso en flagrante delito y exige autorización del Tribunal Supremo para cualquier investigación.",
+        "Opera únicamente durante los períodos ordinarios de sesiones y permite el procesamiento sin autorización si no implica prisión preventiva."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P047",
+      "pregunta": "Recibido un suplicatorio en el Congreso, ¿qué secuencia reglamentaria es correcta?",
+      "opciones": [
+        "La Presidencia, previo acuerdo de la Mesa, lo remite en cinco días a la Comisión del Estatuto; esta debe concluir en un máximo de 30 días tras oír al interesado y la cuestión pasa al primer Pleno ordinario.",
+        "La Mesa resuelve directamente en diez días y solo remite el asunto al Pleno si propone conceder el suplicatorio.",
+        "La Presidencia lo remite al Senado en cinco días y una Comisión Mixta dispone de 60 días para emitir una decisión vinculante."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P048",
+      "pregunta": "En el procedimiento de suplicatorio del Congreso, si la Cámara no se pronuncia dentro del plazo reglamentario de 60 días naturales, computado en los términos previstos por el Reglamento:",
+      "opciones": [
+        "El suplicatorio se entiende denegado.",
+        "El suplicatorio se entiende concedido.",
+        "El procedimiento caduca y la autoridad judicial puede continuar sin autorización parlamentaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P049",
+      "pregunta": "¿Qué diferencia existe entre inmunidad y fuero jurisdiccional de Diputados y Senadores?",
+      "opciones": [
+        "La inmunidad establece garantías procesales durante el mandato; el fuero determina que las causas contra Diputados y Senadores corresponden a la Sala de lo Penal del Tribunal Supremo.",
+        "La inmunidad determina el tribunal competente y el fuero impide la detención salvo flagrante delito.",
+        "Ambas figuras tienen el mismo efecto: impedir cualquier proceso penal mientras dure el mandato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T03-P050",
+      "pregunta": "Un proyecto declarado urgente por el Gobierno o por el Congreso llega al Senado. ¿Qué plazo constitucional tiene el Senado para ejercer sus facultades de veto o enmienda?",
+      "opciones": [
+        "Veinte días naturales.",
+        "Treinta días naturales.",
+        "Un mes desde la publicación del proyecto."
       ],
       "correcta": 0
     }

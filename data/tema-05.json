@@ -1,14 +1,504 @@
 {
   "tema": 5,
-  "titulo": "Organización territorial del Estado y Comunidades Autónomas",
+  "titulo": "Tema 5",
   "preguntas": [
     {
-      "id": "T05-DEMO",
-      "pregunta": "[PREGUNTA DE DEMOSTRACIÓN] Sustituye esta pregunta por una pregunta real del Tema 5: Organización territorial del Estado y Comunidades Autónomas.",
+      "id": "T05-P001",
+      "pregunta": "Según el artículo 137 CE, ¿qué entidades integran expresamente la organización territorial del Estado?",
       "opciones": [
-        "Respuesta correcta de ejemplo",
-        "Respuesta incorrecta de ejemplo 1",
-        "Respuesta incorrecta de ejemplo 2"
+        "Municipios, provincias y las Comunidades Autónomas que se constituyan.",
+        "Municipios, comarcas, provincias y Comunidades Autónomas.",
+        "Provincias, Comunidades Autónomas y territorios insulares exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P002",
+      "pregunta": "¿Qué diferencia esencial existe entre la autonomía de las Comunidades Autónomas y la de municipios y provincias?",
+      "opciones": [
+        "La autonomía autonómica tiene dimensión política y permite aprobar leyes dentro de sus competencias.",
+        "Solo las Comunidades Autónomas tienen autonomía financiera, mientras las entidades locales carecen de ella.",
+        "La autonomía local permite aprobar leyes territoriales subordinadas a las autonómicas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P003",
+      "pregunta": "De acuerdo con el artículo 138 CE, las diferencias entre los Estatutos de las distintas Comunidades Autónomas:",
+      "opciones": [
+        "No podrán implicar, en ningún caso, privilegios económicos o sociales.",
+        "Podrán implicar privilegios económicos si están justificados por hechos diferenciales.",
+        "Solo podrán implicar privilegios sociales cuando los aprueben las Cortes Generales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P004",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente el artículo 139 CE?",
+      "opciones": [
+        "Ninguna autoridad podrá adoptar medidas que obstaculicen directa o indirectamente la libertad de circulación y establecimiento de las personas y la libre circulación de bienes.",
+        "Solo el Estado puede limitar la libre circulación de bienes por razones económicas.",
+        "Las Comunidades Autónomas pueden limitar el establecimiento de personas si lo prevé su Estatuto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P005",
+      "pregunta": "El denominado principio dispositivo del proceso autonómico significa, según el tema, que:",
+      "opciones": [
+        "La Constitución fijaba posibilidades y límites, y los territorios legitimados ejercían la iniciativa y asumían competencias mediante sus Estatutos.",
+        "Cada Comunidad Autónoma podía determinar unilateralmente sus competencias al margen de la Constitución.",
+        "Las Cortes Generales estaban obligadas a crear directamente todas las Comunidades Autónomas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P006",
+      "pregunta": "Conforme al artículo 143.1 CE, ¿cuál de estos territorios podía ejercer el derecho al autogobierno?",
+      "opciones": [
+        "Las provincias limítrofes con características históricas, culturales y económicas comunes.",
+        "Cualquier conjunto de municipios, aunque perteneciera a provincias no limítrofes.",
+        "Únicamente las provincias que hubieran plebiscitado un Estatuto antes de 1978."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P007",
+      "pregunta": "En la vía ordinaria del artículo 143 CE, la iniciativa autonómica correspondía conjuntamente a:",
+      "opciones": [
+        "Todas las Diputaciones interesadas u órgano interinsular correspondiente y dos tercios de los municipios exigidos constitucionalmente.",
+        "La mitad de las Diputaciones y tres cuartas partes de los municipios afectados.",
+        "Todas las Diputaciones y la mayoría absoluta de los electores mediante referéndum."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P008",
+      "pregunta": "En el artículo 143 CE, los dos tercios de municipios que ejercían la iniciativa debían representar, al menos:",
+      "opciones": [
+        "La mayoría del censo electoral de cada provincia o isla.",
+        "La mayoría absoluta de los votos válidamente emitidos en cada provincia.",
+        "Dos tercios del censo electoral del conjunto del territorio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P009",
+      "pregunta": "¿En qué plazo debían cumplirse los requisitos de iniciativa previstos en el artículo 143 CE?",
+      "opciones": [
+        "Seis meses desde el primer acuerdo adoptado por alguna de las corporaciones locales interesadas.",
+        "Cinco meses desde el acuerdo de la última Diputación interesada.",
+        "Seis meses desde la autorización de las Cortes Generales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P010",
+      "pregunta": "Si la iniciativa autonómica del artículo 143 no prosperaba, ¿cuándo podía reiterarse?",
+      "opciones": [
+        "Transcurridos cinco años.",
+        "Transcurridos dos años.",
+        "Una vez transcurridos seis meses."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P011",
+      "pregunta": "Según el artículo 146 CE, el proyecto de Estatuto en la vía ordinaria era elaborado por una Asamblea integrada por:",
+      "opciones": [
+        "Miembros de las Diputaciones u órganos interinsulares afectados y los Diputados y Senadores elegidos en ellas.",
+        "Exclusivamente los Diputados y Senadores elegidos en el territorio.",
+        "Los miembros de los Ayuntamientos, Diputaciones y del Gobierno estatal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P012",
+      "pregunta": "Los Estatutos de Autonomía se aprueban mediante:",
+      "opciones": [
+        "Ley orgánica.",
+        "Ley ordinaria de las Cortes Generales.",
+        "Ley autonómica posteriormente ratificada por el Congreso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P013",
+      "pregunta": "En la iniciativa del artículo 151 CE se exigía, entre otros requisitos:",
+      "opciones": [
+        "El acuerdo de tres cuartas partes de los municipios de cada provincia afectada que representasen al menos la mayoría del censo electoral de cada provincia.",
+        "El acuerdo de dos tercios de los municipios que representasen tres quintos del censo electoral.",
+        "El acuerdo de tres cuartas partes de los municipios y dos tercios de los electores del conjunto territorial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P014",
+      "pregunta": "La ratificación mediante referéndum de la iniciativa prevista en el artículo 151.1 CE requería:",
+      "opciones": [
+        "La mayoría absoluta de los electores de cada provincia.",
+        "La mayoría absoluta de los votos válidamente emitidos en el conjunto del territorio.",
+        "La mayoría simple de los electores de cada provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P015",
+      "pregunta": "¿Qué Comunidad Autónoma siguió directamente, según el documento, el procedimiento del artículo 151.1 CE?",
+      "opciones": [
+        "Andalucía.",
+        "Cataluña.",
+        "Galicia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P016",
+      "pregunta": "País Vasco, Cataluña y Galicia accedieron al procedimiento que permitía alcanzar un nivel superior de autonomía mediante:",
+      "opciones": [
+        "La Disposición Transitoria segunda.",
+        "La Disposición Transitoria primera.",
+        "El artículo 144 CE."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P017",
+      "pregunta": "En la elaboración del Estatuto por la vía del artículo 151, la Asamblea de parlamentarios elaboraba el proyecto por:",
+      "opciones": [
+        "Mayoría absoluta.",
+        "Mayoría de tres quintos.",
+        "Mayoría simple."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P018",
+      "pregunta": "¿Qué plazo tenía la Comisión Constitucional del Congreso para examinar el proyecto de Estatuto del procedimiento del artículo 151 con la delegación de la Asamblea proponente?",
+      "opciones": [
+        "Dos meses.",
+        "Seis meses.",
+        "Cinco meses."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P019",
+      "pregunta": "Si existía acuerdo sobre el texto en el procedimiento del artículo 151, tras el referéndum y su aprobación por la mayoría de los votos válidamente emitidos en cada provincia:",
+      "opciones": [
+        "Se remitía a las Cortes Generales para su ratificación.",
+        "Entraba directamente en vigor sin intervención posterior de las Cortes.",
+        "Se remitía al Tribunal Constitucional para su aprobación definitiva."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P020",
+      "pregunta": "Por motivos de interés nacional, el artículo 144 CE permite a las Cortes Generales actuar mediante:",
+      "opciones": [
+        "Ley orgánica.",
+        "Ley ordinaria.",
+        "Decreto legislativo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P021",
+      "pregunta": "¿Cuál de estas facultades NO corresponde al artículo 144 CE según el documento?",
+      "opciones": [
+        "Autorizar directamente la federación entre Comunidades Autónomas.",
+        "Sustituir la iniciativa de las corporaciones locales prevista en el artículo 143.2.",
+        "Autorizar o acordar un Estatuto para territorios no integrados en la organización provincial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P022",
+      "pregunta": "La Disposición Transitoria primera permitía:",
+      "opciones": [
+        "Que los órganos colegiados superiores de territorios con régimen provisional de autonomía sustituyeran la iniciativa atribuida a las Diputaciones por el artículo 143.2.",
+        "Que las Cortes sustituyeran siempre la iniciativa municipal sin necesidad de interés nacional.",
+        "Que Ceuta y Melilla accedieran automáticamente a la condición de Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P023",
+      "pregunta": "La Disposición Transitoria cuarta contiene una regulación específica relativa a:",
+      "opciones": [
+        "Navarra y su posible incorporación al régimen autonómico vasco.",
+        "Canarias y su régimen insular.",
+        "Ceuta y Melilla y su acceso conjunto a la autonomía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P024",
+      "pregunta": "Según la Disposición Transitoria quinta, Ceuta y Melilla podían constituirse en Comunidades Autónomas si concurrían:",
+      "opciones": [
+        "Acuerdo por mayoría absoluta de sus Ayuntamientos y autorización de las Cortes Generales mediante ley orgánica.",
+        "Referéndum por mayoría absoluta de electores y autorización del Senado.",
+        "Acuerdo de dos tercios de sus Ayuntamientos y ley ordinaria de las Cortes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P025",
+      "pregunta": "El artículo 147.1 CE define los Estatutos de Autonomía como:",
+      "opciones": [
+        "La norma institucional básica de cada Comunidad Autónoma.",
+        "La norma constitucional derivada de cada territorio autónomo.",
+        "La ley autonómica superior jerárquicamente a la Constitución en materias propias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P026",
+      "pregunta": "¿Cuál de los siguientes elementos NO forma parte del contenido mínimo del Estatuto enumerado en el artículo 147.2 CE?",
+      "opciones": [
+        "El sistema electoral detallado para todas las elecciones locales de su territorio.",
+        "La delimitación de su territorio.",
+        "Las competencias asumidas dentro del marco establecido en la Constitución."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P027",
+      "pregunta": "La mnemotecnia D-T-I-C utilizada en el documento para el contenido mínimo estatutario corresponde a:",
+      "opciones": [
+        "Denominación, Territorio, Instituciones y Competencias.",
+        "Derechos, Territorio, Iniciativa y Coordinación.",
+        "Denominación, Transferencias, Instituciones y Control."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P028",
+      "pregunta": "La reforma de un Estatuto de Autonomía requiere, con carácter general:",
+      "opciones": [
+        "El procedimiento previsto en el propio Estatuto y aprobación de las Cortes Generales mediante ley orgánica.",
+        "Únicamente mayoría absoluta del Parlamento autonómico.",
+        "Referéndum obligatorio en todas las Comunidades y posterior ley ordinaria estatal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P029",
+      "pregunta": "Según el artículo 152.1 CE, la Asamblea Legislativa se elige mediante:",
+      "opciones": [
+        "Sufragio universal, con arreglo a un sistema de representación proporcional que asegure además la representación de las distintas zonas del territorio.",
+        "Sufragio universal mediante un sistema exclusivamente mayoritario.",
+        "Elección indirecta por los municipios de la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P030",
+      "pregunta": "El Presidente de una Comunidad Autónoma, en el modelo del artículo 152 CE, es:",
+      "opciones": [
+        "Elegido por la Asamblea entre sus miembros y nombrado por el Rey.",
+        "Elegido directamente por sufragio universal y nombrado por el Presidente del Gobierno.",
+        "Nombrado por el Rey a propuesta del Senado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P031",
+      "pregunta": "¿Cuál de estas funciones corresponde constitucionalmente al Presidente autonómico?",
+      "opciones": [
+        "Ostentar la suprema representación de la Comunidad Autónoma y la representación ordinaria del Estado en ella.",
+        "Ostentar la representación suprema del Estado y dirigir el Poder Judicial autonómico.",
+        "Nombrar al Delegado del Gobierno en la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P032",
+      "pregunta": "El Presidente y los miembros del Consejo de Gobierno son políticamente responsables ante:",
+      "opciones": [
+        "La Asamblea Legislativa.",
+        "El Congreso de los Diputados.",
+        "El Tribunal Superior de Justicia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P033",
+      "pregunta": "Respecto del Tribunal Superior de Justicia, el documento advierte que:",
+      "opciones": [
+        "Culmina la organización judicial en el territorio autonómico, pero no supone un Poder Judicial autonómico independiente.",
+        "Es un órgano dependiente del Consejo de Gobierno autonómico.",
+        "Sustituye al Tribunal Supremo en los asuntos originados dentro de la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P034",
+      "pregunta": "Para comprender el sistema constitucional de distribución de competencias, el documento propone atender principalmente a:",
+      "opciones": [
+        "Estatuto, artículo 148, artículo 149 y artículo 150 CE.",
+        "Únicamente los artículos 148 y 149 CE.",
+        "Artículo 137, Estatuto y legislación ordinaria autonómica exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P035",
+      "pregunta": "¿Qué materia aparece destacada por su especial importancia para Trabajo Social dentro del artículo 148.1 CE?",
+      "opciones": [
+        "La asistencia social.",
+        "La legislación laboral.",
+        "El régimen económico de la Seguridad Social."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P036",
+      "pregunta": "Conforme al artículo 148.2 descrito en el tema, las Comunidades Autónomas podían ampliar sucesivamente sus competencias:",
+      "opciones": [
+        "Transcurridos cinco años, mediante la reforma de sus Estatutos y dentro del marco del artículo 149.",
+        "Transcurridos dos años, mediante ley autonómica y sin reforma estatutaria.",
+        "Tras cinco años, mediante una ley marco estatal obligatoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P037",
+      "pregunta": "¿Cuál de las siguientes materias se incluye en el documento entre las competencias reservadas al Estado por el artículo 149.1 CE?",
+      "opciones": [
+        "Legislación laboral, sin perjuicio de determinadas facultades ejecutivas autonómicas.",
+        "Asistencia social en todo caso.",
+        "Organización de las instituciones de autogobierno autonómicas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P038",
+      "pregunta": "Según las cláusulas del artículo 149.3 CE, las materias no atribuidas expresamente al Estado por la Constitución:",
+      "opciones": [
+        "Pueden corresponder a las Comunidades Autónomas si son asumidas por sus Estatutos.",
+        "Corresponden automáticamente a las Comunidades Autónomas sin necesidad de previsión estatutaria.",
+        "Quedan necesariamente sin atribución hasta que una ley orgánica estatal las distribuya."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P039",
+      "pregunta": "Las materias que pudiendo ser asumidas por las Comunidades Autónomas no hayan sido asumidas por sus Estatutos corresponden, según el artículo 149.3:",
+      "opciones": [
+        "Al Estado.",
+        "A las provincias.",
+        "Conjuntamente al Estado y a la Comunidad Autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P040",
+      "pregunta": "Según el artículo 149.3 CE, el Derecho estatal es respecto del Derecho de las Comunidades Autónomas:",
+      "opciones": [
+        "Supletorio.",
+        "Siempre prevalente, incluso en competencias exclusivas autonómicas.",
+        "Jerárquicamente inferior."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P041",
+      "pregunta": "El artículo 150.1 CE permite a las Cortes Generales:",
+      "opciones": [
+        "Atribuir a las Comunidades Autónomas, en materias estatales, la facultad de dictar normas legislativas dentro de principios, bases y directrices fijados por una ley estatal.",
+        "Transferir definitivamente la titularidad de cualquier competencia estatal mediante ley ordinaria.",
+        "Armonizar automáticamente cualquier disposición autonómica mediante decreto-ley."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P042",
+      "pregunta": "El instrumento previsto en el artículo 150.2 CE para transferir o delegar facultades estatales susceptibles de ello es:",
+      "opciones": [
+        "Una ley orgánica.",
+        "Una ley marco.",
+        "Una ley de armonización."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P043",
+      "pregunta": "La ley orgánica del artículo 150.2 debe prever, según el documento:",
+      "opciones": [
+        "La transferencia de medios financieros y las formas de control que se reserve el Estado.",
+        "Únicamente la duración temporal de la delegación.",
+        "Un referéndum vinculante en la Comunidad Autónoma receptora."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P044",
+      "pregunta": "Para que el Estado establezca principios necesarios de armonización conforme al artículo 150.3 CE, la necesidad debe ser apreciada por:",
+      "opciones": [
+        "Mayoría absoluta de cada Cámara.",
+        "Mayoría absoluta del Congreso exclusivamente.",
+        "Tres quintos del Senado y mayoría simple del Congreso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P045",
+      "pregunta": "¿Quién controla, conforme al artículo 153 CE, la constitucionalidad de las disposiciones normativas autonómicas con fuerza de ley?",
+      "opciones": [
+        "El Tribunal Constitucional.",
+        "La jurisdicción contencioso-administrativa.",
+        "El Tribunal de Cuentas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P046",
+      "pregunta": "El control gubernamental previsto en el artículo 153 CE recae específicamente sobre:",
+      "opciones": [
+        "El ejercicio de funciones delegadas conforme al artículo 150.2, previo dictamen del Consejo de Estado.",
+        "Toda la actividad legislativa autonómica, previo dictamen del Senado.",
+        "Los reglamentos autonómicos, previo dictamen del Tribunal Constitucional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P047",
+      "pregunta": "¿A quién corresponde el control de la Administración autonómica y de sus normas reglamentarias según el artículo 153 CE?",
+      "opciones": [
+        "A la jurisdicción contencioso-administrativa.",
+        "Al Tribunal Constitucional exclusivamente.",
+        "Al Tribunal de Cuentas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P048",
+      "pregunta": "El control económico y presupuestario de la actividad autonómica previsto en el artículo 153 corresponde:",
+      "opciones": [
+        "Al Tribunal de Cuentas.",
+        "Al Consejo de Estado.",
+        "Al Senado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P049",
+      "pregunta": "Cuando el Gobierno impugna ante el Tribunal Constitucional una disposición o resolución autonómica conforme al artículo 161.2 CE:",
+      "opciones": [
+        "La impugnación produce su suspensión y el Tribunal debe ratificarla o levantarla en un plazo máximo de cinco meses.",
+        "La disposición permanece vigente hasta que el Tribunal dicte sentencia definitiva.",
+        "La suspensión solo se produce si la aprueba previamente el Senado por mayoría absoluta."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T05-P050",
+      "pregunta": "Para adoptar medidas al amparo del artículo 155 CE, tras un requerimiento no atendido al Presidente de la Comunidad Autónoma, el Gobierno necesita:",
+      "opciones": [
+        "La aprobación por mayoría absoluta del Senado.",
+        "La aprobación por mayoría absoluta del Congreso.",
+        "La autorización conjunta por mayoría simple de ambas Cámaras."
       ],
       "correcta": 0
     }
