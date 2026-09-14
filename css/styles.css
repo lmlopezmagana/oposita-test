@@ -1,278 +1,1233 @@
 :root {
     --background: #f5f6f8;
+
     --surface: #ffffff;
+
     --text: #20242a;
+
     --muted: #68717d;
+
     --border: #dfe3e8;
+
     --primary: #2457a6;
+
     --primary-light: #eaf1fb;
+
     --success: #218739;
+
     --success-light: #e8f6eb;
+
     --danger: #b3261e;
+
     --danger-light: #fcebea;
+
+    --disabled-bg: #f0f1f3;
+
+    --disabled-text: #989fa8;
+
     --radius: 10px;
-    --shadow: 0 2px 8px rgba(0,0,0,.06);
+
+    --shadow:
+        0 2px 8px
+        rgba(
+            0,
+            0,
+            0,
+            0.06
+        );
 }
 
-* { box-sizing: border-box; }
+
+/* ==========================================================
+   GENERAL
+   ========================================================== */
+
+* {
+    box-sizing:
+        border-box;
+}
+
 
 body {
     margin: 0;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    background: var(--background);
-    color: var(--text);
-    line-height: 1.5;
+
+    font-family:
+        system-ui,
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        sans-serif;
+
+    background:
+        var(--background);
+
+    color:
+        var(--text);
+
+    line-height:
+        1.5;
 }
+
 
 .container {
-    width: min(1100px, 92%);
-    margin-inline: auto;
+    width:
+        min(
+            1100px,
+            92%
+        );
+
+    margin-inline:
+        auto;
 }
+
+
+/* ==========================================================
+   CABECERA
+   ========================================================== */
 
 .header {
-    background: var(--primary);
-    color: white;
-    padding: 1.5rem 0;
-    margin-bottom: 2rem;
+    background:
+        var(--primary);
+
+    color:
+        white;
+
+    padding:
+        1.5rem 0;
+
+    margin-bottom:
+        2rem;
 }
 
-.header h1 { margin: 0; }
-.header p { margin: .25rem 0 0; opacity: .85; }
+
+.header h1 {
+    margin:
+        0;
+}
+
+
+.header p {
+    margin:
+        0.25rem 0 0;
+
+    opacity:
+        0.85;
+}
+
+
+/* ==========================================================
+   NAVEGACIÓN
+   ========================================================== */
 
 .main-nav {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5rem;
-    margin-top: 1rem;
+    display:
+        flex;
+
+    flex-wrap:
+        wrap;
+
+    gap:
+        0.5rem;
+
+    margin-top:
+        1rem;
 }
+
 
 .main-nav button {
-    background: rgba(255,255,255,.15);
-    color: white;
-    border: 1px solid rgba(255,255,255,.35);
+    background:
+        rgba(
+            255,
+            255,
+            255,
+            0.15
+        );
+
+    color:
+        white;
+
+    border:
+        1px solid
+        rgba(
+            255,
+            255,
+            255,
+            0.35
+        );
 }
 
-.main-nav button:hover { background: rgba(255,255,255,.25); }
 
-section { margin-bottom: 2rem; }
+.main-nav button:hover {
+    background:
+        rgba(
+            255,
+            255,
+            255,
+            0.25
+        );
+}
+
+
+/* ==========================================================
+   SECCIONES
+   ========================================================== */
+
+section {
+    margin-bottom:
+        2rem;
+}
+
+
+/* ==========================================================
+   BOTONES
+   ========================================================== */
 
 button {
-    font: inherit;
-    cursor: pointer;
-    border-radius: 6px;
-    border: 1px solid transparent;
-    padding: .7rem 1.2rem;
+    font:
+        inherit;
+
+    cursor:
+        pointer;
+
+    border-radius:
+        6px;
+
+    border:
+        1px solid
+        transparent;
+
+    padding:
+        0.7rem 1.2rem;
 }
 
-button.primary { background: var(--primary); color: white; }
-button.secondary { background: white; color: var(--primary); border-color: var(--primary); }
-button.danger { background: var(--danger); color: white; margin-top: 2rem; }
-button.danger-outline { background: white; color: var(--danger); border: 1px solid var(--danger); }
-button.small { padding: .4rem .7rem; background: white; border: 1px solid var(--border); }
-button.active { background: var(--primary); color: white; }
+
+button.primary {
+    background:
+        var(--primary);
+
+    color:
+        white;
+}
+
+
+button.secondary {
+    background:
+        white;
+
+    color:
+        var(--primary);
+
+    border-color:
+        var(--primary);
+}
+
+
+button.danger {
+    background:
+        var(--danger);
+
+    color:
+        white;
+
+    margin-top:
+        2rem;
+}
+
+
+button.danger-outline {
+    background:
+        white;
+
+    color:
+        var(--danger);
+
+    border:
+        1px solid
+        var(--danger);
+}
+
+
+button.small {
+    padding:
+        0.4rem 0.7rem;
+
+    background:
+        white;
+
+    border:
+        1px solid
+        var(--border);
+}
+
+
+button.active {
+    background:
+        var(--primary);
+
+    color:
+        white;
+}
+
+
+/*
+ * IMPORTANTE v1.1:
+ *
+ * aspecto del botón de simulacro cuando
+ * todavía no están los 60 temas.
+ */
+
+button:disabled {
+    cursor:
+        not-allowed;
+
+    opacity:
+        0.45;
+
+    background:
+        var(--disabled-bg);
+
+    color:
+        var(--disabled-text);
+
+    border-color:
+        var(--border);
+}
+
+
+/* ==========================================================
+   AVISOS
+   ========================================================== */
 
 .notice {
-    padding: 1rem;
-    border: 1px solid var(--border);
-    background: #fffbe8;
-    border-radius: var(--radius);
-    margin-bottom: 1rem;
+    padding:
+        1rem;
+
+    border:
+        1px solid
+        var(--border);
+
+    background:
+        #fffbe8;
+
+    border-radius:
+        var(--radius);
+
+    margin-bottom:
+        1rem;
 }
 
-.form-group { margin: 1.5rem 0; }
-.form-group label { display: block; font-weight: 600; margin-bottom: .4rem; }
+
+/* ==========================================================
+   FORMULARIOS
+   ========================================================== */
+
+.form-group {
+    margin:
+        1.5rem 0;
+}
+
+
+.form-group label {
+    display:
+        block;
+
+    font-weight:
+        600;
+
+    margin-bottom:
+        0.4rem;
+}
+
+
 .form-group input {
-    width: 150px;
-    padding: .6rem;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    font-size: 1rem;
+    width:
+        150px;
+
+    padding:
+        0.6rem;
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:
+        6px;
+
+    font-size:
+        1rem;
 }
 
-.topics, .question-card, .history-card, .topic-stat-card, .stat-card, .resume-card {
-    background: var(--surface);
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
+
+/* ==========================================================
+   TARJETAS
+   ========================================================== */
+
+.topics,
+.question-card,
+.history-card,
+.topic-stat-card,
+.stat-card,
+.resume-card {
+    background:
+        var(--surface);
+
+    border-radius:
+        var(--radius);
+
+    box-shadow:
+        var(--shadow);
 }
 
-.topics { padding: 1.5rem; }
-.topics-header, .section-title, .history-header, .topic-stat-header, .test-status {
-    display: flex;
-    justify-content: space-between;
-    gap: 1rem;
-    align-items: center;
+
+/* ==========================================================
+   TEMAS
+   ========================================================== */
+
+.topics {
+    padding:
+        1.5rem;
 }
 
-.block-actions, .resume-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .5rem;
-    margin-bottom: 1rem;
+
+.topics-header,
+.section-title,
+.history-header,
+.topic-stat-header,
+.test-status {
+    display:
+        flex;
+
+    justify-content:
+        space-between;
+
+    gap:
+        1rem;
+
+    align-items:
+        center;
 }
 
-.topic-block { margin-top: 1.5rem; }
+
+.block-actions,
+.resume-actions {
+    display:
+        flex;
+
+    flex-wrap:
+        wrap;
+
+    gap:
+        0.5rem;
+
+    margin-bottom:
+        1rem;
+}
+
+
+/*
+ * NUEVO v1.1
+ *
+ * Información:
+ * "10 de 60 temas disponibles"
+ */
+
+.topics-availability {
+    display:
+        flex;
+
+    flex-direction:
+        column;
+
+    gap:
+        0.2rem;
+
+    padding:
+        1rem;
+
+    margin:
+        1rem 0 1.5rem;
+
+    background:
+        var(--primary-light);
+
+    border-radius:
+        8px;
+}
+
+
+.topics-availability strong {
+    color:
+        var(--primary);
+}
+
+
+.topics-availability span {
+    color:
+        var(--muted);
+
+    font-size:
+        0.9rem;
+}
+
+
+.topic-block {
+    margin-top:
+        1.5rem;
+}
+
+
 .topic-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: .5rem;
+    display:
+        grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fill,
+            minmax(
+                280px,
+                1fr
+            )
+        );
+
+    gap:
+        0.5rem;
 }
+
 
 .topic {
-    display: flex;
-    align-items: flex-start;
-    gap: .6rem;
-    padding: .7rem;
-    border: 1px solid var(--border);
-    border-radius: 6px;
-    cursor: pointer;
+    display:
+        flex;
+
+    align-items:
+        flex-start;
+
+    gap:
+        0.6rem;
+
+    padding:
+        0.7rem;
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:
+        6px;
+
+    cursor:
+        pointer;
 }
 
-.topic:hover, .answer:hover { background: var(--primary-light); }
-.topic strong { display: block; }
 
-.question-card { padding: 2rem; }
-.question-topic { color: var(--primary); font-size: .9rem; font-weight: 600; margin-bottom: .8rem; }
-.question-card h2 { font-size: 1.3rem; margin-top: 0; }
+.topic:hover {
+    background:
+        var(--primary-light);
+}
 
-.answers { display: grid; gap: .8rem; margin: 1.5rem 0; }
+
+.topic strong {
+    display:
+        block;
+}
+
+
+/*
+ * NUEVO v1.1
+ *
+ * Tema que no tiene data/tema-XX.json
+ */
+
+.topic-unavailable {
+    cursor:
+        not-allowed;
+
+    background:
+        var(--disabled-bg);
+
+    color:
+        var(--disabled-text);
+
+    opacity:
+        0.72;
+}
+
+
+.topic-unavailable:hover {
+    background:
+        var(--disabled-bg);
+}
+
+
+.topic-unavailable input {
+    cursor:
+        not-allowed;
+}
+
+
+/*
+ * Badge:
+ *
+ * Sin preguntas
+ */
+
+.topic-unavailable-badge {
+    display:
+        inline-block;
+
+    width:
+        fit-content;
+
+    margin-top:
+        0.4rem;
+
+    padding:
+        0.15rem 0.45rem;
+
+    border-radius:
+        999px;
+
+    background:
+        #e1e3e6;
+
+    color:
+        #686e76;
+
+    font-size:
+        0.75rem;
+
+    font-weight:
+        600;
+}
+
+
+/* ==========================================================
+   TEST
+   ========================================================== */
+
+.question-card {
+    padding:
+        2rem;
+}
+
+
+.question-topic {
+    color:
+        var(--primary);
+
+    font-size:
+        0.9rem;
+
+    font-weight:
+        600;
+
+    margin-bottom:
+        0.8rem;
+}
+
+
+.question-card h2 {
+    font-size:
+        1.3rem;
+
+    margin-top:
+        0;
+}
+
+
+/* ==========================================================
+   RESPUESTAS
+   ========================================================== */
+
+.answers {
+    display:
+        grid;
+
+    gap:
+        0.8rem;
+
+    margin:
+        1.5rem 0;
+}
+
+
 .answer {
-    display: flex;
-    align-items: center;
-    gap: .8rem;
-    padding: 1rem;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    cursor: pointer;
+    display:
+        flex;
+
+    align-items:
+        center;
+
+    gap:
+        0.8rem;
+
+    padding:
+        1rem;
+
+    border:
+        1px solid
+        var(--border);
+
+    border-radius:
+        8px;
+
+    cursor:
+        pointer;
 }
+
+
+.answer:hover {
+    background:
+        var(--primary-light);
+}
+
 
 .answer-letter {
-    display: flex;
-    width: 32px;
-    height: 32px;
-    align-items: center;
-    justify-content: center;
-    border-radius: 50%;
-    background: var(--primary-light);
-    color: var(--primary);
-    font-weight: 700;
-    flex: 0 0 auto;
+    display:
+        flex;
+
+    width:
+        32px;
+
+    height:
+        32px;
+
+    align-items:
+        center;
+
+    justify-content:
+        center;
+
+    border-radius:
+        50%;
+
+    background:
+        var(--primary-light);
+
+    color:
+        var(--primary);
+
+    font-weight:
+        700;
+
+    flex:
+        0 0 auto;
 }
 
-.navigation { display: flex; justify-content: space-between; margin-top: 1rem; }
-.question-grid { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: 1.5rem; }
+
+/* ==========================================================
+   NAVEGACIÓN POR PREGUNTAS
+   ========================================================== */
+
+.navigation {
+    display:
+        flex;
+
+    justify-content:
+        space-between;
+
+    margin-top:
+        1rem;
+}
+
+
+.question-grid {
+    display:
+        flex;
+
+    flex-wrap:
+        wrap;
+
+    gap:
+        0.4rem;
+
+    margin-top:
+        1.5rem;
+}
+
+
 .question-number {
-    width: 40px;
-    height: 40px;
-    padding: 0;
-    background: white;
-    border: 1px solid var(--border);
+    width:
+        40px;
+
+    height:
+        40px;
+
+    padding:
+        0;
+
+    background:
+        white;
+
+    border:
+        1px solid
+        var(--border);
 }
 
-.question-number.answered { background: var(--primary-light); border-color: var(--primary); }
-.question-number.current { background: var(--primary); color: white; }
 
-.results-summary, .statistics-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-    gap: 1rem;
+.question-number.answered {
+    background:
+        var(--primary-light);
+
+    border-color:
+        var(--primary);
 }
 
-.result, .stat-card {
-    background: white;
-    padding: 1.5rem;
-    text-align: center;
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
+
+.question-number.current {
+    background:
+        var(--primary);
+
+    color:
+        white;
 }
 
-.result span, .stat-card strong { display: block; font-size: 2rem; font-weight: 700; }
-.result.correct span, .correct-text { color: var(--success); }
-.result.incorrect span, .incorrect-text { color: var(--danger); }
-.result.blank span, .muted { color: var(--muted); }
-.stat-card strong { color: var(--primary); }
-.stat-card span { display: block; margin-top: .4rem; color: var(--muted); }
 
-.score { margin: 2rem 0; font-size: 1.5rem; text-align: center; }
-.score strong { font-size: 2.5rem; }
+/* ==========================================================
+   RESULTADOS
+   ========================================================== */
 
-.passed, .failed, .perfect {
-    margin: 1rem auto 2rem;
-    padding: 1rem;
-    max-width: 360px;
-    text-align: center;
-    border-radius: var(--radius);
-    font-weight: 700;
+.results-summary,
+.statistics-grid {
+    display:
+        grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(
+                170px,
+                1fr
+            )
+        );
+
+    gap:
+        1rem;
 }
 
-.passed, .perfect { color: var(--success); background: var(--success-light); }
-.failed { color: var(--danger); background: var(--danger-light); }
+
+.result,
+.stat-card {
+    background:
+        white;
+
+    padding:
+        1.5rem;
+
+    text-align:
+        center;
+
+    border-radius:
+        var(--radius);
+
+    box-shadow:
+        var(--shadow);
+}
+
+
+.result span,
+.stat-card strong {
+    display:
+        block;
+
+    font-size:
+        2rem;
+
+    font-weight:
+        700;
+}
+
+
+.result.correct span,
+.correct-text {
+    color:
+        var(--success);
+}
+
+
+.result.incorrect span,
+.incorrect-text {
+    color:
+        var(--danger);
+}
+
+
+.result.blank span,
+.muted {
+    color:
+        var(--muted);
+}
+
+
+.stat-card strong {
+    color:
+        var(--primary);
+}
+
+
+.stat-card span {
+    display:
+        block;
+
+    margin-top:
+        0.4rem;
+
+    color:
+        var(--muted);
+}
+
+
+/* ==========================================================
+   NOTA
+   ========================================================== */
+
+.score {
+    margin:
+        2rem 0;
+
+    font-size:
+        1.5rem;
+
+    text-align:
+        center;
+}
+
+
+.score strong {
+    font-size:
+        2.5rem;
+}
+
+
+/* ==========================================================
+   APROBADO / SUSPENSO
+   ========================================================== */
+
+.passed,
+.failed,
+.perfect {
+    margin:
+        1rem auto 2rem;
+
+    padding:
+        1rem;
+
+    max-width:
+        360px;
+
+    text-align:
+        center;
+
+    border-radius:
+        var(--radius);
+
+    font-weight:
+        700;
+}
+
+
+.passed,
+.perfect {
+    color:
+        var(--success);
+
+    background:
+        var(--success-light);
+}
+
+
+.failed {
+    color:
+        var(--danger);
+
+    background:
+        var(--danger-light);
+}
+
+
+/* ==========================================================
+   REVISIÓN
+   ========================================================== */
 
 .review-card {
-    background: white;
-    padding: 1.5rem;
-    margin: 1rem 0;
-    border-radius: var(--radius);
-    box-shadow: var(--shadow);
+    background:
+        white;
+
+    padding:
+        1.5rem;
+
+    margin:
+        1rem 0;
+
+    border-radius:
+        var(--radius);
+
+    box-shadow:
+        var(--shadow);
 }
 
-.your-answer { color: var(--danger); }
-.correct-answer { color: var(--success); }
+
+.your-answer {
+    color:
+        var(--danger);
+}
+
+
+.correct-answer {
+    color:
+        var(--success);
+}
+
+
+/* ==========================================================
+   ERRORES
+   ========================================================== */
 
 .error {
-    padding: 1rem;
-    margin: 1rem 0;
-    background: var(--danger-light);
-    color: var(--danger);
-    border-radius: var(--radius);
+    padding:
+        1rem;
+
+    margin:
+        1rem 0;
+
+    background:
+        var(--danger-light);
+
+    color:
+        var(--danger);
+
+    border-radius:
+        var(--radius);
 }
 
-.resume-card { max-width: 760px; margin: 2rem auto; padding: 2rem; }
+
+/* ==========================================================
+   RECUPERACIÓN DE TEST
+   ========================================================== */
+
+.resume-card {
+    max-width:
+        760px;
+
+    margin:
+        2rem auto;
+
+    padding:
+        2rem;
+}
+
+
 .resume-summary {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: .7rem;
-    margin: 1.5rem 0;
-}
-.resume-summary p { margin: 0; padding: .8rem; background: var(--background); border-radius: 6px; }
+    display:
+        grid;
 
-.history-card, .topic-stat-card { padding: 1.3rem; margin-bottom: 1rem; }
-.history-score {
-    min-width: 80px;
-    text-align: center;
-    padding: .5rem;
-    border-radius: 8px;
-    font-weight: 700;
-    font-size: 1.3rem;
+    grid-template-columns:
+        repeat(
+            auto-fit,
+            minmax(
+                180px,
+                1fr
+            )
+        );
+
+    gap:
+        0.7rem;
+
+    margin:
+        1.5rem 0;
 }
-.score-pass { color: var(--success); background: var(--success-light); }
-.score-fail { color: var(--danger); background: var(--danger-light); }
-.history-data, .topic-stat-values { display: flex; flex-wrap: wrap; gap: 1rem; margin-top: 1rem; }
-.history-topics { margin-top: .7rem; color: var(--muted); font-size: .9rem; }
+
+
+.resume-summary p {
+    margin:
+        0;
+
+    padding:
+        0.8rem;
+
+    background:
+        var(--background);
+
+    border-radius:
+        6px;
+}
+
+
+/* ==========================================================
+   HISTORIAL
+   ========================================================== */
+
+.history-card,
+.topic-stat-card {
+    padding:
+        1.3rem;
+
+    margin-bottom:
+        1rem;
+}
+
+
+.history-score {
+    min-width:
+        80px;
+
+    text-align:
+        center;
+
+    padding:
+        0.5rem;
+
+    border-radius:
+        8px;
+
+    font-weight:
+        700;
+
+    font-size:
+        1.3rem;
+}
+
+
+.score-pass {
+    color:
+        var(--success);
+
+    background:
+        var(--success-light);
+}
+
+
+.score-fail {
+    color:
+        var(--danger);
+
+    background:
+        var(--danger-light);
+}
+
+
+.history-data,
+.topic-stat-values {
+    display:
+        flex;
+
+    flex-wrap:
+        wrap;
+
+    gap:
+        1rem;
+
+    margin-top:
+        1rem;
+}
+
+
+.history-topics {
+    margin-top:
+        0.7rem;
+
+    color:
+        var(--muted);
+
+    font-size:
+        0.9rem;
+}
+
+
+/* ==========================================================
+   ESTADÍSTICAS
+   ========================================================== */
 
 .progress-bar {
-    height: 10px;
-    margin: 1rem 0;
-    background: #e8eaed;
-    border-radius: 10px;
-    overflow: hidden;
+    height:
+        10px;
+
+    margin:
+        1rem 0;
+
+    background:
+        #e8eaed;
+
+    border-radius:
+        10px;
+
+    overflow:
+        hidden;
 }
-.progress-value { height: 100%; background: var(--primary); border-radius: 10px; }
+
+
+.progress-value {
+    height:
+        100%;
+
+    background:
+        var(--primary);
+
+    border-radius:
+        10px;
+}
+
+
+/* ==========================================================
+   MENSAJES VACÍOS
+   ========================================================== */
 
 .empty-message {
-    padding: 2rem;
-    text-align: center;
-    background: var(--surface);
-    border-radius: var(--radius);
-    color: var(--muted);
+    padding:
+        2rem;
+
+    text-align:
+        center;
+
+    background:
+        var(--surface);
+
+    border-radius:
+        var(--radius);
+
+    color:
+        var(--muted);
 }
 
-.hidden { display: none !important; }
 
-@media (max-width: 600px) {
-    .topics-header, .section-title, .history-header, .topic-stat-header {
-        align-items: flex-start;
-        flex-direction: column;
+/* ==========================================================
+   UTILIDADES
+   ========================================================== */
+
+.hidden {
+    display:
+        none !important;
+}
+
+
+/* ==========================================================
+   RESPONSIVE
+   ========================================================== */
+
+@media (
+    max-width: 600px
+) {
+
+    .topics-header,
+    .section-title,
+    .history-header,
+    .topic-stat-header {
+
+        align-items:
+            flex-start;
+
+        flex-direction:
+            column;
     }
-    .question-card { padding: 1.2rem; }
-    .navigation { gap: .5rem; }
+
+
+    .question-card {
+        padding:
+            1.2rem;
+    }
+
+
+    .navigation {
+        gap:
+            0.5rem;
+    }
 }

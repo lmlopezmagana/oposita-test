@@ -1,5 +1,5 @@
 export const CONFIG = {
-    APP_VERSION: "1.0",
+    APP_VERSION: "1.1",
     NUM_TEMAS: 60,
 
     EXAMEN_OFICIAL: {
