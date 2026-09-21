@@ -1,0 +1,506 @@
+{
+  "tema": 12,
+  "titulo": "Tema 12. El procedimiento administrativo",
+  "preguntas": [
+    {
+      "id": "T12-P0001",
+      "pregunta": "¿Cuál expresa mejor la doble naturaleza del procedimiento administrativo según el Tema 12?",
+      "opciones": [
+        "Es exclusivamente una técnica interna de organización administrativa sin función garantista.",
+        "Es instrumento de actuación administrativa y, a la vez, garantía de las personas afectadas.",
+        "Es un mecanismo jurisdiccional destinado únicamente a revisar actos administrativos firmes."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0002",
+      "pregunta": "Según el artículo 105.c de la Constitución Española, ¿qué aspecto debe regular la ley en relación con el procedimiento administrativo?",
+      "opciones": [
+        "El procedimiento mediante el cual se producen los actos administrativos, garantizando, cuando proceda, la audiencia del interesado.",
+        "El régimen disciplinario de todos los empleados públicos, garantizando siempre audiencia previa.",
+        "La organización interna de cada Administración, excluyendo cualquier garantía de audiencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0003",
+      "pregunta": "¿Qué regula la Ley 39/2015, entre otras materias, según el documento?",
+      "opciones": [
+        "Únicamente los recursos administrativos y la jurisdicción contencioso-administrativa.",
+        "Los requisitos de validez y eficacia de los actos administrativos y el procedimiento administrativo común a todas las Administraciones Públicas.",
+        "Exclusivamente la organización territorial y el régimen del personal de las Entidades Locales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0004",
+      "pregunta": "Dentro del Título IV de la Ley 39/2015, ¿qué intervalo de artículos constituye el núcleo examinable del Tema 12 según el documento?",
+      "opciones": [
+        "Los artículos 13 a 52.",
+        "Los artículos 96 a 105.",
+        "Los artículos 53 a 95."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0005",
+      "pregunta": "¿Cuál de los siguientes es un derecho específico del interesado en un procedimiento conforme al artículo 53?",
+      "opciones": [
+        "Exigir que todos los informes del procedimiento sean vinculantes para el órgano resolutor.",
+        "Conocer el estado de tramitación, el sentido del silencio y los órganos instructor y resolutor, así como acceder y obtener copia de los documentos.",
+        "Suspender unilateralmente la tramitación cuando formule una cuestión incidental."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0006",
+      "pregunta": "En un procedimiento sancionador, ¿qué garantía adicional reconoce el artículo 53 al interesado?",
+      "opciones": [
+        "El derecho a que la denuncia determine por sí sola la imposición de una sanción.",
+        "La presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.",
+        "La presunción de responsabilidad administrativa desde la notificación del acuerdo de iniciación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0007",
+      "pregunta": "Conforme al artículo 54, los procedimientos administrativos pueden iniciarse:",
+      "opciones": [
+        "De oficio o a solicitud del interesado.",
+        "Sólo a solicitud del interesado, salvo los procedimientos sancionadores.",
+        "Sólo de oficio, salvo los procedimientos de responsabilidad patrimonial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0008",
+      "pregunta": "¿Cuál es la finalidad del período de información o actuaciones previas del artículo 55?",
+      "opciones": [
+        "Resolver anticipadamente el fondo sin necesidad de acuerdo de iniciación.",
+        "Conocer las circunstancias del caso y valorar la conveniencia de iniciar el procedimiento.",
+        "Sustituir el trámite de audiencia una vez concluida la instrucción."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0009",
+      "pregunta": "Una vez iniciado el procedimiento, ¿quién puede adoptar medidas provisionales del artículo 56 para asegurar la eficacia de la resolución?",
+      "opciones": [
+        "El órgano competente para resolver, de oficio o a instancia de parte y de forma motivada.",
+        "Cualquier órgano administrativo, aunque carezca de competencia sobre el procedimiento.",
+        "Exclusivamente el instructor, siempre a instancia de parte y sin necesidad de motivación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0010",
+      "pregunta": "Las medidas provisionales adoptadas antes de iniciar el procedimiento por urgencia inaplazable deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación dentro de:",
+      "opciones": [
+        "Los 15 días siguientes.",
+        "Los 10 días siguientes.",
+        "Los 30 días siguientes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0011",
+      "pregunta": "¿Qué regla se aplica al acuerdo de acumulación de procedimientos del artículo 57?",
+      "opciones": [
+        "Cabe recurso de alzada en todo caso.",
+        "Cabe recurso potestativo de reposición antes de continuar la tramitación.",
+        "No procede recurso alguno contra el acuerdo de acumulación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0012",
+      "pregunta": "Respecto de la petición razonada del artículo 61, señale la afirmación correcta:",
+      "opciones": [
+        "Sólo puede formularla un órgano jerárquicamente superior al competente para iniciar.",
+        "No vincula al órgano competente para iniciar, pero la negativa debe comunicarse y motivarse al órgano peticionario.",
+        "Vincula siempre al órgano competente para iniciar y no requiere motivación alguna."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0013",
+      "pregunta": "¿Qué efecto produce por sí sola la presentación de una denuncia conforme al artículo 62?",
+      "opciones": [
+        "Convierte automáticamente al denunciante en interesado.",
+        "Obliga siempre a iniciar el procedimiento y a reconocer al denunciante legitimación plena.",
+        "No confiere por sí sola la condición de interesado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0014",
+      "pregunta": "En relación con el procedimiento sancionador, ¿cuál de estas afirmaciones es correcta?",
+      "opciones": [
+        "Puede iniciarse indistintamente de oficio o a solicitud del denunciante, y un mismo órgano debe instruir y sancionar.",
+        "Se inicia siempre de oficio y debe existir separación entre la fase instructora y la sancionadora, encomendadas a órganos distintos.",
+        "Sólo puede iniciarse por orden superior y la separación entre instrucción y resolución es facultativa."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0015",
+      "pregunta": "¿Cuándo puede el acuerdo de iniciación de un procedimiento sancionador considerarse propuesta de resolución?",
+      "opciones": [
+        "Cuando no se formulen alegaciones y contenga un pronunciamiento preciso sobre la responsabilidad imputada.",
+        "Únicamente después de practicarse el trámite de información pública.",
+        "Siempre que el denunciante ratifique los hechos, aunque el acuerdo no concrete la responsabilidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0016",
+      "pregunta": "En un procedimiento de responsabilidad patrimonial iniciado de oficio, los particulares presuntamente lesionados disponen para alegar, aportar documentos e información y proponer prueba de:",
+      "opciones": [
+        "20 días.",
+        "15 días.",
+        "10 días."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0017",
+      "pregunta": "¿Cuál de los siguientes datos forma parte del contenido de una solicitud del artículo 66?",
+      "opciones": [
+        "La propuesta obligatoria de resolución que debe adoptar la Administración.",
+        "La identificación del funcionario que habrá de instruir el procedimiento.",
+        "El órgano, centro o unidad administrativa a la que se dirige y su código de identificación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0018",
+      "pregunta": "Como regla general, ¿desde cuándo se computa el plazo de un año para reclamar responsabilidad patrimonial por daños de carácter físico o psíquico?",
+      "opciones": [
+        "Desde la curación o desde la determinación del alcance de las secuelas.",
+        "Desde la fecha en que el interesado presenta la primera alegación ante la Administración.",
+        "Siempre desde la fecha exacta en que se produjo el hecho lesivo, sin excepción."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0019",
+      "pregunta": "Si una solicitud no reúne los requisitos exigidos, el artículo 68 establece, como regla, un plazo de subsanación de:",
+      "opciones": [
+        "5 días.",
+        "15 días.",
+        "10 días."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0020",
+      "pregunta": "¿En qué supuesto no procede la ampliación de hasta 5 días del plazo de subsanación por dificultades especiales?",
+      "opciones": [
+        "En procedimientos de responsabilidad patrimonial.",
+        "En procedimientos selectivos o de concurrencia competitiva.",
+        "En procedimientos iniciados a solicitud de una sola persona."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0021",
+      "pregunta": "Una persona obligada a relacionarse electrónicamente presenta su solicitud en papel. Según el artículo 68:",
+      "opciones": [
+        "Debe subsanar mediante presentación electrónica y se considera como fecha de presentación la de la subsanación.",
+        "La solicitud queda automáticamente anulada sin posibilidad de subsanación.",
+        "La solicitud se tiene por presentada en la fecha inicial en papel, aunque la subsanación electrónica se haga después."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0022",
+      "pregunta": "Respecto de la declaración responsable y la comunicación del artículo 69, señale la opción correcta:",
+      "opciones": [
+        "Deben exigirse acumulativamente siempre que la actividad tenga efectos frente a terceros.",
+        "Ninguna de las dos puede permitir el inicio de una actividad desde su presentación.",
+        "Para una misma actividad no puede exigirse acumulativamente una declaración responsable y una comunicación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0023",
+      "pregunta": "¿Cómo define el artículo 70 el expediente administrativo?",
+      "opciones": [
+        "Como el conjunto exclusivo de resoluciones firmes dictadas por un mismo órgano.",
+        "Como el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, además de las diligencias encaminadas a ejecutarla.",
+        "Como cualquier agrupación de documentos internos, borradores y notas de apoyo, aunque no guarden relación con una resolución."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0024",
+      "pregunta": "¿Cuál de los siguientes elementos no forma parte, con carácter general, del expediente administrativo?",
+      "opciones": [
+        "Las notas, borradores, opiniones, resúmenes y comunicaciones internas de carácter auxiliar o de apoyo.",
+        "Los informes preceptivos solicitados antes de la resolución.",
+        "Las pruebas incorporadas al procedimiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0025",
+      "pregunta": "En asuntos de naturaleza homogénea, el impulso del procedimiento exige respetar:",
+      "opciones": [
+        "El orden riguroso de incoación, salvo orden motivada en contrario.",
+        "El orden alfabético de los interesados en todo caso.",
+        "El orden elegido libremente por el instructor, sin necesidad de motivación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0026",
+      "pregunta": "El principio de concentración de trámites del artículo 72 implica que:",
+      "opciones": [
+        "Se acordarán en un solo acto los trámites que admitan impulso simultáneo y no deban cumplirse sucesivamente.",
+        "Los trámites sucesivos deben sustituirse siempre por un único informe final.",
+        "Todos los trámites deben realizarse necesariamente el mismo día."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0027",
+      "pregunta": "Como regla general, los trámites que deban cumplimentar los interesados se realizarán en:",
+      "opciones": [
+        "10 días desde el siguiente a la notificación, salvo que se fije un plazo distinto.",
+        "15 días desde el mismo día de la notificación, sin excepciones.",
+        "20 días desde la publicación del acto en el diario oficial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0028",
+      "pregunta": "Si un interesado cumple tardíamente un trámite tras vencer el plazo, ¿cuándo debe admitirse todavía su actuación según el artículo 73?",
+      "opciones": [
+        "Si se produce antes o dentro del día en que se notifique la resolución que tenga por transcurrido el plazo.",
+        "Nunca, porque el vencimiento del plazo impide cualquier actuación posterior.",
+        "Sólo si se produce dentro de las 24 horas siguientes al vencimiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0029",
+      "pregunta": "¿Qué cuestión incidental constituye la excepción a la regla de que las cuestiones incidentales no suspenden la tramitación?",
+      "opciones": [
+        "La alegación de nulidad de actuaciones.",
+        "La recusación.",
+        "La solicitud de copia del expediente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0030",
+      "pregunta": "Los actos de instrucción del artículo 75 tienen por finalidad:",
+      "opciones": [
+        "Revisar de oficio cualquier acto firme ajeno al procedimiento.",
+        "Sustituir el acuerdo de iniciación por una propuesta de resolución.",
+        "Determinar, conocer y comprobar los hechos sobre los que deba pronunciarse la resolución."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0031",
+      "pregunta": "¿Hasta qué momento pueden los interesados formular alegaciones y aportar documentos conforme al artículo 76?",
+      "opciones": [
+        "Antes del trámite de audiencia.",
+        "Sólo durante el período de prueba.",
+        "Únicamente después de redactada la propuesta de resolución."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0032",
+      "pregunta": "Cuando proceda abrir un período ordinario de prueba, su duración será:",
+      "opciones": [
+        "Exactamente 30 días.",
+        "No inferior a 10 días ni superior a 30 días.",
+        "No inferior a 20 días ni superior a 40 días."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0033",
+      "pregunta": "El período extraordinario de prueba que puede acordar el instructor a petición de los interesados tendrá una duración de:",
+      "opciones": [
+        "Hasta 10 días.",
+        "Entre 10 y 30 días obligatoriamente.",
+        "Hasta 15 días."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0034",
+      "pregunta": "¿Cuándo puede rechazarse una prueba propuesta por los interesados?",
+      "opciones": [
+        "Cuando sea manifiestamente improcedente o innecesaria, mediante resolución motivada.",
+        "Sólo cuando la prueba haya sido propuesta después del trámite de información pública.",
+        "Siempre que el instructor prefiera otro medio de prueba, sin necesidad de motivar."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0035",
+      "pregunta": "En un procedimiento sancionador, las sentencias penales firmes:",
+      "opciones": [
+        "Vinculan respecto de los hechos declarados probados.",
+        "Carecen de cualquier efecto sobre la valoración administrativa de los hechos.",
+        "Vinculan únicamente respecto de la sanción administrativa concreta que deba imponerse."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0036",
+      "pregunta": "Si el interesado alega discriminación y aporta indicios fundados, el artículo 77.3 bis establece que:",
+      "opciones": [
+        "El interesado debe probar de forma plena y exclusiva todos los hechos sin que se altere la carga justificativa.",
+        "El órgano administrativo debe archivar el procedimiento por falta de competencia para valorar discriminación.",
+        "Quien tenga imputada la situación discriminatoria debe aportar una justificación objetiva y razonable, suficientemente probada, de las medidas y su proporcionalidad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0037",
+      "pregunta": "Salvo disposición expresa en contrario, los informes en el procedimiento administrativo son:",
+      "opciones": [
+        "Preceptivos y vinculantes, y se emiten como regla en 20 días.",
+        "Facultativos pero siempre vinculantes, y se emiten como regla en 15 días.",
+        "Facultativos y no vinculantes, y se emiten como regla en 10 días."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0038",
+      "pregunta": "En responsabilidad patrimonial, cuando la indemnización reclamada es igual o superior a 50.000 euros, o concurre otro supuesto legalmente previsto:",
+      "opciones": [
+        "Debe abrirse siempre información pública por un mínimo de 30 días.",
+        "Es preceptivo dictamen del Consejo de Estado u órgano consultivo autonómico, que se emite en 2 meses.",
+        "Es obligatorio un informe del Tribunal de Cuentas, que se emite en 10 días."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0039",
+      "pregunta": "El trámite de audiencia del artículo 82 se concede, con carácter general, por un plazo:",
+      "opciones": [
+        "No inferior a 15 días ni superior a 20 días.",
+        "No inferior a 10 días ni superior a 15 días.",
+        "Exactamente de 20 días."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0040",
+      "pregunta": "¿Cuándo puede prescindirse del trámite de audiencia?",
+      "opciones": [
+        "Cuando exista cualquier informe preceptivo pendiente de emisión.",
+        "Cuando no figuren ni se tengan en cuenta otros hechos, alegaciones o pruebas que las aducidas por el interesado.",
+        "Siempre que el órgano instructor considere que la resolución será favorable."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0041",
+      "pregunta": "Respecto de la información pública del artículo 83, señale la respuesta correcta:",
+      "opciones": [
+        "Sólo pueden comparecer quienes ya tengan reconocida la condición de interesados.",
+        "El plazo es siempre de 10 a 15 días y comparecer convierte automáticamente en interesado.",
+        "El plazo para formular alegaciones nunca puede ser inferior a 20 días y comparecer no otorga por sí solo la condición de interesado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0042",
+      "pregunta": "¿Cuál de las siguientes constituye una forma de terminación del procedimiento prevista en el artículo 84?",
+      "opciones": [
+        "La mera formulación de una cuestión incidental, aunque no impida continuar.",
+        "La simple presentación de una denuncia por un tercero.",
+        "La imposibilidad material de continuarlo por causas sobrevenidas, declarada mediante resolución motivada."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0043",
+      "pregunta": "En un procedimiento sancionador con sanción únicamente pecuniaria, las reducciones por reconocimiento de responsabilidad y pago voluntario son:",
+      "opciones": [
+        "Exactamente del 10 % cada una y nunca acumulables.",
+        "De al menos el 20 % cada una, acumulables, con la efectividad condicionada al desistimiento o renuncia de acciones o recursos administrativos contra la sanción.",
+        "De hasta el 20 % en total y compatibles con mantener cualquier recurso administrativo contra la sanción."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0044",
+      "pregunta": "Sobre la terminación convencional del artículo 86, ¿qué afirmación es correcta?",
+      "opciones": [
+        "La terminación convencional sólo puede celebrarse entre Administraciones Públicas y nunca con sujetos privados.",
+        "Los acuerdos no pueden ser contrarios al ordenamiento, recaer sobre materias no susceptibles de transacción ni alterar las competencias de los órganos.",
+        "Los acuerdos pueden modificar libremente la competencia del órgano si existe consentimiento de las partes."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0045",
+      "pregunta": "Antes de resolver, las actuaciones complementarias indispensables del artículo 87:",
+      "opciones": [
+        "Deben practicarse en 30 días y no se concede trámite posterior de alegaciones.",
+        "Deben practicarse en un máximo de 15 días y, tras su finalización, los interesados disponen de 7 días para alegar.",
+        "Sólo pueden acordarse a solicitud del interesado y deben practicarse en 10 días."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T12-P0046",
+      "pregunta": "En un procedimiento iniciado a solicitud del interesado, la resolución:",
+      "opciones": [
+        "Sólo puede pronunciarse sobre cuestiones planteadas literalmente por el interesado y nunca sobre cuestiones derivadas del procedimiento.",
+        "Puede agravar libremente la situación inicial siempre que lo motive.",
+        "Debe ser congruente con lo pedido y no puede agravar la situación inicial, sin perjuicio de que pueda iniciarse de oficio otro procedimiento si procede."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0047",
+      "pregunta": "Si en un procedimiento sancionador el órgano resolutor aprecia que la infracción o la sanción reviste mayor gravedad que la determinada en la propuesta de resolución:",
+      "opciones": [
+        "Debe imponer directamente la sanción más grave sin nuevo trámite.",
+        "Debe archivar necesariamente el procedimiento y comenzar otro desde el inicio.",
+        "Debe conceder al inculpado 15 días para formular alegaciones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0048",
+      "pregunta": "En responsabilidad patrimonial, transcurridos 6 meses desde la iniciación sin resolución expresa notificada ni acuerdo formalizado:",
+      "opciones": [
+        "El procedimiento caduca automáticamente sin necesidad de resolución.",
+        "Debe entenderse estimada íntegramente la indemnización reclamada.",
+        "Puede entenderse que la resolución es contraria a la indemnización."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T12-P0049",
+      "pregunta": "Tras el desistimiento o la renuncia formulados por un interesado, ¿qué plazo tienen los terceros interesados personados para solicitar la continuación del procedimiento?",
+      "opciones": [
+        "10 días desde la notificación.",
+        "20 días desde la notificación.",
+        "5 días desde la notificación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T12-P0050",
+      "pregunta": "En un procedimiento iniciado a solicitud del interesado y paralizado por causa imputable a éste, la Administración debe advertirle de que se producirá la caducidad si transcurren:",
+      "opciones": [
+        "6 meses desde la fecha de presentación de la solicitud, cualquiera que sea la causa de la paralización.",
+        "10 días sin formular nuevas alegaciones.",
+        "3 meses sin que realice las actividades necesarias para reanudar la tramitación."
+      ],
+      "correcta": 2
+    }
+  ]
+}

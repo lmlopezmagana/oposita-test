@@ -1,0 +1,506 @@
+{
+  "tema": 17,
+  "titulo": "Los Servicios Sociales en la Comunidad Autonómica Andaluza. Ley 9/2016, de 27 de diciembre, de Servicios Sociales de Andalucía.",
+  "preguntas": [
+    {
+      "id": "T17-P0001",
+      "pregunta": "¿Qué cambio caracteriza mejor el paso de la Ley 2/1988 a la Ley 9/2016 según el modelo descrito en el tema?",
+      "opciones": [
+        "Se mantiene la red desarrollada, pero el eje pasa a un sistema basado en derechos subjetivos, Catálogo, profesional de referencia, atención centrada en la persona, evaluación, calidad y transparencia.",
+        "Se sustituye la responsabilidad pública por un modelo de provisión predominantemente privada, quedando la Administración limitada a la financiación.",
+        "Se abandona la atención comunitaria para concentrar la intervención en servicios especializados de ámbito autonómico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0002",
+      "pregunta": "En el Sistema Público de Servicios Sociales de Andalucía, ¿qué implica correctamente el principio de responsabilidad pública?",
+      "opciones": [
+        "La provisión no tiene que ser siempre directa, pero la dirección superior, la planificación, la garantía de derechos, la inspección y determinadas funciones de autoridad permanecen en manos públicas.",
+        "Todos los centros y servicios deben ser gestionados directamente por una Administración pública, sin posibilidad de colaboración privada.",
+        "La responsabilidad pública se limita a aprobar el Catálogo, pudiendo delegarse íntegramente la inspección y las funciones de autoridad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0003",
+      "pregunta": "¿Cuál de las siguientes correspondencias entre títulos de la Ley 9/2016 y su contenido es correcta?",
+      "opciones": [
+        "El Título V regula las infracciones, sanciones, procedimiento sancionador y competencias para sancionar.",
+        "El Título II regula el Sistema Público de Servicios Sociales, incluyendo principios, estructuras, prestaciones, intervención, competencias y profesionales.",
+        "El Título III regula exclusivamente la iniciativa privada y social, incluidos concierto, contratación, convenios y fomento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0004",
+      "pregunta": "¿Qué asociación entre precepto estatutario y función en materia de servicios sociales es correcta?",
+      "opciones": [
+        "El artículo 23 atribuye a la Comunidad Autónoma la competencia exclusiva de regulación, ordenación y gestión de los servicios sociales.",
+        "El artículo 92 del Estatuto de Autonomía sitúa los servicios sociales comunitarios entre las competencias locales propias.",
+        "El artículo 61 reconoce el derecho individual de acceso en condiciones de igualdad a las prestaciones de un sistema público de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0005",
+      "pregunta": "¿Qué función cumple el Decreto 48/2025, de 24 de febrero, respecto de la Ley 9/2016?",
+      "opciones": [
+        "Aprueba el Mapa de Servicios Sociales y fija por primera vez las Zonas Básicas y las Áreas de Servicios Sociales.",
+        "Aprueba el Catálogo de Prestaciones y concreta las prestaciones, su naturaleza, acceso, titularidad, gestión y financiación.",
+        "Sustituye a la Ley 9/2016 como norma general de ordenación del Sistema Público de Servicios Sociales de Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0006",
+      "pregunta": "Conforme al tema, ¿cuál de las siguientes afirmaciones forma parte de las finalidades del artículo 1 de la Ley 9/2016?",
+      "opciones": [
+        "Ordenar el papel de la iniciativa privada y asegurar la calidad y eficiencia del sistema, además de garantizar el derecho universal y regular las prestaciones garantizadas.",
+        "Limitar el derecho de acceso al sistema a quienes tengan vecindad administrativa en Andalucía, sin excepciones.",
+        "Reservar a gestión pública directa la totalidad de las prestaciones sociales financiadas con fondos públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0007",
+      "pregunta": "Un centro privado de servicios sociales que no esté integrado en el Sistema Público de Servicios Sociales de Andalucía queda, según el tema:",
+      "opciones": [
+        "Sujeto únicamente al régimen sancionador, pero no a autorización, registro, inspección ni reglas de derechos de las personas usuarias.",
+        "Fuera del ámbito de la Ley 9/2016, salvo que reciba una subvención nominativa de la Junta de Andalucía.",
+        "Sujeto, al menos, a las reglas sobre derechos y obligaciones, autorización, registro, inspección y control, y régimen sancionador."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0008",
+      "pregunta": "Una persona que se encuentra en Andalucía, pero no tiene vecindad administrativa en la Comunidad ni encaja en otros supuestos de titularidad, solicita atención ante una urgencia social. ¿Qué garantiza la Ley 9/2016 en ese supuesto?",
+      "opciones": [
+        "El acceso automático a cualquier prestación económica garantizada incluida en el Catálogo.",
+        "Información, valoración, diagnóstico y orientación.",
+        "Exclusivamente información general, debiendo posponerse la valoración y el diagnóstico hasta acreditar vecindad administrativa."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0009",
+      "pregunta": "¿Cuál es la diferencia esencial entre prestaciones garantizadas y condicionadas?",
+      "opciones": [
+        "Las garantizadas dependen de disponibilidad presupuestaria, mientras que las condicionadas constituyen siempre un derecho subjetivo.",
+        "Las garantizadas son exigibles si se cumplen sus requisitos; las condicionadas dependen además de disponibilidad y prioridad objetiva.",
+        "Las garantizadas solo pueden ser económicas y las condicionadas solo pueden consistir en servicios."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0010",
+      "pregunta": "¿Qué significa correctamente el acceso universal al Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "Que solo pueden establecerse requisitos de acceso para las prestaciones condicionadas, nunca para las garantizadas.",
+        "Que el acceso al sistema es universal, sin que ello suponga que toda prestación se conceda automáticamente, pues cada una exige sus requisitos específicos.",
+        "Que toda persona que acceda al sistema adquiere de forma inmediata derecho subjetivo a todas las prestaciones del Catálogo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0011",
+      "pregunta": "Respecto de una prestación garantizada, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Solo puede reclamarse judicialmente después de acreditar que existe disponibilidad presupuestaria específica para esa prestación.",
+        "No constituye un derecho subjetivo, aunque la Administración debe priorizar objetivamente a la persona solicitante.",
+        "Puede reclamarse en vía administrativa y judicial cuando se cumplen los requisitos establecidos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0012",
+      "pregunta": "¿En cuál de los planos de derechos regulados en la Ley 9/2016 se sitúan específicamente el Proyecto de Intervención Social y la persona profesional de referencia?",
+      "opciones": [
+        "Exclusivamente en los derechos específicos de convivencia de las personas residentes en centros.",
+        "Únicamente en los derechos generales de participación política de la ciudadanía.",
+        "En los derechos de las personas usuarias del sistema."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0013",
+      "pregunta": "¿Cuál de las siguientes conductas aparece entre las obligaciones de las personas usuarias del sistema?",
+      "opciones": [
+        "Aceptar cualquier recurso prescrito por el profesional de referencia, aunque no forme parte del Proyecto de Intervención Social acordado.",
+        "Renunciar al derecho a la intimidad cuando la intervención requiera coordinación entre distintos sistemas públicos.",
+        "Facilitar información veraz y cumplir las normas y los acuerdos de intervención que resulten aplicables."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0014",
+      "pregunta": "En relación con la participación ciudadana, ¿qué caracteriza a los consejos locales de servicios sociales?",
+      "opciones": [
+        "Tienen capacidad resolutoria sobre el reconocimiento de prestaciones garantizadas de competencia autonómica.",
+        "Tienen carácter consultivo y su composición y funcionamiento corresponden a la entidad local dentro del marco legal.",
+        "Son órganos autonómicos desconcentrados cuya composición se determina exclusivamente por la Consejería competente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0015",
+      "pregunta": "¿Qué instrumento institucional prevé la Ley 9/2016 para difundir de forma destacada los derechos y deberes en servicios sociales?",
+      "opciones": [
+        "El contrato programa, que sustituye a la información individual de derechos y deberes.",
+        "La Carta de Derechos y Deberes, a la que debe darse la máxima difusión.",
+        "El Mapa de Servicios Sociales, que actúa como carta general de derechos de las personas usuarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0016",
+      "pregunta": "¿Qué recursos privados forman parte del Sistema Público de Servicios Sociales de Andalucía según el artículo 24 descrito en el tema?",
+      "opciones": [
+        "Todos los centros privados autorizados, por el mero hecho de figurar en el Registro correspondiente.",
+        "Solo las entidades privadas sin ánimo de lucro, con independencia de que exista o no vinculación jurídica con la Administración.",
+        "Los recursos privados vinculados contractualmente a las Administraciones públicas en los términos previstos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0017",
+      "pregunta": "¿A quién corresponde la superior dirección y coordinación del Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "A la Consejería competente en materia de servicios sociales.",
+        "A las diputaciones provinciales de forma conjunta, por su función supramunicipal.",
+        "Al Consejo de Servicios Sociales de Andalucía, por su condición de órgano de participación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0018",
+      "pregunta": "Según el tema, el artículo 25 de la Ley 9/2016 contiene:",
+      "opciones": [
+        "Veintitrés principios, ordenados de la letra a) a la w), incluida la ñ).",
+        "Veinticinco principios, distribuidos en cinco bloques de cinco principios cada uno.",
+        "Veintiún principios, ordenados de la letra a) a la u), excluida la ñ)."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0019",
+      "pregunta": "¿Qué consecuencia práctica se vincula en el tema a los principios de interdisciplinariedad e intersectorialidad?",
+      "opciones": [
+        "El trabajo en equipos y la coordinación con sistemas como salud, educación, empleo, vivienda y justicia.",
+        "La sustitución de los servicios sociales comunitarios por equipos especializados cuando intervienen varios sistemas.",
+        "La atribución de la resolución administrativa al profesional que coordine la intervención interdisciplinar."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0020",
+      "pregunta": "La cooperación con la iniciativa privada dentro del Sistema Público se entiende, según los principios de gobernanza, como:",
+      "opciones": [
+        "Una cooperación estable compatible con el mantenimiento de la responsabilidad pública.",
+        "Una fórmula admisible solo para prestaciones condicionadas y nunca para servicios de responsabilidad pública.",
+        "Una transferencia de la responsabilidad pública a la entidad proveedora mientras dure el concierto o contrato."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0021",
+      "pregunta": "¿Cómo se estructura funcionalmente el Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "En un nivel primario, articulado mediante servicios sociales comunitarios, y un nivel especializado, coordinados y complementarios.",
+        "En tres niveles jerárquicos: municipal, provincial y autonómico, de acceso sucesivo y excluyente.",
+        "En un nivel comunitario de acceso universal y un nivel residencial reservado exclusivamente a situaciones de dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0022",
+      "pregunta": "¿Qué rasgo de gestión corresponde al nivel primario de servicios sociales según el tema?",
+      "opciones": [
+        "Los servicios sociales comunitarios pueden ser de titularidad privada siempre que estén acreditados por la Consejería.",
+        "Los servicios sociales comunitarios son de titularidad y gestión pública local.",
+        "La titularidad corresponde a la Junta de Andalucía y la gestión se delega obligatoriamente en las entidades locales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0023",
+      "pregunta": "¿Qué titulaciones contempla el tema para la dirección de un centro de servicios sociales comunitarios?",
+      "opciones": [
+        "Trabajo Social, Derecho o Sociología, siempre que la persona directora tenga la condición de personal funcionario de carrera.",
+        "Trabajo Social, Educación Social o Psicología, debiendo recaer la dirección en personal empleado público.",
+        "Exclusivamente Trabajo Social, pudiendo recaer la dirección tanto en personal público como en personal de una entidad concertada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0024",
+      "pregunta": "La ratio mínima de los equipos de servicios sociales comunitarios debe incluir, al menos:",
+      "opciones": [
+        "Trabajo Social, Educación Social y Psicología.",
+        "Trabajo Social, Medicina y Psicología.",
+        "Trabajo Social, Integración Social y Asesoría Jurídica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0025",
+      "pregunta": "En los servicios sociales comunitarios, la persona profesional de referencia será:",
+      "opciones": [
+        "Una persona trabajadora social.",
+        "La persona que dirija el centro, cualquiera que sea su titulación.",
+        "Cualquier profesional del equipo interdisciplinar designado en función de la prestación principal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0026",
+      "pregunta": "¿Cuál de las siguientes actuaciones corresponde a la persona profesional de referencia sin invadir la competencia del órgano administrativo resolutor?",
+      "opciones": [
+        "Dictar la resolución administrativa de concesión cuando la prestación sea de competencia municipal.",
+        "Reconocer formalmente el derecho a toda prestación garantizada incluida en el Catálogo.",
+        "Valorar y diagnosticar, prescribir técnicamente recursos y prestaciones y coordinar el Proyecto de Intervención Social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0027",
+      "pregunta": "¿Qué relación territorial es correcta en el despliegue del sistema?",
+      "opciones": [
+        "Zona Básica y Área son denominaciones equivalentes que se utilizan según la Administración titular del servicio.",
+        "La Zona Básica organiza recursos comunitarios de máxima proximidad y el Área de Servicios Sociales agrupa zonas básicas y sirve de referencia a prestaciones especializadas.",
+        "El Área de Servicios Sociales constituye la unidad mínima de atención comunitaria y cada Zona Básica agrupa varias áreas especializadas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0028",
+      "pregunta": "Como regla general, la Zona Básica de Servicios Sociales se configura tomando como base el municipio sobre una población mínima de:",
+      "opciones": [
+        "20.000 habitantes, con excepciones para municipios menores.",
+        "10.000 habitantes, sin posibilidad de excepción por razón territorial.",
+        "50.000 habitantes, salvo en capitales de provincia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0029",
+      "pregunta": "¿Qué distinción entre prestaciones de servicios y prestaciones económicas recoge el tema?",
+      "opciones": [
+        "Las de servicios son actividades de equipos profesionales y pueden incorporar apoyos instrumentales, soluciones tecnológicas y programas comunitarios; las económicas son entregas dinerarias puntuales o periódicas.",
+        "Las económicas se limitan a pagos únicos de emergencia y las de servicios excluyen expresamente los programas comunitarios.",
+        "Las de servicios solo pueden prestarse presencialmente, mientras que las económicas incluyen cualquier apoyo tecnológico que tenga coste para la Administración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0030",
+      "pregunta": "¿Cuál de los siguientes elementos debe concretar el Catálogo respecto de las prestaciones?",
+      "opciones": [
+        "Únicamente denominación, cuantía económica, órgano sancionador y composición del equipo profesional responsable.",
+        "Solo población destinataria, plazo máximo de resolución y órgano judicial competente para revisar la prestación.",
+        "Entre otros, necesidad atendida, requisitos, procedimiento, plazo, aportación, suspensión o extinción, Administración competente, financiación, gestión y titularidad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0031",
+      "pregunta": "Según el Catálogo aprobado por el Decreto 48/2025, ¿cómo se distribuyen las 95 prestaciones?",
+      "opciones": [
+        "67 son garantizadas y 28 condicionadas.",
+        "65 son garantizadas y 30 condicionadas.",
+        "70 son garantizadas y 25 condicionadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0032",
+      "pregunta": "¿Cuál de las siguientes aparece en el tema entre las prestaciones que la Ley exige calificar, al menos, como garantizadas?",
+      "opciones": [
+        "Toda ayuda económica solicitada por una unidad de convivencia con ingresos inferiores a la media autonómica.",
+        "Cualquier plaza residencial especializada, con independencia de sus requisitos específicos.",
+        "La teleasistencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0033",
+      "pregunta": "¿Cuál de las siguientes funciones está reservada por el artículo 44 a gestión directa pública?",
+      "opciones": [
+        "La totalidad de los servicios especializados, aunque no impliquen ejercicio de autoridad.",
+        "La elaboración, seguimiento y evaluación del Proyecto de Intervención Social.",
+        "Cualquier actividad de apoyo instrumental incluida dentro de una prestación de servicios."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0034",
+      "pregunta": "Además de otras reservas, son de responsabilidad y gestión directa autonómica:",
+      "opciones": [
+        "Todas las prestaciones económicas municipales y cualquier programa comunitario desarrollado por entidades locales.",
+        "Los servicios de información y orientación de cualquier entidad privada autorizada, aunque no esté vinculada al sistema público.",
+        "Las medidas de internamiento no voluntario, protección y adopción de menores y las actuaciones que impliquen ejercicio de autoridad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0035",
+      "pregunta": "¿Qué caracteriza al modelo básico de intervención del artículo 45 descrito en el tema?",
+      "opciones": [
+        "La intervención secuencial de cada sistema público por separado, evitando planes compartidos para preservar la autonomía de cada Administración.",
+        "La atención integral centrada en la persona o unidad de convivencia, con participación efectiva y respeto a su estilo de vida, preferencias y creencias.",
+        "La priorización del recurso disponible sobre las preferencias de la persona para asegurar la máxima eficiencia económica."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0036",
+      "pregunta": "En la secuencia profesional descrita en el tema, ¿qué actuación se sitúa inmediatamente antes de la resolución administrativa cuando esta proceda?",
+      "opciones": [
+        "La acogida e información inicial sobre derechos y recursos.",
+        "El seguimiento y evaluación de resultados de la intervención.",
+        "La prescripción o derivación hacia el recurso idóneo comunitario, especializado u otro sistema."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0037",
+      "pregunta": "¿Qué debe ordenar el Proyecto de Intervención Social según la definición recogida en el tema?",
+      "opciones": [
+        "Solo las prestaciones económicas solicitadas, dejando las actuaciones de otros sistemas fuera del proyecto.",
+        "Exclusivamente el diagnóstico profesional y la propuesta de resolución administrativa, sin incorporar plazos ni responsabilidades.",
+        "Objetivos, recursos o prestaciones, responsabilidades, plazos y seguimiento a partir de la valoración diagnóstica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0038",
+      "pregunta": "¿Qué relación existe entre historia social y Sistema CoheSSiona según el tema?",
+      "opciones": [
+        "CoheSSiona sustituye jurídicamente a la historia social, que deja de ser instrumento técnico cuando se digitaliza.",
+        "La historia social es exclusiva del nivel especializado y CoheSSiona se limita al registro de prestaciones económicas.",
+        "La historia social es el instrumento técnico del proceso y su soporte digital se denomina Sistema CoheSSiona."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0039",
+      "pregunta": "Ante una urgencia o emergencia social, el modelo descrito exige:",
+      "opciones": [
+        "Protocolos en ambos niveles, cobertura temporal de necesidades básicas, designación de profesional de referencia y documentación para el seguimiento.",
+        "Intervención exclusiva del nivel especializado hasta que desaparezca la urgencia, sin asignación de profesional de referencia.",
+        "Concesión automática de una prestación económica garantizada antes de realizar valoración o diagnóstico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0040",
+      "pregunta": "¿Qué competencia se atribuye al Consejo de Gobierno en el esquema del tema?",
+      "opciones": [
+        "Gestionar directamente los centros de servicios sociales comunitarios de todos los municipios andaluces.",
+        "Fijar prioridades, aprobar el Catálogo y el Plan Estratégico, ejercer coordinación general y adoptar determinadas decisiones sobre precios y sanciones.",
+        "Realizar la valoración y diagnóstico individual de las personas que acceden al nivel comunitario."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0041",
+      "pregunta": "¿Cuál de las siguientes funciones corresponde a las entidades locales dentro del sistema?",
+      "opciones": [
+        "Detectar necesidades, planificar y gestionar servicios comunitarios, dotar centros y personal, promover participación y contribuir a la financiación.",
+        "Aprobar unilateralmente el Catálogo autonómico y modificar la clasificación de prestaciones garantizadas y condicionadas.",
+        "Ejercer la superior dirección del sistema y asumir con carácter general la inspección de todos los centros privados de Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0042",
+      "pregunta": "La coordinación intersectorial prevista por la Ley alcanza, entre otros ámbitos, a:",
+      "opciones": [
+        "Solo los servicios que dependan orgánicamente de la misma Administración que presta los servicios sociales.",
+        "Salud, educación, empleo, formación, vivienda y justicia, incluyendo estructuras sociosanitarias estables y protocolos.",
+        "Exclusivamente salud y educación, quedando empleo, vivienda y justicia fuera de la coordinación estructural."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0043",
+      "pregunta": "En la perspectiva municipal del tema, ¿qué debe diferenciar siempre el trabajo técnico de la decisión administrativa?",
+      "opciones": [
+        "La valoración, diagnóstico y prescripción o propuesta técnica, frente al reconocimiento formal y la resolución del órgano competente.",
+        "La coordinación intersectorial, que solo puede realizar el órgano resolutor, frente al seguimiento, reservado al nivel especializado.",
+        "La información y orientación, que corresponden al órgano resolutor, frente a la valoración, que corresponde al consejo local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0044",
+      "pregunta": "Respecto del personal del sistema, ¿qué exigencia general recoge el tema?",
+      "opciones": [
+        "Debe estar integrado únicamente por personal funcionario de carrera de la Junta de Andalucía.",
+        "Puede prescindirse de la formación continua si las competencias profesionales fueron acreditadas al incorporarse al puesto.",
+        "Debe ser suficiente, cualificado y estable, con intervención centrada en la persona, trabajo interdisciplinar y medios técnicos adecuados."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0045",
+      "pregunta": "¿Qué contenido caracteriza al Plan Estratégico de Servicios Sociales descrito en el tema?",
+      "opciones": [
+        "Únicamente la distribución territorial de Zonas Básicas y Áreas de Servicios Sociales.",
+        "Necesidades, prioridades, cobertura, recursos e indicadores, mientras que los planes específicos desarrollan problemas o colectivos concretos.",
+        "Solo las reglas de autorización, acreditación e inspección aplicables a centros de día y residenciales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0046",
+      "pregunta": "¿Qué combinación refleja correctamente el tratamiento de la ética en la Ley 9/2016 según el tema?",
+      "opciones": [
+        "Estrategia de ética, Comité de Ética de carácter consultivo y códigos éticos para práctica profesional y entidades proveedoras.",
+        "Comisión municipal de ética con capacidad para sustituir al órgano competente en decisiones sobre prestaciones garantizadas.",
+        "Tribunal de Ética con potestad sancionadora, código único estatal y obligación de resolver prestaciones controvertidas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T17-P0047",
+      "pregunta": "En relación con la iniciativa social y el concierto social, ¿qué afirmación es correcta?",
+      "opciones": [
+        "La entidad concertada decide directamente qué personas acceden a las plazas financiadas públicamente, sin intervención administrativa.",
+        "La prioridad de las entidades de iniciativa social opera cuando existan condiciones análogas de eficacia, calidad y rentabilidad social, y el acceso a plazas concertadas lo decide la Administración competente.",
+        "Las entidades de iniciativa social tienen prioridad absoluta en cualquier concierto, con independencia de eficacia, calidad o rentabilidad social."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T17-P0048",
+      "pregunta": "¿Qué principio rige la aportación económica de las personas usuarias cuando proceda?",
+      "opciones": [
+        "La aportación debe ser idéntica para todas las personas usuarias de una misma prestación, con independencia de su capacidad económica.",
+        "La falta de recursos puede impedir el acceso a prestaciones condicionadas y reducir la prioridad en las garantizadas.",
+        "Debe responder a equidad, progresividad, redistribución y solidaridad, sin excluir a nadie ni reducir calidad o prioridad por insuficiencia económica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0049",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre autorización, acreditación, registro e inspección es correcta?",
+      "opciones": [
+        "La inspección corresponde exclusivamente a las entidades locales, incluso respecto de centros y servicios privados de ámbito supramunicipal.",
+        "La inscripción en el Registro sustituye a la acreditación y habilita automáticamente a cualquier entidad para concertar.",
+        "La acreditación verifica estándares de calidad y es necesaria para el concierto, mientras la Inspección corresponde a la Consejería con colaboración local."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T17-P0050",
+      "pregunta": "¿Cómo clasifica la Ley las infracciones en materia de servicios sociales según el tema?",
+      "opciones": [
+        "En ordinarias y cualificadas, atendiendo únicamente al beneficio económico obtenido por la persona responsable.",
+        "En administrativas y profesionales, según la infracción sea cometida por una entidad o por una persona trabajadora del sistema.",
+        "En leves, graves y muy graves, atendiendo a criterios como riesgo, daño social, beneficio, intencionalidad, personas afectadas y reincidencia."
+      ],
+      "correcta": 2
+    }
+  ]
+}

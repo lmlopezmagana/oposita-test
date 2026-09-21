@@ -1,0 +1,506 @@
+{
+  "tema": 14,
+  "titulo": "La Ley Orgánica 3/2007, de 22 de marzo para la Igualdad efectiva de mujeres y hombres. Medidas en el ámbito administrativo y laboral para promover la igualdad real y efectiva de las personas TRANS y LGTBI establecidas en la Ley 4/2023, de 28 de febrero.",
+  "preguntas": [
+    {
+      "id": "T14-P0001",
+      "pregunta": "A efectos del artículo 3 de la Ley Orgánica 3/2007, el principio de igualdad de trato entre mujeres y hombres supone:",
+      "opciones": [
+        "La prohibición exclusiva de la discriminación directa por razón de sexo en las relaciones laborales.",
+        "La igualdad retributiva entre mujeres y hombres, sin extenderse a otros ámbitos de trato y oportunidades.",
+        "La ausencia de toda discriminación, directa o indirecta, por razón de sexo, con especial referencia a la maternidad, las obligaciones familiares y el estado civil."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0002",
+      "pregunta": "¿Qué efecto atribuye el artículo 4 de la Ley Orgánica 3/2007 al principio de igualdad de trato y de oportunidades?",
+      "opciones": [
+        "Lo configura como principio informador del ordenamiento jurídico y exige integrarlo en la interpretación y aplicación de las normas.",
+        "Lo limita a criterio de actuación de las Administraciones públicas, sin efectos interpretativos sobre las normas.",
+        "Lo convierte en un principio aplicable únicamente cuando exista una norma reglamentaria que lo desarrolle expresamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0003",
+      "pregunta": "Según el artículo 5 de la Ley Orgánica 3/2007, una diferencia de trato basada en una característica relacionada con el sexo puede admitirse cuando:",
+      "opciones": [
+        "La empresa invoque razones organizativas y la medida haya sido comunicada previamente a la representación de las personas trabajadoras.",
+        "La característica constituya un requisito profesional esencial y determinante, el objetivo sea legítimo y el requisito proporcionado.",
+        "La característica sea habitual en el sector profesional, aunque no resulte esencial ni determinante para la actividad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0004",
+      "pregunta": "¿Cuál de las siguientes situaciones encaja en la discriminación directa por razón de sexo del artículo 6 de la Ley Orgánica 3/2007?",
+      "opciones": [
+        "Que una disposición aparentemente neutra produzca una desventaja particular y no exista justificación objetiva suficiente.",
+        "Que una persona sea, haya sido o pudiera ser tratada de manera menos favorable que otra en situación comparable por razón de su sexo.",
+        "Que una medida de acción positiva favorezca temporalmente a mujeres para corregir una desigualdad patente de hecho."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0005",
+      "pregunta": "Para que una disposición, criterio o práctica aparentemente neutra no sea considerada discriminación indirecta por razón de sexo, debe:",
+      "opciones": [
+        "Estar objetivamente justificada por una finalidad legítima y ser necesarios y adecuados los medios para alcanzarla.",
+        "Aplicarse formalmente por igual a toda la plantilla, con independencia de sus efectos reales.",
+        "Ser aprobada por negociación colectiva, aunque produzca una desventaja particular para uno de los sexos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0006",
+      "pregunta": "El acoso por razón de sexo, conforme al artículo 7 de la Ley Orgánica 3/2007, consiste en:",
+      "opciones": [
+        "Un comportamiento realizado en función del sexo de una persona que tenga el propósito o produzca el efecto de atentar contra su dignidad y crear un entorno intimidatorio, degradante u ofensivo.",
+        "Una conducta necesariamente de naturaleza sexual que provoque un perjuicio económico o profesional a la persona afectada.",
+        "Cualquier conflicto laboral entre personas de distinto sexo cuando exista una diferencia de poder jerárquico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0007",
+      "pregunta": "¿Cómo califica la Ley Orgánica 3/2007 el trato desfavorable relacionado con el embarazo o la maternidad?",
+      "opciones": [
+        "Como una modalidad autónoma de desigualdad que no se equipara a discriminación por razón de sexo.",
+        "Como discriminación indirecta por razón de sexo, salvo que exista una causa organizativa.",
+        "Como discriminación directa por razón de sexo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0008",
+      "pregunta": "La protección frente a represalias prevista en la Ley Orgánica 3/2007 implica que:",
+      "opciones": [
+        "Solo se considera represalia la sanción disciplinaria impuesta después de una sentencia firme por discriminación.",
+        "La protección se limita a quien haya interpuesto una demanda judicial, no a quejas o reclamaciones administrativas.",
+        "Es discriminatorio el trato adverso sufrido por haber presentado una queja, reclamación, denuncia, demanda o recurso dirigido a impedir la discriminación o exigir la igualdad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0009",
+      "pregunta": "¿Qué consecuencia prevé la Ley Orgánica 3/2007 para los actos y cláusulas de los negocios jurídicos que constituyan o causen discriminación por razón de sexo?",
+      "opciones": [
+        "Son válidos si no existe daño económico cuantificable, aunque puedan dar lugar a una advertencia administrativa.",
+        "Son anulables a instancia de la persona afectada, pero producen efectos hasta que recaiga resolución judicial.",
+        "Son nulos y sin efecto, sin perjuicio de reparaciones, indemnizaciones y, cuando proceda, sanciones eficaces y disuasorias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0010",
+      "pregunta": "Las acciones positivas a favor de las mujeres previstas en el artículo 11 de la Ley Orgánica 3/2007:",
+      "opciones": [
+        "Pueden adoptarse para corregir situaciones patentes de desigualdad de hecho mientras subsistan, y deben ser razonables y proporcionadas.",
+        "Pueden establecer ventajas incondicionadas por razón de sexo aunque no exista una situación de desigualdad de hecho.",
+        "Solo pueden ser adoptadas por los poderes públicos y tienen carácter permanente una vez implantadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0011",
+      "pregunta": "En los procesos no penales en los que se aleguen actuaciones discriminatorias por razón de sexo, la Ley Orgánica 3/2007 establece, con carácter general, que:",
+      "opciones": [
+        "La carga de la prueba corresponde siempre a la persona demandante por aplicación estricta del principio dispositivo.",
+        "Corresponde a la parte demandada probar la ausencia de discriminación y la proporcionalidad de las medidas adoptadas, conforme a las leyes procesales.",
+        "La carga de la prueba se invierte también en el proceso penal cuando se alegue discriminación por razón de sexo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0012",
+      "pregunta": "¿Cuál de las siguientes actuaciones figura entre los criterios generales de actuación de los poderes públicos del artículo 14 de la Ley Orgánica 3/2007?",
+      "opciones": [
+        "La sustitución de la negociación colectiva por planes públicos obligatorios en materia de igualdad laboral.",
+        "La obligación de reservar a mujeres un mínimo del 50 % de todos los puestos de responsabilidad de las Administraciones.",
+        "La utilización de lenguaje no sexista en el ámbito administrativo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0013",
+      "pregunta": "La transversalidad del principio de igualdad, conforme al artículo 15 de la Ley Orgánica 3/2007, exige que:",
+      "opciones": [
+        "Las Administraciones integren activamente la igualdad en la elaboración y ejecución de normas, en la definición y presupuestación de políticas y en el desarrollo de todas sus actividades.",
+        "La igualdad se gestione únicamente mediante unidades administrativas especializadas para evitar duplicidades.",
+        "La incorporación de la igualdad sea obligatoria solo en políticas sociales, educativas y de empleo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0014",
+      "pregunta": "Según el artículo 19 de la Ley Orgánica 3/2007, ¿qué actuaciones deben incorporar un informe sobre su impacto por razón de género?",
+      "opciones": [
+        "Los proyectos de disposiciones generales y los planes especialmente relevantes que se sometan al Consejo de Ministros.",
+        "Todas las ordenanzas y reglamentos de cualquier Administración pública, sin excepción.",
+        "Exclusivamente los proyectos de ley orgánica y los Presupuestos Generales del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0015",
+      "pregunta": "En materia de estadísticas y estudios, el artículo 20 de la Ley Orgánica 3/2007 establece, entre otras previsiones:",
+      "opciones": [
+        "La inclusión sistemática de la variable sexo y el uso de indicadores y muestras que permitan conocer diferencias y desigualdades, salvo excepción debidamente motivada.",
+        "La obligación de sustituir la variable sexo por una única categoría indiferenciada en todas las estadísticas públicas.",
+        "La prohibición de desagregar datos por sexo cuando puedan utilizarse para comparar colectivos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0016",
+      "pregunta": "¿Qué papel atribuye el artículo 21 de la Ley Orgánica 3/2007 a las Entidades Locales?",
+      "opciones": [
+        "Integrar el derecho de igualdad en el ejercicio de sus competencias y colaborar, a tal efecto, con el resto de las Administraciones públicas.",
+        "Aplicar únicamente las medidas de igualdad que les delegue expresamente la Administración General del Estado.",
+        "Ejercer en exclusiva las competencias de planificación estatal en materia de igualdad cuando afecten a su término municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0017",
+      "pregunta": "Conforme al artículo 22 de la Ley Orgánica 3/2007, las corporaciones locales pueden:",
+      "opciones": [
+        "Aprobar Planes Estatales de Igualdad de Oportunidades con eficacia en su provincia.",
+        "Establecer Planes Municipales de organización del tiempo de la ciudad.",
+        "Imponer a todas las empresas del municipio un plan de igualdad con independencia del tamaño de su plantilla."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0018",
+      "pregunta": "La negociación colectiva, según el artículo 43 de la Ley Orgánica 3/2007, puede:",
+      "opciones": [
+        "Establecer medidas de acción positiva para favorecer el acceso de las mujeres al empleo y la aplicación efectiva de la igualdad de trato y no discriminación en las condiciones de trabajo.",
+        "Sustituir los planes de igualdad legalmente obligatorios por declaraciones genéricas de buenas prácticas.",
+        "Excluir temporalmente la aplicación del principio de igualdad cuando lo acuerde la mayoría sindical."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0019",
+      "pregunta": "Los derechos de conciliación de la vida personal, familiar y laboral deben reconocerse, conforme al artículo 44 de la Ley Orgánica 3/2007, de modo que:",
+      "opciones": [
+        "Se atribuyan preferentemente a las mujeres para compensar las cargas familiares históricamente asumidas.",
+        "Fomenten la asunción equilibrada de las responsabilidades familiares y eviten toda discriminación basada en su ejercicio.",
+        "Su ejercicio pueda limitar la promoción profesional cuando exista una necesidad organizativa objetiva."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0020",
+      "pregunta": "¿Cuándo resulta obligatorio por razón del tamaño de la plantilla elaborar y aplicar un plan de igualdad conforme a la Ley Orgánica 3/2007?",
+      "opciones": [
+        "En las empresas de más de cincuenta personas trabajadoras.",
+        "En las empresas de cien o más personas trabajadoras.",
+        "En las empresas de cincuenta o más personas trabajadoras."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0021",
+      "pregunta": "A efectos de la Ley Orgánica 3/2007, un plan de igualdad es:",
+      "opciones": [
+        "Un informe anual de composición de la plantilla centrado exclusivamente en retribuciones y promoción profesional.",
+        "Un conjunto ordenado de medidas adoptadas después de realizar un diagnóstico de situación, con objetivos concretos, estrategias, prácticas y sistemas eficaces de seguimiento y evaluación.",
+        "Un código voluntario de conducta que puede aprobarse sin diagnóstico previo si existe acuerdo con la representación legal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0022",
+      "pregunta": "¿Cuál de las siguientes materias forma parte del contenido mínimo del diagnóstico negociado previo al plan de igualdad?",
+      "opciones": [
+        "La afiliación sindical de la plantilla.",
+        "La productividad individual desagregada por departamento.",
+        "La infrarrepresentación femenina."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0023",
+      "pregunta": "En relación con la prevención del acoso en las empresas, el artículo 48 de la Ley Orgánica 3/2007 exige:",
+      "opciones": [
+        "Aplicar medidas preventivas solo cuando se haya producido previamente una denuncia formal por acoso.",
+        "Limitar la prevención a conductas presenciales ocurridas dentro del centro de trabajo.",
+        "Promover condiciones de trabajo que eviten delitos y otras conductas contra la libertad sexual y la integridad moral, con especial atención al acoso sexual y por razón de sexo, también en el ámbito digital."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0024",
+      "pregunta": "¿Cuál de las siguientes obligaciones forma parte de los criterios de actuación de las Administraciones públicas del artículo 51 de la Ley Orgánica 3/2007?",
+      "opciones": [
+        "Garantizar que todos los órganos de selección estén integrados exactamente por un 50 % de mujeres y un 50 % de hombres.",
+        "Reservar la presidencia de los órganos de selección al sexo menos representado en la plantilla.",
+        "Promover la presencia equilibrada de mujeres y hombres en los órganos de selección y valoración."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0025",
+      "pregunta": "Según la disposición adicional primera de la Ley Orgánica 3/2007, existe composición equilibrada cuando:",
+      "opciones": [
+        "En el conjunto considerado, las personas de cada sexo no superan el 60 % ni son menos del 40 %.",
+        "Cada sexo representa exactamente el 50 % del conjunto, salvo imposibilidad material.",
+        "El sexo menos representado alcanza al menos el 30 % y el más representado no supera el 70 %."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0026",
+      "pregunta": "En la Administración General del Estado, las convocatorias de pruebas selectivas, según el artículo 55 de la Ley Orgánica 3/2007:",
+      "opciones": [
+        "Solo requieren informe de impacto de género cuando el cuerpo o escala tenga mayoría masculina.",
+        "Deben acompañarse de un informe de impacto de género, salvo en casos de urgencia.",
+        "Deben reservar al menos el 40 % de las plazas convocadas a mujeres."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0027",
+      "pregunta": "Entre las acciones positivas en las actividades de formación de la Administración General del Estado previstas en el artículo 60 de la Ley Orgánica 3/2007 figura:",
+      "opciones": [
+        "La reserva de al menos un 40 % de las plazas en determinados cursos de formación para empleadas públicas que reúnan los requisitos establecidos.",
+        "La reserva de al menos un 50 % de las plazas de todos los cursos de formación para empleadas públicas.",
+        "La exclusión temporal de los empleados públicos varones de los cursos vinculados a puestos directivos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0028",
+      "pregunta": "El Plan de Igualdad en la Administración General del Estado previsto en el artículo 64 de la Ley Orgánica 3/2007:",
+      "opciones": [
+        "Se aprueba anualmente por cada ministerio y se integra después en un plan único de carácter estatal.",
+        "Se aprueba por el Gobierno al inicio de cada legislatura y su cumplimiento se evalúa anualmente por el Consejo de Ministros.",
+        "Se aprueba cada cuatro años por las Cortes Generales y se evalúa al finalizar su vigencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0029",
+      "pregunta": "¿Qué diferencia establece la Ley 4/2023 entre discriminación múltiple y discriminación interseccional?",
+      "opciones": [
+        "En la múltiple concurren de forma simultánea o consecutiva dos o más causas de discriminación; en la interseccional varias causas concurren o interactúan generando una forma específica de discriminación.",
+        "La múltiple solo puede producirse en el empleo y la interseccional únicamente en el acceso a servicios públicos.",
+        "La múltiple exige que las causas actúen simultáneamente, mientras que la interseccional exige que actúen de forma consecutiva."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0030",
+      "pregunta": "Según las definiciones de la Ley 4/2023, existe discriminación por asociación cuando:",
+      "opciones": [
+        "El trato discriminatorio se produce por la relación de una persona con otra en quien concurre una causa protegida.",
+        "La discriminación se basa en una apreciación incorrecta de las características de la propia persona afectada.",
+        "Concurren dos o más causas de discriminación que interactúan generando una forma específica de desventaja."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0031",
+      "pregunta": "¿Qué caracteriza la discriminación por error en la Ley 4/2023?",
+      "opciones": [
+        "Se produce por la relación de la persona discriminada con otra que presenta una característica protegida.",
+        "Exige la concurrencia sucesiva de, al menos, dos causas distintas de discriminación.",
+        "Se funda en una apreciación incorrecta sobre las características de la persona."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0032",
+      "pregunta": "En materia de empleo público, el artículo 11 de la Ley 4/2023 establece que las medidas para promover y defender la igualdad de trato y la no discriminación de las personas LGTBI:",
+      "opciones": [
+        "Solo requieren negociación sindical cuando afecten a retribuciones o jornada.",
+        "Deben aprobarse unilateralmente por cada Administración para preservar la potestad de autoorganización.",
+        "Deben negociarse previamente con las organizaciones sindicales, conforme a la normativa aplicable."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0033",
+      "pregunta": "Según el artículo 12 de la Ley 4/2023, la formación inicial y continuada del personal de las Administraciones públicas debe prestar especial atención, entre otros, a:",
+      "opciones": [
+        "Solo el personal que ocupe puestos directivos o participe en órganos de selección.",
+        "Los sectores en contacto directo con la ciudadanía, incluidos los servicios sociales.",
+        "Exclusivamente el personal sanitario, educativo y de las Fuerzas y Cuerpos de Seguridad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0034",
+      "pregunta": "¿Qué exige el artículo 12.2 de la Ley 4/2023 respecto de los programas de las pruebas selectivas de acceso al empleo público?",
+      "opciones": [
+        "Que reserven un bloque práctico obligatorio dedicado exclusivamente a identidad sexual y expresión de género.",
+        "Que incluyan esta materia únicamente en procesos selectivos de servicios sociales, educación y salud.",
+        "Que incluyan formación y conocimientos sobre igualdad de trato y no discriminación de las personas LGTBI."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0035",
+      "pregunta": "La adecuación de la documentación administrativa prevista en el artículo 13 de la Ley 4/2023 persigue que formularios y documentos:",
+      "opciones": [
+        "Utilicen exclusivamente categorías cerradas y uniformes para facilitar la explotación estadística.",
+        "Sean adecuados a la diversidad en materia de orientación sexual, identidad sexual, expresión de género, características sexuales y diversidad familiar.",
+        "Eliminen cualquier referencia al sexo o a las relaciones familiares, con independencia de la finalidad del procedimiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0036",
+      "pregunta": "Entre las líneas de actuación de las políticas públicas de empleo del artículo 14 de la Ley 4/2023 se encuentra:",
+      "opciones": [
+        "Excluir las subvenciones de fomento del empleo de cualquier criterio relacionado con igualdad LGTBI.",
+        "Velar por el cumplimiento efectivo de los derechos mediante la Inspección de Trabajo y otros órganos competentes, fomentando formación especializada.",
+        "Sustituir la actuación inspectora por sistemas voluntarios de autorregulación empresarial."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0037",
+      "pregunta": "Conforme al artículo 15 de la Ley 4/2023, ¿qué empresas están obligadas por razón de plantilla a contar con un conjunto planificado de medidas y recursos para alcanzar la igualdad real y efectiva de las personas LGTBI?",
+      "opciones": [
+        "Las empresas de cincuenta o más personas trabajadoras.",
+        "Las empresas de más de cincuenta personas trabajadoras.",
+        "Las empresas de cien o más personas trabajadoras."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0038",
+      "pregunta": "¿Cuál es la comparación correcta entre el umbral empresarial de la Ley Orgánica 3/2007 y el de la Ley 4/2023?",
+      "opciones": [
+        "Ambas obligaciones nacen únicamente cuando la empresa supera las 50 personas trabajadoras.",
+        "El plan de igualdad se exige a partir de más de 50 personas y las medidas LGTBI a partir de 50 o más.",
+        "El plan de igualdad de la Ley Orgánica 3/2007 es obligatorio desde 50 personas trabajadoras; las medidas LGTBI de la Ley 4/2023 son obligatorias cuando la empresa supera las 50."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0039",
+      "pregunta": "El conjunto planificado de medidas LGTBI exigido por el artículo 15 de la Ley 4/2023 debe incluir necesariamente:",
+      "opciones": [
+        "Un sistema de cuotas de contratación de personas LGTBI.",
+        "Un protocolo de actuación para la atención del acoso o la violencia contra las personas LGTBI.",
+        "Una auditoría salarial específica por orientación sexual de toda la plantilla."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0040",
+      "pregunta": "La Estrategia estatal para la inclusión social de las personas trans prevista en el artículo 52 de la Ley 4/2023:",
+      "opciones": [
+        "Tiene carácter cuatrienal, la aprueba el Consejo de Ministros y corresponde al Ministerio de Igualdad su elaboración, seguimiento y evaluación.",
+        "Tiene carácter bienal, la aprueba el Ministerio de Trabajo y Economía Social y la evalúan las comunidades autónomas.",
+        "Tiene duración indefinida y se actualiza anualmente mediante acuerdo del Consejo de Participación de las Personas LGTBI."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0041",
+      "pregunta": "¿Cuándo debe elevarse el informe de evaluación intermedia de la Estrategia estatal para la inclusión social de las personas trans?",
+      "opciones": [
+        "A los dos años.",
+        "Al finalizar el primer año.",
+        "A los tres años."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0042",
+      "pregunta": "Según el artículo 54 de la Ley 4/2023, corresponde al Ministerio de Trabajo y Economía Social:",
+      "opciones": [
+        "Diseñar medidas de acción positiva para mejorar la empleabilidad de las personas trans y planes específicos de fomento del empleo, atendiendo a las necesidades específicas de las mujeres trans.",
+        "Aprobar la Estrategia estatal para la inclusión social de las personas trans y evaluar su cumplimiento.",
+        "Imponer a las empresas privadas una reserva mínima de puestos de trabajo para personas trans."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0043",
+      "pregunta": "Entre las medidas que las Administraciones públicas pueden impulsar para la integración sociolaboral de las personas trans conforme al artículo 55 de la Ley 4/2023 se encuentra:",
+      "opciones": [
+        "La imposición de un porcentaje uniforme de contratación obligatoria en todas las empresas.",
+        "La exclusión de las medidas de integración de los planes de igualdad y no discriminación.",
+        "La adopción de subvenciones que favorezcan la contratación de personas trans desempleadas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0044",
+      "pregunta": "Según el Real Decreto 1026/2024, para determinar si una empresa supera el umbral de plantilla que hace obligatorias las medidas LGTBI:",
+      "opciones": [
+        "Se realiza un cómputo independiente por cada centro de trabajo y solo se suman los centros con más de diez personas.",
+        "Solo se computan las personas con contrato indefinido y las personas a tiempo parcial se prorratean según su jornada.",
+        "Se computa la plantilla total, cualquiera que sea el número de centros y la modalidad contractual, y cada persona a tiempo parcial cuenta como una persona trabajadora."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0045",
+      "pregunta": "Respecto de determinados contratos temporales extinguidos, el Real Decreto 1026/2024 dispone para el cómputo de plantilla que:",
+      "opciones": [
+        "Se agregan únicamente los extinguidos durante los tres meses anteriores y cada treinta días trabajados equivalen a una persona.",
+        "Se agregan los extinguidos durante los seis meses anteriores y cada cien días trabajados o fracción se computan como una persona trabajadora.",
+        "No se tienen en cuenta contratos extinguidos, aunque hayan estado vigentes durante el período de cómputo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0046",
+      "pregunta": "Como regla de control, el cómputo de la plantilla previsto en el Real Decreto 1026/2024 debe efectuarse:",
+      "opciones": [
+        "Una sola vez al año, el 31 de diciembre.",
+        "El primer día de enero y de julio de cada año.",
+        "El último día de junio y de diciembre de cada año."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T14-P0047",
+      "pregunta": "En una empresa obligada por el Real Decreto 1026/2024 que no tenga convenio colectivo aplicable ni representación legal de las personas trabajadoras, ¿cuál es el plazo máximo indicado en el material para constituir la comisión negociadora?",
+      "opciones": [
+        "Doce meses.",
+        "Seis meses.",
+        "Tres meses."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0048",
+      "pregunta": "Si transcurren tres meses desde el inicio de la negociación de las medidas LGTBI sin acuerdo, según el Real Decreto 1026/2024:",
+      "opciones": [
+        "La empresa debe aplicar el conjunto de medidas establecido en el real decreto hasta que entren en vigor las posteriormente acordadas.",
+        "La empresa puede sustituir el conjunto de medidas por un protocolo unilateral limitado al acoso.",
+        "La obligación queda suspendida hasta que se alcance un acuerdo colectivo definitivo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T14-P0049",
+      "pregunta": "¿Cuál de los siguientes contenidos forma parte de los siete bloques mínimos del anexo I del Real Decreto 1026/2024?",
+      "opciones": [
+        "Cuotas mínimas obligatorias de contratación y promoción de personas LGTBI.",
+        "Permisos y beneficios sociales reconocidos de forma igualitaria, atendiendo a familias diversas, parejas y necesidades específicas, con atención a personas trans.",
+        "Publicación nominal anual de la orientación sexual e identidad sexual de la plantilla a efectos estadísticos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T14-P0050",
+      "pregunta": "Respecto del protocolo frente al acoso y la violencia previsto en el anexo II del Real Decreto 1026/2024, ¿qué afirmación es correcta?",
+      "opciones": [
+        "El protocolo solo puede aplicarse a personas con contrato laboral directo y nunca a candidaturas, personal cedido, proveedores, clientes o visitas.",
+        "La obligación puede entenderse cumplida si la empresa ya dispone de un protocolo general que incluya medidas específicas para las personas LGTBI o si lo amplía para incorporarlas.",
+        "Debe existir siempre un protocolo separado y exclusivo para personas LGTBI, aunque el protocolo general ya contemple esas situaciones."
+      ],
+      "correcta": 1
+    }
+  ]
+}

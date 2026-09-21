@@ -1,0 +1,506 @@
+{
+  "tema": 11,
+  "titulo": "Los Deberes de los funcionarios. Incompatibilidades. Responsabilidad de los funcionarios. Delito de los funcionarios en el ejercicio de su cargo.",
+  "preguntas": [
+    {
+      "id": "T11-P0001",
+      "pregunta": "¿Qué efecto atribuye el artículo 52 del TREBEP a los principios del Código de Conducta respecto del régimen disciplinario?",
+      "opciones": [
+        "Sustituyen a la tipificación legal de las faltas disciplinarias.",
+        "Informan la interpretación y aplicación del régimen disciplinario.",
+        "Solo se aplican cuando no exista una ley autonómica de función pública."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0002",
+      "pregunta": "Un empleado público debe resolver un expediente en el que concurre un interés personal propio. Conforme a los principios éticos del TREBEP, ¿qué actuación procede?",
+      "opciones": [
+        "Intervenir siempre que comunique después el interés personal a su superior.",
+        "Abstenerse de intervenir en el asunto por existir un posible conflicto de intereses.",
+        "Intervenir si considera que puede mantener subjetivamente su imparcialidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0003",
+      "pregunta": "Según los principios éticos del artículo 53 TREBEP, ¿qué conducta debe evitar un empleado público en relación con sus intereses económicos?",
+      "opciones": [
+        "Contraer obligaciones económicas o intervenir en operaciones que puedan generar un conflicto de intereses.",
+        "Realizar cualquier operación económica privada, aunque sea completamente ajena a sus funciones.",
+        "Mantener bienes patrimoniales personales mientras permanezca en servicio activo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0004",
+      "pregunta": "¿Cuál de las siguientes actuaciones contradice expresamente los principios éticos del artículo 53 TREBEP?",
+      "opciones": [
+        "Resolver dentro de plazo un expediente que corresponde a las competencias del empleado.",
+        "Proponer una mejora organizativa que reduzca el tiempo ordinario de tramitación para toda la ciudadanía.",
+        "Influir sin causa justa en la agilización de un trámite si ello comporta privilegio o menoscabo de terceros o del interés general."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0005",
+      "pregunta": "En relación con los procedimientos o expedientes de su competencia, el artículo 53 TREBEP exige al empleado público:",
+      "opciones": [
+        "Resolverlos únicamente cuando exista una orden expresa del superior jerárquico.",
+        "Priorizar siempre los expedientes de mayor repercusión económica, aunque no exista criterio legal para ello.",
+        "Cumplir diligentemente sus tareas y resolverlos dentro de plazo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0006",
+      "pregunta": "Un superior dicta a un funcionario una instrucción profesional que constituye una infracción manifiesta del ordenamiento jurídico. Según el artículo 54 TREBEP, el funcionario debe:",
+      "opciones": [
+        "Ignorarla sin efectuar comunicación alguna, porque la ilegalidad manifiesta extingue toda obligación de actuación.",
+        "Cumplirla necesariamente por el principio de jerarquía y recurrirla después.",
+        "No obedecerla sin más y ponerla inmediatamente en conocimiento de los órganos de inspección procedentes."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0007",
+      "pregunta": "Respecto de regalos, favores o servicios ofrecidos a empleados públicos, el artículo 54 TREBEP establece que deben rechazarse cuando:",
+      "opciones": [
+        "Tengan cualquier valor económico, aunque sean usos sociales o de cortesía.",
+        "Excedan de los usos habituales, sociales y de cortesía.",
+        "Procedan exclusivamente de personas interesadas en un expediente ya finalizado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0008",
+      "pregunta": "¿Qué principio de conducta rige el uso de recursos y bienes públicos por los empleados públicos?",
+      "opciones": [
+        "Deben administrarse con austeridad y no utilizarse en beneficio propio o de allegados.",
+        "Su uso privado es admisible siempre que exista autorización verbal del superior inmediato.",
+        "Pueden utilizarse ocasionalmente para fines privados si no generan un coste adicional."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0009",
+      "pregunta": "¿Qué exige el artículo 54 TREBEP respecto de los documentos cuya gestión corresponde al empleado público?",
+      "opciones": [
+        "Destruir los documentos una vez finalizado el expediente para evitar accesos indebidos.",
+        "Conservar únicamente los documentos que tengan contenido económico o sancionador.",
+        "Garantizar su constancia y permanencia para su transmisión y entrega a los responsables posteriores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0010",
+      "pregunta": "En materia de atención lingüística a la ciudadanía, el artículo 54 TREBEP impone como principio de conducta:",
+      "opciones": [
+        "Atender en cualquier lengua elegida por el ciudadano, sea o no oficial en el territorio.",
+        "Atender a la ciudadanía en la lengua oficial que solicite cuando sea procedente en el territorio correspondiente.",
+        "Atender siempre exclusivamente en castellano por tratarse de una Administración Pública."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0011",
+      "pregunta": "¿Qué idea específica añade el artículo 34 de la Ley 5/2023 de Función Pública de Andalucía sobre la responsabilidad por la buena gestión pública?",
+      "opciones": [
+        "La responsabilidad por los objetivos de la unidad recae exclusivamente en la persona superior jerárquica.",
+        "Cada empleado responde solo de actos expresamente delegados mediante resolución formal.",
+        "Cada empleado responde de las funciones encomendadas y de su contribución a los objetivos de la unidad, sin perjuicio de la responsabilidad de los superiores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0012",
+      "pregunta": "¿Cuál de las siguientes parejas aparece expresamente entre los principios del deber general del artículo 52 TREBEP?",
+      "opciones": [
+        "Autonomía funcional y libre discrecionalidad.",
+        "Reserva absoluta y publicidad universal.",
+        "Confidencialidad y transparencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0013",
+      "pregunta": "Cuando un empleado público detecta una posibilidad razonable de mejorar el funcionamiento del servicio, el artículo 54 TREBEP contempla:",
+      "opciones": [
+        "La obligación de modificar directamente el procedimiento sin autorización.",
+        "La prohibición de formular propuestas que afecten a unidades distintas de la propia.",
+        "La formulación de propuestas de mejora del servicio cuando proceda."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0014",
+      "pregunta": "Para el personal funcionario local, ¿qué regla recoge el artículo 144 del TRRL según el Tema 11?",
+      "opciones": [
+        "Las obligaciones se rigen únicamente por el TREBEP, quedando excluida la legislación autonómica.",
+        "Las obligaciones se remiten a la legislación autonómica de función pública y, en todo caso, a la legislación básica estatal.",
+        "Las obligaciones se regulan exclusivamente por ordenanzas municipales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0015",
+      "pregunta": "¿Cuál es la regla general de la Ley 53/1984 sobre el desempeño de puestos en el sector público?",
+      "opciones": [
+        "La dedicación a un solo puesto público, salvo las excepciones legalmente previstas.",
+        "La libre acumulación de dos puestos públicos si pertenecen a Administraciones distintas.",
+        "La compatibilidad automática de un segundo puesto siempre que sea a tiempo parcial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0016",
+      "pregunta": "Además de impedir como regla un segundo puesto público, el artículo 1 de la Ley 53/1984 establece que, salvo excepciones legales:",
+      "opciones": [
+        "No puede percibirse más de una remuneración con cargo a presupuestos públicos.",
+        "Solo puede percibirse una remuneración pública cuando ambas actividades sean de la misma Administración.",
+        "No puede percibirse ninguna retribución variable en el puesto principal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0017",
+      "pregunta": "Una segunda actividad pública permitida por la Ley 53/1984 exige, con carácter general:",
+      "opciones": [
+        "Comunicación posterior a la Administración si no se superponen materialmente los horarios.",
+        "Autorización previa y expresa, sin alterar la jornada u horario y respetando el cumplimiento de ambos puestos.",
+        "Autorización tácita por silencio si transcurre un mes desde la solicitud."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0018",
+      "pregunta": "Si el puesto principal de una persona está adscrito a una Corporación Local, ¿a quién corresponde autorizar o denegar la compatibilidad para una segunda actividad pública según el artículo 9 de la Ley 53/1984?",
+      "opciones": [
+        "A la Junta de Gobierno Local con carácter exclusivo.",
+        "A la Alcaldía-Presidencia en todo caso.",
+        "Al Pleno de la Corporación Local."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0019",
+      "pregunta": "En una Corporación Local, el reconocimiento de compatibilidad con una actividad privada corresponde, conforme al Tema 11:",
+      "opciones": [
+        "Al Pleno, mediante resolución motivada y con el régimen del artículo 14 de la Ley 53/1984.",
+        "A la Alcaldía, mediante comunicación no motivada.",
+        "A la persona titular de Recursos Humanos, mediante autorización verbal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0020",
+      "pregunta": "Según el artículo 11 de la Ley 53/1984, ¿qué actividad privada está prohibida?",
+      "opciones": [
+        "Toda actividad privada realizada fuera de la jornada de trabajo.",
+        "La directamente relacionada con las actividades que desarrolla el departamento, organismo o entidad donde esté destinado el empleado.",
+        "Toda actividad privada retribuida, aunque carezca de relación con el puesto público."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0021",
+      "pregunta": "Un trabajador social municipal pretende asesorar privadamente sobre un asunto en el que intervino por razón de su puesto público hace dieciocho meses. Según el Tema 11, esta actividad:",
+      "opciones": [
+        "Es compatible porque ha transcurrido más de un año desde la intervención pública.",
+        "Es compatible si se realiza fuera del horario de trabajo, sin necesidad de atender al asunto concreto.",
+        "Está comprendida en una prohibición del artículo 12 de la Ley 53/1984, al haber intervenido en el asunto dentro de los dos años anteriores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0022",
+      "pregunta": "¿Cuál de las siguientes situaciones figura entre las prohibiciones absolutas del artículo 12 de la Ley 53/1984?",
+      "opciones": [
+        "Administrar el patrimonio personal o familiar respetando las prohibiciones legales.",
+        "Pertenecer a un consejo de administración de una empresa privada directamente relacionada con las actividades del órgano público donde se presta servicio.",
+        "Ser miembro no retribuido de una asociación cultural sin relación con la Administración."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0023",
+      "pregunta": "Conforme al artículo 12 de la Ley 53/1984, está prohibido desempeñar cargos en:",
+      "opciones": [
+        "Cualquier sociedad mercantil, aunque no tenga relación alguna con el sector público.",
+        "Solo empresas que hayan sido sancionadas por una Administración Pública.",
+        "Empresas o sociedades concesionarias, contratistas de obras, servicios o suministros, arrendatarias o con participación o aval del sector público."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0024",
+      "pregunta": "¿Qué participación en el capital de determinadas empresas o sociedades alcanza la prohibición indicada en el Tema 11 conforme al artículo 12 de la Ley 53/1984?",
+      "opciones": [
+        "Participar en más del 10 % del capital de las empresas o sociedades comprendidas en el supuesto legal.",
+        "Participar en más del 25 % del capital de empresas contratistas exclusivamente.",
+        "Participar en un 10 % o más de cualquier empresa privada, con independencia de su relación con el sector público."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0025",
+      "pregunta": "¿Cuál de las siguientes actividades está exceptuada del régimen de incompatibilidades en los términos del artículo 19 de la Ley 53/1984?",
+      "opciones": [
+        "La prestación profesional habitual a clientes privados relacionados con el servicio público del empleado.",
+        "La creación literaria, artística, científica o técnica cuando no derive de una relación de empleo o de prestación de servicios.",
+        "El desempeño permanente de una segunda actividad pública docente sin autorización."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0026",
+      "pregunta": "La impartición de cursos o conferencias en centros oficiales de formación aparece como actividad exceptuada cuando:",
+      "opciones": [
+        "Se autorice mediante resolución del órgano jurisdiccional competente.",
+        "No tenga carácter permanente o habitual y se mantenga dentro de los límites legales.",
+        "Sea siempre gratuita y se realice exclusivamente en fin de semana."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0027",
+      "pregunta": "Una actividad declarada compatible con arreglo a la Ley 53/1984:",
+      "opciones": [
+        "Permite adaptar unilateralmente la jornada del puesto público si la actividad privada es profesional.",
+        "Exime del deber de asistencia cuando exista coincidencia ocasional de horarios.",
+        "Nunca justifica incumplir residencia, asistencia, jornada, diligencia o desempeño del puesto público."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0028",
+      "pregunta": "¿Qué relación entre hecho y consecuencia identifica correctamente una modalidad de responsabilidad del empleado público según el Tema 11?",
+      "opciones": [
+        "Una infracción tipificada de deberes funcionariales puede generar responsabilidad disciplinaria y una sanción administrativa.",
+        "Toda incompatibilidad determina necesariamente responsabilidad contable.",
+        "Todo daño causado por un empleado genera automáticamente responsabilidad penal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0029",
+      "pregunta": "Un particular sufre un daño imputable a la actuación de personal de una Administración. Conforme al artículo 36.1 de la Ley 40/2015, la reclamación indemnizatoria se dirige ordinariamente:",
+      "opciones": [
+        "Directamente contra la Administración Pública correspondiente.",
+        "Directamente contra el funcionario que intervino en el expediente.",
+        "Contra la Administración y el funcionario de forma conjunta y obligatoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0030",
+      "pregunta": "Tras indemnizar a un particular, ¿cuándo debe la Administración exigir de oficio responsabilidad a la autoridad o empleado conforme al artículo 36.2 de la Ley 40/2015?",
+      "opciones": [
+        "Únicamente cuando exista previamente una condena penal firme.",
+        "Siempre que haya existido cualquier culpa, aunque sea leve.",
+        "Cuando haya mediado dolo, culpa o negligencia graves, previa instrucción del procedimiento correspondiente."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0031",
+      "pregunta": "Para cuantificar la responsabilidad exigible en vía de regreso al empleado público, el Tema 11 señala que se ponderan, entre otros factores:",
+      "opciones": [
+        "Exclusivamente la cuantía total abonada al particular, sin atender a la conducta del empleado.",
+        "El resultado dañoso, el grado de culpabilidad, la responsabilidad profesional y la relación con la producción del daño.",
+        "Solo la antigüedad del empleado y su nivel retributivo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0032",
+      "pregunta": "La Ley 40/2015 contempla responsabilidad de autoridades y personal por daños causados a bienes o derechos de la propia Administración cuando concurra:",
+      "opciones": [
+        "Únicamente dolo directo acreditado mediante sentencia penal.",
+        "Dolo o culpa o negligencia grave, con el correspondiente procedimiento administrativo.",
+        "Cualquier error material, aunque no exista culpa ni negligencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0033",
+      "pregunta": "¿Qué afirmación describe correctamente la coexistencia de responsabilidades del empleado público según el Tema 11?",
+      "opciones": [
+        "Pueden coexistir responsabilidades de distinta naturaleza cuando los hechos encajen en ámbitos diferentes, respetando el principio non bis in idem.",
+        "La apertura de un procedimiento disciplinario excluye siempre cualquier responsabilidad penal o patrimonial.",
+        "Una misma conducta debe sancionarse necesariamente por todas las vías posibles."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0034",
+      "pregunta": "Según el TREBEP, el régimen disciplinario regulado en sus artículos 93 a 98 alcanza:",
+      "opciones": [
+        "A funcionarios públicos y personal laboral, en los términos del Estatuto y de las leyes de función pública que lo desarrollen.",
+        "Solo al personal laboral cuando así lo prevea expresamente el convenio colectivo.",
+        "Exclusivamente a funcionarios de carrera."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0035",
+      "pregunta": "En Derecho penal, el concepto de funcionario público utilizado para los delitos contra la Administración Pública se caracteriza por ser:",
+      "opciones": [
+        "Autónomo y funcional, atendiendo a la participación en el ejercicio de funciones públicas en los términos del artículo 24 del Código Penal.",
+        "Idéntico y necesariamente coincidente con el concepto administrativo de funcionario de carrera.",
+        "Aplicable únicamente a quienes hayan superado una oposición y posean nombramiento definitivo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0036",
+      "pregunta": "¿Qué grupo de delitos se sitúa en el Capítulo I del Título XIX del Código Penal según el esquema del Tema 11?",
+      "opciones": [
+        "Malversación, artículos 404 a 406.",
+        "Prevaricación y otros comportamientos injustos, artículos 404 a 406.",
+        "Cohecho, artículos 404 a 406."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0037",
+      "pregunta": "Para que una conducta encaje en la prevaricación administrativa del artículo 404 del Código Penal, el Tema 11 exige:",
+      "opciones": [
+        "Que una autoridad o funcionario dicte, a sabiendas de su injusticia, una resolución arbitraria en un asunto administrativo.",
+        "Que cualquier empleado público cometa un error jurídico en un trámite, aunque no exista resolución.",
+        "Que una resolución sea anulada en vía administrativa, con independencia de la intención de quien la dictó."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0038",
+      "pregunta": "Una resolución administrativa es contraria a Derecho, pero no consta que sea arbitraria ni que quien la dictó conociera su injusticia. Según el Tema 11:",
+      "opciones": [
+        "La prevaricación solo depende de que la resolución cause un perjuicio económico.",
+        "La mera ilegalidad administrativa no basta por sí sola para integrar la prevaricación del artículo 404.",
+        "Toda ilegalidad administrativa constituye automáticamente prevaricación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0039",
+      "pregunta": "En relación con los delitos de abandono de destino de los artículos 407 a 409, el Tema 11 advierte que debe distinguirse:",
+      "opciones": [
+        "Cualquier ausencia injustificada del puesto, que constituye siempre abandono penal.",
+        "El abandono penal, que solo puede cometerse cuando exista apropiación de fondos públicos.",
+        "El abandono con la finalidad específica exigida penalmente de las simples ausencias o incumplimientos disciplinarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0040",
+      "pregunta": "La desobediencia penal de los artículos 410 a 412 del Código Penal, según el Tema 11:",
+      "opciones": [
+        "Solo puede existir cuando la orden incumplida tenga contenido económico.",
+        "Se produce ante cualquier retraso en cumplir una instrucción interna, aunque sea dudosa su legalidad.",
+        "Exige más que una mera irregularidad o discrepancia en la ejecución y se vincula a negativas abiertas frente a resoluciones u órdenes legítimas de autoridad competente."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0041",
+      "pregunta": "¿Cuál de las siguientes conductas se integra en el bloque de infidelidad en la custodia de documentos y violación de secretos de los artículos 413 a 418?",
+      "opciones": [
+        "Sustraer, destruir, inutilizar u ocultar documentos cuya custodia corresponde al funcionario.",
+        "Solicitar una dádiva para retrasar injustificadamente un acto debido.",
+        "Influir en otro funcionario para obtener una resolución con beneficio económico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0042",
+      "pregunta": "Un funcionario solicita una retribución para retrasar injustificadamente un acto que debía realizar por razón de su cargo. Según el Tema 11, la conducta se vincula específicamente con:",
+      "opciones": [
+        "La malversación del artículo 432 bis por destinar bienes a usos privados.",
+        "El cohecho contemplado en el artículo 419 del Código Penal.",
+        "La prevaricación del artículo 404, aunque no exista resolución alguna."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0043",
+      "pregunta": "Según el esquema del Tema 11, el artículo 420 del Código Penal contempla:",
+      "opciones": [
+        "La retribución por realizar un acto propio del cargo.",
+        "La apropiación con ánimo de lucro de patrimonio público.",
+        "La influencia sobre otro funcionario para lograr una resolución beneficiosa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0044",
+      "pregunta": "La admisión por una autoridad o funcionario de una dádiva o regalo ofrecido en consideración a su cargo o función se vincula en el Tema 11 con:",
+      "opciones": [
+        "El artículo 432 bis del Código Penal.",
+        "El artículo 404 del Código Penal.",
+        "El artículo 422 del Código Penal."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0045",
+      "pregunta": "¿Qué elemento caracteriza el tráfico de influencias del artículo 428 del Código Penal según el Tema 11?",
+      "opciones": [
+        "Aceptar cualquier regalo social de escaso valor ofrecido por razón del cargo.",
+        "Dictar directamente una resolución administrativa ilegal por simple negligencia.",
+        "Influir en otro funcionario o autoridad prevaliéndose del cargo o de una relación personal o jerárquica para lograr una resolución que pueda generar un beneficio económico."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T11-P0046",
+      "pregunta": "Según la regulación de la malversación expuesta en el Tema 11, el artículo 432 sanciona:",
+      "opciones": [
+        "La apropiación con ánimo de lucro del patrimonio público que la autoridad o funcionario tiene a su cargo o con ocasión de sus funciones, o consentir que un tercero se apropie.",
+        "Únicamente el uso privado temporal de bienes públicos sin ánimo de apropiación.",
+        "Cualquier aplicación del patrimonio público a una finalidad pública distinta, aunque no exista apropiación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0047",
+      "pregunta": "Una autoridad destina patrimonio público a usos privados, pero sin ánimo de apropiación. Según el Tema 11, esta modalidad se vincula con:",
+      "opciones": [
+        "El artículo 432 bis del Código Penal.",
+        "El artículo 404 del Código Penal.",
+        "El artículo 428 del Código Penal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0048",
+      "pregunta": "¿Qué modalidad de malversación identifica el Tema 11 en el artículo 433 del Código Penal?",
+      "opciones": [
+        "La aplicación pública diferente de la prevista en determinados supuestos.",
+        "La negativa abierta a cumplir una orden legítima.",
+        "La admisión de regalos ofrecidos en consideración al cargo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T11-P0049",
+      "pregunta": "¿Qué afirmación es correcta sobre el Título XIX del Código Penal y los delitos cometidos por funcionarios?",
+      "opciones": [
+        "Contiene de forma exhaustiva todos los delitos que pueden cometer autoridades o funcionarios en cualquier circunstancia.",
+        "Constituye el núcleo de estudio del tema, pero no agota todos los delitos especiales o agravados que pueden cometer autoridades o funcionarios.",
+        "Solo regula delitos patrimoniales y excluye conductas contra garantías constitucionales o secretos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T11-P0050",
+      "pregunta": "¿Qué conjunto de delitos corresponde al Capítulo VIII del Título XIX del Código Penal según el Tema 11?",
+      "opciones": [
+        "Desobediencia y denegación de auxilio, artículos 436 a 438 bis.",
+        "Fraudes y exacciones ilegales, artículos 436 a 438 bis.",
+        "Tráfico de influencias, artículos 436 a 438 bis."
+      ],
+      "correcta": 1
+    }
+  ]
+}

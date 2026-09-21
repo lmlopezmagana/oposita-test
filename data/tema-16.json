@@ -1,0 +1,506 @@
+{
+  "tema": 16,
+  "titulo": "Los Servicios Sociales en España. Noción constitucional de asistencia social y servicios sociales.",
+  "preguntas": [
+    {
+      "id": "T16-P0001",
+      "pregunta": "¿Qué precepto constitucional constituye el fundamento general de España como Estado social y democrático de Derecho?",
+      "opciones": [
+        "El artículo 1.1 de la Constitución Española.",
+        "El artículo 9.2 de la Constitución Española.",
+        "El artículo 53.3 de la Constitución Española."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0002",
+      "pregunta": "Según el artículo 9.2 de la Constitución Española, ¿qué obligación resulta especialmente relevante para la actuación de los servicios sociales?",
+      "opciones": [
+        "Garantizar por sí solo un catálogo uniforme y directamente exigible de prestaciones sociales en todo el territorio.",
+        "Reservar al Estado la competencia exclusiva sobre la asistencia social.",
+        "Promover las condiciones para que la libertad y la igualdad sean reales y efectivas, remover obstáculos y facilitar la participación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0003",
+      "pregunta": "¿En qué precepto de la Constitución aparece expresamente la referencia a un «sistema de servicios sociales»?",
+      "opciones": [
+        "En el artículo 41, como denominación general del sistema de Seguridad Social.",
+        "En el artículo 148.1.20.ª, como definición completa del sistema público de servicios sociales.",
+        "En el artículo 50, en relación con el bienestar de las personas mayores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0004",
+      "pregunta": "De acuerdo con el artículo 53.3 de la Constitución, los principios rectores de la política social y económica:",
+      "opciones": [
+        "Informan la legislación, la práctica judicial y la actuación de los poderes públicos, y sólo pueden alegarse ante la jurisdicción ordinaria conforme a las leyes que los desarrollen.",
+        "Carecen de eficacia jurídica hasta que una comunidad autónoma los incorpore expresamente a su Estatuto.",
+        "Son directamente amparables ante el Tribunal Constitucional en los mismos términos que los derechos fundamentales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0005",
+      "pregunta": "¿Qué alcance tiene el artículo 149.1.1.ª CE en materia de servicios sociales según el tema?",
+      "opciones": [
+        "Impide a las comunidades autónomas reconocer prestaciones sociales más amplias que las estatales.",
+        "Atribuye al Estado la regulación íntegra y exclusiva de todos los servicios sociales.",
+        "Permite al Estado establecer condiciones básicas para garantizar posiciones jurídicas fundamentales, pero no le atribuye una competencia general sobre toda la asistencia social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0006",
+      "pregunta": "¿Qué materia atribuye al Estado el artículo 149.1.17.ª CE?",
+      "opciones": [
+        "La asistencia social externa a la Seguridad Social.",
+        "La gestión ordinaria de los servicios sociales comunitarios municipales.",
+        "La legislación básica y el régimen económico de la Seguridad Social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0007",
+      "pregunta": "¿Qué establece el artículo 148.1.20.ª CE?",
+      "opciones": [
+        "Que los municipios asumen obligatoriamente toda la gestión de la asistencia social.",
+        "Que el Estado ostenta competencia exclusiva sobre los servicios sociales.",
+        "Que las comunidades autónomas podían asumir competencias en materia de asistencia social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0008",
+      "pregunta": "El artículo 139.1 CE, aplicado a la diversidad territorial de los servicios sociales, implica que:",
+      "opciones": [
+        "Las diferencias entre sistemas autonómicos son inconstitucionales por definición.",
+        "Los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio, sin que ello exija identidad absoluta de todas las prestaciones autonómicas.",
+        "Todas las comunidades autónomas deben aprobar carteras de servicios idénticas en contenido, intensidad y cuantía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0009",
+      "pregunta": "¿Qué exige el artículo 13 de la Carta Social Europea revisada?",
+      "opciones": [
+        "Asistencia adecuada a quien carezca de recursos y asesoramiento o ayuda personal para prevenir, eliminar o aliviar la necesidad.",
+        "La gratuidad universal e incondicionada de toda prestación social.",
+        "La creación de un sistema estatal único de servicios sociales gestionado por la Administración General del Estado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0010",
+      "pregunta": "¿Qué obligación recoge el artículo 14 de la Carta Social Europea revisada?",
+      "opciones": [
+        "Reservar a los trabajadores sociales la resolución administrativa de todas las prestaciones sociales.",
+        "Fomentar u organizar servicios que, mediante métodos de trabajo social, contribuyan al bienestar y desarrollo de individuos y grupos y estimular la participación social.",
+        "Sustituir los sistemas autonómicos por un catálogo europeo directamente ejecutivo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0011",
+      "pregunta": "Según la STC 76/1986, reiterada por la STC 239/2002, la asistencia social se caracteriza materialmente por:",
+      "opciones": [
+        "Proteger situaciones de necesidad específicas fuera del sistema de Seguridad Social y al margen de una obligación contributiva previa.",
+        "Comprender exclusivamente prestaciones económicas financiadas por cotizaciones sociales.",
+        "Identificarse con cualquier prestación pública no contributiva, con independencia de su encuadramiento."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0012",
+      "pregunta": "¿Qué aportación destaca el tema de la STC 146/1986 respecto de la asistencia social?",
+      "opciones": [
+        "Declara que toda actividad desarrollada por entidades privadas queda fuera de la asistencia social.",
+        "Equipara jurídicamente asistencia social y Seguridad Social cuando ambas se financian con presupuestos públicos.",
+        "La concibe como técnica pública de protección distinta de la beneficencia, que puede prestarse directamente por entes públicos o mediante entidades privadas sometidas a fomento o control público."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0013",
+      "pregunta": "¿Qué distinción formula la STC 239/2002?",
+      "opciones": [
+        "Distingue una asistencia social estatal contributiva y otra municipal no contributiva.",
+        "Distingue una asistencia social interna al sistema de Seguridad Social y otra externa de competencia autonómica.",
+        "Distingue entre servicios sociales obligatorios para mayores de 20.000 habitantes y voluntarios para el resto."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0014",
+      "pregunta": "¿Por qué la ausencia de cotización no basta para calificar una prestación como asistencia social externa?",
+      "opciones": [
+        "Porque únicamente las prestaciones contributivas pueden tener naturaleza pública.",
+        "Porque toda prestación sin cotización pertenece necesariamente a las entidades locales.",
+        "Porque la Seguridad Social también incluye prestaciones no contributivas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0015",
+      "pregunta": "En relación con el poder de gasto estatal en materia de asistencia social, ¿cuál es la regla correcta?",
+      "opciones": [
+        "Financiar una actuación no atribuye por sí mismo competencia material al Estado.",
+        "Toda financiación estatal permite automáticamente la gestión centralizada de la prestación.",
+        "El Estado sólo puede financiar políticas sociales si son competencia exclusiva municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0016",
+      "pregunta": "Cuando el Estado carece de título material específico en una materia de asistencia social, la doctrina constitucional señala como regla que:",
+      "opciones": [
+        "Gestione directamente las subvenciones desde un órgano estatal para asegurar la igualdad territorial.",
+        "Defina el destino de los fondos de forma genérica y los territorialice para su gestión autonómica.",
+        "Transfiera necesariamente la totalidad de los fondos a los municipios de más de 20.000 habitantes."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0017",
+      "pregunta": "¿Cuándo puede justificarse excepcionalmente una gestión estatal centralizada de fondos en materia social?",
+      "opciones": [
+        "Siempre que el Estado invoque genéricamente el artículo 149.1.1.ª CE.",
+        "Siempre que la cuantía de la subvención supere la capacidad presupuestaria de una comunidad autónoma.",
+        "Cuando existan actuaciones verdaderamente supraautonómicas que no puedan regionalizarse o concurra un título estatal específico."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0018",
+      "pregunta": "¿Cuál es la naturaleza del Catálogo de Referencia de Servicios Sociales de 2013?",
+      "opciones": [
+        "Es un reglamento estatal que sustituye a las leyes autonómicas en materia de prestaciones garantizadas.",
+        "Es un instrumento referencial y cooperativo que no crea por sí mismo derechos subjetivos.",
+        "Es una ley estatal básica directamente vinculante para todas las carteras autonómicas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0019",
+      "pregunta": "¿Qué fechas identifica el tema respecto del Catálogo de Referencia de Servicios Sociales?",
+      "opciones": [
+        "Fue aprobado por el Consejo Territorial el 16 de enero de 2013 y publicado por Resolución de 23 de abril de 2013.",
+        "Fue aprobado por las Cortes Generales el 16 de enero de 2013 y publicado como ley el 23 de abril de 2013.",
+        "Fue aprobado por el Consejo de Ministros el 23 de abril de 2013 y publicado el 16 de enero de 2014."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0020",
+      "pregunta": "Según la definición funcional recogida en el Catálogo de Referencia, el sistema público de servicios sociales busca:",
+      "opciones": [
+        "Sustituir la acción protectora de la Seguridad Social en todos los supuestos de necesidad.",
+        "El desarrollo pleno, el bienestar, la calidad de vida, la convivencia y la prevención y eliminación de las causas de exclusión.",
+        "Exclusivamente garantizar prestaciones económicas a quienes carezcan de ingresos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0021",
+      "pregunta": "¿Cuál de los siguientes NO figura entre los trece principios de referencia sintetizados por el Catálogo de 2013 según el tema?",
+      "opciones": [
+        "Centralización administrativa.",
+        "Responsabilidad pública.",
+        "Atención personalizada e integral."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0022",
+      "pregunta": "¿Cuál de los siguientes se identifica como uno de los ejes de prestaciones de servicio del Catálogo de Referencia?",
+      "opciones": [
+        "Reconocimiento de pensiones contributivas del sistema de Seguridad Social.",
+        "Gestión tributaria de beneficios fiscales municipales.",
+        "Información, orientación, asesoramiento, diagnóstico y valoración."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0023",
+      "pregunta": "Las prestaciones de servicio del sistema de servicios sociales, según el tema:",
+      "opciones": [
+        "Se reducen a plazas en centros residenciales de titularidad pública.",
+        "Sólo pueden prestarse mediante resolución administrativa previa y nunca mediante acceso directo.",
+        "Son actuaciones profesionales y organizativas que pueden prestarse mediante programas, servicios, unidades administrativas, centros y equipos multiprofesionales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0024",
+      "pregunta": "En relación con las prestaciones económicas recogidas como referencia en el Catálogo de 2013, ¿qué afirmación es correcta?",
+      "opciones": [
+        "El Catálogo fija directamente una cuantía mínima uniforme para todas las comunidades autónomas.",
+        "Su cuantía, garantía, compatibilidad y procedimiento dependen de la legislación correspondiente.",
+        "Todas tienen la condición de derecho subjetivo por el solo hecho de aparecer en el Catálogo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0025",
+      "pregunta": "¿Qué afirma el tema sobre el trabajador o trabajadora social como profesional de referencia en atención primaria?",
+      "opciones": [
+        "El Catálogo lo identifica como profesional de referencia al menos en atención primaria, pero esa previsión es referencial y debe confirmarse en la ley autonómica.",
+        "La Constitución le atribuye directamente esa condición con carácter uniforme para toda España.",
+        "La LRBRL le atribuye en exclusiva la resolución de todas las prestaciones municipales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0026",
+      "pregunta": "¿Cómo se caracteriza estructuralmente el sistema de servicios sociales en España?",
+      "opciones": [
+        "Como un conjunto de servicios exclusivamente municipales sin intervención autonómica.",
+        "Como una red territorial de sistemas autonómicos conectados por legislación estatal sectorial, cooperación y referencias comunes.",
+        "Como un sistema estatal único dirigido íntegramente por la Administración General del Estado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0027",
+      "pregunta": "¿Qué competencia propia municipal recoge el artículo 25.2.e de la LRBRL?",
+      "opciones": [
+        "El reconocimiento del grado de dependencia con carácter general.",
+        "La aprobación de las carteras autonómicas de servicios sociales.",
+        "La evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0028",
+      "pregunta": "Según el artículo 26.1.c de la LRBRL, la evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social es servicio obligatorio:",
+      "opciones": [
+        "Sólo en municipios con población superior a 50.000 habitantes.",
+        "En todos los municipios con independencia de su población y en idénticos términos.",
+        "En los municipios con población superior a 20.000 habitantes."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0029",
+      "pregunta": "¿Qué atribuye el artículo 92.2.c del Estatuto de Autonomía para Andalucía a los ayuntamientos?",
+      "opciones": [
+        "La competencia exclusiva para legislar sobre servicios sociales.",
+        "La gestión de los servicios sociales comunitarios en los términos que establezca la ley.",
+        "La gestión del régimen económico de la Seguridad Social."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0030",
+      "pregunta": "Respecto de la competencia exclusiva autonómica en servicios sociales, el tema subraya que:",
+      "opciones": [
+        "Excluye toda función de las entidades locales en la atención de proximidad.",
+        "Impide cualquier intervención estatal incluso cuando exista un título constitucional específico.",
+        "Se ejerce dentro del bloque de constitucionalidad y no elimina los títulos estatales concurrentes válidamente ejercidos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0031",
+      "pregunta": "¿Qué papel general desempeñan las comunidades autónomas en la arquitectura actual de los servicios sociales?",
+      "opciones": [
+        "Sólo financian prestaciones, correspondiendo su regulación a los municipios.",
+        "Se limitan a ejecutar reglamentos estatales sin capacidad propia de planificación.",
+        "Aprueban leyes, planifican, ordenan carteras, autorizan e inspeccionan, regulan prestaciones y organizan y gestionan sus sistemas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0032",
+      "pregunta": "¿Qué papel general atribuye el tema a las entidades locales?",
+      "opciones": [
+        "La dirección general de los sistemas autonómicos de servicios sociales.",
+        "La atención de proximidad, servicios comunitarios o primarios, evaluación, información, urgencia e intervención según la legislación aplicable.",
+        "La aprobación de las condiciones básicas estatales de igualdad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0033",
+      "pregunta": "La colaboración de la iniciativa social o privada en los servicios sociales:",
+      "opciones": [
+        "Puede incluir provisión, concierto, innovación, participación y apoyo comunitario, sin sustituir la responsabilidad pública ni el control.",
+        "Convierte automáticamente la actividad en ajena al sistema público.",
+        "Elimina las funciones públicas de autorización, inspección y ordenación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0034",
+      "pregunta": "¿Qué crea la Ley 39/2006 en materia de dependencia según el tema?",
+      "opciones": [
+        "Un derecho subjetivo de ciudadanía a la promoción de la autonomía personal y atención a las personas en situación de dependencia.",
+        "Un principio rector constitucional sin exigibilidad administrativa.",
+        "Una prestación municipal discrecional no vinculada a derechos subjetivos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0035",
+      "pregunta": "¿Cuáles son los tres niveles de protección del SAAD descritos en el tema?",
+      "opciones": [
+        "Nivel mínimo estatal, nivel acordado entre Estado y comunidad autónoma y nivel adicional autonómico.",
+        "Nivel contributivo, nivel no contributivo y nivel asistencial local.",
+        "Nivel municipal básico, nivel provincial intermedio y nivel estatal especializado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0036",
+      "pregunta": "La red del SAAD se integra:",
+      "opciones": [
+        "En las redes de servicios sociales de las comunidades autónomas e incluye centros públicos autonómicos y locales, centros estatales de referencia y centros privados concertados acreditados.",
+        "Únicamente en centros públicos municipales, quedando excluidos los centros concertados.",
+        "Exclusivamente en la red de centros de la Seguridad Social estatal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0037",
+      "pregunta": "¿Qué demuestra el modelo de la Ley 39/2006 respecto al reparto competencial?",
+      "opciones": [
+        "Que toda materia social pasa a ser estatal cuando una ley reconoce un derecho subjetivo.",
+        "Que una ley estatal basada en condiciones básicas de igualdad puede convivir con las competencias autonómicas mediante un esquema cooperativo.",
+        "Que las comunidades autónomas quedan excluidas de la valoración y gestión de la dependencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0038",
+      "pregunta": "¿Cuál es la diferencia esencial entre beneficencia y asistencia social que destaca el tema?",
+      "opciones": [
+        "La beneficencia es contributiva y la asistencia social exclusivamente privada.",
+        "La beneficencia es el antecedente histórico de ayuda caritativa o graciable, mientras la asistencia social es una técnica pública de protección de necesidades.",
+        "La beneficencia constituye hoy un derecho subjetivo constitucional y la asistencia social no."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0039",
+      "pregunta": "¿Cuál es la relación correcta entre asistencia social y servicios sociales?",
+      "opciones": [
+        "La asistencia social es una categoría constitucional y técnica de protección, mientras los servicios sociales constituyen una configuración institucional más amplia de redes, equipos, prestaciones y garantías.",
+        "Los servicios sociales son una subcategoría limitada a las ayudas económicas de asistencia social.",
+        "Son conceptos estrictamente sinónimos y jurídicamente intercambiables en cualquier contexto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0040",
+      "pregunta": "¿Qué diferencia básica existe entre un principio rector constitucional y un derecho legal o estatutario?",
+      "opciones": [
+        "El principio rector orienta legislación, jueces y poderes públicos y es alegable según sus leyes de desarrollo; el derecho legal o estatutario reconoce contenido, titulares y requisitos exigibles por las vías previstas.",
+        "El principio rector siempre tiene mayor exigibilidad judicial que un derecho reconocido por ley.",
+        "Los derechos estatutarios carecen de contenido exigible hasta que sean incorporados a la Constitución."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0041",
+      "pregunta": "En la distribución funcional de los servicios sociales, ¿quién resuelve con carácter general un procedimiento administrativo de prestación?",
+      "opciones": [
+        "Siempre el profesional de referencia, aunque carezca de competencia resolutoria.",
+        "Siempre el trabajador social que haya realizado la valoración.",
+        "El órgano administrativo competente conforme a la norma aplicable."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0042",
+      "pregunta": "¿Qué relación existe entre valoración, propuesta y resolución según el tema?",
+      "opciones": [
+        "La propuesta del trabajador social sustituye jurídicamente a la resolución administrativa.",
+        "Son fases equivalentes que corresponden necesariamente a la misma persona profesional.",
+        "Son funciones diferenciadas y no debe presumirse que quien valora o propone sea quien resuelve."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0043",
+      "pregunta": "Ante una demanda económica en servicios sociales municipales, ¿qué enfoque recomienda el tema?",
+      "opciones": [
+        "Limitar la intervención a verificar ingresos y conceder una ayuda municipal siempre que sean insuficientes.",
+        "Derivar automáticamente a la Seguridad Social cualquier demanda económica sin valoración social.",
+        "Identificar primero la necesidad global, diferenciar el sistema competente, tramitar lo propio, realizar derivación acompañada y mantener coordinación y seguimiento cuando proceda."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0044",
+      "pregunta": "¿Cuál de las siguientes actuaciones puede corresponder al profesional de Trabajo Social municipal según el tema?",
+      "opciones": [
+        "Acogida, información, orientación, valoración y diagnóstico social, diseño de intervención, acompañamiento, informe, propuesta, tramitación, seguimiento y coordinación.",
+        "Reconocer por sí mismo el grado de dependencia con efectos administrativos generales.",
+        "Dictar resoluciones sancionadoras o judiciales cuando exista urgencia social."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0045",
+      "pregunta": "¿Cuál de las siguientes decisiones se identifica en el tema como propia de otros órganos y no del trabajador social municipal por el mero hecho de intervenir en el expediente?",
+      "opciones": [
+        "Reconocer grados de dependencia o discapacidad y resolver prestaciones cuando la competencia corresponda a otro órgano.",
+        "Coordinarse con salud, educación, empleo o vivienda.",
+        "Realizar valoración y diagnóstico social."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T16-P0046",
+      "pregunta": "¿Qué afirmación describe correctamente el papel del informe social?",
+      "opciones": [
+        "Tiene siempre naturaleza de resolución administrativa definitiva.",
+        "Puede ser determinante en un expediente, pero no sustituye la resolución del órgano competente.",
+        "Carece de relevancia jurídica porque sólo sirve para coordinación interna."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0047",
+      "pregunta": "¿Qué artículo de la LGSS menciona servicios sociales y asistencia social dentro de la acción protectora de la Seguridad Social?",
+      "opciones": [
+        "El artículo 148.1.20.ª de la Constitución Española.",
+        "El artículo 25.2.e de la Ley Reguladora de las Bases del Régimen Local.",
+        "El artículo 42 del texto refundido de la Ley General de la Seguridad Social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T16-P0048",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Seguridad Social es correcta según el tema?",
+      "opciones": [
+        "Sólo comprende prestaciones financiadas mediante cotización previa.",
+        "Incluye modalidades contributivas y no contributivas, además de determinados servicios sociales propios.",
+        "Toda prestación de servicios sociales queda constitucionalmente fuera de su acción protectora."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0049",
+      "pregunta": "¿Qué norma constituye el marco general del sistema andaluz de servicios sociales, aunque su desarrollo exhaustivo corresponda al Tema 17?",
+      "opciones": [
+        "La Ley 39/2006, de 14 de diciembre, como ley general andaluza de servicios sociales.",
+        "La Ley 9/2016, de 27 de diciembre, de Servicios Sociales de Andalucía.",
+        "La Ley 7/1985, de 2 de abril, como ley autonómica andaluza de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T16-P0050",
+      "pregunta": "¿Qué serie jurisprudencial utiliza el tema para sintetizar la definición, amplitud y coexistencia de la asistencia social?",
+      "opciones": [
+        "SSTC 76/1986, 146/1986 y 239/2002.",
+        "SSTC 178/2011, 177/2012 y 52/2013 exclusivamente.",
+        "SSTC 39/2006, 7/1985 y 9/2016."
+      ],
+      "correcta": 0
+    }
+  ]
+}

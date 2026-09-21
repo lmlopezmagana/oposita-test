@@ -1,0 +1,506 @@
+{
+  "tema": 13,
+  "titulo": "Los Recursos Administrativos",
+  "preguntas": [
+    {
+      "id": "T13-P0001",
+      "pregunta": "¿En qué preceptos de la Ley 39/2015 se concentra la regulación general de los recursos administrativos estudiados en el Tema 13?",
+      "opciones": [
+        "En los artículos 106 a 120.",
+        "En los artículos 112 a 126.",
+        "En los artículos 121 a 135."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0002",
+      "pregunta": "¿Cuál de los siguientes actos de trámite puede ser objeto de recurso administrativo autónomo conforme al artículo 112.1 de la Ley 39/2015?",
+      "opciones": [
+        "Todo acto de trámite que se dicte antes de la resolución final.",
+        "El que produce un perjuicio irreparable a derechos o intereses legítimos.",
+        "Únicamente el acto de trámite que ponga formalmente fin al procedimiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0003",
+      "pregunta": "¿Cómo debe hacerse valer, como regla general, la oposición frente a un acto de trámite que no tenga la consideración de cualificado?",
+      "opciones": [
+        "Interponiendo obligatoriamente recurso de reposición en el plazo de un mes.",
+        "Alegándola para que sea considerada en la resolución que ponga fin al procedimiento.",
+        "Interponiendo recurso de alzada de forma inmediata, aunque el acto ponga fin a la vía administrativa."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0004",
+      "pregunta": "¿Qué regla establece la Ley 39/2015 respecto de las disposiciones administrativas de carácter general?",
+      "opciones": [
+        "No cabe recurso administrativo directo contra ellas.",
+        "Sólo cabe recurso de alzada contra ellas.",
+        "Cabe siempre recurso potestativo de reposición antes de acudir a la vía judicial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0005",
+      "pregunta": "Si se recurre un acto administrativo y la impugnación se funda únicamente en la nulidad de una disposición general, ¿ante qué órgano puede interponerse directamente el recurso?",
+      "opciones": [
+        "Ante el órgano que dictó la disposición general.",
+        "Ante el superior jerárquico del órgano que dictó el acto, en todo caso.",
+        "Ante el órgano consultivo autonómico competente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0006",
+      "pregunta": "¿En qué supuesto procede el recurso extraordinario de revisión conforme a la regla general del artículo 113 de la Ley 39/2015?",
+      "opciones": [
+        "Contra actos firmes en vía administrativa cuando concurra alguna de las circunstancias tasadas del artículo 125.1.",
+        "Contra cualquier acto que ponga fin a la vía administrativa, aunque no sea firme.",
+        "Contra cualquier acto de trámite ordinario cuando el interesado alegue indefensión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0007",
+      "pregunta": "Con carácter general, ¿cuál de las siguientes resoluciones municipales pone fin a la vía administrativa según el artículo 52 de la Ley 7/1985?",
+      "opciones": [
+        "Una resolución del Alcalde.",
+        "Cualquier informe emitido por un trabajador municipal.",
+        "Todo acto de trámite dictado por una unidad administrativa sin competencia resolutoria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0008",
+      "pregunta": "¿Cuál de los siguientes elementos forma parte del contenido exigible del escrito de interposición de un recurso administrativo?",
+      "opciones": [
+        "La identificación del acto que se recurre y la razón de su impugnación.",
+        "La cita literal de todos los artículos legales que se consideren infringidos.",
+        "La propuesta de una resolución alternativa redactada íntegramente por el recurrente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0009",
+      "pregunta": "Una persona interesada denomina erróneamente «recurso de reposición» a un escrito que, por su contenido, tiene claramente naturaleza de recurso de alzada. ¿Qué efecto produce ese error?",
+      "opciones": [
+        "Determina necesariamente la inadmisión por error en la denominación.",
+        "No impide su tramitación si puede deducirse su verdadero carácter.",
+        "Convierte el recurso en extraordinario de revisión si el acto ya ha sido notificado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0010",
+      "pregunta": "Según las reglas generales de los recursos administrativos, ¿puede el recurrente invocar como fundamento un vicio de anulabilidad que él mismo haya causado?",
+      "opciones": [
+        "Sí, siempre que el vicio sea subsanable.",
+        "No, quien causó el vicio o defecto no puede invocarlo después como fundamento de su recurso.",
+        "Sí, pero únicamente si lo invoca en un recurso de alzada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0011",
+      "pregunta": "¿Cuándo constituye causa de inadmisión la incompetencia del órgano administrativo ante el que se interpone el recurso?",
+      "opciones": [
+        "Siempre que el recurso se presente ante un órgano distinto del que debe resolverlo.",
+        "Sólo cuando el recurrente no indique expresamente el órgano competente.",
+        "Cuando el órgano competente pertenece a otra Administración Pública."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0012",
+      "pregunta": "¿Cuál de las siguientes circunstancias NO aparece entre las causas de inadmisión del artículo 116 de la Ley 39/2015 recogidas en el tema?",
+      "opciones": [
+        "La extemporaneidad del recurso.",
+        "La mera existencia de otros interesados en el procedimiento.",
+        "La carencia manifiesta de fundamento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0013",
+      "pregunta": "¿Qué efecto produce, como regla general, la mera interposición de un recurso administrativo sobre la ejecución del acto impugnado?",
+      "opciones": [
+        "Suspende automáticamente la ejecución durante un mes.",
+        "Suspende la ejecución sólo si el recurso es de alzada.",
+        "No suspende la ejecución."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0014",
+      "pregunta": "Para que el órgano competente pueda acordar la suspensión de la ejecución del acto recurrido, ¿cuál de las siguientes circunstancias puede justificarla?",
+      "opciones": [
+        "Que el recurso haya sido presentado dentro de los primeros diez días del plazo.",
+        "Que la ejecución pueda causar perjuicios de imposible o difícil reparación.",
+        "Que el interesado alegue cualquier causa de anulabilidad, sin más requisitos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0015",
+      "pregunta": "Si se solicita la suspensión de la ejecución y transcurre un mes desde la entrada de la solicitud en el registro electrónico competente sin resolución expresa notificada, ¿qué sucede?",
+      "opciones": [
+        "La solicitud de suspensión se entiende desestimada.",
+        "La ejecución del acto se entiende suspendida.",
+        "El recurso principal se entiende estimado automáticamente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0016",
+      "pregunta": "Cuando la suspensión de la ejecución pueda causar perjuicios, ¿qué puede exigir la Administración?",
+      "opciones": [
+        "La renuncia previa del recurrente a la vía contenciosa.",
+        "Caución o garantía suficiente.",
+        "La interposición simultánea de recurso de alzada y reposición."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0017",
+      "pregunta": "Si el acto impugnado afecta a una pluralidad indeterminada de personas y se acuerda suspender su eficacia, ¿qué exige el régimen expuesto en el tema?",
+      "opciones": [
+        "Notificar individualmente la suspensión a todas las personas potencialmente afectadas.",
+        "Publicar la suspensión exclusivamente en el tablón electrónico de la Administración autora.",
+        "Publicar la suspensión en el mismo periódico oficial en que se insertó el acto."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0018",
+      "pregunta": "Cuando en la resolución del recurso hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario, ¿qué plazo de audiencia debe concederse a los interesados?",
+      "opciones": [
+        "Un plazo no inferior a diez días ni superior a quince.",
+        "Un plazo fijo de cinco días hábiles.",
+        "Un plazo no inferior a quince días ni superior a veinte."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0019",
+      "pregunta": "A efectos del trámite de audiencia en vía de recurso, ¿cuál de los siguientes elementos NO se considera documento nuevo?",
+      "opciones": [
+        "Los informes y las propuestas.",
+        "Un documento esencial conocido después de dictarse la resolución y no incorporado antes al expediente.",
+        "Un documento aportado por un tercero tras la resolución y relevante para decidir el recurso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0020",
+      "pregunta": "¿Qué decisiones puede adoptar la resolución de un recurso administrativo según el artículo 119 de la Ley 39/2015?",
+      "opciones": [
+        "Únicamente estimar o desestimar en su totalidad.",
+        "Estimar total o parcialmente, desestimar o declarar la inadmisión.",
+        "Estimar, desestimar o imponer una sanción adicional al recurrente por el hecho de recurrir."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0021",
+      "pregunta": "Si existe un vicio de forma y no procede resolver sobre el fondo del recurso, ¿qué solución prevé la Ley 39/2015?",
+      "opciones": [
+        "Archivar definitivamente el procedimiento sin posibilidad de continuación.",
+        "Retrotraer el procedimiento al momento en que se cometió el vicio, sin perjuicio de la posible convalidación.",
+        "Transformar automáticamente el recurso en extraordinario de revisión."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0022",
+      "pregunta": "¿Puede el órgano que resuelve un recurso pronunciarse sobre cuestiones no alegadas por las personas interesadas?",
+      "opciones": [
+        "Sí, pero debe oírlas previamente si va a resolver sobre esas cuestiones.",
+        "No, porque sólo puede decidir sobre los motivos formulados literalmente en el escrito de recurso.",
+        "Sí, sin necesidad de audiencia y aunque empeore la situación inicial del recurrente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0023",
+      "pregunta": "¿Qué límite impone el principio de congruencia a la resolución del recurso respecto de la situación inicial del recurrente?",
+      "opciones": [
+        "La resolución debe mantener siempre exactamente el contenido del acto impugnado.",
+        "La resolución no puede agravar su situación inicial.",
+        "La resolución sólo puede mejorar la situación del recurrente si existe conformidad de otros interesados."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0024",
+      "pregunta": "Cuando existen varios recursos administrativos derivados de un mismo acto y se ha interpuesto recurso judicial contra una resolución administrativa o contra el correspondiente acto presunto desestimatorio, ¿qué puede hacer el órgano administrativo?",
+      "opciones": [
+        "Suspender el plazo para resolver los demás recursos hasta que exista pronunciamiento judicial.",
+        "Declarar automáticamente estimados todos los recursos administrativos pendientes.",
+        "Inadmitir obligatoriamente los demás recursos por litispendencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0025",
+      "pregunta": "¿Contra qué actos procede típicamente el recurso de alzada?",
+      "opciones": [
+        "Contra actos firmes en vía administrativa por cualquiera de los motivos de nulidad o anulabilidad.",
+        "Contra resoluciones que ponen fin a la vía administrativa, con carácter potestativo.",
+        "Contra resoluciones y actos de trámite cualificados que no ponen fin a la vía administrativa."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0026",
+      "pregunta": "¿Qué órgano es competente para resolver un recurso de alzada?",
+      "opciones": [
+        "El mismo órgano que dictó el acto, en todo caso.",
+        "El órgano jurisdiccional contencioso-administrativo competente.",
+        "El superior jerárquico del órgano que dictó el acto."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0027",
+      "pregunta": "A efectos del recurso de alzada, ¿de qué órgano se consideran dependientes los tribunales y órganos de selección de personal que actúan con autonomía funcional?",
+      "opciones": [
+        "Siempre de la Alcaldía, con independencia de su adscripción o nombramiento.",
+        "Del órgano consultivo de la Administración correspondiente.",
+        "Del órgano al que estén adscritos o, en su defecto, del que haya nombrado a su presidente."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0028",
+      "pregunta": "Si un recurso de alzada se presenta ante el órgano que dictó el acto impugnado, ¿qué debe hacer éste?",
+      "opciones": [
+        "Resolverlo directamente en el plazo de diez días.",
+        "Remitirlo al órgano competente en diez días, con su informe y una copia completa y ordenada del expediente.",
+        "Remitir únicamente el escrito de recurso, sin informe ni expediente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0029",
+      "pregunta": "¿Cuál es el plazo de interposición del recurso de alzada contra un acto expreso?",
+      "opciones": [
+        "Diez días hábiles.",
+        "Tres meses.",
+        "Un mes."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0030",
+      "pregunta": "Si el acto que se pretende recurrir en alzada no es expreso, ¿cuándo puede interponerse el recurso?",
+      "opciones": [
+        "Sólo durante el mes siguiente a aquel en que se produzca el silencio.",
+        "Únicamente después de que transcurran tres meses desde el silencio.",
+        "En cualquier momento desde el día siguiente a aquel en que se produzcan los efectos del silencio administrativo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0031",
+      "pregunta": "¿Cuál es el plazo máximo para dictar y notificar la resolución de un recurso de alzada?",
+      "opciones": [
+        "Tres meses.",
+        "Un mes.",
+        "Seis meses."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0032",
+      "pregunta": "En el supuesto especial de «doble silencio» descrito en el tema, ¿qué ocurre si una alzada se interpone contra la desestimación por silencio de una solicitud y tampoco se resuelve expresamente la alzada en plazo, salvo las materias exceptuadas por el artículo 24.1?",
+      "opciones": [
+        "La alzada se entiende desestimada en todo caso.",
+        "La solicitud inicial y la alzada quedan archivadas sin resolución.",
+        "La alzada se entiende estimada."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0033",
+      "pregunta": "¿Qué recurso administrativo cabe contra la resolución de un recurso de alzada?",
+      "opciones": [
+        "Siempre cabe recurso potestativo de reposición.",
+        "Ninguno, salvo en su caso el recurso extraordinario de revisión si concurre alguna causa legal.",
+        "Cabe una segunda alzada ante el órgano inmediatamente superior."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0034",
+      "pregunta": "¿Cuál de las siguientes afirmaciones define correctamente el recurso potestativo de reposición?",
+      "opciones": [
+        "Se dirige contra actos que ponen fin a la vía administrativa y lo resuelve el mismo órgano que los dictó.",
+        "Se dirige contra actos que no ponen fin a la vía administrativa y lo resuelve el superior jerárquico.",
+        "Se dirige exclusivamente contra actos firmes y sólo por causas tasadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0035",
+      "pregunta": "Frente a un acto que pone fin a la vía administrativa, ¿qué alternativa tiene la persona interesada respecto del recurso de reposición?",
+      "opciones": [
+        "Puede interponer reposición potestativa o acudir directamente al orden jurisdiccional contencioso-administrativo.",
+        "Debe interponer siempre reposición antes de acudir a la vía contenciosa.",
+        "Debe interponer alzada y, sólo si se desestima, reposición."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0036",
+      "pregunta": "Si la persona interesada opta por interponer recurso potestativo de reposición, ¿cuándo puede acudir a la vía contencioso-administrativa?",
+      "opciones": [
+        "Cuando la reposición sea resuelta expresamente o se produzca su desestimación presunta.",
+        "Desde el mismo momento en que presenta la reposición, de forma simultánea.",
+        "Sólo después de que transcurran tres meses desde la interposición, aunque haya resolución expresa anterior."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0037",
+      "pregunta": "Contra un acto expreso que pone fin a la vía administrativa, ¿cuál es la combinación correcta de plazos del recurso potestativo de reposición?",
+      "opciones": [
+        "Un mes para interponerlo y tres meses para resolverlo.",
+        "Un mes para interponerlo y un mes como plazo máximo para resolverlo.",
+        "Tres meses para interponerlo y un mes para resolverlo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0038",
+      "pregunta": "Si el acto que pone fin a la vía administrativa no es expreso, ¿cuál es el plazo para interponer reposición según el régimen expuesto?",
+      "opciones": [
+        "Debe interponerse necesariamente dentro del mes siguiente al acto presunto.",
+        "Puede interponerse en cualquier momento desde el día siguiente a aquel en que se produzca el acto presunto.",
+        "Debe esperarse tres meses antes de poder interponerlo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0039",
+      "pregunta": "¿Puede interponerse un nuevo recurso de reposición contra la resolución de un recurso de reposición anterior?",
+      "opciones": [
+        "No.",
+        "Sí, siempre que se funde en un motivo distinto.",
+        "Sí, si se presenta dentro de los diez días siguientes a la notificación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0040",
+      "pregunta": "¿Ante qué órgano se interpone y se resuelve el recurso extraordinario de revisión?",
+      "opciones": [
+        "Ante el superior jerárquico del órgano que dictó el acto.",
+        "Ante el órgano consultivo que deba emitir dictamen sobre el expediente.",
+        "Ante el mismo órgano administrativo que dictó el acto."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0041",
+      "pregunta": "¿Cuál de las siguientes NO es una de las cuatro causas tasadas del recurso extraordinario de revisión recogidas en el artículo 125.1?",
+      "opciones": [
+        "La aparición de documentos de valor esencial que evidencien el error de la resolución.",
+        "Que la resolución se hubiera dictado como consecuencia de una conducta punible declarada por sentencia firme.",
+        "La mera discrepancia jurídica con la interpretación realizada por el órgano administrativo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0042",
+      "pregunta": "Cuando el recurso extraordinario de revisión se funda en un error de hecho que resulte de los propios documentos incorporados al expediente, ¿cuál es el plazo de interposición?",
+      "opciones": [
+        "Tres meses desde la notificación de la resolución impugnada.",
+        "Un año desde que se detecta el error de hecho.",
+        "Cuatro años desde la notificación de la resolución impugnada."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0043",
+      "pregunta": "Si aparecen documentos de valor esencial que, incluso siendo posteriores, evidencian el error de la resolución, ¿qué plazo existe para interponer recurso extraordinario de revisión?",
+      "opciones": [
+        "Cuatro años desde la notificación del acto, sin excepción.",
+        "Un mes desde la incorporación de los documentos al expediente administrativo.",
+        "Tres meses desde el conocimiento de los documentos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0044",
+      "pregunta": "Si influyeron esencialmente en la resolución documentos o testimonios declarados falsos por sentencia judicial firme, ¿desde cuándo se computa el plazo de tres meses para el recurso extraordinario de revisión?",
+      "opciones": [
+        "Desde la fecha en que se dictó el acto administrativo, aunque la sentencia sea posterior.",
+        "Desde la interposición del proceso judicial que terminó declarando la falsedad.",
+        "Desde que la sentencia judicial quedó firme."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0045",
+      "pregunta": "Una resolución administrativa firme fue consecuencia de prevaricación declarada por sentencia judicial firme. ¿Cuál es el régimen temporal del recurso extraordinario de revisión?",
+      "opciones": [
+        "Tres meses desde que la sentencia judicial quedó firme.",
+        "Cuatro años desde la notificación de la resolución administrativa.",
+        "Un mes desde que el interesado tuvo conocimiento informal de la conducta."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0046",
+      "pregunta": "¿Cuándo puede inadmitirse motivadamente un recurso extraordinario de revisión sin necesidad de recabar dictamen del Consejo de Estado u órgano consultivo autonómico?",
+      "opciones": [
+        "Siempre que el acto recurrido haya sido dictado por un Ayuntamiento.",
+        "Sólo cuando hayan transcurrido más de tres meses desde la interposición.",
+        "Cuando no se funde en una causa del artículo 125.1 o ya se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0047",
+      "pregunta": "Si el órgano entra a conocer un recurso extraordinario de revisión, ¿sobre qué debe pronunciarse?",
+      "opciones": [
+        "Sobre la procedencia del recurso y, en su caso, sobre el fondo de la cuestión resuelta por el acto recurrido.",
+        "Únicamente sobre la concurrencia formal de la causa de revisión, sin poder entrar nunca en el fondo.",
+        "Exclusivamente sobre la suspensión de la ejecución del acto firme."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T13-P0048",
+      "pregunta": "¿Cuál es el plazo máximo para resolver y notificar el recurso extraordinario de revisión y qué efecto produce su transcurso sin resolución?",
+      "opciones": [
+        "Un mes; transcurrido el plazo, el recurso se entiende estimado.",
+        "Tres meses; transcurrido el plazo, el acto impugnado queda automáticamente anulado.",
+        "Tres meses; transcurrido el plazo, el recurso se entiende desestimado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T13-P0049",
+      "pregunta": "¿Qué asociación entre recurso y plazo máximo de resolución es correcta?",
+      "opciones": [
+        "Alzada: 1 mes; reposición: 3 meses; extraordinario de revisión: 4 años.",
+        "Alzada: 3 meses; reposición: 1 mes; extraordinario de revisión: 3 meses.",
+        "Alzada: 3 meses; reposición: 3 meses; extraordinario de revisión: 1 mes."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T13-P0050",
+      "pregunta": "Una resolución de Alcaldía pone fin a la vía administrativa. Según la aplicación municipal expuesta en el tema, ¿qué opción encaja con carácter general?",
+      "opciones": [
+        "Interponer reposición potestativa ante la propia Alcaldía o acudir directamente a la vía jurisdiccional competente.",
+        "Interponer necesariamente recurso de alzada ante el Pleno.",
+        "Interponer recurso extraordinario de revisión aunque el acto todavía no sea firme."
+      ],
+      "correcta": 0
+    }
+  ]
+}

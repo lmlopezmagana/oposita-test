@@ -1,0 +1,506 @@
+{
+  "tema": 15,
+  "titulo": "La Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género",
+  "preguntas": [
+    {
+      "id": "T15-P0001",
+      "pregunta": "Según la estructura consolidada de la LO 1/2004 descrita en el tema, ¿qué afirmación sobre su numeración es correcta?",
+      "opciones": [
+        "La numeración ordinaria llega al artículo 72 y no existen artículos bis o ter en el texto consolidado.",
+        "La numeración ordinaria llega al artículo 75, porque los artículos 19 bis, 28 bis y 28 ter se integraron como artículos 73 a 75.",
+        "La numeración ordinaria llega al artículo 72, pero existen además los artículos 19 bis, 28 bis y 28 ter."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0002",
+      "pregunta": "¿Cuál es la regla de entrada en vigor recogida en la LO 1/2004?",
+      "opciones": [
+        "Con carácter general, 30 días desde su publicación; los títulos IV y V, a los 6 meses.",
+        "Con carácter general, 6 meses desde su publicación; los títulos IV y V, a los 30 días.",
+        "Toda la Ley entró en vigor al día siguiente de su publicación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0003",
+      "pregunta": "En relación con la naturaleza orgánica de la LO 1/2004, ¿qué opción se ajusta al tema?",
+      "opciones": [
+        "La LO 1/2004 carece de preceptos orgánicos porque su contenido es esencialmente asistencial.",
+        "Todo el contenido de la LO 1/2004 tiene carácter orgánico sin excepción.",
+        "La disposición final tercera declara orgánica la Ley, pero establece numerosas excepciones, por lo que no todo su contenido tiene carácter orgánico."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0004",
+      "pregunta": "¿Qué reforma incorporó expresamente al artículo 1 de la LO 1/2004 la violencia vicaria sobre familiares o allegados menores?",
+      "opciones": [
+        "La Ley Orgánica 8/2021.",
+        "La Ley Orgánica 8/2015.",
+        "La Ley Orgánica 10/2022."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0005",
+      "pregunta": "A efectos del artículo 1 de la LO 1/2004, ¿qué relación entre agresor y víctima queda comprendida en su concepto específico de violencia de género?",
+      "opciones": [
+        "La del hombre que sea o haya sido cónyuge de la mujer, o esté o haya estado ligado a ella por una relación similar de afectividad, aun sin convivencia.",
+        "Cualquier relación entre un hombre y una mujer, con independencia de que exista o haya existido vínculo afectivo.",
+        "Exclusivamente la relación matrimonial vigente o pasada, siempre que haya existido convivencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0006",
+      "pregunta": "Según el tema, la violencia vicaria comprendida en el artículo 1 de la LO 1/2004 consiste en:",
+      "opciones": [
+        "Violencia ejercida sobre familiares o allegados menores con el objetivo de causar perjuicio o daño a la mujer.",
+        "Violencia económica ejercida contra cualquier familiar de la mujer, aunque no exista finalidad de dañarla.",
+        "Violencia psicológica ejercida exclusivamente contra hijos mayores de edad que convivan con la víctima."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0007",
+      "pregunta": "¿Cuál de los siguientes contenidos se integra en los principios rectores del artículo 2 de la LO 1/2004?",
+      "opciones": [
+        "La obligatoriedad de judicializar previamente cualquier intervención de los servicios sociales.",
+        "La especialización profesional y la atención a las necesidades específicas de todas las mujeres víctimas.",
+        "La sustitución de los servicios autonómicos por un sistema estatal único de atención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0008",
+      "pregunta": "El artículo 2.c) de la LO 1/2004, especialmente relevante para los Servicios Sociales Locales, ordena:",
+      "opciones": [
+        "Centralizar en la Administración General del Estado todos los servicios de información y recuperación.",
+        "Reforzar los servicios de información, atención, emergencia, apoyo y recuperación integral, y mejorar la coordinación municipal y autonómica.",
+        "Limitar la intervención municipal a la derivación hacia recursos autonómicos especializados."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0009",
+      "pregunta": "Respecto del Plan Estatal de Sensibilización y Prevención previsto en el artículo 3, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Tiene una duración máxima de cuatro años y lo evalúa anualmente el Observatorio Estatal remitiendo el informe al Consejo de Ministros.",
+        "Tiene carácter bienal y su evaluación corresponde exclusivamente a las Comunidades Autónomas.",
+        "Tiene carácter permanente y la Delegación del Gobierno contra la Violencia de Género elabora un informe anual de evaluación que remite a las Cortes Generales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0010",
+      "pregunta": "Entre las medidas educativas de los artículos 4 a 9 de la LO 1/2004 se incluye:",
+      "opciones": [
+        "La sustitución de los Consejos Escolares por órganos específicos de igualdad en todos los centros.",
+        "La igualdad y la resolución pacífica de conflictos en todas las etapas, junto con la eliminación de estereotipos y la formación del profesorado.",
+        "La escolarización inmediata únicamente en Educación Primaria y Secundaria."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0011",
+      "pregunta": "En materia de publicidad y medios, los artículos 10 a 14 de la LO 1/2004 contemplan, entre otras medidas:",
+      "opciones": [
+        "La prohibición general de publicidad que utilice la imagen de mujeres, con independencia de su contenido.",
+        "La consideración como ilícita de la publicidad vejatoria o discriminatoria y la legitimación para ejercitar acciones de cesación.",
+        "La autorización previa de todas las campañas publicitarias por la Delegación del Gobierno contra la Violencia de Género."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0012",
+      "pregunta": "¿Qué elemento corresponde al bloque sanitario de los artículos 15 y 16?",
+      "opciones": [
+        "La creación de juzgados sanitarios especializados en violencia de género.",
+        "La atribución exclusiva a los servicios sociales de la detección precoz.",
+        "La detección precoz, la formación continuada y la existencia de una Comisión contra la Violencia de Género en el Consejo Interterritorial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0013",
+      "pregunta": "Según los artículos 17 y 18, ¿cuál de los siguientes recursos tiene carácter de servicio esencial?",
+      "opciones": [
+        "El asesoramiento jurídico 24 horas.",
+        "La mediación familiar obligatoria previa a la denuncia.",
+        "La concesión automática de una vivienda protegida."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0014",
+      "pregunta": "La información dirigida a las mujeres víctimas, según el tema, debe abarcar:",
+      "opciones": [
+        "Exclusivamente las prestaciones económicas estatales, sin referencia a recursos de atención.",
+        "Únicamente las vías de denuncia y las penas aplicables al agresor.",
+        "Protección y seguridad, derechos y ayudas, y lugares de prestación de servicios de atención, emergencia, apoyo y recuperación integral."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0015",
+      "pregunta": "¿Quiénes organizan los servicios de atención, emergencia, apoyo y acogida y recuperación integral del artículo 19?",
+      "opciones": [
+        "Los órganos judiciales y el Ministerio Fiscal.",
+        "Exclusivamente la Administración General del Estado.",
+        "Las Comunidades Autónomas y las Corporaciones Locales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0016",
+      "pregunta": "¿Qué combinación reproduce los principios organizativos de la atención integral del artículo 19?",
+      "opciones": [
+        "Atención periódica, intervención programada, generalización de prestaciones y unidisciplinariedad.",
+        "Atención permanente, actuación urgente, especialización de prestaciones y multidisciplinariedad profesional.",
+        "Atención exclusivamente presencial, actuación judicial previa, especialización territorial y mediación obligatoria."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0017",
+      "pregunta": "¿Cuál de las siguientes actuaciones forma parte del contenido multidisciplinar del artículo 19?",
+      "opciones": [
+        "La sustitución de la asistencia jurídica por orientación social.",
+        "El apoyo educativo a la unidad familiar y el apoyo a la formación e inserción laboral.",
+        "La imposición de sanciones administrativas al agresor por los servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0018",
+      "pregunta": "En relación con los menores que viven en contextos de violencia de género, el artículo 19 exige:",
+      "opciones": [
+        "Que también tengan derecho a asistencia social integral, con personal específicamente formado y atención de psicología infantil, incluida la violencia vicaria.",
+        "Que sólo reciban atención si existe previamente una sentencia penal firme.",
+        "Que la atención se limite a medidas educativas, excluyendo la intervención psicológica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0019",
+      "pregunta": "¿Con qué instituciones exige coordinación el artículo 19 para la asistencia social integral?",
+      "opciones": [
+        "Únicamente con los órganos judiciales y el Ministerio Fiscal.",
+        "Exclusivamente con los Servicios Públicos de Empleo y las entidades educativas.",
+        "Con Cuerpos de Seguridad, órganos judiciales, servicios sanitarios e instituciones de asistencia jurídica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0020",
+      "pregunta": "Según la lectura profesional del tema, los Servicios Sociales pueden:",
+      "opciones": [
+        "Solicitar al órgano judicial las medidas urgentes que consideren necesarias.",
+        "Adoptar directamente órdenes de alejamiento con eficacia judicial.",
+        "Suspender por resolución administrativa el régimen de visitas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0021",
+      "pregunta": "El artículo 19 bis reconoce a la mujer y a sus hijos e hijas:",
+      "opciones": [
+        "Derecho a atención sanitaria, con especial atención psicológica y psiquiátrica y seguimiento hasta la recuperación.",
+        "Atención psicológica sólo cuando exista una orden de protección vigente.",
+        "Únicamente asistencia sanitaria de urgencia durante las primeras 72 horas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0022",
+      "pregunta": "¿Qué reconoce el artículo 20 en materia de asistencia jurídica?",
+      "opciones": [
+        "Asesoramiento jurídico gratuito inmediatamente antes de denunciar y defensa y representación gratuitas en procesos y procedimientos administrativos relacionados directa o indirectamente con la violencia.",
+        "Asistencia jurídica gratuita únicamente después de interpuesta denuncia y sólo en el proceso penal.",
+        "Defensa gratuita exclusivamente cuando se haya dictado sentencia condenatoria firme."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0023",
+      "pregunta": "Entre los derechos laborales del artículo 21 se encuentra:",
+      "opciones": [
+        "La conversión automática del contrato temporal en indefinido.",
+        "La suspensión del contrato con reserva del puesto de trabajo y la extinción del contrato, pudiendo ambas generar situación legal de desempleo.",
+        "La jubilación anticipada obligatoria a solicitud de la empresa."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0024",
+      "pregunta": "Para una trabajadora autónoma víctima de violencia de género, el tema recoge:",
+      "opciones": [
+        "Exención definitiva de cotización a la Seguridad Social.",
+        "Cese temporal de actividad con suspensión de la obligación de cotizar durante 6 meses y situación asimilada al alta.",
+        "Suspensión de cotización durante 12 meses, sin situación asimilada al alta."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0025",
+      "pregunta": "¿Cuál de los siguientes documentos puede acreditar la situación de violencia de género conforme al artículo 23?",
+      "opciones": [
+        "Únicamente una orden de protección, sin admitir otras vías.",
+        "Sólo una sentencia condenatoria firme.",
+        "Un informe de los servicios sociales, de los servicios especializados o de los servicios de acogida, en los términos previstos por la normativa sectorial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0026",
+      "pregunta": "Para víctimas menores, el artículo 23 admite además como vía de acreditación:",
+      "opciones": [
+        "Cualquier declaración privada de un familiar, sin intervención institucional.",
+        "Exclusivamente un informe del centro educativo.",
+        "Documentos sanitarios oficiales de comunicación a la Fiscalía o al órgano judicial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0027",
+      "pregunta": "En el régimen de funcionarias públicas de los artículos 24 a 26, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Se reconocen, entre otros, reducción o reordenación del tiempo de trabajo, movilidad geográfica de centro de trabajo y excedencia, conforme a su legislación específica.",
+        "Las ausencias derivadas de la violencia se consideran siempre injustificadas salvo autorización judicial.",
+        "La única medida prevista es la excedencia forzosa, sin posibilidad de movilidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0028",
+      "pregunta": "Para acceder a la ayuda económica del artículo 27, el umbral de rentas mensuales es:",
+      "opciones": [
+        "No superior al 50 % del SMI, excluida una sola paga extraordinaria.",
+        "No superior al 75 % del SMI, excluida la parte proporcional de dos pagas extraordinarias.",
+        "Inferior al 100 % del SMI, incluidas las pagas extraordinarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0029",
+      "pregunta": "Además del requisito de rentas, el artículo 27 exige para la ayuda económica que:",
+      "opciones": [
+        "Se presuma especial dificultad para obtener empleo por edad, falta de preparación y circunstancias sociales, de modo que no participe en programas de empleo para inserción.",
+        "Exista necesariamente una incapacidad permanente reconocida de al menos el 33 %.",
+        "La víctima haya agotado previamente todas las prestaciones contributivas de desempleo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0030",
+      "pregunta": "¿Cuál es la cuantía general de la ayuda del artículo 27 expresada en la forma prevista por la Ley?",
+      "opciones": [
+        "Una prestación mensual durante 6 meses equivalente al SMI.",
+        "Un pago único equivalente a 12 meses de subsidio por desempleo en todos los casos.",
+        "Un pago único equivalente a 6 meses de subsidio por desempleo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0031",
+      "pregunta": "Si la víctima tiene reconocida una discapacidad igual o superior al 33 %, la ayuda del artículo 27 equivale, según el tema, a:",
+      "opciones": [
+        "18 meses de subsidio por desempleo.",
+        "24 meses de subsidio por desempleo.",
+        "12 meses de subsidio por desempleo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0032",
+      "pregunta": "¿Hasta qué cuantía puede alcanzar la ayuda del artículo 27 cuando existen responsabilidades familiares y, además, la víctima o un familiar conviviente tiene discapacidad igual o superior al 33 %?",
+      "opciones": [
+        "Hasta 18 meses de subsidio por desempleo.",
+        "Hasta 12 meses de subsidio por desempleo.",
+        "Hasta 24 meses de subsidio por desempleo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0033",
+      "pregunta": "¿Qué afirmación sobre la concesión y compatibilidad de la ayuda del artículo 27 es correcta?",
+      "opciones": [
+        "La concede exclusivamente el Servicio Público de Empleo y es incompatible con cualquier otra ayuda pública.",
+        "La concede el órgano judicial que dicte la orden de protección y sustituye a las ayudas autonómicas.",
+        "La conceden las Administraciones competentes en servicios sociales, incorporando informe del Servicio Público de Empleo, y es compatible con determinadas ayudas estatales, autonómicas o locales por violencia de género."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0034",
+      "pregunta": "En materia de vivienda, el artículo 28 considera a las víctimas de violencia de género:",
+      "opciones": [
+        "Colectivo prioritario para el acceso a viviendas protegidas y residencias públicas para mayores.",
+        "Colectivo prioritario únicamente para residencias temporales de emergencia, no para vivienda protegida.",
+        "Beneficiarias automáticas de una vivienda pública en propiedad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0035",
+      "pregunta": "El derecho a la reparación incorporado en 2022 comprende:",
+      "opciones": [
+        "Sólo recuperación sanitaria y compensación por pérdida de ingresos.",
+        "Únicamente indemnización económica por daños materiales acreditados.",
+        "Compensación o indemnización, recuperación física, psíquica y social, reparación simbólica y garantías de no repetición."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0036",
+      "pregunta": "¿Cuál de los siguientes daños aparece entre los indemnizables mínimos del artículo 28 ter?",
+      "opciones": [
+        "Exclusivamente el daño patrimonial directo, quedando excluido el lucro cesante.",
+        "El daño social, incluido el daño al proyecto de vida.",
+        "Únicamente el daño físico, sin incluir daño moral ni a la dignidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0037",
+      "pregunta": "¿Qué institución del artículo 29 formula políticas públicas, coordina e impulsa actuaciones y elabora la Macroencuesta de Violencia contra las Mujeres?",
+      "opciones": [
+        "La Comisión contra la Violencia de Género del Consejo Interterritorial.",
+        "La Delegación del Gobierno contra la Violencia de Género.",
+        "El Observatorio Estatal de Violencia sobre la Mujer."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0038",
+      "pregunta": "¿Qué función corresponde al Observatorio Estatal de Violencia sobre la Mujer según el artículo 30?",
+      "opciones": [
+        "Remitir anualmente al Gobierno y a las Comunidades Autónomas un informe sobre la evolución de la violencia y la efectividad de las medidas.",
+        "Adoptar medidas judiciales cautelares de protección en casos de especial gravedad.",
+        "Elaborar con periodicidad anual la Macroencuesta de Violencia contra las Mujeres."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0039",
+      "pregunta": "Según el artículo 31, las Policías Locales pueden cooperar con las Fuerzas y Cuerpos de Seguridad del Estado para:",
+      "opciones": [
+        "Asumir la instrucción judicial de los delitos de violencia de género.",
+        "Asegurar el cumplimiento de las medidas judiciales acordadas para la protección de las víctimas.",
+        "Dictar órdenes de protección cuando no esté disponible la autoridad judicial."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0040",
+      "pregunta": "Los planes de colaboración del artículo 32 deben ordenar la actuación coordinada de:",
+      "opciones": [
+        "Exclusivamente Justicia, Ministerio Fiscal y Fuerzas y Cuerpos de Seguridad.",
+        "Sanidad, Justicia, Fuerzas y Cuerpos de Seguridad, servicios sociales y organismos de igualdad.",
+        "Únicamente servicios sociales, sanidad y entidades privadas de atención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0041",
+      "pregunta": "¿Qué periodicidad mínima establece la disposición adicional vigesimoprimera para la Macroencuesta de violencia contra la mujer?",
+      "opciones": [
+        "Trienal.",
+        "Bienal.",
+        "Anual."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0042",
+      "pregunta": "¿Cuál es el contenido esencial del título IV de la LO 1/2004 según el tema?",
+      "opciones": [
+        "La tutela institucional y la coordinación de servicios públicos.",
+        "La tutela penal, mediante reformas introducidas en 2004 sobre ejecución o sustitución de penas, lesiones, malos tratos, amenazas, coacciones, quebrantamiento, vejaciones y programas penitenciarios.",
+        "La regulación completa y autónoma de todas las penas vigentes por violencia de género, sin remisión al Código Penal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0043",
+      "pregunta": "El artículo 42 de la LO 1/2004 se refiere a:",
+      "opciones": [
+        "La acreditación de la situación de violencia mediante informes de servicios sociales.",
+        "La creación de las Secciones de Violencia sobre la Mujer en los Tribunales de Instancia.",
+        "Programas específicos de la Administración penitenciaria para internos condenados por delitos relacionados con violencia de género y valoración de su seguimiento."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0044",
+      "pregunta": "Dentro del título V, ¿qué artículos corresponden al capítulo relativo a medidas judiciales de protección y seguridad de las víctimas?",
+      "opciones": [
+        "Los artículos 58 a 60.",
+        "Los artículos 61 a 69.",
+        "Los artículos 70 a 72."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0045",
+      "pregunta": "Según el tema, para que la competencia civil especializada fuera exclusiva y excluyente debían concurrir simultáneamente, entre otros elementos:",
+      "opciones": [
+        "Una materia civil incluida, una parte víctima, otra investigada como autor, inductor o cooperador necesario, y actuaciones penales u orden de protección.",
+        "Cualquier litigio civil entre las partes, aunque no existieran actuaciones penales ni orden de protección.",
+        "Una sentencia penal firme previa y que ambas partes solicitaran expresamente la competencia especializada."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0046",
+      "pregunta": "¿Qué combinación refleja correctamente dos reglas de competencia procesal recogidas en el tema?",
+      "opciones": [
+        "La mediación está vedada en estos casos y la competencia territorial penal se vinculaba al domicilio de la víctima, sin perjuicio de medidas urgentes por el órgano del lugar de los hechos.",
+        "La mediación es potestativa y la competencia territorial depende exclusivamente del lugar de comisión de los hechos.",
+        "La mediación es obligatoria antes del proceso civil y la competencia territorial penal corresponde siempre al domicilio del investigado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0047",
+      "pregunta": "Entre las medidas del artículo 64 puede acordarse:",
+      "opciones": [
+        "La salida obligatoria del inculpado del domicilio, prohibición de regreso, alejamiento con distancia mínima y prohibición de comunicaciones.",
+        "La extinción automática de cualquier vínculo matrimonial o de pareja.",
+        "La pérdida automática y definitiva de la patria potestad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T15-P0048",
+      "pregunta": "Según el artículo 66, respecto del régimen de visitas, estancia, relación o comunicación con los menores dependientes del inculpado:",
+      "opciones": [
+        "La regla es mantener siempre el régimen vigente salvo sentencia condenatoria firme.",
+        "La suspensión sólo puede acordarse a petición expresa del Ministerio Fiscal y nunca de oficio.",
+        "La regla es que el juez ordenará la suspensión; si por el interés superior del menor no la acuerda, deberá motivarlo, concretar su ejercicio y adoptar medidas de seguridad, recuperación y seguimiento."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T15-P0049",
+      "pregunta": "¿Qué exige el artículo 68 respecto de las medidas judiciales de protección y seguridad?",
+      "opciones": [
+        "Acuerdo administrativo previo de los servicios sociales y posterior convalidación judicial.",
+        "Auto motivado, proporcionalidad y necesidad, intervención del Ministerio Fiscal, contradicción, audiencia y defensa.",
+        "Resolución verbal sin necesidad de motivación cuando exista urgencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T15-P0050",
+      "pregunta": "En relación con la organización judicial vigente en 2026, ¿qué distinción destaca expresamente el tema?",
+      "opciones": [
+        "La LO 1/2004 fue refundida íntegramente en 2025 y ya sólo utiliza la denominación Tribunales de Instancia.",
+        "La LO 1/2004 conserva referencias históricas a Juzgados de Violencia sobre la Mujer, mientras que la organización vigente se articula mediante Secciones de Violencia sobre la Mujer de los Tribunales de Instancia.",
+        "Desde 2025 desapareció toda especialización judicial en materia de violencia sobre la mujer."
+      ],
+      "correcta": 1
+    }
+  ]
+}
