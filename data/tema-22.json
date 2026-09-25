@@ -1,0 +1,506 @@
+{
+  "tema": 22,
+  "titulo": "El Servicio de Ayuda a Domicilio. Regulación autonómica",
+  "preguntas": [
+    {
+      "id": "T22-P0001",
+      "pregunta": "¿Cuál es la norma autonómica específica que constituye la regulación vigente del Servicio de Ayuda a Domicilio en Andalucía según el tema?",
+      "opciones": [
+        "La Orden de 15 de noviembre de 2007.",
+        "La Orden de 27 de julio de 2023.",
+        "El Decreto 48/2025, de 24 de febrero."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0002",
+      "pregunta": "¿Qué consideración recibe en el tema la Orden de 15 de noviembre de 2007 sobre el Servicio de Ayuda a Domicilio?",
+      "opciones": [
+        "Está derogada y solo debe citarse como antecedente.",
+        "Sigue vigente para el SAD no vinculado a dependencia.",
+        "Sigue vigente en todo lo relativo al acceso por dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0003",
+      "pregunta": "¿Qué norma introdujo en 2024 modificaciones relevantes en la regulación andaluza del SAD, entre ellas las relativas a acreditación y al precio mínimo de adjudicación?",
+      "opciones": [
+        "El Decreto-ley 3/2024, de 6 de febrero.",
+        "El Decreto 48/2025, de 24 de febrero.",
+        "La Ley 5/2010, de 11 de junio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0004",
+      "pregunta": "¿Cuál es el coste/hora máximo financiable del SAD de dependencia vigente en 2026 según el documento?",
+      "opciones": [
+        "16,63 euros por hora.",
+        "17,46 euros por hora.",
+        "18,46 euros por hora."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0005",
+      "pregunta": "¿Desde qué fecha produce efectos el coste/hora máximo financiable de 17,46 euros del SAD de dependencia?",
+      "opciones": [
+        "Desde el 1 de enero de 2026.",
+        "Desde el 11 de mayo de 2026.",
+        "Desde el 1 de enero de 2025."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0006",
+      "pregunta": "¿Qué definición se ajusta al Servicio de Ayuda a Domicilio regulado por la Orden de 27 de julio de 2023?",
+      "opciones": [
+        "Una prestación de servicio realizada preferentemente en el domicilio, mediante personal cualificado y supervisado, con actuaciones preventivas, integradoras, sociales, de apoyo y cuidado.",
+        "Una prestación sanitaria domiciliaria basada principalmente en cuidados clínicos especializados.",
+        "Un servicio exclusivamente doméstico destinado a realizar limpieza ordinaria del domicilio de la persona usuaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0007",
+      "pregunta": "Cuando el tema califica el SAD como un servicio público, ¿qué implica principalmente?",
+      "opciones": [
+        "Que necesariamente debe ser prestado por personal funcionario mediante gestión directa.",
+        "Que queda excluida cualquier modalidad de gestión indirecta.",
+        "Que su titularidad y responsabilidad corresponden a las Administraciones públicas andaluzas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0008",
+      "pregunta": "¿Cuál de las siguientes actuaciones NO constituye una finalidad u objetivo propio del SAD según el tema?",
+      "opciones": [
+        "Apoyar a las personas cuidadoras y favorecer la conciliación personal, familiar y laboral.",
+        "Prevenir el deterioro personal y familiar y evitar institucionalizaciones innecesarias.",
+        "Sustituir de forma generalizada a la persona usuaria y a su red familiar en todas sus responsabilidades cotidianas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0009",
+      "pregunta": "En la vía no vinculada a dependencia, ¿qué condición de acceso recoge el tema respecto a la persona destinataria?",
+      "opciones": [
+        "Debe haber sido previamente beneficiaria de una prestación económica vinculada al servicio.",
+        "Debe tener reconocido necesariamente un grado II o III de dependencia.",
+        "Debe estar empadronada en el municipio y presentar falta de autonomía temporal o permanente para actividades básicas o necesidad de apoyo a la inclusión social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0010",
+      "pregunta": "¿Cuáles son las dos vías de acceso al SAD que diferencia la regulación andaluza expuesta en el tema?",
+      "opciones": [
+        "La vía provincial y la vía autonómica.",
+        "La vía sanitaria y la vía sociosanitaria.",
+        "La vía vinculada a la dependencia y la vía no vinculada a la dependencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0011",
+      "pregunta": "¿Qué elemento constituye el título de acceso al SAD cuando se reconoce por la vía de dependencia?",
+      "opciones": [
+        "La aplicación del baremo del anexo I de la Orden de 2023.",
+        "La prescripción directa del personal auxiliar de ayuda a domicilio.",
+        "El derecho reconocido en el sistema de dependencia e incorporado al Programa Individual de Atención."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0012",
+      "pregunta": "Una vez comunicada por el órgano territorial provincial la puesta en marcha del SAD de dependencia, ¿en qué plazo máximo deben efectuar el alta los Servicios Sociales Comunitarios?",
+      "opciones": [
+        "En el plazo máximo de tres meses.",
+        "En el plazo máximo de un mes.",
+        "En el plazo máximo de diez días hábiles."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0013",
+      "pregunta": "¿En cuál de las siguientes situaciones puede proceder el SAD no vinculado a dependencia?",
+      "opciones": [
+        "Cuando la persona ya es beneficiaria efectiva de una prestación de dependencia.",
+        "Cuando la persona tiene dependencia reconocida, pero no está recibiendo una prestación de dependencia.",
+        "Únicamente cuando la persona haya solicitado previamente una revisión de su grado de dependencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0014",
+      "pregunta": "Ante una situación de urgencia social suficientemente justificada, ¿cómo puede iniciarse el SAD no vinculado a dependencia?",
+      "opciones": [
+        "Solo puede iniciarse tras resolución previa del órgano estatal competente en dependencia.",
+        "Puede iniciarse de inmediato a propuesta de los Servicios Sociales Comunitarios, tramitándose posteriormente el procedimiento.",
+        "Debe esperarse siempre a que finalice por completo el procedimiento administrativo ordinario."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0015",
+      "pregunta": "¿A qué vía de acceso se aplica el baremo recogido en el anexo I de la Orden de 27 de julio de 2023?",
+      "opciones": [
+        "Al SAD no vinculado a dependencia.",
+        "Exclusivamente a la prestación económica vinculada al servicio.",
+        "Al SAD vinculado a dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0016",
+      "pregunta": "¿Quién elabora siempre el Proyecto de Intervención Social en el marco del SAD?",
+      "opciones": [
+        "Los Servicios Sociales Comunitarios.",
+        "El personal auxiliar asignado al domicilio.",
+        "La entidad prestadora del servicio, con independencia de los Servicios Sociales Comunitarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0017",
+      "pregunta": "¿Qué diferencia establece el tema respecto al alcance del Proyecto de Intervención Social según la vía de acceso?",
+      "opciones": [
+        "En dependencia puede ser familiar o convivencial; en la vía no vinculada debe ser siempre individual.",
+        "En ambas vías debe referirse obligatoriamente a toda la unidad familiar.",
+        "En dependencia es individual; en la vía no vinculada puede ser individual, familiar o convivencial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0018",
+      "pregunta": "¿Qué función cumple el Proyecto de Intervención Social respecto a las tareas del personal auxiliar de ayuda a domicilio?",
+      "opciones": [
+        "Tiene valor meramente orientativo y puede ser ampliado libremente por el personal auxiliar.",
+        "Solo determina el horario, pero no condiciona las tareas que pueden ejecutarse.",
+        "Constituye el marco que legitima y limita las actuaciones que puede realizar."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0019",
+      "pregunta": "¿Cuál de las siguientes actuaciones aparece incluida entre las actuaciones de atención personal del SAD?",
+      "opciones": [
+        "La supervisión de medicación prescrita, coordinada con el sistema sanitario.",
+        "La realización ordinaria de curas que requieran formación sanitaria especializada.",
+        "La administración de tratamientos intravenosos por el personal auxiliar."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0020",
+      "pregunta": "Respecto a la limpieza de la vivienda dentro de las actuaciones de atención a las necesidades del hogar, ¿qué establece el tema?",
+      "opciones": [
+        "La limpieza general o de choque constituye la actuación ordinaria prioritaria del SAD.",
+        "La limpieza cotidiana forma parte del servicio y la limpieza general o de choque solo procede con carácter excepcional.",
+        "La limpieza de la vivienda está excluida en todo caso del SAD."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0021",
+      "pregunta": "¿Qué regla se establece respecto a las actuaciones sanitarias dentro del SAD?",
+      "opciones": [
+        "Se excluyen las que requieren formación específica, sin perjuicio de la supervisión o ayuda con medicación prescrita y de curas leves y superficiales.",
+        "Todas las actuaciones relacionadas con medicación están absolutamente excluidas, incluida su supervisión.",
+        "El personal auxiliar puede realizar cualquier actuación sanitaria si existe consentimiento de la persona usuaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0022",
+      "pregunta": "¿Cómo se prestan, con carácter general, las tareas relacionadas con las necesidades del hogar?",
+      "opciones": [
+        "Siempre de forma independiente de la atención personal.",
+        "Junto con actuaciones de atención personal; su separación exige justificación y previsión en el PIA.",
+        "Solo cuando no exista ninguna necesidad de atención personal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0023",
+      "pregunta": "¿Puede el personal del SAD atender a personas que convivan en el domicilio pero que no estén incluidas en la valoración y prescripción?",
+      "opciones": [
+        "Sí, siempre que sean familiares hasta segundo grado.",
+        "No, no se atiende a personas no incluidas en la valoración y prescripción.",
+        "Sí, cuando la entidad prestadora disponga de tiempo dentro del turno asignado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0024",
+      "pregunta": "¿Qué intervalo mensual de intensidad corresponde al grado I de dependencia en el SAD?",
+      "opciones": [
+        "De 38 a 64 horas mensuales.",
+        "De 20 a 37 horas mensuales.",
+        "De 65 a 94 horas mensuales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0025",
+      "pregunta": "¿Qué intervalo mensual de intensidad corresponde al grado II de dependencia en el SAD?",
+      "opciones": [
+        "De 65 a 94 horas mensuales.",
+        "De 20 a 37 horas mensuales.",
+        "De 38 a 64 horas mensuales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0026",
+      "pregunta": "¿Qué intervalo mensual de intensidad corresponde al grado III de dependencia en el SAD?",
+      "opciones": [
+        "De 65 a 94 horas mensuales.",
+        "De 38 a 64 horas mensuales.",
+        "De 50 a 90 horas mensuales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0027",
+      "pregunta": "En el SAD no vinculado a dependencia, ¿qué límite máximo de intensidad señala el tema?",
+      "opciones": [
+        "No existe ningún límite máximo de intensidad.",
+        "El límite correspondiente al grado III de dependencia.",
+        "El límite correspondiente al grado I de dependencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0028",
+      "pregunta": "¿Cuál es el número máximo ordinario de fracciones diarias en que puede distribuirse el horario del SAD?",
+      "opciones": [
+        "Cuatro fracciones diarias.",
+        "Tres fracciones diarias.",
+        "Dos fracciones diarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0029",
+      "pregunta": "¿Cuál es la duración mínima ordinaria de cada fracción del SAD y qué excepción contempla la regulación?",
+      "opciones": [
+        "60 minutos; excepcionalmente puede reducirse a 30 minutos con prescripción técnica del trabajador o trabajadora social.",
+        "45 minutos; excepcionalmente puede reducirse a 20 minutos por decisión de la entidad prestadora.",
+        "30 minutos; excepcionalmente puede ampliarse a 60 minutos por decisión del personal auxiliar."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0030",
+      "pregunta": "¿Cuál de los siguientes tiempos NO computa como hora de atención directa a la persona usuaria?",
+      "opciones": [
+        "El tiempo de desplazamiento, coordinación, control o formación.",
+        "El tiempo destinado a la ayuda para la alimentación prescrita.",
+        "El tiempo dedicado a la higiene personal prescrita."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0031",
+      "pregunta": "En la vía de dependencia, ¿con qué servicio declara expresamente el tema que es compatible el SAD?",
+      "opciones": [
+        "Con el servicio de teleasistencia.",
+        "Con el SAD no vinculado a dependencia.",
+        "Con cualquier recurso residencial permanente sin limitación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0032",
+      "pregunta": "¿En qué supuesto puede compatibilizarse de forma complementaria el SAD de dependencia con un centro de día o de noche?",
+      "opciones": [
+        "Solo si se suprime totalmente la atención personal en el domicilio.",
+        "Cuando sea necesario para facilitar la asistencia al centro de personas con grados II o III.",
+        "Únicamente para personas con grado I y sin necesidad de apoyo para acudir al centro."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0033",
+      "pregunta": "¿Qué regla establece el tema sobre el acceso al SAD no vinculado a dependencia de quien ya es beneficiario de una prestación de dependencia?",
+      "opciones": [
+        "No puede acceder al SAD no vinculado a dependencia.",
+        "Puede acceder siempre que renuncie únicamente al servicio de teleasistencia.",
+        "Puede acceder automáticamente sin nueva valoración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0034",
+      "pregunta": "¿Cuál de los siguientes es un derecho esencial de las personas usuarias del SAD?",
+      "opciones": [
+        "Modificar unilateralmente las tareas prescritas al personal auxiliar.",
+        "Exigir actuaciones no incluidas en el Proyecto de Intervención Social.",
+        "Participar en el Proyecto de Intervención Social y conocer actuaciones, horarios, personal y modificaciones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0035",
+      "pregunta": "En relación con los medios necesarios para prestar el SAD, ¿qué distribución de responsabilidades recoge el tema?",
+      "opciones": [
+        "La persona usuaria debe facilitar medios domésticos adecuados y los EPI corresponden a la entidad prestadora.",
+        "La persona usuaria debe aportar tanto los medios domésticos como los EPI del personal.",
+        "La entidad prestadora debe aportar todos los enseres domésticos de uso ordinario de la vivienda."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0036",
+      "pregunta": "¿A quién atribuye el tema la gestión del Servicio de Ayuda a Domicilio como competencia propia?",
+      "opciones": [
+        "Exclusivamente a las Delegaciones Territoriales de la Junta de Andalucía.",
+        "A las Entidades Locales.",
+        "Exclusivamente a la Administración General del Estado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0037",
+      "pregunta": "¿Qué formas de gestión admite el SAD según el tema?",
+      "opciones": [
+        "Únicamente gestión directa por la Entidad Local.",
+        "Gestión directa o indirecta, siendo el concierto social la forma preferente dentro de la gestión indirecta, además de la contratación pública.",
+        "Únicamente contratación pública, quedando excluido el concierto social."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0038",
+      "pregunta": "¿Qué papel se atribuye a las Diputaciones respecto al SAD en municipios menores de 20.000 habitantes?",
+      "opciones": [
+        "Asumir obligatoriamente la titularidad del servicio.",
+        "Sustituir siempre a los Servicios Sociales Comunitarios municipales.",
+        "Prestar asistencia y cooperación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0039",
+      "pregunta": "¿Cuál de las siguientes afirmaciones diferencia correctamente la prescripción técnica de la resolución administrativa en el SAD?",
+      "opciones": [
+        "El trabajador o trabajadora social valora, diagnostica y prescribe técnicamente, mientras la resolución corresponde al órgano administrativo competente.",
+        "El personal auxiliar prescribe técnicamente y el trabajador social dicta la resolución administrativa.",
+        "La entidad prestadora realiza tanto la prescripción técnica como la resolución administrativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0040",
+      "pregunta": "¿Cuál es uno de los límites expresos de la función de coordinación del SAD?",
+      "opciones": [
+        "No puede organizar cuadrantes ni supervisar incidencias.",
+        "No puede mantener relación funcional con los Servicios Sociales Comunitarios.",
+        "No sustituye la prescripción técnica de los Servicios Sociales Comunitarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0041",
+      "pregunta": "¿Qué límite funcional se aplica al personal auxiliar de ayuda a domicilio?",
+      "opciones": [
+        "Puede realizar actuaciones sanitarias especializadas siempre que las registre posteriormente.",
+        "Puede ampliar libremente las tareas si lo solicita la familia.",
+        "No debe realizar tareas no prescritas ni actuaciones sanitarias especializadas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0042",
+      "pregunta": "¿Cuál de los siguientes conjuntos recoge requisitos mencionados para la acreditación de entidades prestadoras del SAD?",
+      "opciones": [
+        "Inscripción registral, situación tributaria y de Seguridad Social regular, medios suficientes, protocolos, plan de calidad, seguro y plantilla cualificada.",
+        "Únicamente inscripción registral y disponibilidad de una sede, sin requisitos adicionales.",
+        "Exclusivamente autorización municipal y antigüedad mínima de diez años como empresa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0043",
+      "pregunta": "¿Cómo se determina la participación económica de la persona usuaria en el SAD?",
+      "opciones": [
+        "Exclusivamente según el número de horas, sin considerar la capacidad económica.",
+        "En función de su capacidad económica y de las tablas previstas en la Orden.",
+        "Mediante una cuota idéntica para todas las personas usuarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0044",
+      "pregunta": "En el SAD de dependencia, ¿qué combinación de fuentes de financiación señala el tema?",
+      "opciones": [
+        "Aportaciones estatal y autonómica, participación de la persona usuaria y posible complemento local.",
+        "Financiación exclusivamente estatal, sin participación autonómica ni de la persona usuaria.",
+        "Financiación exclusivamente municipal y aportación obligatoria de la Diputación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0045",
+      "pregunta": "Tras la actualización vigente en 2026, ¿qué relación debe existir entre el precio/hora de las adjudicaciones del SAD y la referencia de 17,46 euros/hora?",
+      "opciones": [
+        "El precio/hora de adjudicación no puede ser inferior a esa referencia.",
+        "La referencia solo afecta a la participación de la persona usuaria y no a las adjudicaciones.",
+        "El precio/hora de adjudicación debe ser necesariamente inferior a esa referencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0046",
+      "pregunta": "¿Cuándo deben presentarse las liquidaciones mensuales de las horas efectivamente prestadas del SAD?",
+      "opciones": [
+        "En los diez primeros días hábiles de cada trimestre.",
+        "En los diez primeros días naturales de cada mes respecto del mes anterior.",
+        "Dentro de los tres meses siguientes al cierre del ejercicio."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T22-P0047",
+      "pregunta": "¿En qué plazo debe aportarse el certificado anual de justificación mencionado en el tema?",
+      "opciones": [
+        "En el plazo máximo de un mes desde cada liquidación mensual.",
+        "En los diez primeros días naturales del año siguiente.",
+        "En los tres meses siguientes al cierre de la anualidad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T22-P0048",
+      "pregunta": "¿Cuál de las siguientes circunstancias se encuadra en la suspensión del SAD y no necesariamente en su extinción?",
+      "opciones": [
+        "Un cambio temporal en las circunstancias que originaron la prestación.",
+        "El traslado definitivo de la persona usuaria.",
+        "El fallecimiento de la persona usuaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0049",
+      "pregunta": "En el SAD no vinculado a dependencia, ¿qué sucede si la persona adquiere la condición de beneficiaria de una prestación de dependencia?",
+      "opciones": [
+        "Se produce la extinción del SAD no vinculado a dependencia.",
+        "Se transforma necesariamente en una prestación económica vinculada sin nueva actuación administrativa.",
+        "El SAD no vinculado continúa automáticamente y se acumula a la nueva prestación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T22-P0050",
+      "pregunta": "¿Cómo se aplica la gestión del SAD en Mairena del Aljarafe según el documento de estudio?",
+      "opciones": [
+        "La gestión corresponde exclusivamente a la Delegación Territorial de la Junta de Andalucía.",
+        "Al ser un municipio de más de 20.000 habitantes, el Ayuntamiento ejerce la competencia de gestión a través de sus Servicios Sociales Comunitarios.",
+        "La Diputación de Sevilla asume obligatoriamente la gestión directa por tratarse de un servicio autonómico."
+      ],
+      "correcta": 1
+    }
+  ]
+}

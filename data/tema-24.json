@@ -1,0 +1,506 @@
+{
+  "tema": 24,
+  "titulo": "El Servicio de Cooperación Social. Regulación autonómica",
+  "preguntas": [
+    {
+      "id": "T24-P0001",
+      "pregunta": "¿Qué norma aprueba actualmente el Catálogo de Prestaciones del Sistema Público de Servicios Sociales de Andalucía en el que se integra la Cooperación social?",
+      "opciones": [
+        "El Decreto 48/2025, de 24 de febrero.",
+        "El Decreto 11/1992, de 28 de enero.",
+        "La Ley 4/2018, de 8 de mayo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0002",
+      "pregunta": "¿Cuál es la situación jurídica actual del Decreto 11/1992, de 28 de enero, respecto del Servicio de Cooperación Social?",
+      "opciones": [
+        "Continúa plenamente vigente y constituye la regulación principal de la prestación.",
+        "Está expresamente derogado por el Decreto 48/2025 y se utiliza como antecedente histórico.",
+        "Fue sustituido únicamente por la Ley 4/2018, sin derogación expresa."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0003",
+      "pregunta": "¿Dónde se ubica actualmente la prestación de Cooperación social dentro del Catálogo autonómico?",
+      "opciones": [
+        "Integración social > Intervención familiar > Cooperación social.",
+        "Autonomía personal > Apoyo domiciliario > Cooperación social.",
+        "Participación en la vida comunitaria > Dinamización social > Cooperación social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0004",
+      "pregunta": "¿Qué código identifica a la Cooperación social en el Catálogo de Prestaciones vigente?",
+      "opciones": [
+        "6.1.4.",
+        "6.1.5.",
+        "5.1.4."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0005",
+      "pregunta": "Según el Catálogo vigente, ¿qué caracteriza mejor el contenido de la Cooperación social?",
+      "opciones": [
+        "Conceder prestaciones económicas individuales destinadas a cubrir necesidades básicas de subsistencia.",
+        "Fomentar la solidaridad comunitaria, impulsar el asociacionismo, potenciar asociaciones existentes y ofrecer cauces de participación comunitaria.",
+        "Prestar exclusivamente atención domiciliaria a personas en situación de dependencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0006",
+      "pregunta": "¿Qué rasgo diferencia esencialmente la lógica de la Cooperación social de una intervención centrada exclusivamente en casos individuales?",
+      "opciones": [
+        "Se limita a valorar expedientes individuales y resolver prestaciones económicas.",
+        "Excluye la participación de asociaciones para preservar la intervención profesional.",
+        "Busca reforzar capacidades colectivas, redes sociales, organizaciones ciudadanas y mecanismos de participación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0007",
+      "pregunta": "En la regulación histórica del Decreto 11/1992, ¿a qué necesidad daba respuesta el Servicio de Cooperación Social?",
+      "opciones": [
+        "A la necesidad de participación y solidaridad ciudadana en el medio comunitario.",
+        "A la necesidad exclusiva de alojamiento alternativo para personas sin hogar.",
+        "A la necesidad de reconocimiento administrativo de la situación de dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0008",
+      "pregunta": "¿Qué conjunto reproduce las prestaciones de los Servicios Sociales Comunitarios enumeradas por el Decreto 11/1992 según el tema?",
+      "opciones": [
+        "Información y orientación; teleasistencia; dependencia; y renta mínima de inserción.",
+        "Información, valoración, orientación y asesoramiento; ayuda a domicilio; convivencia y reinserción social; y cooperación social.",
+        "Prevención; alojamiento residencial; tutela administrativa; y cooperación internacional."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0009",
+      "pregunta": "¿Qué función atribuida por la Ley 9/2016 a los Servicios Sociales Comunitarios se vincula directamente con la Cooperación social?",
+      "opciones": [
+        "Sustituir la participación comunitaria por procedimientos exclusivamente administrativos.",
+        "Reservar la resolución de los problemas sociales a los servicios especializados.",
+        "Sensibilizar y fomentar la participación activa de la comunidad en la búsqueda de respuestas a las necesidades sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0010",
+      "pregunta": "¿Qué forma de relación con el tejido social aparece expresamente vinculada a las funciones comunitarias en el tema?",
+      "opciones": [
+        "Coordinar y trabajar en red con entidades y asociaciones del entorno.",
+        "Delegar automáticamente en las asociaciones la responsabilidad pública del sistema.",
+        "Evitar la coordinación para preservar la autonomía de cada recurso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0011",
+      "pregunta": "¿Qué establece el tema respecto a los órganos de participación social dentro de las actuaciones de Cooperación social?",
+      "opciones": [
+        "Solo pueden apoyarse los órganos ya constituidos, sin promover nuevos espacios.",
+        "Debe apoyarse a los existentes e incentivarse su creación donde no existan.",
+        "Deben sustituirse por mecanismos exclusivamente tecnológicos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0012",
+      "pregunta": "¿Cuál de las siguientes actuaciones forma parte expresamente de la Cooperación social?",
+      "opciones": [
+        "La declaración del grado de dependencia.",
+        "La gestión de pensiones contributivas.",
+        "La promoción y sensibilización del voluntariado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0013",
+      "pregunta": "En relación con el voluntariado social, la Cooperación social incluye:",
+      "opciones": [
+        "Su formación, organización, coordinación y fomento.",
+        "Únicamente su registro administrativo.",
+        "Su utilización para sustituir puestos profesionales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0014",
+      "pregunta": "¿Qué actuación relativa al apoyo mutuo se integra en la Cooperación social?",
+      "opciones": [
+        "La sustitución de los grupos de apoyo por atención exclusivamente individual.",
+        "El fomento y apoyo a los grupos de autoayuda y convivencia.",
+        "La intervención únicamente con asociaciones formalmente inscritas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0015",
+      "pregunta": "¿A qué entidades puede dirigirse la información y el asesoramiento técnico previstos dentro de la Cooperación social?",
+      "opciones": [
+        "Exclusivamente a sociedades mercantiles con ánimo de lucro.",
+        "Únicamente a órganos administrativos de la Junta de Andalucía.",
+        "A asociaciones, fundaciones, cooperativas e instituciones de interés social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0016",
+      "pregunta": "¿Qué finalidad tiene la sensibilización de la población incluida entre las actuaciones de Cooperación social?",
+      "opciones": [
+        "Favorecer la toma de conciencia ante los problemas comunitarios y las necesidades sociales.",
+        "Seleccionar a las personas que pueden acceder a prestaciones contributivas.",
+        "Sustituir el diagnóstico comunitario por campañas informativas generales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0017",
+      "pregunta": "Respecto de las organizaciones no gubernamentales presentes en el territorio, la Cooperación social contempla:",
+      "opciones": [
+        "La prohibición de realizar actuaciones concurrentes con los servicios públicos.",
+        "La coordinación de las actuaciones propias con las desarrolladas por dichas organizaciones.",
+        "La transferencia automática de las competencias públicas a las ONG."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0018",
+      "pregunta": "¿Qué indica el Catálogo sobre el posible apoyo económico a las actuaciones de Cooperación social?",
+      "opciones": [
+        "Que la prestación excluye cualquier forma de apoyo económico público.",
+        "Que el apoyo económico solo puede proceder de aportaciones de las personas usuarias.",
+        "Que pueden recibir apoyo económico de la Administración."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0019",
+      "pregunta": "¿Cuál es la naturaleza jurídica de la prestación 6.1.4 Cooperación social?",
+      "opciones": [
+        "Prestación condicionada.",
+        "Prestación garantizada de acceso universal e inmediato.",
+        "Prestación económica de derecho subjetivo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0020",
+      "pregunta": "¿Cómo clasifica el Catálogo a la Cooperación social por su tipo de prestación?",
+      "opciones": [
+        "Prestación económica.",
+        "Prestación de servicios.",
+        "Prestación tecnológica exclusivamente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0021",
+      "pregunta": "¿Cuál es la población destinataria de la Cooperación social según el Catálogo?",
+      "opciones": [
+        "Exclusivamente las personas en situación de dependencia reconocida.",
+        "Únicamente las entidades sociales sin ánimo de lucro.",
+        "La población general."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0022",
+      "pregunta": "¿Cómo se configura el acceso a la Cooperación social cuando resulta aplicable una regulación específica de ayudas públicas?",
+      "opciones": [
+        "Según la normativa reguladora de subvenciones.",
+        "Mediante reconocimiento previo de un grado de discapacidad.",
+        "Mediante copago obligatorio fijado individualmente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0023",
+      "pregunta": "¿Qué establece el Catálogo respecto a la participación económica de las personas usuarias en la Cooperación social?",
+      "opciones": [
+        "Es obligatoria en todos los casos.",
+        "Está exenta.",
+        "Se fija exclusivamente por la Administración estatal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0024",
+      "pregunta": "¿Qué Administraciones figuran como competentes en la prestación de Cooperación social?",
+      "opciones": [
+        "Exclusivamente la estatal.",
+        "La estatal y la europea, con exclusión de la local.",
+        "La local y la autonómica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0025",
+      "pregunta": "¿Qué fuentes de financiación contempla el Catálogo para la Cooperación social?",
+      "opciones": [
+        "Local, autonómica, estatal y europea.",
+        "Exclusivamente local y autonómica.",
+        "Únicamente estatal y europea."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0026",
+      "pregunta": "¿Cómo se configura la gestión de la prestación de Cooperación social?",
+      "opciones": [
+        "Exclusivamente pública local.",
+        "Mixta.",
+        "Exclusivamente privada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0027",
+      "pregunta": "¿Cómo figura la titularidad del centro en la configuración de la Cooperación social?",
+      "opciones": [
+        "Exclusivamente autonómica.",
+        "Exclusivamente municipal.",
+        "Mixta."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0028",
+      "pregunta": "¿En qué niveles de atención sitúa el Catálogo la Cooperación social?",
+      "opciones": [
+        "En el nivel primario y en el especializado.",
+        "Solo en el nivel primario.",
+        "Solo en el nivel especializado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0029",
+      "pregunta": "¿Cuál es el ámbito territorial indicado para la prestación de Cooperación social?",
+      "opciones": [
+        "Distrito judicial / partido judicial.",
+        "Zona Básica de Servicios Sociales / Área de Servicios Sociales.",
+        "Provincia / comunidad autónoma exclusivamente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0030",
+      "pregunta": "¿Qué conjunto de dispositivos aparece asociado a la Cooperación social en el Catálogo?",
+      "opciones": [
+        "Centros sanitarios; oficinas de empleo; y juzgados de primera instancia.",
+        "Exclusivamente Centros de Servicios Sociales Comunitarios.",
+        "Centros de Servicios Sociales Comunitarios; servicios centrales y delegaciones territoriales; y entidades privadas sin ánimo de lucro."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0031",
+      "pregunta": "¿A qué niveles administrativos atribuye el Catálogo la organización, prescripción, resolución y ejecución de la Cooperación social?",
+      "opciones": [
+        "Al nivel local y autonómico.",
+        "Al nivel estatal y europeo.",
+        "Exclusivamente al nivel local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0032",
+      "pregunta": "¿Qué niveles administrativos aparecen vinculados al seguimiento y evaluación de la Cooperación social?",
+      "opciones": [
+        "Local y europeo exclusivamente.",
+        "Local, autonómico y estatal.",
+        "Autonómico y europeo exclusivamente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0033",
+      "pregunta": "Según el tema, la participación ciudadana que deben fomentar las Administraciones andaluzas alcanza:",
+      "opciones": [
+        "Únicamente la ejecución material de actividades de voluntariado.",
+        "Solo la fase de evaluación final de los programas sociales.",
+        "La definición y mejora de las políticas de servicios sociales, así como su planificación, seguimiento y evaluación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0034",
+      "pregunta": "¿Cuál de las siguientes combinaciones recoge mecanismos mediante los que puede articularse la participación ciudadana en servicios sociales?",
+      "opciones": [
+        "Órganos formales, movimiento asociativo, procesos participativos y mecanismos tecnológicos.",
+        "Exclusivamente consultas administrativas y recursos judiciales.",
+        "Solo asociaciones inscritas y consejos profesionales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0035",
+      "pregunta": "¿A qué norma remite el Catálogo en materia de voluntariado?",
+      "opciones": [
+        "A la Ley 39/2015, de 1 de octubre.",
+        "A la Ley 4/2018, de 8 de mayo, Andaluza del Voluntariado.",
+        "A la Ley Orgánica 3/2007, de 22 de marzo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0036",
+      "pregunta": "¿Qué relación debe mantener el voluntariado con la acción pública y profesional según el tema?",
+      "opciones": [
+        "Debe sustituir progresivamente las prestaciones profesionales cuando exista participación ciudadana suficiente.",
+        "Debe actuar al margen de la coordinación con los servicios públicos.",
+        "Debe complementar la acción pública sin sustituir responsabilidades profesionales ni prestaciones de las Administraciones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0037",
+      "pregunta": "¿Por qué la Cooperación social se desarrolla especialmente desde los Servicios Sociales Comunitarios?",
+      "opciones": [
+        "Porque exige proximidad, conocimiento del territorio, detección de redes, trabajo con asociaciones, coordinación y dinamización comunitaria.",
+        "Porque su finalidad principal es resolver expedientes administrativos de ámbito estatal.",
+        "Porque el Catálogo excluye su desarrollo desde cualquier nivel especializado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0038",
+      "pregunta": "¿Qué tarea comunitaria corresponde a los Servicios Sociales Comunitarios en el ámbito de la Cooperación social?",
+      "opciones": [
+        "Limitar el diagnóstico a la demanda individual ya formalizada.",
+        "Detectar necesidades comunitarias y activos sociales del territorio.",
+        "Evitar el análisis de recursos informales para centrarse solo en recursos institucionales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0039",
+      "pregunta": "¿Qué papel desempeñan los Servicios Sociales Comunitarios respecto al tejido asociativo?",
+      "opciones": [
+        "Sustituir la autonomía de las asociaciones mediante dirección administrativa.",
+        "Intervenir únicamente cuando las asociaciones carezcan de personalidad jurídica.",
+        "Prestar apoyo técnico al tejido asociativo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0040",
+      "pregunta": "En el ejercicio profesional del Trabajo Social dentro de la Cooperación social, ¿qué debe analizarse en el diagnóstico comunitario?",
+      "opciones": [
+        "Necesidades, recursos, liderazgos y redes comunitarias.",
+        "Solo las prestaciones económicas previamente concedidas.",
+        "Exclusivamente los recursos de titularidad pública."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0041",
+      "pregunta": "¿Qué función profesional refleja mejor un enfoque participativo de la Cooperación social?",
+      "opciones": [
+        "Definir unilateralmente los problemas para evitar sesgos de la comunidad.",
+        "Facilitar que la población intervenga en la definición de los problemas y de las soluciones.",
+        "Reservar la toma de decisiones a los equipos técnicos sin participación ciudadana."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0042",
+      "pregunta": "¿Qué dimensiones propone el tema para evaluar resultados de la intervención profesional en Cooperación social?",
+      "opciones": [
+        "Solo número de expedientes tramitados y tiempo medio de resolución.",
+        "Exclusivamente ahorro presupuestario y reducción de personal.",
+        "Participación, cohesión, empoderamiento, sostenibilidad y mejora de las redes comunitarias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0043",
+      "pregunta": "¿Cuál es la diferencia esencial entre la prestación 6.1.4 Cooperación social y la 6.1.5 Cooperación con entidades sociales sin ánimo de lucro?",
+      "opciones": [
+        "La 6.1.4 es una prestación de servicios orientada a dinamización y participación; la 6.1.5 se orienta al apoyo económico a entidades.",
+        "La 6.1.4 es económica y la 6.1.5 es exclusivamente residencial.",
+        "Ambas son idénticas y solo cambia la Administración que las financia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0044",
+      "pregunta": "¿Qué naturaleza tiene la prestación 6.1.5 Cooperación con entidades sociales sin ánimo de lucro, según la comparación incluida en el tema?",
+      "opciones": [
+        "Prestación de servicios de dinamización dirigida a la población general.",
+        "Prestación económica.",
+        "Prestación tecnológica de acceso universal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0045",
+      "pregunta": "Ante un supuesto municipal de aislamiento vecinal y baja participación, ¿cuál es el primer paso propuesto en el esquema práctico del tema?",
+      "opciones": [
+        "Conceder directamente subvenciones a todas las asociaciones del municipio.",
+        "Crear un servicio especializado antes de analizar la realidad comunitaria.",
+        "Realizar un diagnóstico comunitario de necesidades, población afectada, recursos y redes existentes."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0046",
+      "pregunta": "En un supuesto práctico de Cooperación social, ¿qué debe incluir el mapeo de agentes?",
+      "opciones": [
+        "Asociaciones, entidades sociales, centros educativos, sanitarios, recursos municipales y ciudadanía.",
+        "Únicamente los recursos propios de los Servicios Sociales Comunitarios.",
+        "Solo entidades inscritas como organizaciones de voluntariado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0047",
+      "pregunta": "¿Cuál de las siguientes opciones responde al diseño participativo de actuaciones propuesto en el tema?",
+      "opciones": [
+        "Resoluciones administrativas individuales, sanciones y procedimientos de inspección.",
+        "Mesas de coordinación, campañas, grupos de apoyo, actividades comunitarias, formación de voluntariado o asesoramiento asociativo.",
+        "Valoraciones de dependencia y elaboración de programas individuales de atención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T24-P0048",
+      "pregunta": "¿Cómo debe plantearse la ejecución de las actuaciones en un supuesto práctico de Cooperación social?",
+      "opciones": [
+        "Con protagonismo exclusivo del equipo técnico y mínima intervención ciudadana.",
+        "Mediante delegación completa de la responsabilidad pública en el voluntariado.",
+        "Con protagonismo de la comunidad y enfoque de corresponsabilidad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T24-P0049",
+      "pregunta": "¿Qué conjunto de indicadores se propone para el seguimiento y evaluación de una intervención municipal de Cooperación social?",
+      "opciones": [
+        "Participación, continuidad de redes, satisfacción, cobertura, coordinación y resultados comunitarios.",
+        "Exclusivamente número de sanciones, reclamaciones y expedientes archivados.",
+        "Solo gasto ejecutado, coste unitario y volumen de contratación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T24-P0050",
+      "pregunta": "¿Qué afirmación resume correctamente la continuidad normativa de la Cooperación social?",
+      "opciones": [
+        "La derogación del Decreto 11/1992 hizo desaparecer por completo la Cooperación social del sistema andaluz.",
+        "Aunque el Decreto 11/1992 está derogado, la denominación y el contenido esencial de la Cooperación social permanecen en el Catálogo vigente como prestación 6.1.4.",
+        "La Cooperación social se mantiene solo como una referencia doctrinal sin reconocimiento en el Catálogo vigente."
+      ],
+      "correcta": 1
+    }
+  ]
+}

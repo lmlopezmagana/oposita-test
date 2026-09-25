@@ -1,0 +1,506 @@
+{
+  "tema": 18,
+  "titulo": "Los Servicios Sociales en la administración local.",
+  "preguntas": [
+    {
+      "id": "T18-P0001",
+      "pregunta": "¿Qué interpretación refleja correctamente el alcance de la autonomía local en materia de servicios sociales?",
+      "opciones": [
+        "Permite a la entidad local organizar y ejecutar sus competencias, respetando la legislación estatal y autonómica, la planificación del sistema, el Catálogo y los estándares comunes.",
+        "Permite al ayuntamiento apartarse de la planificación autonómica cuando actúe sobre servicios sociales comunitarios de su titularidad.",
+        "Equivale a soberanía funcional en el ámbito municipal siempre que no se invadan competencias estatales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0002",
+      "pregunta": "En el bloque normativo del Tema 18, ¿qué función cumple el artículo 92.2.c del Estatuto de Autonomía para Andalucía?",
+      "opciones": [
+        "Establece el servicio mínimo obligatorio de atención inmediata ante situaciones de exclusión social para municipios de más de 20.000 habitantes.",
+        "Regula las modalidades de asistencia técnica, económica y material de las diputaciones a los municipios.",
+        "Reconoce como competencia propia municipal la gestión de los servicios sociales comunitarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0003",
+      "pregunta": "Conforme al esquema normativo del tema, ¿qué contenido atribuye la LRBRL como materia propia municipal en su artículo 25.2.e?",
+      "opciones": [
+        "La gestión íntegra de todas las prestaciones del Sistema Público de Servicios Sociales de Andalucía.",
+        "La evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social.",
+        "La planificación autonómica de las zonas básicas y áreas de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0004",
+      "pregunta": "¿Cuándo se convierte además en servicio mínimo obligatorio el contenido social previsto en el artículo 26.1.c de la LRBRL?",
+      "opciones": [
+        "En todos los municipios, con independencia de su población, por tratarse de una competencia propia estatutaria.",
+        "En los municipios con población superior a 20.000 habitantes.",
+        "Únicamente en los municipios con una Zona Básica de Servicios Sociales de ámbito exclusivamente municipal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0005",
+      "pregunta": "¿Cuál es la relación correcta entre el umbral de 20.000 habitantes de la LRBRL y la Zona Básica de Servicios Sociales de la Ley 9/2016?",
+      "opciones": [
+        "Son la misma regla jurídica y producen automáticamente idénticos efectos competenciales.",
+        "El umbral de la LRBRL determina que los municipios de menos de 20.000 habitantes carezcan de competencia en servicios sociales comunitarios.",
+        "Son reglas relacionadas pero distintas: una fija un servicio mínimo estatal y la otra una población mínima ordinaria para organizar la Zona Básica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0006",
+      "pregunta": "Según el artículo 9.3 de la LAULA, ¿qué conjunto resume correctamente el desarrollo andaluz de la competencia propia municipal en servicios sociales?",
+      "opciones": [
+        "Inspección autonómica, autorización de centros especializados y potestad sancionadora.",
+        "Gestión de prestaciones técnicas y económicas, equipamiento básico y voluntariado.",
+        "Elaboración del Mapa de Servicios Sociales, aprobación del Catálogo y acreditación de entidades."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0007",
+      "pregunta": "Dentro de las competencias locales sintetizadas a partir del artículo 51 de la Ley 9/2016, ¿qué actuación pertenece al bloque de conocimiento?",
+      "opciones": [
+        "Autorizar y acreditar los centros de servicios sociales de iniciativa privada.",
+        "Resolver todas las prestaciones económicas incluidas en el Catálogo autonómico.",
+        "Estudiar y detectar necesidades y realizar detección precoz de riesgos individuales y comunitarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0008",
+      "pregunta": "¿Cómo debe encuadrarse la planificación municipal de los servicios sociales comunitarios?",
+      "opciones": [
+        "Con plena independencia del Plan Estratégico cuando el servicio sea financiado exclusivamente con fondos municipales.",
+        "Mediante planes locales integrados en el Plan Estratégico y en el Mapa de Servicios Sociales.",
+        "Solo a través de planes provinciales, sin posibilidad de planificación local propia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0009",
+      "pregunta": "¿Cuál de las siguientes actuaciones forma parte de las competencias locales relativas a los recursos de servicios sociales comunitarios?",
+      "opciones": [
+        "Determinar unilateralmente las áreas provinciales de servicios especializados al margen del Mapa.",
+        "Promover centros y dotar espacios, centros y personal suficiente de acuerdo con el Mapa.",
+        "Acreditar con carácter general los centros y servicios del Sistema Público de Servicios Sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0010",
+      "pregunta": "Respecto del Catálogo de Prestaciones, ¿cuál es la competencia local general que recoge el tema?",
+      "opciones": [
+        "Gestionar las prestaciones del Catálogo que correspondan a los servicios sociales comunitarios.",
+        "Reconocer y resolver necesariamente todas las prestaciones incluidas en el Catálogo.",
+        "Modificar los requisitos de acceso a cada prestación cuando existan necesidades sociales específicas en el municipio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0011",
+      "pregunta": "¿Cuál de estas actuaciones se integra en la dimensión comunitaria de las competencias locales descritas en el tema?",
+      "opciones": [
+        "Promover participación, sensibilización, asociacionismo, voluntariado y ayuda mutua.",
+        "Ejercer la superior dirección del Sistema Público de Servicios Sociales de Andalucía.",
+        "Sustituir la planificación autonómica por planes municipales cuando exista financiación propia suficiente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0012",
+      "pregunta": "En relación con la financiación de los servicios sociales comunitarios, ¿qué deber local destaca el artículo 51 de la Ley 9/2016 según el tema?",
+      "opciones": [
+        "Asumir en exclusiva toda la financiación de los servicios sociales comunitarios del término municipal.",
+        "Financiar necesariamente los centros especializados autonómicos ubicados en el municipio.",
+        "Aportar la participación financiera local que corresponda al mantenimiento de los servicios sociales comunitarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0013",
+      "pregunta": "¿Qué papel corresponde a la entidad local respecto de la inspección y la calidad, según la síntesis del artículo 51 de la Ley 9/2016?",
+      "opciones": [
+        "Ejercer con carácter general la potestad sancionadora autonómica sobre todos los centros de servicios sociales.",
+        "Sustituir los estándares autonómicos de calidad por criterios municipales propios.",
+        "Colaborar en la inspección y en el control de calidad conforme a la legislación autonómica."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0014",
+      "pregunta": "¿Qué alcance tiene la competencia municipal de coordinación de la red local de servicios sociales?",
+      "opciones": [
+        "Coordinar las entidades sociales que actúan en el municipio y la política social local con otros sistemas de protección.",
+        "Convertir a las entidades privadas colaboradoras en órganos administrativos municipales.",
+        "Autorizar el intercambio indiscriminado de datos entre todas las entidades que intervengan en un caso."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0015",
+      "pregunta": "¿En qué condiciones puede un ayuntamiento prestar servicios sociales especializados según el documento base?",
+      "opciones": [
+        "Siempre que su población supere 20.000 habitantes, aunque no estén garantizados los servicios comunitarios.",
+        "Únicamente mediante delegación autonómica, incluso cuando el servicio especializado sea de titularidad local.",
+        "Después de garantizar los servicios sociales comunitarios, si dispone de capacidad financiera y respeta la planificación y los requisitos estatales y autonómicos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0016",
+      "pregunta": "¿Cómo define el tema a los servicios sociales comunitarios dentro del Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "Como la estructura básica del nivel primario, de titularidad y gestión pública, organizada y gestionada por entidades locales municipales o supramunicipales.",
+        "Como recursos del nivel especializado cuya gestión ordinaria corresponde a la Junta de Andalucía.",
+        "Como actuaciones de iniciativa social financiadas por las entidades locales pero de gestión preferentemente privada."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0017",
+      "pregunta": "¿Cuál de las siguientes funciones caracteriza a los servicios sociales comunitarios como primer nivel de referencia?",
+      "opciones": [
+        "Valorar necesidades, planificar, intervenir, tratar, realizar seguimiento y evaluar la atención, coordinándose con otros agentes.",
+        "Limitar su intervención a informar y derivar, sin realizar seguimiento ni evaluación.",
+        "Resolver todas las prestaciones sociales, incluidas las de competencia autonómica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0018",
+      "pregunta": "Respecto de los centros de servicios sociales comunitarios, ¿qué regla organizativa recoge el tema?",
+      "opciones": [
+        "Debe existir al menos uno por cada Zona Básica de Servicios Sociales y puede tener ámbito municipal o supramunicipal.",
+        "Debe existir exactamente uno por municipio, con independencia de la delimitación de las Zonas Básicas.",
+        "Solo pueden existir centros supramunicipales en municipios de menos de 20.000 habitantes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0019",
+      "pregunta": "¿Qué rasgo define al equipo profesional de los servicios sociales comunitarios?",
+      "opciones": [
+        "Es interdisciplinar, está integrado por empleados públicos e incluye personal técnico y administrativo.",
+        "Está integrado exclusivamente por profesionales del Trabajo Social contratados mediante concierto.",
+        "Puede delegar en entidades colaboradoras las funciones reservadas al equipo comunitario cuando exista convenio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0020",
+      "pregunta": "¿Quién desempeña la función de profesional de referencia en los servicios sociales comunitarios, según la Ley 9/2016 tal como se recoge en el tema?",
+      "opciones": [
+        "Una persona trabajadora social de los servicios sociales comunitarios.",
+        "La persona que ejerza la dirección del centro, cualquiera que sea su titulación.",
+        "El profesional del equipo interdisciplinar que designe libremente la entidad local para cada expediente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0021",
+      "pregunta": "En la organización territorial del sistema, ¿qué corresponde a un Área de Servicios Sociales?",
+      "opciones": [
+        "Ser la unidad territorial básica del nivel comunitario con un mínimo ordinario de 20.000 habitantes.",
+        "Sustituir a la Zona Básica cuando el municipio supera los 20.000 habitantes.",
+        "Constituir el ámbito territorial de los recursos especializados, existiendo al menos un área en cada provincia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0022",
+      "pregunta": "¿Qué función cumple el Mapa de Servicios Sociales según el tema?",
+      "opciones": [
+        "Delimitar zonas y áreas, así como la cobertura y el despliegue territorial de ambos niveles del sistema.",
+        "Determinar exclusivamente la distribución de las prestaciones económicas municipales.",
+        "Asignar de forma automática la titularidad de todos los servicios de municipios pequeños a la Diputación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0023",
+      "pregunta": "¿Cuál de las siguientes funciones está expresamente reservada a gestión directa pública según el artículo 44 de la Ley 9/2016, tal como se sintetiza en el tema?",
+      "opciones": [
+        "Cualquier actividad de voluntariado promovida por entidades sociales.",
+        "La información, valoración, orientación y asesoramiento.",
+        "Todos los servicios complementarios que puedan prestarse mediante contratación pública."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0024",
+      "pregunta": "¿Qué afirmación describe correctamente la reserva de gestión directa en los servicios sociales comunitarios?",
+      "opciones": [
+        "Impide cualquier forma de colaboración con entidades de iniciativa social o privada.",
+        "Solo afecta a la resolución administrativa, pudiendo externalizarse libremente la valoración y el Proyecto de Intervención.",
+        "Incluye el Proyecto de Intervención Social y su seguimiento, las funciones del profesional de referencia y del equipo comunitario y la gestión de prestaciones económicas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0025",
+      "pregunta": "En el ciclo de intervención local, ¿qué distinción debe mantenerse al tramitar y resolver una prestación?",
+      "opciones": [
+        "La propuesta o prescripción técnica corresponde al profesional competente y la resolución al órgano que determine la normativa aplicable.",
+        "La persona trabajadora social de referencia debe asumir siempre la propuesta técnica y la resolución para garantizar continuidad.",
+        "La resolución corresponde necesariamente a la dirección del centro de servicios sociales comunitarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0026",
+      "pregunta": "¿Qué utilidad atribuye el tema al Catálogo aprobado por el Decreto 48/2025?",
+      "opciones": [
+        "Sustituir a la normativa sectorial de cada prestación y atribuir siempre la resolución al ayuntamiento.",
+        "Permitir comprobar, para cada prestación, aspectos como competencia, financiación, gestión, prescripción, resolución, ejecución, seguimiento y evaluación.",
+        "Regular únicamente la financiación de las prestaciones, sin determinar cuestiones de gestión o procedimiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0027",
+      "pregunta": "La coordinación municipal con entidades sociales del territorio, ¿qué límite tiene respecto del tratamiento de información?",
+      "opciones": [
+        "Permite compartir cualquier dato si todas las entidades participan en la intervención social.",
+        "Exige que toda entidad colaboradora tenga acceso íntegro a la historia social para asegurar la continuidad.",
+        "Debe respetar competencia, finalidad, necesidad, confidencialidad y los protocolos aplicables."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0028",
+      "pregunta": "¿Cuál es la función principal de la provincia en relación con las competencias municipales, según el Tema 18?",
+      "opciones": [
+        "Asumir automáticamente las competencias municipales de servicios sociales en todos los municipios de menos de 20.000 habitantes.",
+        "Garantizar el ejercicio de las competencias municipales mediante coordinación, asistencia y cooperación, además de prestar servicios supramunicipales cuando proceda.",
+        "Ejercer la superior dirección del Sistema Público de Servicios Sociales dentro de su provincia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0029",
+      "pregunta": "¿Qué contenido corresponde a la asistencia técnica provincial según la LAULA tal como se resume en el tema?",
+      "opciones": [
+        "Financiación de inversiones y actividades a través de planes y programas provinciales.",
+        "Prestación material del servicio municipal ante incapacidad o insuficiencia, previa solicitud del municipio.",
+        "Información, asesoramiento, estudios, planes, ordenanzas, tecnología, formación y apoyo especializado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0030",
+      "pregunta": "¿Qué caracteriza a la asistencia económica de la Diputación a los municipios?",
+      "opciones": [
+        "La sustitución automática de la entidad municipal en la prestación de servicios sociales comunitarios.",
+        "La financiación de inversiones, actividades y servicios mediante planes y programas provinciales.",
+        "El asesoramiento jurídico y técnico para elaborar planes, ordenanzas y estudios."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0031",
+      "pregunta": "¿Qué define a la asistencia material provincial en el esquema del tema?",
+      "opciones": [
+        "La transferencia permanente de la competencia municipal a la Diputación sin necesidad de instrumento jurídico.",
+        "La financiación ordinaria de cualquier servicio municipal, con independencia de la capacidad del ayuntamiento.",
+        "La prestación del servicio municipal ante incapacidad o insuficiencia cuando lo solicita el municipio, junto con fórmulas como redes intermunicipales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0032",
+      "pregunta": "Un municipio de 12.000 habitantes solicita apoyo provincial para prestar adecuadamente los servicios sociales comunitarios. ¿Qué afirmación es correcta según el tema?",
+      "opciones": [
+        "La Diputación pasa automáticamente a ser titular de los servicios sociales comunitarios por estar el municipio por debajo de 20.000 habitantes.",
+        "El municipio pierde toda competencia propia en servicios sociales hasta alcanzar el umbral de 20.000 habitantes.",
+        "La Diputación puede intervenir mediante el título jurídico que corresponda, pero la menor población no produce por sí sola una sustitución automática del ayuntamiento."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0033",
+      "pregunta": "Si varios municipios deciden asociarse para gestionar conjuntamente servicios sociales comunitarios, ¿qué condición territorial destaca el tema?",
+      "opciones": [
+        "La asociación permite modificar libremente las Zonas Básicas mediante acuerdo de los municipios participantes.",
+        "La gestión conjunta solo es posible cuando todos los municipios asociados superan individualmente los 20.000 habitantes.",
+        "La asociación debe respetar la distribución de Zonas Básicas establecida en el Mapa de Servicios Sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0034",
+      "pregunta": "¿Cuándo resulta especialmente adecuada una fórmula de servicio supramunicipal según el cuadro de cooperación intermunicipal?",
+      "opciones": [
+        "Cuando se pretende que una entidad privada ejerza potestades administrativas en varios municipios.",
+        "Cuando existe una necesidad común a varios municipios que aconseja una gestión provincial o una fórmula legal compartida.",
+        "Siempre que un municipio tenga menos de 20.000 habitantes, con independencia de sus necesidades y capacidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0035",
+      "pregunta": "¿Cuál es el origen de una competencia transferida a una entidad local según la distinción del tema?",
+      "opciones": [
+        "Un acuerdo interno del ayuntamiento que amplía sus competencias por razones de proximidad.",
+        "Una ley autonómica de transferencia.",
+        "La mera inclusión de la actuación en un plan municipal de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0036",
+      "pregunta": "Tras una transferencia de competencia autonómica a una entidad local, ¿cómo se ejerce esa competencia según el tema?",
+      "opciones": [
+        "Como competencia propia local en los términos del traspaso, con los recursos y medios determinados.",
+        "Como competencia delegada sometida permanentemente a instrucciones del delegante.",
+        "Como actuación material sin capacidad local para desarrollar políticas propias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0037",
+      "pregunta": "¿Qué rasgo distingue a una competencia delegada de una competencia propia?",
+      "opciones": [
+        "La competencia delegada nace directamente de la ley y se ejerce sin controles del delegante.",
+        "La Administración delegante mantiene facultades de dirección y control sobre el ejercicio de la competencia delegada.",
+        "La competencia propia requiere siempre aceptación expresa de la entidad local y financiación del delegante."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0038",
+      "pregunta": "Conforme a la LRBRL tal como se recoge en el tema, ¿qué duración mínima debe tener una delegación?",
+      "opciones": [
+        "No inferior a dos años.",
+        "No inferior a cinco años.",
+        "No inferior a diez años."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0039",
+      "pregunta": "¿Qué exigencia financiera destaca el tema respecto de la delegación de competencias?",
+      "opciones": [
+        "Debe existir una dotación adecuada y suficiente; sin ella, la delegación es nula.",
+        "La entidad local debe asumir necesariamente con recursos propios la totalidad del coste delegado.",
+        "La financiación solo es exigible cuando la delegación supera los cinco años de duración."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0040",
+      "pregunta": "¿Qué posición corresponde a la Consejería competente en relación con el Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "Gestiona directamente todos los servicios sociales comunitarios municipales y supramunicipales.",
+        "Ostenta la superior dirección y coordinación, elabora el Plan Estratégico, el Mapa y el Catálogo y ejerce funciones de calidad, autorización, acreditación, inspección y sanción.",
+        "Se limita a financiar a las entidades locales, sin funciones de planificación, coordinación o control."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0041",
+      "pregunta": "¿Cómo se concilia la superior dirección autonómica con la autonomía local según el tema?",
+      "opciones": [
+        "La Junta ordena y coordina el sistema común, mientras las entidades locales ejercen sus competencias propias y gestionan el nivel comunitario dentro de ese marco.",
+        "La planificación autonómica elimina la capacidad local de organizar sus servicios sociales comunitarios.",
+        "La autonomía local permite desvincular la planificación municipal del Mapa y del Catálogo autonómicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0042",
+      "pregunta": "¿Cuál es la composición de la Comisión de coordinación prevista en el artículo 57 de la Ley 9/2016, según el tema?",
+      "opciones": [
+        "Cinco representantes de la Junta y tres de las entidades locales.",
+        "Cuatro representantes de las diputaciones y cuatro de los ayuntamientos, sin representación autonómica.",
+        "Cuatro representantes de la Junta de Andalucía y cuatro representantes de las entidades locales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0043",
+      "pregunta": "¿Cuál de las siguientes combinaciones refleja correctamente las fuentes generales de financiación del Sistema Público señaladas en el tema?",
+      "opciones": [
+        "Exclusivamente presupuestos autonómicos y aportaciones de las personas usuarias.",
+        "Presupuestos autonómicos y locales, aportaciones finalistas estatales y europeas, contribuciones de personas usuarias cuando procedan y otras fuentes legales.",
+        "Únicamente recursos locales y financiación provincial, quedando excluidas aportaciones estatales o europeas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0044",
+      "pregunta": "Si una nueva atribución autonómica genera nuevas cargas de gasto para una entidad local, ¿qué regla financiera recoge el tema?",
+      "opciones": [
+        "La entidad local debe financiar inicialmente la nueva carga y solicitar compensación al finalizar el ejercicio.",
+        "La financiación adicional solo procede si la competencia se presta de forma supramunicipal.",
+        "La Junta debe acordar simultáneamente los recursos necesarios para atender esas nuevas cargas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0045",
+      "pregunta": "Respecto de un servicio especializado de titularidad local, ¿qué regla básica de financiación recoge el tema?",
+      "opciones": [
+        "Debe financiarlo íntegramente la Junta por tratarse de un servicio especializado.",
+        "Lo financia la Administración titular, con posible colaboración autonómica si encaja en la planificación y están garantizados los servicios comunitarios.",
+        "Debe financiarlo la Diputación siempre que atienda a personas de más de un municipio."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T18-P0046",
+      "pregunta": "¿Qué debe hacer, por regla general, la persona trabajadora social de referencia ante una prestación cuya resolución corresponde a otro órgano?",
+      "opciones": [
+        "Informar, valorar, diagnosticar, prescribir técnicamente o formular propuesta cuando proceda, elaborar el Proyecto y realizar acompañamiento, coordinación y evaluación, sin asumir automáticamente la resolución.",
+        "Dictar la resolución administrativa para garantizar la continuidad del itinerario de atención.",
+        "Limitarse a derivar el caso al órgano resolutor sin realizar valoración ni diagnóstico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0047",
+      "pregunta": "¿Qué relación existe entre la dirección del centro de servicios sociales comunitarios y el órgano resolutor de una prestación?",
+      "opciones": [
+        "La persona responsable de la dirección organiza el funcionamiento técnico y administrativo, pero no equivale necesariamente al órgano resolutor.",
+        "La dirección del centro es siempre el órgano competente para resolver las prestaciones municipales.",
+        "La dirección del centro carece de funciones organizativas y se limita a supervisar al profesional de referencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0048",
+      "pregunta": "¿Qué límite tiene una entidad colaboradora que ejecuta apoyos o servicios conforme a un instrumento jurídico?",
+      "opciones": [
+        "No ejerce autoridad ni decide el acceso a prestaciones públicas.",
+        "Puede resolver el acceso a prestaciones si la ejecución del servicio ha sido objeto de concierto.",
+        "Puede asumir las funciones del profesional de referencia siempre que exista financiación pública."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T18-P0049",
+      "pregunta": "En la fase inicial de un procedimiento profesional-administrativo, ¿qué controles deben realizarse prioritariamente según el esquema del tema?",
+      "opciones": [
+        "Autorizar el gasto y dictar la resolución definitiva antes de iniciar la valoración.",
+        "Determinar exclusivamente la disponibilidad presupuestaria, posponiendo la valoración de la necesidad.",
+        "Registrar la demanda y comprobar la urgencia y la competencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T18-P0050",
+      "pregunta": "Según los datos clave del tema, ¿cómo se distribuyen las 95 prestaciones del Catálogo aprobado por el Decreto 48/2025?",
+      "opciones": [
+        "65 garantizadas y 30 condicionadas.",
+        "67 garantizadas y 28 condicionadas.",
+        "70 garantizadas y 25 condicionadas."
+      ],
+      "correcta": 1
+    }
+  ]
+}

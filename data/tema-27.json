@@ -1,0 +1,506 @@
+{
+  "tema": 27,
+  "titulo": "La Participación ciudadana en el Sistema Público de Servicios Sociales de Andalucía",
+  "preguntas": [
+    {
+      "id": "T27-P0001",
+      "pregunta": "Según el artículo 14 de la Ley 9/2016, ¿en cuál de los siguientes ámbitos deben las Administraciones Públicas de Andalucía fomentar y facilitar la participación ciudadana?",
+      "opciones": [
+        "Exclusivamente en la planificación y evaluación de los servicios sociales comunitarios.",
+        "En la definición y mejora de las políticas públicas, la planificación, el seguimiento de la gestión y la evaluación del Sistema Público de Servicios Sociales de Andalucía.",
+        "En la gestión presupuestaria, la inspección de centros y la resolución de procedimientos sancionadores."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0002",
+      "pregunta": "¿Cuál de los siguientes agentes NO aparece entre aquellos a los que el artículo 14 dirige con particular interés el fomento de la participación ciudadana?",
+      "opciones": [
+        "Las organizaciones de profesionales de los servicios sociales.",
+        "Las universidades públicas andaluzas.",
+        "Las organizaciones sindicales y empresariales más representativas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0003",
+      "pregunta": "Como principio rector del Sistema Público de Servicios Sociales, la participación exige prestar especial atención a:",
+      "opciones": [
+        "Las entidades privadas con ánimo de lucro.",
+        "Las personas integrantes de órganos colegiados autonómicos.",
+        "La población más vulnerable."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0004",
+      "pregunta": "De acuerdo con el artículo 15 de la Ley 9/2016, ¿qué Administración impulsará un modelo participativo dentro del Sistema Público de Servicios Sociales?",
+      "opciones": [
+        "La Administración de la Junta de Andalucía.",
+        "Las diputaciones provinciales, exclusivamente.",
+        "Cada ayuntamiento, con carácter obligatorio y mediante ordenanza."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0005",
+      "pregunta": "¿Cuál de los siguientes enunciados constituye uno de los siete objetivos del modelo participativo del artículo 15?",
+      "opciones": [
+        "Sustituir progresivamente la intervención profesional por redes informales de apoyo.",
+        "Favorecer la innovación en la prestación de los servicios.",
+        "Centralizar la toma de decisiones sociales en la Administración autonómica."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0006",
+      "pregunta": "¿Cuál de estas formulaciones reproduce correctamente un objetivo del modelo participativo previsto en el artículo 15?",
+      "opciones": [
+        "Mejorar las condiciones de eficiencia y eficacia social y económica del Sistema Público.",
+        "Asegurar la autosuficiencia financiera de los servicios sociales comunitarios.",
+        "Mejorar exclusivamente la eficiencia económica de las prestaciones garantizadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0007",
+      "pregunta": "Según el artículo 16 de la Ley 9/2016, los órganos de participación ciudadana en servicios sociales tienen carácter:",
+      "opciones": [
+        "Consultivo y de asesoramiento.",
+        "Fiscalizador y sancionador.",
+        "Ejecutivo y de gestión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0008",
+      "pregunta": "¿Cuál de las siguientes combinaciones recoge únicamente categorías de órganos de participación ciudadana contempladas en el artículo 16?",
+      "opciones": [
+        "Consejo de Servicios Sociales de Andalucía, consejos sectoriales y consejos provinciales y locales de servicios sociales.",
+        "Consejo de Servicios Sociales de Andalucía, comisiones técnicas territoriales y consejos de zona básica.",
+        "Consejos sectoriales, juntas arbitrales de servicios sociales y consejos provinciales de coordinación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0009",
+      "pregunta": "La composición de los órganos de participación ciudadana debe asegurar, entre otras, la presencia de:",
+      "opciones": [
+        "Únicamente Administraciones Públicas y colegios profesionales.",
+        "Organizaciones representativas de los intereses de las personas usuarias y entidades de iniciativa social.",
+        "Partidos políticos con representación parlamentaria y organizaciones sindicales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0010",
+      "pregunta": "Con carácter general, ¿a quién corresponde la presidencia de los órganos de participación ciudadana regulados en el artículo 16?",
+      "opciones": [
+        "A la entidad local en cuyo territorio tenga sede el órgano.",
+        "A la Administración autonómica, salvo en los consejos provinciales y locales de servicios sociales.",
+        "A la Administración autonómica sin excepción."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0011",
+      "pregunta": "El Consejo de Servicios Sociales de Andalucía se define legalmente como:",
+      "opciones": [
+        "El órgano de coordinación interadministrativa de los servicios sociales comunitarios.",
+        "El órgano superior ejecutivo del Sistema Público de Servicios Sociales de Andalucía.",
+        "El órgano superior de participación en materia de servicios sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0012",
+      "pregunta": "¿A qué órgano administrativo está adscrito el Consejo de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "A la Consejería competente en materia de Administración Local.",
+        "A la Consejería competente en materia de servicios sociales.",
+        "Al Consejo de Gobierno de la Junta de Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0013",
+      "pregunta": "¿Qué actuación del Consejo de Servicios Sociales de Andalucía tiene carácter previo y preceptivo?",
+      "opciones": [
+        "Informar los anteproyectos de ley y proyectos de decreto del Consejo de Gobierno en materia de servicios sociales.",
+        "Informar, con carácter facultativo, cualquier orden de las entidades locales sobre servicios sociales.",
+        "Aprobar los anteproyectos de ley en materia de servicios sociales antes de su elevación al Consejo de Gobierno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0014",
+      "pregunta": "Entre los instrumentos de planificación sobre los que el Consejo emite informe previo y preceptivo se encuentran:",
+      "opciones": [
+        "Los presupuestos municipales y las relaciones de puestos de trabajo de los servicios sociales.",
+        "El Plan Estratégico de Servicios Sociales y los planes específicos que determine la normativa.",
+        "Únicamente los planes provinciales de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0015",
+      "pregunta": "¿Sobre cuáles de los siguientes instrumentos debe informar el Consejo de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "Solo el Catálogo de Prestaciones, pero no sus revisiones.",
+        "El Mapa de Servicios Sociales, pero únicamente cuando su modificación afecte a más de una provincia.",
+        "El Catálogo de Prestaciones del Sistema Público de Servicios Sociales y el Mapa de Servicios Sociales de Andalucía, incluidas sus revisiones o modificaciones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0016",
+      "pregunta": "¿Cuál de las siguientes es una función expresamente atribuida al Consejo de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "Emitir informes sobre el impacto de las políticas sociales puestas en marcha.",
+        "Autorizar la creación de todos los consejos locales de servicios sociales.",
+        "Resolver los recursos administrativos contra actos de la Consejería competente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0017",
+      "pregunta": "¿Cuál es la composición numérica básica del Consejo de Servicios Sociales de Andalucía según el Decreto 2/2018?",
+      "opciones": [
+        "Una Presidencia, tres Vicepresidencias, una Secretaría y treinta y cinco vocalías.",
+        "Una Presidencia, tres Vicepresidencias, dos Secretarías y treinta vocalías.",
+        "Una Presidencia, dos Vicepresidencias, una Secretaría y treinta y cinco vocalías."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0018",
+      "pregunta": "La Presidencia del Consejo de Servicios Sociales de Andalucía corresponde a:",
+      "opciones": [
+        "La persona titular de la Consejería competente en materia de servicios sociales.",
+        "La persona titular de la Viceconsejería competente en materia de servicios sociales.",
+        "La persona que ocupe la presidencia de la Mesa del Tercer Sector de Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0019",
+      "pregunta": "El Consejo de Servicios Sociales de Andalucía funciona ordinariamente mediante:",
+      "opciones": [
+        "Pleno y Comisión Permanente, pudiendo además constituirse grupos de trabajo.",
+        "Pleno, Junta Directiva y comisiones provinciales obligatorias.",
+        "Comisión Permanente y consejos sectoriales, sin funcionamiento en Pleno."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0020",
+      "pregunta": "¿Con qué frecuencia mínima debe reunirse el Pleno del Consejo en sesión ordinaria?",
+      "opciones": [
+        "Al menos una vez al año.",
+        "Al menos dos veces al año.",
+        "Al menos una vez por trimestre."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0021",
+      "pregunta": "¿Cuándo puede reunirse extraordinariamente el Pleno del Consejo?",
+      "opciones": [
+        "Cuando la Presidencia lo estime justificado o a instancia razonada de la mayoría de las vocalías.",
+        "Únicamente por acuerdo previo de la Comisión Permanente.",
+        "Solo cuando lo solicite un tercio de las vocalías."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0022",
+      "pregunta": "Conforme al artículo 18, la Consejería competente en materia de servicios sociales podrá crear consejos sectoriales:",
+      "opciones": [
+        "Previa autorización de los consejos provinciales afectados.",
+        "Únicamente a propuesta vinculante de la Comisión Permanente.",
+        "Oído el parecer del Consejo de Servicios Sociales de Andalucía."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0023",
+      "pregunta": "Respecto de los consejos sectoriales en los ámbitos provincial y local, el artículo 18 dispone que:",
+      "opciones": [
+        "Solo podrán crearse cuando no exista un consejo local de servicios sociales.",
+        "Las Administraciones Públicas fomentarán su creación.",
+        "Las diputaciones y ayuntamientos deberán constituirlos obligatoriamente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0024",
+      "pregunta": "Según el artículo 19, las diputaciones provinciales y los ayuntamientos:",
+      "opciones": [
+        "Solo podrán constituirlos previa autorización de la Consejería competente.",
+        "Deberán constituir consejos provinciales o locales siempre que exista un centro de servicios sociales comunitarios.",
+        "Podrán constituir consejos provinciales o locales como órganos consultivos y de participación, en ejercicio de su capacidad de autoorganización y dentro de su ámbito competencial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0025",
+      "pregunta": "¿A quién corresponde determinar la composición y el régimen de funcionamiento de los consejos provinciales y locales de servicios sociales?",
+      "opciones": [
+        "A la respectiva entidad local, dentro del marco de la Ley 9/2016.",
+        "Al Consejo de Servicios Sociales de Andalucía mediante su reglamento interno.",
+        "A la Consejería competente mediante una única orden aplicable a todas las entidades locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0026",
+      "pregunta": "En todos los centros y servicios integrados en el Sistema Público de Servicios Sociales, el artículo 20 exige:",
+      "opciones": [
+        "La constitución obligatoria de un consejo local de servicios sociales.",
+        "La creación de una Comisión Permanente integrada por usuarios y profesionales.",
+        "La existencia de cauces que garanticen la participación de las personas usuarias o de sus representantes legales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0027",
+      "pregunta": "Los sistemas y procedimientos de participación en centros y servicios a los que se refiere el artículo 20 se determinarán:",
+      "opciones": [
+        "Mediante reglamento aprobado por cada entidad titular del centro sin marco autonómico.",
+        "Mediante orden de la persona titular de la Consejería competente.",
+        "Mediante decreto del Consejo de Gobierno."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0028",
+      "pregunta": "El artículo 21 obliga a las Administraciones Públicas de la Comunidad Autónoma a establecer procesos de participación en:",
+      "opciones": [
+        "La selección del personal de los centros de servicios sociales.",
+        "La aprobación de todos los actos administrativos individuales en materia de prestaciones.",
+        "La formulación de los instrumentos de planificación, gestión y evaluación de los servicios sociales de su competencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0029",
+      "pregunta": "Según el artículo 22, la participación ciudadana de la sociedad civil puede articularse:",
+      "opciones": [
+        "A través del movimiento asociativo o de manera individual.",
+        "Solo por medio de los órganos colegiados previstos en el artículo 16.",
+        "Exclusivamente mediante asociaciones legalmente inscritas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0030",
+      "pregunta": "¿Cuál de las siguientes relaciones recoge exactamente las vías que pueden canalizar los procesos participativos del artículo 22?",
+      "opciones": [
+        "Propuestas, negociación, resolución y fiscalización.",
+        "Información, propuestas, debate y consulta.",
+        "Información, audiencia, mediación y arbitraje."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0031",
+      "pregunta": "Los mecanismos participativos del artículo 22 pueden emplearse respecto de actuaciones singulares de:",
+      "opciones": [
+        "Selección de personal, contratación y gestión patrimonial.",
+        "Inspección, sanción y ejecución presupuestaria.",
+        "Planificación, seguimiento y evaluación que correspondan a cada Administración."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0032",
+      "pregunta": "¿Qué medios menciona expresamente la Ley 9/2016 para impulsar la participación personalizada mediante tecnologías de la información?",
+      "opciones": [
+        "Correo certificado, sede electrónica y tablones de anuncios.",
+        "Encuestas, Internet y redes sociales.",
+        "Foros presenciales, asambleas vecinales y consultas telefónicas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0033",
+      "pregunta": "El artículo 23 de la Ley 9/2016, en relación con el voluntariado social:",
+      "opciones": [
+        "Regula de forma completa y autónoma el estatuto jurídico del voluntariado social.",
+        "Limita el voluntariado a las entidades públicas integradas en el Sistema.",
+        "Remite su régimen jurídico y las actividades de fomento y participación mediante acción voluntaria organizada a la normativa vigente en materia de voluntariado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0034",
+      "pregunta": "Además de la remisión a la normativa específica, las Administraciones Públicas competentes deben, respecto del voluntariado:",
+      "opciones": [
+        "Fomentar y apoyar su colaboración en las actividades reguladas por la Ley de Servicios Sociales.",
+        "Reservarle las funciones profesionales no cubiertas temporalmente por personal técnico.",
+        "Integrarlo necesariamente en las plantillas de los centros públicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0035",
+      "pregunta": "¿Cuál de las siguientes competencias de las entidades locales aparece conectada expresamente con la participación ciudadana?",
+      "opciones": [
+        "Nombrar las vocalías de la Comisión Permanente del Consejo de Servicios Sociales de Andalucía.",
+        "Aprobar el Catálogo autonómico de Prestaciones del Sistema Público de Servicios Sociales.",
+        "Fomentar la participación ciudadana en la prevención y resolución de los problemas sociales detectados en su territorio."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0036",
+      "pregunta": "En materia de tejido comunitario, las entidades locales deben promover:",
+      "opciones": [
+        "La sustitución de las redes informales por órganos administrativos.",
+        "Exclusivamente las entidades privadas concertadas.",
+        "El asociacionismo, el voluntariado y otras formas de ayuda mutua."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0037",
+      "pregunta": "¿Qué función local aparece expresamente vinculada a las entidades que desarrollan servicios sociales en el municipio?",
+      "opciones": [
+        "Autorizar administrativamente toda actividad de iniciativa social antes de su inicio.",
+        "Integrar obligatoriamente a todas las entidades privadas en la estructura municipal.",
+        "Coordinar las actuaciones de entidades con o sin ánimo de lucro que desarrollen servicios sociales en el municipio."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0038",
+      "pregunta": "¿Cuántas vocalías corresponden conjuntamente a los Colegios Profesionales de Trabajo Social, Educación Social y Psicología en el Consejo?",
+      "opciones": [
+        "Tres, una por cada profesión.",
+        "Dos, distribuidas rotatoriamente entre las tres profesiones.",
+        "Cuatro, incluyendo una vocalía adicional para profesiones sanitarias."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0039",
+      "pregunta": "¿Qué opción describe correctamente una parte de la distribución de las 35 vocalías del Consejo?",
+      "opciones": [
+        "Ocho vocalías corresponden a las Diputaciones Provinciales de Andalucía.",
+        "Ocho vocalías corresponden a entidades privadas sin ánimo de lucro vinculadas a ocho ámbitos sociales específicos.",
+        "Ocho vocalías corresponden conjuntamente a organizaciones sindicales y empresariales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0040",
+      "pregunta": "La Vicepresidencia 2.ª del Consejo corresponde a:",
+      "opciones": [
+        "La representación de los Gobiernos Locales designada por la asociación de municipios y provincias de carácter autonómico de mayor implantación en Andalucía.",
+        "La persona titular de la Viceconsejería competente en materia de servicios sociales.",
+        "La persona que ocupe la presidencia de la Mesa del Tercer Sector de Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0041",
+      "pregunta": "¿Cuál es la duración del mandato de las vocalías del Consejo según el Decreto 2/2018?",
+      "opciones": [
+        "Cuatro años, sin posibilidad de renovación.",
+        "Dos años, renovables por una sola vez.",
+        "Cuatro años, renovables desde el nombramiento."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0042",
+      "pregunta": "Para la válida constitución del Pleno en primera convocatoria se requiere:",
+      "opciones": [
+        "Presidencia, las tres Vicepresidencias y al menos diez vocalías.",
+        "Presidencia y Secretaría, o quienes las sustituyan, y al menos diez vocalías.",
+        "Presidencia y Secretaría, o quienes las sustituyan, y al menos la mitad de las vocalías."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0043",
+      "pregunta": "Para la válida constitución del Pleno en segunda convocatoria se requiere:",
+      "opciones": [
+        "Presidencia y Secretaría, o quienes las sustituyan, y al menos la mitad de las vocalías.",
+        "Presidencia, una Vicepresidencia y la mayoría absoluta de las vocalías.",
+        "Presidencia y Secretaría, o quienes las sustituyan, y al menos diez vocalías."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0044",
+      "pregunta": "Respecto de la adopción de acuerdos del Pleno, ¿qué combinación es correcta?",
+      "opciones": [
+        "Se adoptan por mayoría de votos emitidos y, en caso de empate, la Presidencia lo dirime mediante voto de calidad.",
+        "Se adoptan por mayoría simple de vocalías presentes y los empates los dirime la Secretaría.",
+        "Se adoptan por mayoría absoluta de miembros y los empates obligan a repetir la votación en otra sesión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0045",
+      "pregunta": "Las personas expertas que sean llamadas a asistir al Pleno del Consejo:",
+      "opciones": [
+        "Pueden asistir con voz y sin voto.",
+        "Pueden asistir con voz y voto cuando la materia coincida con su especialidad.",
+        "Solo pueden presentar informes escritos y no asistir a las sesiones."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T27-P0046",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre la Comisión Permanente del Consejo es correcta?",
+      "opciones": [
+        "Sustituye al Pleno en todas sus funciones y se reúne únicamente cuando la convoca la Presidencia.",
+        "Es el órgano ejecutivo del Consejo y se reúne al menos dos veces al año, con carácter previo a las sesiones ordinarias del Pleno.",
+        "Es un órgano meramente consultivo y debe reunirse una vez por trimestre."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0047",
+      "pregunta": "La Comisión Permanente del Consejo está presidida por:",
+      "opciones": [
+        "La Vicepresidencia 2.ª.",
+        "La Vicepresidencia 1.ª.",
+        "La Presidencia del Consejo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0048",
+      "pregunta": "¿Cuál de las siguientes vocalías forma parte de la Comisión Permanente en el número indicado?",
+      "opciones": [
+        "Tres vocalías de Universidades Públicas de Andalucía.",
+        "Dos vocalías de municipios de más de 20.000 habitantes.",
+        "Cuatro vocalías de la Administración de la Junta de Andalucía."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T27-P0049",
+      "pregunta": "Los grupos de trabajo del Consejo pueden ser creados por:",
+      "opciones": [
+        "La Comisión Permanente por mayoría absoluta de sus miembros.",
+        "El Pleno, por mayoría de votos emitidos, cuando resulte necesario.",
+        "La Presidencia mediante resolución, sin intervención del Pleno."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T27-P0050",
+      "pregunta": "En relación con los derechos económicos derivados de la pertenencia al Consejo de Servicios Sociales de Andalucía:",
+      "opciones": [
+        "Genera derecho a indemnización por asistencia, pero no a retribución.",
+        "La pertenencia al Consejo no genera derecho a retribución ni indemnización alguna.",
+        "Genera derecho a retribución únicamente para las vocalías no pertenecientes a Administraciones Públicas."
+      ],
+      "correcta": 1
+    }
+  ]
+}

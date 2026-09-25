@@ -1,0 +1,506 @@
+{
+  "tema": 19,
+  "titulo": "La Ciudadanía y el Sistema Público de Servicios Sociales. Derechos y obligaciones.",
+  "preguntas": [
+    {
+      "id": "T19-P0001",
+      "pregunta": "Según el Estatuto de Autonomía para Andalucía, ¿qué garantiza el artículo 23.1 en relación con los servicios sociales?",
+      "opciones": [
+        "El derecho exclusivo de quienes tengan vecindad administrativa en Andalucía a recibir cualquier prestación social sin requisitos adicionales.",
+        "El derecho de las personas usuarias de centros residenciales a elegir libremente cualquier prestación del Catálogo.",
+        "El derecho de todas las personas a acceder, en condiciones de igualdad, a las prestaciones de un sistema público de servicios sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0002",
+      "pregunta": "¿Qué reconoce el artículo 23.2 del Estatuto de Autonomía para Andalucía conforme al documento del Tema 19?",
+      "opciones": [
+        "El derecho a una prestación económica garantizada únicamente para personas con dependencia reconocida.",
+        "El derecho a una renta básica que garantice condiciones de vida digna en caso de necesidad y en los términos establecidos por la ley.",
+        "El derecho a una renta básica universal e incondicionada para toda persona residente en Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0003",
+      "pregunta": "En relación con las personas con discapacidad o en situación de dependencia, ¿qué garantía estatutaria destaca el Tema 19?",
+      "opciones": [
+        "El acceso preferente a toda prestación condicionada aunque no exista disponibilidad de recursos.",
+        "El acceso a ayudas, prestaciones y servicios de calidad con garantía pública.",
+        "La atribución automática de la condición de persona usuaria del Sistema Público de Servicios Sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0004",
+      "pregunta": "¿Qué alcance competencial atribuye el artículo 61 del Estatuto de Autonomía para Andalucía en materia de servicios sociales?",
+      "opciones": [
+        "Competencia exclusiva de Andalucía, incluida la regulación, ordenación y gestión de prestaciones y programas.",
+        "Competencia exclusiva de los municipios para regular, ordenar y gestionar todas las prestaciones del sistema.",
+        "Competencia compartida con las entidades locales para aprobar la legislación básica estatal en materia de servicios sociales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0005",
+      "pregunta": "¿Qué consecuencia jurídica caracteriza el paso del modelo asistencial al modelo configurado por la Ley 9/2016 según el Tema 19?",
+      "opciones": [
+        "Toda necesidad social genera automáticamente una prestación económica exigible con independencia de su naturaleza.",
+        "Cuando una prestación es garantizada y se cumplen sus requisitos, la persona puede exigirla ante la Administración competente.",
+        "Las prestaciones sociales quedan sometidas exclusivamente a una decisión discrecional de la persona profesional de referencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0006",
+      "pregunta": "¿Cuál de las siguientes afirmaciones expresa correctamente el alcance de la universalidad del Sistema Público de Servicios Sociales?",
+      "opciones": [
+        "La universalidad elimina la distinción jurídica entre prestaciones garantizadas y prestaciones condicionadas.",
+        "La universalidad implica acceso al sistema en los términos legales, pero cada prestación puede exigir requisitos propios.",
+        "La universalidad implica que cualquier persona puede obtener de inmediato cualquier prestación incluida en el Catálogo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0007",
+      "pregunta": "Como regla general, ¿qué circunstancia reconoce el artículo 6 de la Ley 9/2016 para ser titular del derecho a los servicios y prestaciones del sistema andaluz?",
+      "opciones": [
+        "Tener nacionalidad española y residencia continuada en Andalucía durante al menos un año.",
+        "Estar empadronado en el municipio concreto que vaya a resolver la prestación solicitada.",
+        "Tener vecindad administrativa en Andalucía."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0008",
+      "pregunta": "Una persona menor de edad extranjera se encuentra en Andalucía. Conforme al Tema 19, ¿qué afirmación es correcta respecto a la titularidad del derecho a los servicios sociales?",
+      "opciones": [
+        "Solo puede acceder a información y orientación, pero nunca a servicios o prestaciones del sistema.",
+        "Se encuentra entre los supuestos reconocidos como titulares del derecho a los servicios y prestaciones del sistema andaluz.",
+        "Solo es titular si acredita previamente vecindad administrativa en Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0009",
+      "pregunta": "Respecto de las personas con derecho de asilo, ¿qué supuesto incluye el Tema 19 entre los titulares del derecho a los servicios sociales?",
+      "opciones": [
+        "A quienes se reconozca la condición de persona refugiada o la protección subsidiaria conforme al marco aplicable.",
+        "A toda persona que haya presentado una solicitud de asilo, aunque no se le haya reconocido ninguna condición de protección.",
+        "Únicamente a quienes tengan, además, vecindad administrativa previa en Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0010",
+      "pregunta": "Una persona presente en Andalucía que no encaja en los restantes supuestos de titularidad atraviesa una urgencia personal, familiar o social. ¿Qué atención mínima tiene garantizada en todo caso según el Tema 19?",
+      "opciones": [
+        "Información, valoración, diagnóstico y orientación, tanto en el nivel primario como en el especializado.",
+        "Cualquier prestación del Catálogo, con independencia de sus requisitos y de su naturaleza garantizada o condicionada.",
+        "Únicamente información y derivación al municipio en el que figure empadronada."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0011",
+      "pregunta": "¿Qué diferencia establece el Tema 19 entre persona titular, persona solicitante y persona usuaria?",
+      "opciones": [
+        "La titular posee la posición jurídica reconocida por la ley, la solicitante inicia un procedimiento y la usuaria recibe o utiliza efectivamente un servicio o prestación.",
+        "La titular y la usuaria son siempre la misma categoría jurídica, mientras que la solicitante únicamente actúa en representación de otra persona.",
+        "La solicitante ya es necesariamente usuaria desde la presentación de la solicitud, aunque no haya recibido ningún servicio o prestación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0012",
+      "pregunta": "¿Qué rasgo distingue a una prestación garantizada conforme al Tema 19?",
+      "opciones": [
+        "Su atribución automática a toda persona titular del sistema sin necesidad de acreditar requisitos específicos.",
+        "Su concesión preferente cuando existan recursos disponibles, sin posibilidad de reclamación judicial.",
+        "Su reconocimiento como derecho subjetivo cuando se cumplen las condiciones establecidas, pudiendo reclamarse su cobertura en vía administrativa y judicial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0013",
+      "pregunta": "¿Cuál es el régimen descrito para una prestación condicionada?",
+      "opciones": [
+        "Su cobertura es inmediatamente exigible como derecho subjetivo aunque no exista disponibilidad de recursos.",
+        "La Administración puede resolver libremente sin motivación, porque la prestación no genera ninguna garantía jurídica.",
+        "El acceso queda sujeto a disponibilidad de recursos y a criterios objetivos de prioridad, existiendo derecho a una decisión motivada y no arbitraria."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0014",
+      "pregunta": "¿Qué función cumple el Catálogo de Prestaciones del Sistema Público de Servicios Sociales de Andalucía aprobado por Decreto 48/2025 según el Tema 19?",
+      "opciones": [
+        "Concreta, entre otros extremos, contenido, población destinataria, requisitos, acceso, Administración competente, modalidad y naturaleza garantizada o condicionada de cada prestación.",
+        "Se limita a enumerar prestaciones económicas, sin identificar requisitos, forma de acceso ni Administración competente.",
+        "Sustituye a la Ley 9/2016 y determina exclusivamente la organización territorial de los servicios sociales comunitarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0015",
+      "pregunta": "¿Cómo debe garantizar la Junta de Andalucía los derechos subjetivos reconocidos en el sistema, según el Tema 19?",
+      "opciones": [
+        "Mediante el ejercicio de sus competencias y la cooperación con los entes locales, respetando la subsidiariedad y la autonomía municipal.",
+        "Asumiendo directamente toda resolución municipal y sustituyendo de forma general a las entidades locales.",
+        "Delegando íntegramente la garantía de los derechos subjetivos en los municipios, sin intervención autonómica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0016",
+      "pregunta": "¿A quién se aplica el primer círculo de derechos previsto en el artículo 9 de la Ley 9/2016 según el Tema 19?",
+      "opciones": [
+        "Únicamente a las personas ingresadas en centros residenciales o usuarias de centros de día.",
+        "Exclusivamente a quienes ya tengan reconocida formalmente la condición de personas usuarias.",
+        "A todas las personas en su relación con los servicios sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0017",
+      "pregunta": "En materia de acceso universal, ¿qué actuación profesional resulta coherente con los derechos de ciudadanía descritos en el Tema 19?",
+      "opciones": [
+        "Mantener exclusivamente canales digitales, ya que la universalidad se refiere solo a la igualdad jurídica formal.",
+        "Eliminar barreras físicas, sensoriales, cognitivas, lingüísticas, económicas y digitales.",
+        "Suprimir los apoyos lingüísticos para evitar diferencias de trato entre personas usuarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0018",
+      "pregunta": "¿Qué alcance atribuye el Tema 19 al derecho de participación de la ciudadanía en relación con los servicios sociales?",
+      "opciones": [
+        "Participar únicamente en la evaluación, quedando la definición y la planificación reservadas a la Administración.",
+        "Intervenir individual o colectivamente en la definición, planificación, provisión y evaluación.",
+        "Limitarse a formular quejas una vez finalizada la intervención profesional."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0019",
+      "pregunta": "¿Qué orientación caracteriza el derecho relativo a la calidad y al desarrollo de capacidades?",
+      "opciones": [
+        "Recibir exclusivamente prestaciones económicas cuando existan dificultades para la autonomía personal.",
+        "Sustituir las decisiones de la persona por criterios profesionales siempre que se considere más eficaz.",
+        "Recibir servicios que fortalezcan capacidades personales, grupales y comunitarias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0020",
+      "pregunta": "Dentro de los derechos de ciudadanía, ¿qué comprende el eje de defensa descrito en el Tema 19?",
+      "opciones": [
+        "La sustitución de los recursos administrativos por una reclamación informal ante la persona profesional de referencia.",
+        "La concesión automática de la prestación reclamada cuando se presente una queja.",
+        "Información, sugerencias, quejas y respuesta en plazo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0021",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente los derechos vinculados a autonomía e instrucciones previas?",
+      "opciones": [
+        "Las instrucciones previas permiten exigir cualquier prestación futura aunque no se cumplan sus requisitos legales.",
+        "La promoción de la autonomía autoriza a prescindir de los apoyos cuando la persona presenta dificultades para tomar decisiones.",
+        "Debe promoverse la autonomía personal y facilitarse la previsión de apoyos, asistencia o cuidados futuros, respetando la voluntad anticipada conforme al ordenamiento."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0022",
+      "pregunta": "¿Cómo se relacionan los derechos del artículo 10 con los derechos generales del artículo 9 según el Tema 19?",
+      "opciones": [
+        "Los derechos del artículo 10 se añaden a los del artículo 9 para quienes ya son personas usuarias, tanto en servicios públicos como privados.",
+        "Los derechos del artículo 10 solo se aplican a servicios de titularidad pública, mientras que el artículo 9 rige los privados.",
+        "Los derechos del artículo 10 sustituyen a los del artículo 9 desde el momento en que una persona comienza a utilizar un servicio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0023",
+      "pregunta": "¿Qué dimensiones debe considerar el Proyecto de Intervención Social en la atención directa a la persona usuaria según el Tema 19?",
+      "opciones": [
+        "Las dimensiones individual, familiar, convivencial y comunitaria.",
+        "Únicamente las dimensiones individual y económica, al ser las únicas necesarias para prescribir prestaciones.",
+        "Las dimensiones individual, sanitaria y judicial, excluyendo expresamente el entorno convivencial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0024",
+      "pregunta": "¿Qué finalidad se atribuye a la asignación de una persona profesional de referencia?",
+      "opciones": [
+        "Eliminar la posibilidad de que intervengan otros profesionales cuando existan necesidades especializadas.",
+        "Favorecer la coherencia, la integralidad y la continuidad de la atención.",
+        "Concentrar en esa persona profesional la competencia administrativa para conceder, suspender y extinguir prestaciones."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0025",
+      "pregunta": "Respecto de la libre elección y el segundo diagnóstico vinculados a la persona profesional de referencia, ¿qué precisión contiene el Tema 19?",
+      "opciones": [
+        "Se reconocen dentro de los límites reglamentarios, con la salvedad de la protección de menores.",
+        "Son derechos absolutos que no admiten limitación ni excepción alguna.",
+        "Solo pueden ejercerse cuando la intervención se presta en un centro privado."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0026",
+      "pregunta": "Una persona usuaria solicita por escrito información sobre su valoración y las intervenciones propuestas. ¿Qué respuesta se ajusta al Tema 19?",
+      "opciones": [
+        "Debe recibir información suficiente, veraz y fácilmente comprensible, y por escrito cuando así lo solicite.",
+        "La Administración puede negarse a facilitar información mientras no exista una resolución definitiva sobre una prestación.",
+        "La información solo debe facilitarse oralmente para preservar la confidencialidad del expediente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0027",
+      "pregunta": "¿Qué límite destaca el Tema 19 respecto del derecho de acceso al expediente individual?",
+      "opciones": [
+        "El acceso permite conocer sin limitación cualquier información de terceras personas incorporada al expediente.",
+        "Debe ejercerse conforme al ordenamiento y respetando los datos de terceras personas.",
+        "El acceso al expediente queda excluido cuando la persona usuaria dispone de profesional de referencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0028",
+      "pregunta": "Cuando existen barreras idiomáticas o derivadas de discapacidad, ¿qué derecho reconoce el Tema 19 a la persona usuaria?",
+      "opciones": [
+        "Sustituir necesariamente su voluntad por la de una persona representante para cualquier actuación.",
+        "Ser derivada obligatoriamente a un servicio especializado, aunque el servicio ordinario pueda proporcionar apoyos.",
+        "Recibir las ayudas y apoyos necesarios."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0029",
+      "pregunta": "En relación con las decisiones sobre la situación personal y familiar, ¿qué derecho corresponde a la persona usuaria?",
+      "opciones": [
+        "Limitarse a ser informada, pues la decisión corresponde siempre a la persona profesional de referencia.",
+        "Negar el consentimiento únicamente cuando la intervención sea de carácter económico.",
+        "Participar en las decisiones y dar o negar su consentimiento a una intervención."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0030",
+      "pregunta": "¿En qué supuesto señala expresamente el Tema 19 que el consentimiento debe constar necesariamente por escrito?",
+      "opciones": [
+        "Cuando la intervención implique ingreso en alojamiento o centro residencial.",
+        "Únicamente cuando se solicite acceso al expediente individual.",
+        "Siempre que se formule un Proyecto de Intervención Social, cualquiera que sea su contenido."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0031",
+      "pregunta": "¿Qué criterio deriva de la adaptación de 2024 al modelo de apoyos para el ejercicio de la capacidad jurídica?",
+      "opciones": [
+        "La existencia de discapacidad convierte por sí sola cualquier decisión profesional en sustitutiva de la voluntad de la persona.",
+        "Las medidas de apoyo judicial dejan sin efecto todos los derechos de participación y consentimiento de la persona usuaria.",
+        "La discapacidad no justifica sustituir automáticamente la voluntad; deben facilitarse comprensión, expresión de preferencias y toma de decisiones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0032",
+      "pregunta": "En los supuestos previstos legalmente, ¿qué derecho recoge el Tema 19 cuando una medida de apoyo judicial para el ejercicio de la capacidad jurídica corresponde a determinada entidad?",
+      "opciones": [
+        "Asistencia para el ejercicio de la capacidad jurídica cuando la medida corresponda a una fundación o persona jurídica sin ánimo de lucro.",
+        "Asignación automática de la tutela a la persona profesional de referencia municipal.",
+        "Sustitución permanente de la voluntad de la persona por cualquier entidad privada que preste servicios sociales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0033",
+      "pregunta": "¿Cómo debe documentarse la evaluación o diagnóstico de necesidades de la persona usuaria según el Tema 19?",
+      "opciones": [
+        "Exclusivamente mediante anotaciones internas del profesional, sin necesidad de que resulten comprensibles para la persona usuaria.",
+        "Solo por escrito cuando la intervención finalice con una prestación económica garantizada.",
+        "Por escrito, en lenguaje claro y comprensible, junto con el Proyecto de Intervención Social y con participación de la persona en su elaboración."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0034",
+      "pregunta": "¿En qué términos se reconoce la elección del tipo y modalidad de servicio?",
+      "opciones": [
+        "Como facultad exclusiva de la Administración, sin participación de la persona usuaria.",
+        "Como libre elección entre las alternativas más adecuadas propuestas por la persona profesional de referencia.",
+        "Como elección ilimitada entre cualquier servicio existente en Andalucía, aunque no haya sido propuesto profesionalmente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0035",
+      "pregunta": "¿Qué límites señala el Tema 19 al derecho de renuncia a prestaciones y servicios concedidos?",
+      "opciones": [
+        "Los derivados de las normas sobre internamiento no voluntario y de la actuación protectora de menores.",
+        "La persona usuaria no puede renunciar nunca a una prestación una vez concedida.",
+        "La renuncia solo está limitada cuando se trate de una prestación condicionada por disponibilidad presupuestaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0036",
+      "pregunta": "Una situación requiere atención urgente y, además, hace necesaria la intervención en el domicilio. ¿Qué afirmación coincide con los derechos descritos en el Tema 19?",
+      "opciones": [
+        "Procede atención urgente o prioritaria cuando lo determine la Administración competente y atención domiciliaria del profesional de referencia si la situación lo exige.",
+        "La atención domiciliaria queda excluida en urgencias porque solo puede prestarse tras la finalización del procedimiento.",
+        "La urgencia permite a la persona profesional conceder por sí misma cualquier prestación y sustituir la resolución administrativa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0037",
+      "pregunta": "Si procedimientos aplicados a una persona usuaria van a utilizarse con fines de docencia o investigación, ¿qué exige el Tema 19?",
+      "opciones": [
+        "Únicamente comunicación posterior a la persona, siempre que los procedimientos hayan sido aplicados por un servicio público.",
+        "Información y autorización escrita.",
+        "Autorización verbal de la persona profesional de referencia, sin necesidad de informar a la persona usuaria."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0038",
+      "pregunta": "¿Qué previsión específica recoge el Tema 19 para personas desplazadas o carentes de domicilio ante urgencias o emergencias sociales?",
+      "opciones": [
+        "Acreditar previamente vecindad administrativa en el municipio para poder recibir orientación.",
+        "Ser atendidas únicamente por servicios especializados de ámbito autonómico.",
+        "Disponer de profesional de referencia en el municipio."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0039",
+      "pregunta": "¿Qué naturaleza tienen los derechos adicionales previstos para personas usuarias de centros residenciales y centros de día?",
+      "opciones": [
+        "Sustituyen a los derechos generales y de las personas usuarias desde el momento del ingreso en el centro.",
+        "Constituyen un tercer círculo acumulativo de derechos y se aplican con independencia de la titularidad pública o privada del centro.",
+        "Solo resultan aplicables a centros de titularidad pública porque los centros privados se rigen exclusivamente por su reglamento interno."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0040",
+      "pregunta": "¿Cuál de las siguientes garantías de libertad y autonomía corresponde a las personas usuarias de centros según el Tema 19?",
+      "opciones": [
+        "Libertad ideológica y religiosa, pero no libertad sexual, por quedar esta materia sometida al reglamento interno.",
+        "Permanencia obligatoria mientras exista plaza disponible, salvo autorización expresa de la dirección del centro.",
+        "Ingreso, permanencia y salida libres, salvo los límites legales, junto con el ejercicio de derechos y libertades y la libertad ideológica, sexual y religiosa."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0041",
+      "pregunta": "¿Qué afirmación refleja correctamente la protección del entorno personal en un centro residencial?",
+      "opciones": [
+        "El espacio privado puede ser configurado exclusivamente por el centro porque no tiene consideración de domicilio.",
+        "La consideración del centro como domicilio solo opera en centros de titularidad pública.",
+        "Se reconoce la personalización del espacio privado y el centro residencial como domicilio."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0042",
+      "pregunta": "Respecto de las inmovilizaciones o restricciones mecánicas o farmacológicas en centros, ¿qué regla recoge el Tema 19?",
+      "opciones": [
+        "Están absolutamente prohibidas incluso ante una situación de peligro inminente.",
+        "No deben aplicarse sin prescripción y supervisión facultativa, salvo peligro inminente.",
+        "Pueden aplicarse por decisión ordinaria del personal del centro cuando faciliten la convivencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0043",
+      "pregunta": "Un reglamento interno de un centro establece una restricción que afecta a un derecho legal de una persona usuaria. ¿Qué criterio ofrece el Tema 19?",
+      "opciones": [
+        "El reglamento interno prevalece sobre los derechos legales siempre que haya sido aceptado al ingresar en el centro.",
+        "Toda restricción prevista en el reglamento es válida sin necesidad de motivación ni control adicional.",
+        "El reglamento no puede vaciar derechos legales y las restricciones requieren fundamento, necesidad, proporcionalidad, control y documentación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T19-P0044",
+      "pregunta": "Entre las obligaciones de información de las personas usuarias, ¿cuál figura en el Tema 19?",
+      "opciones": [
+        "Autorizar siempre y sin excepción cualquier acceso administrativo a datos personales, aunque no proceda legalmente.",
+        "Aportar datos veraces y documentos necesarios, autorizar su obtención cuando proceda y comunicar cambios relevantes.",
+        "Aportar únicamente la información que favorezca la concesión, pudiendo omitir cambios posteriores una vez reconocida la prestación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0045",
+      "pregunta": "¿Qué obligación se vincula directamente con la finalidad de una prestación y con cantidades percibidas indebidamente?",
+      "opciones": [
+        "Destinar la prestación al fin concedido, cumplir las contraprestaciones y reintegrar lo indebidamente percibido o mal aplicado.",
+        "Destinar libremente la prestación a cualquier necesidad sobrevenida, sin obligación de reintegro.",
+        "Reintegrar únicamente las cantidades percibidas por prestaciones condicionadas, nunca las garantizadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0046",
+      "pregunta": "¿Cuándo contempla el Tema 19 la contribución de la persona usuaria al coste de un servicio o prestación?",
+      "opciones": [
+        "Solo en servicios privados, porque los servicios públicos son necesariamente gratuitos.",
+        "Cuando la norma lo establezca, atendiendo a la capacidad económica y, en su caso, a la unidad de convivencia.",
+        "Siempre que se trate de un servicio público, mediante una cuantía idéntica para todas las personas usuarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0047",
+      "pregunta": "¿Cuál de las siguientes combina correctamente obligaciones relativas a la relación administrativa y a la convivencia?",
+      "opciones": [
+        "Comparecer únicamente cuando lo solicite la persona profesional de referencia y quedar exenta de seguir indicaciones del servicio.",
+        "Comparecer cuando lo requiera el órgano tramitador o concedente, firmar el contrato social pertinente y respetar a las personas, al personal y a las instalaciones.",
+        "Firmar siempre un contrato social como requisito previo de acceso al sistema, incluso antes de cualquier valoración."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0048",
+      "pregunta": "Ante un incumplimiento de obligaciones por una persona usuaria, ¿qué actuación se ajusta al Tema 19?",
+      "opciones": [
+        "Las consecuencias deben estar previstas en la normativa, tramitarse por el órgano competente y respetar audiencia, motivación, proporcionalidad y recursos.",
+        "Todo incumplimiento produce automáticamente la pérdida de la prestación sin necesidad de procedimiento.",
+        "La persona profesional de referencia puede crear la sanción que considere proporcionada y suspender inmediatamente la prestación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T19-P0049",
+      "pregunta": "¿Qué establece el Tema 19 sobre la Carta de Derechos y Deberes de las personas usuarias?",
+      "opciones": [
+        "Cada centro debe aprobar su propia carta, que puede sustituir la información individualizada si se expone públicamente.",
+        "La Consejería competente debe aprobarla y garantizar su máxima difusión, sin que su mera exposición sustituya la información individualizada.",
+        "La carta tiene una función exclusivamente informativa y no guarda relación con quejas, reclamaciones ni calidad de los servicios."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T19-P0050",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente la participación ciudadana en el Sistema Público de Servicios Sociales según el Tema 19?",
+      "opciones": [
+        "El Consejo de Servicios Sociales de Andalucía es el órgano superior de participación; los centros y servicios deben prever cauces de participación y el voluntariado complementa, pero no sustituye, las responsabilidades públicas ni el trabajo profesional.",
+        "La participación se limita a asociaciones formalmente constituidas y no alcanza a la planificación, gestión o evaluación de los servicios.",
+        "Los consejos locales son el órgano superior de participación y el voluntariado puede sustituir funciones profesionales cuando exista insuficiencia de recursos."
+      ],
+      "correcta": 0
+    }
+  ]
+}

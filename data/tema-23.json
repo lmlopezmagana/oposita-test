@@ -1,0 +1,506 @@
+{
+  "tema": 23,
+  "titulo": "El servicio de ayuda a domicilio. Reglamento del Servicio de Ayuda a Domicilio de la Diputación de Sevilla.",
+  "preguntas": [
+    {
+      "id": "T23-P0001",
+      "pregunta": "Según el artículo 1 del Reglamento del Servicio de Ayuda a Domicilio de la Diputación de Sevilla, ¿cuál es su ámbito territorial ordinario de aplicación?",
+      "opciones": [
+        "Todos los municipios de la provincia de Sevilla, con independencia de su población, y todas sus entidades locales menores.",
+        "Los municipios de la provincia de Sevilla de menos de 20.000 habitantes y las entidades locales autónomas adscritas o conveniadas.",
+        "Únicamente los municipios de menos de 10.000 habitantes integrados formalmente en el Plan Concertado estatal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0002",
+      "pregunta": "¿Cuál de las siguientes formulaciones reproduce mejor el concepto de Servicio de Ayuda a Domicilio del artículo 2 del Reglamento provincial?",
+      "opciones": [
+        "Un servicio exclusivamente doméstico destinado a sustituir a la persona usuaria en las tareas ordinarias del hogar.",
+        "Una prestación realizada preferentemente en el domicilio, mediante personal cualificado y supervisado, con actuaciones preventivas, formativas, rehabilitadoras y de atención.",
+        "Una prestación sanitaria domiciliaria prestada por personal clínico para evitar ingresos hospitalarios."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0003",
+      "pregunta": "De acuerdo con el Reglamento provincial, ¿qué elemento caracteriza a las personas destinatarias del Servicio de Ayuda a Domicilio?",
+      "opciones": [
+        "Tener reconocido necesariamente un grado II o III de dependencia y carecer de apoyo familiar.",
+        "Carecer o tener mermada, temporal o permanentemente, su autonomía, o encontrarse en situación o riesgo de exclusión social, dentro del ámbito territorial aplicable.",
+        "Ser mayor de 65 años, vivir sola y tener reconocido un grado de discapacidad igual o superior al 65 %."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0004",
+      "pregunta": "¿Por qué Mairena del Aljarafe no queda incluida ordinariamente en el ámbito material del Reglamento provincial del SAD estudiado en el Tema 23?",
+      "opciones": [
+        "Porque el Reglamento provincial solo se aplica a municipios sin Servicios Sociales Comunitarios propios.",
+        "Porque supera el umbral de 20.000 habitantes que delimita el ámbito provincial ordinario del Reglamento.",
+        "Porque los municipios del área metropolitana de Sevilla están excluidos del Sistema Público de Servicios Sociales de Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0005",
+      "pregunta": "¿Cuál de las siguientes NO figura entre las características del Servicio de Ayuda a Domicilio enumeradas en el artículo 6 del Reglamento?",
+      "opciones": [
+        "Preventivo.",
+        "Hospitalario.",
+        "Educativo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0006",
+      "pregunta": "Cuando el Reglamento califica el Servicio de Ayuda a Domicilio como «técnico», ¿a qué se refiere?",
+      "opciones": [
+        "A que toda actuación debe ser ejecutada por personal con titulación universitaria.",
+        "A que la prestación debe utilizar obligatoriamente sistemas de teleasistencia y monitorización remota.",
+        "A que se presta por un equipo interdisciplinar y cualificado a través de un proyecto de intervención social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0007",
+      "pregunta": "Según el artículo 7 del Reglamento provincial, ¿qué actuaciones quedan expresamente excluidas del Servicio de Ayuda a Domicilio?",
+      "opciones": [
+        "Las actuaciones domésticas realizadas fuera del domicilio y el acompañamiento a gestiones administrativas.",
+        "La atención a miembros no contemplados en la valoración, propuesta y concesión, y las actuaciones sanitarias u otras que requieran cualificación profesional específica.",
+        "La preparación de alimentos, el lavado de ropa y cualquier actuación de apoyo a la movilidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0008",
+      "pregunta": "¿Cuál de las siguientes actuaciones tiene carácter doméstico según el artículo 8 del Reglamento?",
+      "opciones": [
+        "La orientación temporo-espacial.",
+        "La ayuda para realizar cambios posturales.",
+        "La compra de alimentos con cargo a la persona usuaria."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0009",
+      "pregunta": "¿Cuál de las siguientes actuaciones tiene carácter personal según el artículo 9 del Reglamento?",
+      "opciones": [
+        "El planchado de ropa fuera del domicilio con cargo a la persona usuaria.",
+        "La limpieza cotidiana de la vivienda.",
+        "El apoyo para la movilidad dentro del hogar."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0010",
+      "pregunta": "¿Cuál de los siguientes elementos forma parte de los criterios de prescripción del artículo 10?",
+      "opciones": [
+        "La antigüedad de empadronamiento de la persona solicitante como criterio preferente.",
+        "La existencia de una vivienda en propiedad como requisito de acceso.",
+        "Las características de la vivienda habitual, previa valoración de sus condiciones de salubridad y habitabilidad."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0011",
+      "pregunta": "¿A través de qué nivel del Sistema Público de Servicios Sociales se realiza el acceso al Servicio de Ayuda a Domicilio según el artículo 11?",
+      "opciones": [
+        "Directamente ante la Agencia de Servicios Sociales y Dependencia de Andalucía.",
+        "A través de los Servicios Sociales Especializados de la Diputación.",
+        "A través de los Servicios Sociales Comunitarios Municipales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0012",
+      "pregunta": "En la vía de acceso vinculada a dependencia, ¿qué título determina el acceso al Servicio de Ayuda a Domicilio?",
+      "opciones": [
+        "La propuesta de la Unidad de Trabajo Social, que por sí sola reconoce el derecho.",
+        "La puntuación obtenida en el baremo provincial del Anexo I.",
+        "La resolución aprobatoria del Programa Individual de Atención en la que se prescribe el servicio."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0013",
+      "pregunta": "¿Cuál de los siguientes supuestos está contemplado por el Reglamento dentro de la vía provincial no vinculada a dependencia del artículo 11.1.b?",
+      "opciones": [
+        "Una persona con PIA firme que ya recibe efectivamente una prestación incompatible y desea duplicarla.",
+        "Una unidad de convivencia con menores o miembros en riesgo cuyo Proyecto de Intervención Familiar proponga el SAD como recurso de desahogo o de carácter educativo.",
+        "Cualquier persona empadronada en un municipio sevillano, aunque no exista necesidad social valorada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0014",
+      "pregunta": "En el baremo provincial del Anexo I utilizado para priorizar el acceso por la vía no vinculada, ¿qué combinación de puntuaciones máximas es correcta?",
+      "opciones": [
+        "35 puntos capacidad funcional; 40 situación sociofamiliar y redes; 10 vivienda; 10 situación económica; 5 otros factores sociales.",
+        "40 puntos capacidad funcional; 30 situación sociofamiliar y redes; 10 vivienda; 15 situación económica; 5 otros factores sociales.",
+        "40 puntos capacidad funcional; 35 situación sociofamiliar y redes; 5 vivienda; 15 situación económica; 5 otros factores sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0015",
+      "pregunta": "Para que una situación pueda tramitarse como extrema y urgente necesidad conforme al artículo 11.2 del Reglamento provincial, ¿qué mínimos exige el baremo?",
+      "opciones": [
+        "35 puntos en capacidad funcional y 21 puntos en situación sociofamiliar y redes de apoyo.",
+        "21 puntos en capacidad funcional y 35 puntos en situación sociofamiliar y redes de apoyo.",
+        "21 puntos en capacidad funcional y 21 puntos en situación sociofamiliar y redes de apoyo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0016",
+      "pregunta": "¿Cuál es la duración máxima inicial prevista en el Reglamento para el servicio concedido por urgencia social?",
+      "opciones": [
+        "Tres meses, prorrogables, y en todo caso mientras subsista la causa que originó la prestación.",
+        "Un mes improrrogable.",
+        "Seis meses, sin posibilidad de prórroga."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0017",
+      "pregunta": "¿Qué tratamiento debe darse en 2026 a una regla concreta del Reglamento provincial de 2018 que contradiga la Orden andaluza de 27 de julio de 2023?",
+      "opciones": [
+        "Debe prevalecer la norma autonómica posterior y superior, manteniéndose el Reglamento provincial en lo compatible.",
+        "Debe aplicarse siempre el Reglamento provincial por ser la norma específica de la Diputación.",
+        "Ambas reglas quedan automáticamente sin efecto hasta que la Diputación apruebe un nuevo reglamento completo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0018",
+      "pregunta": "Según la regulación vigente del SAD de dependencia en Andalucía, ¿qué intensidad mensual corresponde al Grado II?",
+      "opciones": [
+        "De 38 a 64 horas mensuales.",
+        "De 20 a 37 horas mensuales.",
+        "De 65 a 94 horas mensuales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0019",
+      "pregunta": "Según el artículo 12 del Reglamento provincial de 2018, ¿cómo se distribuye ordinariamente el horario diario del servicio?",
+      "opciones": [
+        "En un máximo de dos fracciones diarias y con un mínimo de treinta minutos por fracción.",
+        "Sin límite de fracciones, siempre que la suma diaria no exceda de tres horas.",
+        "En un máximo de tres fracciones diarias y con un mínimo de una hora por fracción."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0020",
+      "pregunta": "A efectos del artículo 12 del Reglamento provincial, cuando se prescribe comida a domicilio, ¿qué equivalencia se utiliza para fijar el horario de atención?",
+      "opciones": [
+        "Tres comidas servidas equivalen a una hora de atención.",
+        "Dos comidas servidas equivalen a una hora de atención.",
+        "Una comida servida equivale a una hora de atención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0021",
+      "pregunta": "¿Cuál de los siguientes es un derecho de las personas usuarias recogido en el artículo 14?",
+      "opciones": [
+        "Elegir libremente al auxiliar concreto que debe prestarles el servicio.",
+        "Ser informadas sobre el estado de tramitación de su expediente.",
+        "Modificar unilateralmente las tareas prescritas en el Proyecto de Intervención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0022",
+      "pregunta": "¿Cuál de los siguientes es un deber de las personas usuarias recogido en el artículo 15?",
+      "opciones": [
+        "No exigir tareas o actividades no incluidas en el PIA o en el Proyecto de Intervención.",
+        "Aceptar cualquier modificación del servicio sin derecho a ser informadas.",
+        "Aportar siempre el coste íntegro del servicio, con independencia de su capacidad económica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0023",
+      "pregunta": "En la vía de Prestación Básica regulada por el Reglamento, ¿a quién se dirige la solicitud normalizada del Servicio de Ayuda a Domicilio?",
+      "opciones": [
+        "Al alcalde o alcaldesa del Ayuntamiento.",
+        "A la persona titular de la Delegación Territorial de la Junta de Andalucía.",
+        "A la Presidencia de la Diputación de Sevilla."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0024",
+      "pregunta": "Según el artículo 18, ¿cuál de los siguientes documentos figura entre los exigidos en la solicitud de la vía provincial?",
+      "opciones": [
+        "Informe médico.",
+        "Certificado registral de titularidad de la vivienda habitual en todos los casos.",
+        "Certificado de antecedentes penales de todos los miembros de la unidad de convivencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0025",
+      "pregunta": "Si la solicitud no reúne los requisitos exigidos por el Reglamento, ¿qué plazo de subsanación establece el artículo 19?",
+      "opciones": [
+        "Diez días naturales.",
+        "Quince días hábiles.",
+        "Diez días hábiles."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0026",
+      "pregunta": "¿Cuál de las siguientes circunstancias puede justificar que el SAD sea considerado no idóneo en la evaluación previa del artículo 20?",
+      "opciones": [
+        "Que la prestación pueda originar riesgos físicos o psíquicos para la persona usuaria o para el personal que la presta.",
+        "Que la persona solicitante sea menor de 65 años.",
+        "Que la persona solicitante tenga una red de apoyo informal, aunque esta resulte insuficiente para cubrir sus necesidades."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0027",
+      "pregunta": "Tras una denegación del servicio por falta de idoneidad, ¿qué regla establece el Reglamento para presentar una nueva solicitud?",
+      "opciones": [
+        "No podrá solicitarse de nuevo durante un año en ningún caso.",
+        "Podrá presentarse inmediatamente una nueva solicitud sin necesidad de acreditar ningún cambio.",
+        "No podrá solicitarse de nuevo durante seis meses, salvo cambio manifiesto y justificado de las circunstancias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0028",
+      "pregunta": "Cuando dos solicitudes de la vía provincial tienen la misma puntuación y no pueden atenderse ambas por falta de presupuesto, ¿qué primer criterio de desempate establece el Reglamento?",
+      "opciones": [
+        "La mayor puntuación en capacidad funcional.",
+        "La mayor puntuación en situación económica.",
+        "La mayor antigüedad de la solicitud."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0029",
+      "pregunta": "Aprobada la admisión por la vía del artículo 11.1.b, ¿en qué plazo máximo debe producirse la resolución según el artículo 21?",
+      "opciones": [
+        "En seis meses desde la primera entrevista realizada por los Servicios Sociales Comunitarios.",
+        "En tres meses desde la validación del Proyecto de Intervención por el área provincial competente.",
+        "En un mes desde la presentación inicial de la solicitud en el Ayuntamiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0030",
+      "pregunta": "Según el artículo 17, ¿en qué plazo debe realizarse la admisión al servicio de una solicitud de Prestación Básica, salvo extrema y urgente necesidad?",
+      "opciones": [
+        "En 15 días naturales desde la validación del Proyecto de Intervención.",
+        "En 30 días naturales desde la notificación del órgano provincial a la UTS.",
+        "En 30 días hábiles desde la presentación de la solicitud en el registro municipal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0031",
+      "pregunta": "¿Qué resultados puede producir la revisión de un caso conforme al artículo 22?",
+      "opciones": [
+        "Continuidad, modificación, suspensión o extinción.",
+        "Únicamente modificación de la intensidad o extinción.",
+        "Solo continuidad o suspensión, correspondiendo cualquier otra decisión a un nuevo expediente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0032",
+      "pregunta": "¿Qué modalidades de gestión del Servicio de Ayuda a Domicilio contempla el artículo 23?",
+      "opciones": [
+        "Únicamente gestión directa, por tratarse de un servicio de titularidad pública.",
+        "Gestión directa por la corporación local o gestión indirecta mediante entidades o empresas prestadoras.",
+        "Gestión exclusiva por la Diputación de Sevilla mediante concesión provincial."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0033",
+      "pregunta": "En caso de gestión indirecta, ¿qué exige el Reglamento a la entidad prestadora del servicio?",
+      "opciones": [
+        "Que el personal auxiliar tenga la condición de funcionario de carrera.",
+        "Que sea necesariamente una sociedad mercantil de capital íntegramente público.",
+        "Que esté debidamente acreditada y disponga de personal suficiente y cualificado, además de cumplir las restantes obligaciones aplicables."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0034",
+      "pregunta": "¿Cuál es el equipo básico para la prestación del Servicio de Ayuda a Domicilio según el artículo 24?",
+      "opciones": [
+        "Trabajadores y trabajadoras sociales y auxiliares de ayuda a domicilio.",
+        "Trabajadores sociales, médicos y personal de enfermería.",
+        "Auxiliares de ayuda a domicilio y personal administrativo exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0035",
+      "pregunta": "¿A qué equipo debe pertenecer la persona profesional de referencia de la persona usuaria según el Reglamento provincial?",
+      "opciones": [
+        "Al equipo de los Servicios Sociales Comunitarios de la corporación local.",
+        "Al equipo técnico de la empresa adjudicataria del servicio.",
+        "A la unidad administrativa provincial encargada de las liquidaciones."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0036",
+      "pregunta": "¿Cuál de las siguientes funciones corresponde a los auxiliares de ayuda a domicilio?",
+      "opciones": [
+        "Estimular el protagonismo de la persona usuaria, evitando sustituirla en las tareas que pueda realizar autónomamente.",
+        "Realizar actos sanitarios especializados cuando sean necesarios para mantener a la persona en su domicilio.",
+        "Emitir la resolución administrativa que fija la intensidad del servicio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0037",
+      "pregunta": "¿Cuál de las siguientes actuaciones corresponde al trabajador o trabajadora social en relación con la persona usuaria?",
+      "opciones": [
+        "Ejecutar directamente todas las tareas domésticas y personales prescritas.",
+        "Resolver definitivamente la concesión del servicio en nombre de la Diputación.",
+        "Diseñar el proyecto de intervención, programar y supervisar el caso y evaluar su idoneidad y eficacia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0038",
+      "pregunta": "¿Qué potestades reconoce el artículo 25 a la Diputación de Sevilla para garantizar la calidad del servicio?",
+      "opciones": [
+        "Sustituir automáticamente a los Servicios Sociales Comunitarios en el seguimiento individual de todos los casos.",
+        "Modificar unilateralmente el PIA autonómico de una persona en situación de dependencia.",
+        "Requerir datos y realizar actuaciones de evaluación, planificación e inspección de la prestación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0039",
+      "pregunta": "Según el Procedimiento técnico provincial incorporado al tema, ¿cuándo debe realizarse la primera visita de seguimiento tras el inicio del servicio?",
+      "opciones": [
+        "Dentro de los tres meses siguientes al inicio.",
+        "Dentro de los quince días siguientes al inicio.",
+        "Al finalizar el primer año de prestación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0040",
+      "pregunta": "En la gestión indirecta, ¿con qué frecuencia mínima prevé el Procedimiento técnico provincial reuniones de coordinación con la empresa prestadora?",
+      "opciones": [
+        "Al menos semestralmente.",
+        "Al menos trimestralmente.",
+        "Al menos mensualmente."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0041",
+      "pregunta": "¿Qué incidencias debe comunicar la UTS a la Diputación conforme al artículo 27 del Reglamento?",
+      "opciones": [
+        "Solo altas y bajas definitivas.",
+        "Únicamente incidencias económicas relativas al copago.",
+        "Altas, reanudaciones, bajas, suspensiones temporales y revisiones horarias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0042",
+      "pregunta": "Conforme a la regulación autonómica vigente, ¿cuándo debe presentar la Entidad Local la liquidación mensual del SAD de dependencia?",
+      "opciones": [
+        "Dentro de los dos primeros meses de cada año respecto de todas las mensualidades del año anterior.",
+        "En los cinco primeros días naturales de cada mes respecto del mes anterior.",
+        "En los diez primeros días naturales de cada mes respecto del mes anterior."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0043",
+      "pregunta": "Conforme a la regulación autonómica vigente, ¿en qué plazo debe presentarse el certificado anual sobre la aplicación de las transferencias del SAD de dependencia?",
+      "opciones": [
+        "Dentro de los tres meses siguientes al cierre de la anualidad.",
+        "Dentro de los dos primeros meses del año siguiente.",
+        "En los diez primeros días naturales del mes de enero."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0044",
+      "pregunta": "¿Cuál es el coste/hora máximo del SAD de dependencia fijado con efectos desde el 1 de enero de 2026 en Andalucía?",
+      "opciones": [
+        "17,46 euros por hora.",
+        "18,00 euros por hora.",
+        "16,63 euros por hora."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0045",
+      "pregunta": "¿Qué magnitudes distingue expresamente el material actualizado del Tema 23 para evitar errores en materia económica?",
+      "opciones": [
+        "Coste/hora máximo financiable, salario del auxiliar y base imponible del IRPF de la entidad prestadora.",
+        "Precio contractual, presupuesto provincial y cuantía de la pensión de la persona usuaria, que deben coincidir.",
+        "Coste/hora máximo financiable, precio contractual y aportación de la persona usuaria."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T23-P0046",
+      "pregunta": "Según el artículo 30, una ausencia temporal ordinaria del domicilio puede dar lugar a suspensión del servicio siempre que, con carácter general, no exceda de:",
+      "opciones": [
+        "Un mes, incluidos fines de semana.",
+        "Tres meses, sin computar a estos efectos las ausencias de fines de semana.",
+        "Seis meses, sin posibilidad de ampliación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T23-P0047",
+      "pregunta": "En determinados supuestos de suspensión de la vía de Prestaciones Básicas, ¿qué trámite de audiencia establece el artículo 30?",
+      "opciones": [
+        "Diez días.",
+        "Cinco días hábiles.",
+        "Quince días naturales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0048",
+      "pregunta": "¿Cuál de las siguientes es una causa adicional de extinción para las personas que accedieron por Prestaciones Básicas?",
+      "opciones": [
+        "Permanecer más de seis meses consecutivos en suspensión.",
+        "Cumplir 65 años durante la prestación del servicio.",
+        "Permanecer más de tres meses en lista de espera."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0049",
+      "pregunta": "¿Qué plazos de prescripción de las infracciones establece el artículo 36 del Reglamento provincial?",
+      "opciones": [
+        "Un año las leves, tres años las graves y cuatro años las muy graves.",
+        "Seis meses las leves, dos años las graves y cinco años las muy graves.",
+        "Un año las leves, dos años las graves y tres años las muy graves."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T23-P0050",
+      "pregunta": "¿Qué dispone la disposición adicional segunda del Reglamento provincial?",
+      "opciones": [
+        "Que cada ayuntamiento debe aprobar necesariamente un reglamento idéntico al provincial antes de poder prestar el SAD.",
+        "Que la Junta de Andalucía debe aprobar anualmente el baremo provincial mediante decreto.",
+        "Que el área provincial competente elaborará un procedimiento técnico de prestación del servicio, aprobado por Resolución de la Presidencia y de obligado cumplimiento para las entidades prestadoras."
+      ],
+      "correcta": 2
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "tema": 21,
+  "titulo": "El Servicio de información, orientación, valoración y asesoramiento. Funciones del trabajador social.",
+  "preguntas": [
+    {
+      "id": "T21-P0001",
+      "pregunta": "Según el material del Tema 21, ¿qué afirmación refleja correctamente la relación entre la denominación del programa de oposición y la regulación vigente del servicio?",
+      "opciones": [
+        "El Decreto 48/2025 sustituyó también la denominación oficial del tema de la oposición, por lo que ya no puede utilizarse la expresión SIVO/SIVOA.",
+        "El programa conserva la denominación tradicional SIVO/SIVOA, pero el estudio jurídico vigente debe apoyarse en la Ley 9/2016 y en el Catálogo aprobado por el Decreto 48/2025.",
+        "La denominación SIVO/SIVOA del programa determina que el Decreto 11/1992 siga siendo la norma principal aplicable al servicio."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0002",
+      "pregunta": "¿Cuál es la situación normativa del Decreto 11/1992 en relación con el Tema 21?",
+      "opciones": [
+        "Está derogado por el Decreto 48/2025 y solo resulta útil como antecedente histórico para comprender la denominación clásica y la evolución del servicio.",
+        "Continúa vigente en todo lo relativo al SIVOA, aunque el Decreto 48/2025 haya actualizado únicamente la financiación del sistema.",
+        "Fue sustituido por la Ley 9/2016, pero recuperó vigencia parcial tras la aprobación del Decreto 48/2025."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0003",
+      "pregunta": "Conforme al enfoque vigente recogido en el tema, ¿qué dos prestaciones generales concretan principalmente el contenido del epígrafe en el Catálogo de 2025?",
+      "opciones": [
+        "La orientación jurídica especializada y la concesión directa de prestaciones económicas de emergencia.",
+        "La atención residencial de urgencia y la intervención especializada con unidades familiares.",
+        "La información sobre acceso a recursos y la valoración de situaciones personales, familiares o comunitarias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0004",
+      "pregunta": "¿Cuál de las siguientes combinaciones describe correctamente la naturaleza jurídica de las prestaciones generales vinculadas al Tema 21?",
+      "opciones": [
+        "Condicionadas, económicas, dirigidas solo a unidades familiares vulnerables, sujetas a copago y de gestión preferentemente concertada.",
+        "Garantizadas, de servicios, dirigidas a la población general, exentas de participación económica, de competencia local y gestión directa pública.",
+        "Garantizadas, económicas, reservadas a personas empadronadas con carencia de ingresos y de gestión autonómica indirecta."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0005",
+      "pregunta": "En las fichas generales 1.1.1 y 1.1.2 del Catálogo de 2025, ¿qué se establece respecto de los requisitos y del plazo de concesión?",
+      "opciones": [
+        "No se exigen requisitos, pero se fija un plazo máximo de un mes para resolver.",
+        "Se exige acreditar necesidad social y se fija un plazo máximo de tres meses.",
+        "No se establecen requisitos específicos de acceso ni un plazo de concesión en esas fichas generales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0006",
+      "pregunta": "Cuando las fichas 1.1.1 y 1.1.2 indican «resolución: no procede», ¿qué significa según el tema?",
+      "opciones": [
+        "Que el trabajador social sustituye al órgano administrativo y decide directamente cualquier prestación que se derive de la valoración.",
+        "Que la actuación profesional carece de efectos y debe cerrarse sin registro ni seguimiento.",
+        "Que la propia prestación general de información o valoración no necesita un acto de concesión, sin impedir que de ella derive otro procedimiento que sí termine en resolución."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0007",
+      "pregunta": "¿Qué rasgo distingue mejor la dimensión prestacional e individual del servicio frente a su dimensión comunitaria y planificadora?",
+      "opciones": [
+        "La primera se limita a entregar información administrativa; la segunda concede prestaciones colectivas mediante resolución.",
+        "La primera corresponde siempre a la Junta de Andalucía; la segunda es competencia exclusiva de las Diputaciones Provinciales.",
+        "La primera atiende una demanda concreta y facilita una respuesta personalizada; la segunda analiza demandas agregadas para detectar necesidades y orientar la planificación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0008",
+      "pregunta": "¿Cuál de las siguientes actuaciones representa mejor el concepto de información profesional descrito en el tema?",
+      "opciones": [
+        "Seleccionar información relevante, veraz y actualizada para la situación planteada, advirtiendo requisitos o incompatibilidades y evitando expectativas infundadas.",
+        "Indicar únicamente el recurso que el profesional considera más adecuado, sin explicar alternativas, requisitos ni vías de acceso.",
+        "Entregar a la persona un listado completo de todos los recursos disponibles, aunque no guarden relación con su situación, para preservar la neutralidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0009",
+      "pregunta": "En el Tema 21, la orientación se caracteriza principalmente por:",
+      "opciones": [
+        "Relacionar la necesidad identificada con las alternativas disponibles, ordenar opciones, explicar consecuencias y apoyar una decisión informada respetando la autonomía.",
+        "Emitir un juicio técnico integrador sobre causas, pronóstico y prioridades de intervención.",
+        "Adoptar por la persona usuaria la decisión que resulte técnicamente más conveniente, salvo que exista oposición expresa."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0010",
+      "pregunta": "Si una cuestión planteada requiere asesoramiento jurídico, sanitario o laboral especializado que excede la competencia profesional del trabajador social, ¿qué actuación contempla el tema?",
+      "opciones": [
+        "Coordinar o derivar al recurso o profesional competente.",
+        "Cerrar el caso por incompetencia material del servicio social comunitario.",
+        "Resolver la cuestión directamente para evitar fragmentar la intervención."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0011",
+      "pregunta": "¿Cuál de las siguientes descripciones corresponde a la valoración social y no al diagnóstico social?",
+      "opciones": [
+        "Identificar el recurso o intervención más adecuado mediante una propuesta facultativa motivada.",
+        "Interpretar el significado y la gravedad de los datos para identificar necesidades, riesgos, capacidades y prioridades.",
+        "Integrar y explicar profesionalmente la situación mediante una síntesis causal, pronóstico y prioridades de intervención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0012",
+      "pregunta": "Según el esquema conceptual del tema, ¿qué pregunta responde principalmente el diagnóstico social?",
+      "opciones": [
+        "¿Qué información relevante existe?",
+        "¿Qué recurso o intervención es adecuado?",
+        "¿Cómo se explica profesionalmente la situación?"
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0013",
+      "pregunta": "¿Qué elemento forma parte de la valoración proporcional descrita en el tema?",
+      "opciones": [
+        "Exclusivamente las circunstancias alegadas por la persona, sin contraste con documentación, observación u otras fuentes.",
+        "Las capacidades, recursos propios, preferencias y objetivos de la persona, junto con factores de riesgo y protección.",
+        "Únicamente los ingresos y gastos de la unidad de convivencia, por ser los únicos datos objetivables."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0014",
+      "pregunta": "¿Qué regla debe presidir la recogida de información durante la valoración social?",
+      "opciones": [
+        "Limitar la recogida a documentos administrativos, evitando entrevistas u observaciones por su componente subjetivo.",
+        "Recabar datos adecuados, pertinentes y limitados a lo necesario, informando a la persona de la finalidad de la recogida.",
+        "Recabar preventivamente todos los datos disponibles por si pudieran ser útiles en futuras intervenciones."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0015",
+      "pregunta": "¿Cuál de las siguientes afirmaciones diferencia correctamente prescripción, canalización y derivación?",
+      "opciones": [
+        "La prescripción y la derivación producen siempre resolución administrativa, mientras la canalización es una actuación meramente informativa.",
+        "La prescripción concede jurídicamente el recurso; la canalización remite a otro sistema; la derivación redistribuye internamente el expediente.",
+        "La prescripción identifica el recurso adecuado; la canalización dirige la demanda dentro de la organización; la derivación facilita el acceso a otro profesional, servicio o sistema."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0016",
+      "pregunta": "Tras una derivación a un servicio especializado, ¿qué principio mantiene el tema respecto de la persona profesional de referencia?",
+      "opciones": [
+        "La derivación extingue necesariamente la función de referencia del nivel comunitario para evitar duplicidad profesional.",
+        "La derivación no implica cerrar automáticamente el caso y debe preservarse la continuidad y la articulación de respuestas integrales, salvo que el régimen aplicable determine otra referencia.",
+        "La persona profesional de referencia solo mantiene funciones administrativas de archivo, pero no de coordinación o continuidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0017",
+      "pregunta": "¿Para qué sirve el análisis agregado de las demandas atendidas, según la dimensión comunitaria del servicio?",
+      "opciones": [
+        "Para identificar nominalmente a las personas con mayor utilización del sistema y priorizar su exclusión de nuevas prestaciones.",
+        "Para sustituir las valoraciones individuales por indicadores estadísticos cuando exista suficiente volumen de datos.",
+        "Para detectar necesidades emergentes, barreras de acceso y zonas de vulnerabilidad, dimensionar recursos y apoyar la planificación y la prevención."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0018",
+      "pregunta": "En la ficha 1.1.1, relativa a información sobre acceso a recursos, ¿cuál es la combinación correcta de nivel territorial y centro de prestación?",
+      "opciones": [
+        "Nivel primario, Zona Básica de Servicios Sociales y centro de servicios sociales comunitarios.",
+        "Nivel especializado, Área de Servicios Sociales y centro residencial de servicios sociales.",
+        "Nivel provincial, Zona de Trabajo Social y sede de la Diputación Provincial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0019",
+      "pregunta": "Según la ficha 1.1.1, ¿cómo se distribuyen organización, prescripción y ejecución de la prestación general de información sobre acceso a recursos?",
+      "opciones": [
+        "La organización y la resolución son estatales, mientras la ejecución corresponde a la Junta de Andalucía.",
+        "La organización es autonómica, la prescripción provincial y la ejecución local.",
+        "Corresponden al ámbito local."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0020",
+      "pregunta": "¿Qué administraciones aparecen asociadas al seguimiento y evaluación de la ficha 1.1.1?",
+      "opciones": [
+        "Los niveles local, autonómico y estatal.",
+        "Los niveles autonómico y provincial, con exclusión del estatal.",
+        "Exclusivamente el nivel local, por tratarse de una prestación de competencia municipal."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0021",
+      "pregunta": "La ficha 1.1.2 de valoración de situaciones comprende, entre otras actuaciones:",
+      "opciones": [
+        "La concesión directa de prestaciones económicas y la resolución de recursos administrativos derivados.",
+        "El estudio, la valoración de necesidades, el diagnóstico y la realización de informes o dictámenes ante demandas recibidas o detectadas.",
+        "La asistencia jurídica especializada y la representación procesal de las personas usuarias."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0022",
+      "pregunta": "¿Qué relación existe entre las modalidades específicas de información del bloque 1.1 del Catálogo y la puerta de entrada general?",
+      "opciones": [
+        "Las modalidades específicas complementan la puerta de entrada general mediante canales y dispositivos especializados; no la sustituyen.",
+        "Las modalidades específicas sustituyen la puerta de entrada general para cualquier persona incluida en alguno de los colectivos previstos.",
+        "Las modalidades específicas solo pueden utilizarse después de una resolución expresa de los servicios sociales comunitarios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0023",
+      "pregunta": "En la fase de acceso y acogida, ¿cuál de las siguientes actuaciones es coherente con el proceso profesional descrito?",
+      "opciones": [
+        "Identificar el motivo inicial, informar sobre derechos y confidencialidad, detectar urgencias y crear un marco de escucha.",
+        "Formular directamente el diagnóstico social definitivo antes de recabar información adicional.",
+        "Solicitar toda la documentación disponible antes de comprobar si existe urgencia o si la Administración ya dispone de ella."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0024",
+      "pregunta": "¿Qué finalidad tiene la clarificación de la demanda?",
+      "opciones": [
+        "Transformar cualquier demanda expresada en una intervención integral, aunque no exista fundamento profesional para ampliar su alcance.",
+        "Limitar la intervención a la ayuda solicitada literalmente por la persona, aunque se detecten otras necesidades relevantes.",
+        "Distinguir la demanda expresada de las necesidades subyacentes, las demandas institucionales, las situaciones detectadas y las urgencias para ajustar la respuesta."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0025",
+      "pregunta": "Respecto de la documentación durante la recogida y contraste de información, el tema indica que:",
+      "opciones": [
+        "Solo puede utilizarse documentación aportada voluntariamente por la persona, aunque exista información administrativa accesible con base jurídica.",
+        "No debe pedirse si ya obra en poder de la Administración en los términos de la legislación aplicable, sin perjuicio de las reglas específicas de intercambio de datos.",
+        "Debe solicitarse siempre de nuevo para garantizar que la persona ratifica su contenido en cada intervención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0026",
+      "pregunta": "¿Qué exigencia formula el tema respecto de las fuentes utilizadas en la valoración?",
+      "opciones": [
+        "Debe prevalecer siempre la primera versión recibida para evitar sesgos derivados de contrastes posteriores.",
+        "Deben contrastarse, señalarse las incertidumbres y evitar convertir alegaciones no verificadas en hechos.",
+        "Las manifestaciones de terceros deben registrarse automáticamente como hechos si proceden de otro servicio público."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0027",
+      "pregunta": "Una valoración concluye que la situación requiere intervención de salud, educación y vivienda además de servicios sociales. ¿Qué opción se ajusta al Tema 21?",
+      "opciones": [
+        "Debe valorarse la necesidad de coordinación intersistemas y articular una respuesta integral, sin confundir esa coordinación con una cesión indiscriminada de datos.",
+        "Debe mantenerse toda la intervención dentro de servicios sociales, pues la derivación a otros sistemas rompe la continuidad.",
+        "Debe remitirse íntegramente el expediente a los otros sistemas y cerrarse la intervención comunitaria para evitar duplicidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0028",
+      "pregunta": "¿Cuál de las siguientes puede constituir una respuesta profesional tras la valoración?",
+      "opciones": [
+        "Solo la derivación a servicios especializados, porque el nivel comunitario carece de capacidad de intervención continuada.",
+        "Únicamente la concesión o denegación de una prestación mediante resolución administrativa.",
+        "Información u orientación, prescripción de un recurso, Proyecto de Intervención Social, informe o dictamen, derivación coordinada o promoción de un procedimiento administrativo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0029",
+      "pregunta": "¿Qué característica debe tener el registro profesional de la intervención?",
+      "opciones": [
+        "Integrar hechos, opiniones y valoraciones en un único relato sin diferenciarlos, para mantener la coherencia narrativa del expediente.",
+        "Ser objetivo, pertinente, actualizado y respetuoso, diferenciando hechos, manifestaciones de terceros, observaciones y valoración profesional.",
+        "Recoger únicamente conclusiones profesionales, omitiendo hechos y manifestaciones para reducir la exposición de datos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0030",
+      "pregunta": "¿Cuál es la finalidad principal del seguimiento según el proceso descrito en el tema?",
+      "opciones": [
+        "Sustituir la evaluación final por contactos periódicos sin revisión de objetivos.",
+        "Comprobar la ejecución de los acuerdos y los cambios de situación para ajustar la intervención.",
+        "Verificar exclusivamente el cumplimiento administrativo de los requisitos de acceso a prestaciones."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0031",
+      "pregunta": "Según el artículo 31.2 de la Ley 9/2016, tal como se recoge en el tema, ¿a quién corresponde la función de profesional de referencia en los servicios sociales comunitarios?",
+      "opciones": [
+        "Al profesional especialista del recurso al que se produzca la primera derivación.",
+        "A una persona trabajadora social integrada en el equipo interdisciplinar.",
+        "A la persona que coordine administrativamente el centro, con independencia de su perfil profesional."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0032",
+      "pregunta": "¿Qué finalidad atribuye el tema a la figura del profesional de referencia?",
+      "opciones": [
+        "Garantizar el carácter integral de los itinerarios y la continuidad de la atención.",
+        "Asumir la competencia resolutoria de las prestaciones prescritas durante el itinerario.",
+        "Concentrar en una sola persona todas las intervenciones para evitar la participación de otros perfiles profesionales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0033",
+      "pregunta": "¿Cuál de las siguientes actuaciones forma parte de las funciones legales atribuidas al trabajador social de referencia en el artículo 31.3 de la Ley 9/2016 según el tema?",
+      "opciones": [
+        "Aprobar mediante resolución las prestaciones que hayan sido prescritas en el Proyecto de Intervención Social.",
+        "Elaborar el Proyecto de Intervención Social en coordinación con las disciplinas implicadas.",
+        "Sustituir a los profesionales especializados cuando la intervención exceda el nivel comunitario."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0034",
+      "pregunta": "¿Qué actuación encaja en la función de apoyo, acompañamiento y seguimiento atribuida al profesional de referencia?",
+      "opciones": [
+        "Limitar su intervención a la primera acogida y transferir después el expediente al órgano resolutorio.",
+        "Realizar únicamente controles documentales de las prestaciones concedidas por otros órganos.",
+        "Proporcionar apoyo técnico y personal, acompañar, realizar seguimiento y evaluar el proceso."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0035",
+      "pregunta": "Según el tema, cuando se necesita una intervención específica de otro miembro del equipo comunitario, el trabajador social de referencia debe:",
+      "opciones": [
+        "Evitar la intervención de otros perfiles para preservar la unidad metodológica del caso.",
+        "Canalizar hacia otros profesionales del equipo, manteniendo la articulación y continuidad del itinerario.",
+        "Ceder definitivamente la referencia al profesional específico aunque la intervención sea puntual."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0036",
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre prescripción y resolución es correcta?",
+      "opciones": [
+        "La prescripción es una actuación técnica o facultativa que identifica el recurso adecuado; la resolución, cuando procede, corresponde al órgano administrativo competente.",
+        "La resolución es una propuesta técnica sin efectos jurídicos, mientras la prescripción concede o deniega la prestación.",
+        "La prescripción y la resolución son equivalentes cuando las realiza el profesional de referencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0037",
+      "pregunta": "Una trabajadora social considera técnicamente adecuado un recurso, pero la prestación sectorial exige resolución de otro órgano. ¿Qué consecuencia se deriva del Tema 21?",
+      "opciones": [
+        "Puede prescribir o proponer el recurso dentro de su competencia, pero no debe confundirse esa actuación técnica con la concesión administrativa.",
+        "La prescripción profesional produce automáticamente la concesión y el órgano resolutorio se limita a registrarla.",
+        "La trabajadora social no puede formular ninguna propuesta hasta que el órgano resolutorio haya decidido previamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0038",
+      "pregunta": "¿Qué caracteriza al informe o dictamen frente a la resolución administrativa?",
+      "opciones": [
+        "Carece de valor técnico y solo sirve como documento interno de archivo.",
+        "Produce siempre efectos jurídicos directos y sustituye a la resolución del órgano competente.",
+        "Documenta y fundamenta técnicamente una propuesta, pero su efecto depende de la norma del procedimiento y no decide por sí solo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0039",
+      "pregunta": "¿Qué criterio establece el tema para el intercambio de información con otros servicios?",
+      "opciones": [
+        "Debe existir base jurídica y finalidad legítima, aplicarse minimización y utilizar canales seguros; la coordinación no autoriza una circulación indiscriminada de datos.",
+        "La existencia de coordinación profesional permite compartir cualquier información del expediente sin otra limitación.",
+        "La confidencialidad impide todo intercambio de información entre sistemas, incluso cuando exista base jurídica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0040",
+      "pregunta": "¿Cuál de los siguientes derechos de la ciudadanía aparece expresamente vinculado a este servicio en el tema?",
+      "opciones": [
+        "Elegir libremente el órgano administrativo que resolverá cada prestación derivada.",
+        "Obtener automáticamente cualquier prestación recomendada por el profesional de referencia.",
+        "Conocer la valoración y las intervenciones propuestas y participar en las decisiones que le afecten."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0041",
+      "pregunta": "¿Qué obligación de las personas usuarias se corresponde con los derechos descritos en el tema?",
+      "opciones": [
+        "Autorizar sin limitaciones el intercambio de todos sus datos con cualquier organismo público.",
+        "Aportar información veraz y colaborar en la intervención acordada, además de respetar a profesionales y personas usuarias.",
+        "Aceptar obligatoriamente cualquier alternativa propuesta por el profesional de referencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0042",
+      "pregunta": "Según la distribución de competencias del tema, ¿qué papel corresponde a la Junta de Andalucía?",
+      "opciones": [
+        "Organizar y ejecutar directamente en Mairena las fichas generales 1.1.1 y 1.1.2 como puerta de entrada ordinaria.",
+        "Resolver individualmente todas las demandas de información y valoración formuladas ante los servicios sociales comunitarios.",
+        "Regular, planificar y coordinar el sistema, aprobar y actualizar el Catálogo, fijar calidad, inspeccionar y evaluar."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0043",
+      "pregunta": "¿Qué papel atribuye el tema al Ayuntamiento de Mairena del Aljarafe en relación con las fichas 1.1.1 y 1.1.2?",
+      "opciones": [
+        "Organizar y prestar el nivel comunitario, facilitar el acceso y realizar información, valoración, prescripción y ejecución en el marco local.",
+        "Realizar únicamente la acogida inicial, correspondiendo la valoración y el diagnóstico a la Junta de Andalucía.",
+        "Limitarse a derivar las demandas a la Diputación, que asume la prescripción y ejecución de ambas fichas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0044",
+      "pregunta": "¿Cómo caracteriza el tema la intervención de la Diputación de Sevilla en este ámbito?",
+      "opciones": [
+        "Como asistencia y cooperación a municipios, especialmente en ámbitos supramunicipales o de menor capacidad, sin sustituir la competencia directa de Mairena en las fichas generales.",
+        "Como órgano resolutorio ordinario de las fichas 1.1.1 y 1.1.2 en todos los municipios de la provincia.",
+        "Como titular exclusiva de los centros de servicios sociales comunitarios del área metropolitana."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0045",
+      "pregunta": "¿Qué combinación describe correctamente la atención comunitaria o primaria frente a la especializada?",
+      "opciones": [
+        "La comunitaria es generalista, próxima y polivalente y constituye la puerta ordinaria; la especializada aporta especialización técnica o recursos específicos y suele accederse por derivación, salvo urgencia.",
+        "La comunitaria se limita a información administrativa y la especializada asume siempre la valoración, diagnóstico y seguimiento.",
+        "La comunitaria pertenece al ámbito autonómico y la especializada al municipal, sin posibilidad de coordinación entre ambas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T21-P0046",
+      "pregunta": "En Mairena del Aljarafe, según la aplicación operativa recogida en el tema, ¿cómo se organiza el acceso al Servicio de Información, Valoración y Orientación?",
+      "opciones": [
+        "Mediante libre elección de cualquier Unidad de Trabajo Social del municipio, sin referencia territorial.",
+        "Mediante cita previa y asignación de la Unidad de Trabajo Social correspondiente al domicilio, con atención técnica de trabajo social.",
+        "A través de derivación obligatoria previa desde la Diputación de Sevilla antes de concertar cita municipal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0047",
+      "pregunta": "Una persona acude solicitando una ayuda concreta, pero durante la acogida aparecen indicios de urgencia y otras necesidades relevantes. ¿Qué actuación se ajusta mejor al proceso del Tema 21?",
+      "opciones": [
+        "Tramitar exclusivamente la ayuda pedida y posponer cualquier otra necesidad hasta que exista una nueva solicitud independiente.",
+        "Ignorar la petición inicial y abrir de oficio una intervención completa sobre cualquier ámbito de la vida de la persona.",
+        "Detectar y atender la urgencia, clarificar la demanda y realizar una valoración integral antes de decidir la respuesta, sin limitarse automáticamente a la ayuda solicitada."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0048",
+      "pregunta": "Una persona pide orientación y el profesional dispone de tres alternativas viables con consecuencias diferentes. Según el tema, ¿qué debe hacer?",
+      "opciones": [
+        "Limitarse a enumerar las tres alternativas sin contextualizarlas, para no influir en la decisión.",
+        "Ordenar y explicar las alternativas y sus consecuencias, priorizar pasos y apoyar una decisión informada sin sustituir la autonomía de la persona.",
+        "Escoger directamente la alternativa que considere óptima y comunicarla como obligatoria."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T21-P0049",
+      "pregunta": "Durante una valoración se detecta que un dato relevante procede únicamente de una manifestación no verificada de un tercero. ¿Cómo debería tratarse según el tema?",
+      "opciones": [
+        "Debe considerarse hecho probado si el tercero pertenece a una entidad pública o a otro sistema de protección.",
+        "Debe omitirse por completo, porque nunca pueden incorporarse manifestaciones de terceros al registro profesional.",
+        "Debe registrarse diferenciándolo de los hechos contrastados, señalando la incertidumbre y evitando convertirlo en hecho acreditado."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T21-P0050",
+      "pregunta": "Según los datos clave para memorizar del tema, ¿con qué periodicidad mínima debe revisarse el Catálogo de Prestaciones, sin perjuicio de su actualización permanente?",
+      "opciones": [
+        "Al menos cada tres años.",
+        "Al menos cada cinco años.",
+        "Al menos cada año."
+      ],
+      "correcta": 0
+    }
+  ]
+}

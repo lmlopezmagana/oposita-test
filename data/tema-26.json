@@ -1,0 +1,506 @@
+{
+  "tema": 26,
+  "titulo": "Los Titulares del derecho a los Servicios Sociales. Derecho de la ciudadanía a los Servicios Sociales. Derechos y obligaciones de los usuarios de los Servicios Sociales.",
+  "preguntas": [
+    {
+      "id": "T26-P0001",
+      "pregunta": "Según el artículo 23 del Estatuto de Autonomía para Andalucía, ¿qué contenido integra el fundamento estatutario del derecho a los servicios sociales?",
+      "opciones": [
+        "El acceso, en condiciones de igualdad, a las prestaciones de un sistema público de servicios sociales y, en caso de necesidad y en los términos legales, el derecho a una renta básica que permita unas condiciones de vida dignas.",
+        "El acceso gratuito e incondicionado a cualquier prestación social y, en todo caso, una renta básica universal con independencia de la situación de necesidad.",
+        "El acceso preferente de las personas con vecindad administrativa en Andalucía a las prestaciones económicas de los servicios sociales, sin referencia a una renta básica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0002",
+      "pregunta": "¿Qué refuerzo específico introduce el artículo 24 del Estatuto de Autonomía para Andalucía respecto de determinados colectivos?",
+      "opciones": [
+        "Reconoce a las personas con discapacidad o en situación de dependencia el acceso a ayudas, prestaciones y servicios de calidad con garantía pública.",
+        "Reconoce exclusivamente a las personas con dependencia severa el derecho automático a una plaza residencial pública.",
+        "Limita el acceso de las personas con discapacidad a las prestaciones expresamente declaradas gratuitas por la Administración autonómica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0003",
+      "pregunta": "Según el Decreto 48/2025 citado en el tema, ¿cómo se distribuyen las prestaciones del Catálogo del Sistema Público de Servicios Sociales de Andalucía?",
+      "opciones": [
+        "95 prestaciones: 67 garantizadas y 28 condicionadas.",
+        "95 prestaciones: 28 garantizadas y 67 condicionadas.",
+        "93 prestaciones: 67 garantizadas y 26 condicionadas."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0004",
+      "pregunta": "Con carácter general, ¿quiénes son titulares del derecho a los servicios y prestaciones del Sistema Público de Servicios Sociales de Andalucía según el artículo 6 de la Ley 9/2016?",
+      "opciones": [
+        "Todas las personas empadronadas durante al menos un año ininterrumpido en un municipio andaluz.",
+        "Todas las personas con vecindad administrativa en Andalucía.",
+        "Únicamente las personas de nacionalidad española con residencia efectiva en Andalucía."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0005",
+      "pregunta": "¿En qué términos contempla el artículo 6 de la Ley 9/2016 el acceso de las personas andaluzas en el exterior a los servicios sociales?",
+      "opciones": [
+        "En los mismos términos que las personas con vecindad administrativa en Andalucía, sin remisión a ninguna norma específica.",
+        "En los términos previstos en la Ley 8/2006, del Estatuto de los Andaluces en el Mundo.",
+        "Exclusivamente cuando regresen definitivamente a Andalucía y acrediten seis meses de empadronamiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0006",
+      "pregunta": "Respecto de los menores de edad extranjeros, ¿qué regla de titularidad recoge el artículo 6 de la Ley 9/2016?",
+      "opciones": [
+        "Son titulares cuando se encuentren en Andalucía.",
+        "Solo son titulares cuando tengan vecindad administrativa en Andalucía.",
+        "Solo son titulares si cuentan previamente con autorización de residencia en España."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0007",
+      "pregunta": "¿Qué personas vinculadas a la protección internacional contempla expresamente el artículo 6 como titulares del derecho a los servicios sociales?",
+      "opciones": [
+        "Las personas con derecho de asilo a quienes se reconozca la condición de refugiada o la protección subsidiaria, conforme a la normativa aplicable.",
+        "Toda persona que haya presentado una solicitud de asilo, desde el momento de registrarla y con independencia de su resolución.",
+        "Únicamente las personas a quienes se haya reconocido la condición de refugiada, quedando excluidas las beneficiarias de protección subsidiaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0008",
+      "pregunta": "Una persona adulta se encuentra temporalmente en Andalucía, carece de vecindad administrativa en la Comunidad y atraviesa una urgencia social. ¿Qué establece el régimen descrito en el Tema 26?",
+      "opciones": [
+        "Solo puede recibir información general, pues la valoración, el diagnóstico y la orientación exigen vecindad administrativa en Andalucía.",
+        "Puede acceder a las prestaciones necesarias para atender la contingencia y, en todo caso, tiene garantizados información, valoración, diagnóstico y orientación en los niveles primario y especializado.",
+        "Adquiere automáticamente la condición de titular de todas las prestaciones garantizadas del Catálogo mientras persista la urgencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0009",
+      "pregunta": "¿Cuál de las siguientes afirmaciones refleja correctamente la relación entre titularidad del derecho y acceso a una prestación concreta?",
+      "opciones": [
+        "La titularidad del derecho determina por sí sola la concesión de cualquier prestación garantizada, aunque no se cumplan sus requisitos específicos.",
+        "Ser titular del derecho sitúa a la persona dentro del ámbito de protección del sistema, pero no elimina los requisitos específicos exigibles para cada prestación o servicio.",
+        "La titularidad del derecho solo se adquiere cuando una Administración concede de forma efectiva una prestación o servicio."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0010",
+      "pregunta": "Cuando se trata del acceso a prestaciones y servicios del Sistema para la Autonomía y Atención a la Dependencia, ¿qué regla establece el artículo 6.3 de la Ley 9/2016?",
+      "opciones": [
+        "Remite expresamente a la Ley 39/2006 y a su normativa de desarrollo.",
+        "Declara aplicables exclusivamente los requisitos generales del artículo 6.1 de la Ley 9/2016.",
+        "Remite al Decreto 48/2025 como única norma reguladora del acceso al Sistema para la Autonomía y Atención a la Dependencia."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0011",
+      "pregunta": "En el artículo 7 de la Ley 9/2016, el derecho de acceso universal al Sistema Público de Servicios Sociales de Andalucía significa que:",
+      "opciones": [
+        "Toda persona titular tiene derecho a recibir cualquier prestación del Catálogo sin requisitos adicionales ni valoración profesional.",
+        "Las personas titulares acceden al conjunto de servicios y prestaciones en los términos de la Ley, sus normas de desarrollo y el resto de la legislación aplicable, sin que universalidad implique idéntica respuesta para todas.",
+        "La universalidad obliga a que todas las prestaciones del sistema tengan carácter gratuito y garantizado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0012",
+      "pregunta": "¿Cuándo adquiere una prestación garantizada la naturaleza de derecho subjetivo exigible según el esquema del Tema 26?",
+      "opciones": [
+        "Cuando se cumplen las condiciones establecidas para acceder a ella.",
+        "Desde que la persona presenta la solicitud, aunque no se haya comprobado el cumplimiento de los requisitos.",
+        "Solo cuando exista disponibilidad presupuestaria suficiente y se supere un criterio objetivo de prioridad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0013",
+      "pregunta": "¿Qué caracteriza jurídicamente a una prestación condicionada del Catálogo?",
+      "opciones": [
+        "Constituye siempre un derecho subjetivo exigible judicialmente desde la mera solicitud.",
+        "Su provisión depende de la disponibilidad de recursos y de criterios objetivos de prioridad.",
+        "Puede concederse o denegarse discrecionalmente sin necesidad de motivación ni sujeción a criterios objetivos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0014",
+      "pregunta": "Según el artículo 8 de la Ley 9/2016, ¿a quién corresponde garantizar los derechos subjetivos reconocidos por la Ley?",
+      "opciones": [
+        "A la Administración de la Junta de Andalucía, mediante sus competencias y la cooperación y coordinación con las entidades locales, respetando la subsidiariedad y la autonomía municipal.",
+        "Exclusivamente a las entidades locales, por ser las administraciones más próximas a la ciudadanía.",
+        "A la Administración General del Estado, sin perjuicio de la ejecución material por parte de la Junta de Andalucía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0015",
+      "pregunta": "Cuando existe un derecho subjetivo reconocido en materia de servicios sociales, ¿qué instrumentos de defensa contempla el tema?",
+      "opciones": [
+        "Recursos, reclamaciones, demás vías de impugnación y acciones judiciales previstas por el ordenamiento.",
+        "Únicamente una reclamación previa ante la Consejería competente, sin posibilidad de acudir a la vía judicial.",
+        "Solo recursos administrativos ordinarios, quedando excluidas otras reclamaciones o acciones judiciales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0016",
+      "pregunta": "¿Cuál es la diferencia esencial entre los derechos del artículo 9 y los del artículo 10 de la Ley 9/2016?",
+      "opciones": [
+        "El artículo 9 regula los derechos de las personas usuarias de centros residenciales y el artículo 10 los derechos de la ciudadanía en general.",
+        "El artículo 9 reconoce ocho derechos de la ciudadanía en su relación con los servicios sociales, mientras que el artículo 10 añade dieciséis derechos específicos de las personas usuarias.",
+        "El artículo 9 recoge exclusivamente derechos económicos y el artículo 10 exclusivamente derechos de participación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0017",
+      "pregunta": "¿Qué elementos integra el derecho de acceso universal reconocido en el artículo 9.a) de la Ley 9/2016?",
+      "opciones": [
+        "Igualdad, equidad, dignidad y privacidad.",
+        "Igualdad, gratuidad, prioridad y confidencialidad.",
+        "Equidad, libre elección absoluta, anonimato y gratuidad."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0018",
+      "pregunta": "El derecho de participación de la ciudadanía del artículo 9.b) se proyecta sobre:",
+      "opciones": [
+        "La prescripción, resolución, ejecución y financiación de todas las prestaciones individuales.",
+        "Exclusivamente la evaluación de los servicios ya prestados, mediante órganos colegiados de participación.",
+        "La definición, planificación, provisión y evaluación de los servicios sociales, de forma individual o colectiva."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0019",
+      "pregunta": "Según el artículo 9.c), los servicios sociales de calidad deben orientarse a:",
+      "opciones": [
+        "Sustituir la capacidad de decisión de la persona usuaria cuando exista una situación de vulnerabilidad.",
+        "Fortalecer las capacidades personales, grupales y del entorno social.",
+        "Priorizar las prestaciones económicas sobre las actuaciones de carácter preventivo o comunitario."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0020",
+      "pregunta": "¿Qué reconoce el artículo 9.d) de la Ley 9/2016?",
+      "opciones": [
+        "El derecho a recibir cualquiera de las prestaciones condicionadas cuando hayan sido solicitadas en plazo.",
+        "El derecho a elegir libremente cualquier prestación del Catálogo al margen de la prescripción profesional.",
+        "El derecho a recibir y obtener, cuando proceda, las prestaciones garantizadas por el Catálogo."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0021",
+      "pregunta": "En materia de información, sugerencias y quejas, ¿qué derecho reconoce el artículo 9.e)?",
+      "opciones": [
+        "Formular únicamente quejas escritas, con respuesta solo cuando la Administración estime que existe lesión de un derecho subjetivo.",
+        "Acceder a información y formular sugerencias y quejas, obteniendo respuesta dentro del plazo legal.",
+        "Presentar sugerencias y reclamaciones, sin que exista obligación de respuesta por parte de la Administración."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0022",
+      "pregunta": "Tras la actualización normativa de 2024, el artículo 9.g) contempla la posibilidad de:",
+      "opciones": [
+        "Delegar anticipadamente y de manera irrevocable cualquier decisión sobre prestaciones sociales en el profesional de referencia.",
+        "Formalizar instrucciones previas únicamente para decisiones sanitarias y siempre ante notario.",
+        "Dar instrucciones previas para futuras situaciones en las que la persona pudiera necesitar apoyo para el ejercicio de la capacidad jurídica respecto de asistencia o cuidados."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0023",
+      "pregunta": "¿A qué personas se aplican los derechos específicos del artículo 10 de la Ley 9/2016?",
+      "opciones": [
+        "Solo a las personas usuarias de servicios y centros de titularidad pública.",
+        "A las personas usuarias de servicios sociales tanto de titularidad pública como privada.",
+        "Exclusivamente a quienes sean titulares de una prestación garantizada del Catálogo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0024",
+      "pregunta": "El derecho del artículo 10.a) a una atención directa adecuada a las necesidades debe articularse mediante un Proyecto de Intervención Social que considere:",
+      "opciones": [
+        "Las dimensiones individual, económica, sanitaria y laboral exclusivamente.",
+        "Las dimensiones individual, familiar, convivencial y comunitaria.",
+        "Únicamente las dimensiones individual y familiar, salvo que exista una situación de urgencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0025",
+      "pregunta": "¿Qué reconoce el artículo 10.b) respecto de las prestaciones y servicios?",
+      "opciones": [
+        "El derecho a obtener cualquier prestación solicitada directamente por la persona usuaria, sin necesidad de prescripción profesional.",
+        "El derecho a que todas las prestaciones sean prescritas exclusivamente por la dirección del centro o servicio.",
+        "El derecho a obtener prestaciones y servicios de calidad prescritos por la persona profesional de referencia, en los términos legales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0026",
+      "pregunta": "¿Cuál de las siguientes afirmaciones describe correctamente el derecho relativo al profesional de referencia del artículo 10.c)?",
+      "opciones": [
+        "La libre elección del profesional de referencia es absoluta y no admite límites reglamentarios ni excepciones relacionadas con la protección de menores.",
+        "El segundo diagnóstico solo puede solicitarse en centros residenciales y nunca respecto de intervenciones de servicios sociales comunitarios.",
+        "Se reconoce su asignación para favorecer coherencia, integralidad y continuidad y, dentro de los límites reglamentarios, la posibilidad de libre elección y segundo diagnóstico, con la salvedad de la legislación de protección de menores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0027",
+      "pregunta": "El artículo 10.d), en su redacción vigente tras la actualización de 2024, reconoce asistencia para el ejercicio de la capacidad jurídica cuando:",
+      "opciones": [
+        "Cualquier profesional de los servicios sociales considere conveniente sustituir la voluntad de la persona usuaria.",
+        "La medida de apoyo haya sido acordada verbalmente por la familia, sin necesidad de resolución judicial.",
+        "La medida de apoyo corresponda, por resolución judicial, a una fundación o persona jurídica sin ánimo de lucro en los supuestos legalmente previstos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0028",
+      "pregunta": "¿Cuál de estas facultades forma parte del derecho a la información del artículo 10.e)?",
+      "opciones": [
+        "Acceder sin limitación a todos los datos de terceras personas que figuren en el expediente cuando exista relación familiar.",
+        "Acceder al expediente individual respetando los datos de terceras personas y recibir apoyos para superar barreras de idioma o discapacidad.",
+        "Exigir que toda información se facilite exclusivamente de forma oral para preservar la confidencialidad del expediente."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0029",
+      "pregunta": "Para la información y el consentimiento de las personas con discapacidad, el artículo 10.e) de la Ley 9/2016 remite expresamente:",
+      "opciones": [
+        "Al artículo 6 de la Ley 39/2006, de 14 de diciembre.",
+        "Al artículo 24 del Estatuto de Autonomía para Andalucía como única regulación aplicable.",
+        "Al artículo 6 del Real Decreto Legislativo 1/2013, de 29 de noviembre."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0030",
+      "pregunta": "Si una intervención social implica el ingreso de una persona en un alojamiento o centro residencial, ¿qué exige el artículo 10.f) respecto del consentimiento?",
+      "opciones": [
+        "Que el consentimiento sea siempre sustituido por una autorización judicial previa.",
+        "Que el consentimiento pueda presumirse por la mera aceptación de la prestación económica asociada.",
+        "Que el consentimiento conste por escrito."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0031",
+      "pregunta": "¿Qué conjunto de facultades corresponde al artículo 10.g) de la Ley 9/2016?",
+      "opciones": [
+        "Evaluación o diagnóstico de necesidades, disponibilidad del diagnóstico por escrito y en lenguaje claro, Proyecto de Intervención Social y participación en su elaboración dentro de los plazos legales.",
+        "Libre elección de cualquier prestación del Catálogo, obtención automática de una segunda valoración y exención de aportar documentación.",
+        "Acceso al reglamento interno del centro, fijación unilateral de objetivos y elección de la Administración competente para resolver."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0032",
+      "pregunta": "El derecho de elección reconocido en el artículo 10.h) permite a la persona usuaria:",
+      "opciones": [
+        "Elegir el tipo y modalidad de servicio más adecuados entre las alternativas propuestas por la persona profesional de referencia.",
+        "Exigir cualquier servicio existente en el sistema, aunque no haya sido propuesto ni reúna sus requisitos.",
+        "Elegir libremente la Administración que financiará y resolverá la prestación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0033",
+      "pregunta": "¿Qué límites señala el artículo 10.i) al derecho de renuncia a prestaciones y servicios concedidos?",
+      "opciones": [
+        "Los derivados del internamiento no voluntario y de la protección de las personas menores de edad.",
+        "La renuncia está prohibida en todo servicio social de titularidad pública.",
+        "Solo puede renunciarse a prestaciones económicas, nunca a servicios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0034",
+      "pregunta": "El artículo 10.j) conserva una remisión literal a una norma derogada. ¿Cómo debe interpretarse actualmente el derecho de confidencialidad según el Tema 26?",
+      "opciones": [
+        "Teniendo en cuenta el Reglamento (UE) 2016/679 y la Ley Orgánica 3/2018 como marco vigente de protección de datos.",
+        "Aplicando exclusivamente la Ley Orgánica 15/1999 porque es la norma citada literalmente en el artículo.",
+        "Considerando inaplicable el derecho de confidencialidad hasta que se modifique formalmente la Ley 9/2016."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0035",
+      "pregunta": "¿Qué comprende el derecho del artículo 10.k)?",
+      "opciones": [
+        "Atención domiciliaria obligatoria en toda intervención de servicios sociales, con independencia de la situación.",
+        "Prioridad automática para cualquier prestación económica cuando la persona solicite atención en su domicilio.",
+        "Atención urgente o prioritaria cuando lo determine la Administración competente y atención del profesional de referencia en el domicilio cuando la situación lo exija."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0036",
+      "pregunta": "¿Qué correspondencia entre letras y derechos del artículo 10 es correcta?",
+      "opciones": [
+        "l) reconocimiento de dependencia; m) reconocimiento de discapacidad; n) elección de modalidad de servicio.",
+        "l) reconocimiento de la situación de discapacidad; m) reconocimiento de la situación de dependencia; n) reconocimiento de situaciones de riesgo, desprotección o desamparo.",
+        "l) protección frente al desamparo; m) segunda valoración diagnóstica; n) reconocimiento de discapacidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0037",
+      "pregunta": "Cuando los procedimientos aplicados pretendan utilizarse en proyectos docentes o de investigación, el artículo 10.ñ) exige:",
+      "opciones": [
+        "Autorización verbal de la persona usuaria y comunicación posterior por escrito.",
+        "Únicamente autorización de la dirección del centro, siempre que los datos se utilicen con fines docentes.",
+        "Información escrita y autorización también escrita."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0038",
+      "pregunta": "Una persona desplazada o carente de domicilio se encuentra en un municipio andaluz y necesita cobertura ante una emergencia social. ¿Qué derecho específico reconoce el artículo 10.o)?",
+      "opciones": [
+        "Ser empadronada de oficio en ese municipio antes de recibir cualquier atención profesional.",
+        "Elegir cualquier profesional de referencia de Andalucía, con independencia del municipio en el que se encuentre.",
+        "Disponer de profesional de referencia del Sistema Público de Servicios Sociales de Andalucía en el municipio en el que se encuentre para atender urgencias o emergencias sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0039",
+      "pregunta": "¿Cómo operan los derechos del artículo 11 para las personas usuarias de centros residenciales y centros de día?",
+      "opciones": [
+        "Sustituyen a los derechos del artículo 10 desde el momento en que la persona ingresa en el centro.",
+        "Solo se aplican en centros residenciales públicos, mientras que los centros privados se rigen únicamente por su reglamento interno.",
+        "Son derechos adicionales a los de los artículos 9 y 10 y se aplican con independencia de que el centro sea de titularidad pública o privada."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0040",
+      "pregunta": "En relación con el ingreso, permanencia y salida de centros residenciales o de día, el artículo 11.a) reconoce:",
+      "opciones": [
+        "Libertad absoluta, sin que pueda existir ninguna limitación derivada de una resolución judicial.",
+        "Libertad únicamente para la salida, quedando el ingreso y la permanencia sometidos siempre a decisión administrativa.",
+        "Libertad, con las limitaciones legales aplicables a menores, personas que precisan apoyos para su capacidad jurídica o supuestos de internamiento judicial."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0041",
+      "pregunta": "¿Qué establece el artículo 11.h) respecto de las comunicaciones de las personas usuarias de centros residenciales y de día?",
+      "opciones": [
+        "El secreto de las comunicaciones solo puede limitarse por decisión de la dirección del centro.",
+        "El derecho a comunicar y recibir información libremente y al secreto de las comunicaciones, salvo suspensión por resolución judicial o administrativa.",
+        "La libertad de comunicación se reconoce únicamente con familiares y representantes legales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0042",
+      "pregunta": "A efectos del artículo 11 de la Ley 9/2016, el establecimiento residencial:",
+      "opciones": [
+        "Tiene consideración de domicilio únicamente a efectos de empadronamiento.",
+        "No puede tener consideración de domicilio porque conserva su naturaleza administrativa o asistencial.",
+        "Se reconoce como domicilio de la persona usuaria a todos los efectos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0043",
+      "pregunta": "El derecho a la libertad ideológica, sexual y religiosa de las personas usuarias de centros, según el artículo 11.k), se reconoce:",
+      "opciones": [
+        "Sin ningún límite relacionado con el funcionamiento del centro o los derechos de otras personas.",
+        "Solo en centros de titularidad pública, por quedar los privados sometidos a su ideario propio.",
+        "Siempre que sea compatible con el funcionamiento del centro y con la libertad de las demás personas."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0044",
+      "pregunta": "Según el artículo 11.m), ¿en qué supuesto puede aplicarse una inmovilización o restricción física o intelectual por medios mecánicos o farmacológicos?",
+      "opciones": [
+        "Con prescripción y supervisión facultativa, salvo peligro inminente para la propia persona o para terceras personas.",
+        "Siempre que lo autorice la dirección del centro por razones de organización o convivencia.",
+        "Únicamente con autorización judicial previa, incluso ante peligro inminente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0045",
+      "pregunta": "¿Cuál es el alcance general de las obligaciones del artículo 12 de la Ley 9/2016?",
+      "opciones": [
+        "Se aplican únicamente a personas usuarias de servicios públicos y se limitan a las obligaciones económicas.",
+        "Se aplican exclusivamente a las personas titulares de prestaciones garantizadas y el tema identifica ocho obligaciones.",
+        "Se aplican a las personas usuarias de servicios sociales públicos o privados, o a quienes ostenten su representación cuando corresponda, y el tema identifica trece obligaciones."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T26-P0046",
+      "pregunta": "Respecto de la información que debe facilitar la persona usuaria, el artículo 12.b) establece la obligación de:",
+      "opciones": [
+        "Aportar siempre personalmente cualquier documento que ya obre en poder de otra Administración, sin excepción.",
+        "Facilitar información veraz y la documentación necesaria para valorar la situación, con las excepciones y mecanismos de obtención administrativa previstos.",
+        "Facilitar únicamente información económica, quedando el resto de circunstancias personales fuera de la valoración social."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0047",
+      "pregunta": "¿Qué combinación refleja correctamente dos obligaciones de las personas usuarias previstas en el artículo 12?",
+      "opciones": [
+        "Aceptar obligatoriamente todas las propuestas del profesional de referencia y renunciar a modificar el Proyecto de Intervención Social.",
+        "Colaborar en el Proyecto de Intervención Social y participar activamente en el proceso de mejora, y comunicar cambios personales o familiares que puedan afectar a la intervención o a las prestaciones.",
+        "Comunicar únicamente los cambios económicos y abstenerse de participar en la revisión de la intervención."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0048",
+      "pregunta": "¿Cuál de las siguientes afirmaciones reúne correctamente obligaciones económicas y de uso responsable previstas en el artículo 12?",
+      "opciones": [
+        "Contribuir a la financiación cuando la normativa lo establezca atendiendo a la capacidad económica, destinar la prestación a su finalidad y reintegrar prestaciones recibidas indebidamente o no aplicadas a dicha finalidad.",
+        "Contribuir siempre al coste total del servicio, destinar libremente las prestaciones económicas y reintegrarlas solo si media sentencia judicial.",
+        "Quedar exento de cualquier contribución económica por el carácter universal del sistema y reintegrar únicamente prestaciones materiales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T26-P0049",
+      "pregunta": "Entre las obligaciones de las personas usuarias recogidas en el artículo 12 se encuentra expresamente:",
+      "opciones": [
+        "Renunciar por escrito al profesional de referencia antes de iniciar cualquier prestación.",
+        "Firmar el contrato social pertinente con la entidad prestadora del servicio.",
+        "Formalizar ante notario el Proyecto de Intervención Social cuando incluya una prestación económica."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T26-P0050",
+      "pregunta": "¿Qué mandato establece el artículo 13 de la Ley 9/2016?",
+      "opciones": [
+        "Que la Consejería competente en materia de servicios sociales apruebe la Carta de Derechos y Deberes de las personas usuarias y garantice la máxima difusión de su contenido en los servicios sociales de responsabilidad pública y privada.",
+        "Que cada entidad local apruebe su propia Carta de Derechos y Deberes con eficacia exclusiva en los servicios sociales comunitarios municipales.",
+        "Que el Catálogo de Prestaciones sustituya a la Carta de Derechos y Deberes y se limite su difusión a los centros de titularidad pública."
+      ],
+      "correcta": 0
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "tema": 25,
+  "titulo": "El Servicio de Convivencia y Reinserción Social. Regulación autonómica.",
+  "preguntas": [
+    {
+      "id": "T25-P0001",
+      "pregunta": "¿Qué combinación normativa identifica correctamente el marco principal vigente del Tema 25 según el documento de estudio?",
+      "opciones": [
+        "Decreto 11/1992, de 28 de enero, y Ley 9/2016, de 27 de diciembre.",
+        "Ley 9/2016, de 27 de diciembre, y Decreto 48/2025, de 24 de febrero.",
+        "Decreto 11/1992, de 28 de enero, y Decreto 48/2025, de 24 de febrero."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0002",
+      "pregunta": "¿Qué norma constituye el antecedente histórico clave del Servicio de Convivencia y Reinserción Social?",
+      "opciones": [
+        "El Decreto 48/2025, de 24 de febrero.",
+        "El Decreto 11/1992, de 28 de enero.",
+        "La Ley 9/2016, de 27 de diciembre."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0003",
+      "pregunta": "¿Qué efecto normativo atribuye el documento al Decreto 48/2025 respecto del Decreto 11/1992?",
+      "opciones": [
+        "Lo mantiene vigente como norma básica de los Servicios Sociales Comunitarios.",
+        "Lo sustituye solo en materia de financiación, manteniendo vigentes sus prestaciones.",
+        "Lo deroga expresamente y aprueba el Catálogo vigente de Prestaciones del SPSSA."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0004",
+      "pregunta": "¿Cómo debe interpretarse actualmente la denominación «Servicio de Convivencia y Reinserción Social» utilizada en la convocatoria?",
+      "opciones": [
+        "Como una figura totalmente desaparecida y sin correspondencia material en el sistema actual.",
+        "Como una denominación histórica cuyo núcleo material continúa distribuido en prestaciones del Catálogo vigente.",
+        "Como el nombre literal de una prestación única vigente con idéntica configuración a la de 1992."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0005",
+      "pregunta": "¿Cuál es la equivalencia actual principal del antiguo Servicio de Convivencia y Reinserción Social señalada en el documento?",
+      "opciones": [
+        "La prestación 2.1.1 «Prevención de la exclusión y promoción de la inserción social».",
+        "La prestación 2.1.3 «Acompañamiento para la inserción social y laboral».",
+        "La prestación 5.1.14 «Alojamiento alternativo»."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0006",
+      "pregunta": "¿Dónde se encuadra la prestación 2.1.1 en el Catálogo vigente?",
+      "opciones": [
+        "Participación en la vida comunitaria > Dinamización social.",
+        "Inclusión social > Prevención de la exclusión.",
+        "Convivencia personal, familiar y social > Mediación comunitaria."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0007",
+      "pregunta": "¿Qué combinación describe correctamente la naturaleza y el tipo de la prestación 2.1.1?",
+      "opciones": [
+        "Prestación garantizada y prestación económica.",
+        "Prestación condicionada y prestación de servicios.",
+        "Prestación no condicionada y prestación de alojamiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0008",
+      "pregunta": "¿Qué población destinataria atribuye el Catálogo, según el documento, a la prestación 2.1.1?",
+      "opciones": [
+        "Población general y personas y/o familias en riesgo de exclusión social por factores de vulnerabilidad o desigualdad.",
+        "Únicamente familias con menores que presenten una situación formal de riesgo.",
+        "Exclusivamente personas desempleadas que participen en itinerarios de inserción laboral."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0009",
+      "pregunta": "Respecto al acceso a la prestación 2.1.1, ¿qué indica la ficha del Catálogo recogida en el documento?",
+      "opciones": [
+        "No se establecen requisitos generales.",
+        "Exige acreditar previamente una situación de exclusión social consolidada.",
+        "Requiere haber agotado antes los recursos especializados."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0010",
+      "pregunta": "¿Cuál es el régimen de participación económica de la prestación 2.1.1?",
+      "opciones": [
+        "Está exenta.",
+        "Depende de la renta de la unidad de convivencia.",
+        "Está sujeta a copago autonómico."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0011",
+      "pregunta": "¿Qué Administración figura como competente para la prestación 2.1.1?",
+      "opciones": [
+        "La Administración autonómica exclusivamente.",
+        "La Administración estatal.",
+        "La Administración local."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0012",
+      "pregunta": "¿Qué combinación de niveles de financiación corresponde a la prestación 2.1.1?",
+      "opciones": [
+        "Local, autonómica y estatal.",
+        "Autonómica y estatal exclusivamente.",
+        "Local y autonómica exclusivamente."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0013",
+      "pregunta": "¿Cómo aparecen configuradas la gestión y la titularidad de la prestación 2.1.1?",
+      "opciones": [
+        "Gestión mixta y titularidad mixta.",
+        "Gestión local y titularidad autonómica.",
+        "Gestión autonómica y titularidad local."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0014",
+      "pregunta": "¿En qué niveles de atención se sitúa la prestación 2.1.1?",
+      "opciones": [
+        "En el nivel primario y en el especializado.",
+        "Exclusivamente en el nivel especializado.",
+        "Exclusivamente en el nivel primario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0015",
+      "pregunta": "¿Cuál es el ámbito territorial señalado para la prestación 2.1.1?",
+      "opciones": [
+        "La provincia.",
+        "La comunidad autónoma en su conjunto.",
+        "La Zona Básica de Servicios Sociales."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0016",
+      "pregunta": "¿Qué conjunto de dispositivos aparece asociado a la prestación 2.1.1?",
+      "opciones": [
+        "Órganos autonómicos competentes, oficinas de empleo y entidades privadas con ánimo de lucro.",
+        "Centros de Servicios Sociales Comunitarios, centros educativos y órganos judiciales.",
+        "Centros de Servicios Sociales Comunitarios, órganos autonómicos competentes y entidades privadas sin ánimo de lucro."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0017",
+      "pregunta": "¿Qué diferencia recoge el documento entre la organización/prescripción y el seguimiento/evaluación de la prestación 2.1.1?",
+      "opciones": [
+        "La organización/prescripción incorpora el nivel estatal, mientras que el seguimiento/evaluación es solo local.",
+        "La organización/prescripción es local y autonómica, mientras que el seguimiento/evaluación incorpora también el nivel estatal.",
+        "Ambas corresponden exclusivamente a la Administración local."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0018",
+      "pregunta": "¿Qué afirmación distingue correctamente la financiación de la ejecución de la prestación 2.1.1?",
+      "opciones": [
+        "Tanto la financiación como la ejecución corresponden exclusivamente a los niveles local y autonómico.",
+        "La financiación se limita a los niveles local y autonómico, mientras que la ejecución incluye también el estatal.",
+        "La financiación incluye los niveles local, autonómico y estatal, mientras que la ejecución se atribuye a los niveles local y autonómico."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0019",
+      "pregunta": "Según la regulación histórica descrita, ¿qué finalidad definía el artículo 5 del Decreto 11/1992?",
+      "opciones": [
+        "Garantizar exclusivamente el acceso a recursos económicos para evitar situaciones de pobreza.",
+        "Posibilitar condiciones personales y sociales para la convivencia, participación e integración, con especial atención a la prevención y a recuperar la vinculación con el entorno.",
+        "Canalizar únicamente la inserción laboral mediante itinerarios coordinados con el sistema de empleo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0020",
+      "pregunta": "¿Cuál de las siguientes actuaciones formaba parte expresamente de las líneas históricas del Servicio de Convivencia y Reinserción Social?",
+      "opciones": [
+        "La detección de situaciones problemáticas o de marginación.",
+        "La mediación comunitaria e intercultural como prestación diferenciada del Catálogo.",
+        "El acompañamiento específico a itinerarios de inserción coordinados con el sistema de empleo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0021",
+      "pregunta": "¿Qué actuación histórica se dirigía expresamente a favorecer el desarrollo y la integración social de la población?",
+      "opciones": [
+        "Alojamiento alternativo temporal o permanente.",
+        "Programas y actividades preventivas.",
+        "Itinerarios específicos de inserción social y laboral."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0022",
+      "pregunta": "En la regulación histórica, ¿sobre qué ámbito se proyectaba especialmente el apoyo y tratamiento psicosocial?",
+      "opciones": [
+        "Solo sobre grupos sometidos a procesos de inserción laboral.",
+        "Sobre los diferentes marcos convivenciales, especialmente con personas y familias que presentan desajustes.",
+        "Exclusivamente sobre personas sin alojamiento y fuera de cualquier marco familiar."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0023",
+      "pregunta": "¿Con qué tipo de instituciones debía coordinarse históricamente el tratamiento y rehabilitación de personas o grupos con dificultades de integración comunitaria?",
+      "opciones": [
+        "Exclusivamente con entidades responsables de políticas de empleo.",
+        "Únicamente con órganos autonómicos de financiación.",
+        "Con instituciones implicadas en procesos de desinstitucionalización."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0024",
+      "pregunta": "¿Qué finalidad tenían las actividades ocupacionales previstas históricamente en el Servicio de Convivencia y Reinserción Social?",
+      "opciones": [
+        "Favorecer la inserción en el medio y evitar el desarraigo comunitario o la marginación social.",
+        "Limitar la intervención a la obtención inmediata de un empleo.",
+        "Sustituir con carácter permanente la convivencia familiar por una alternativa residencial."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0025",
+      "pregunta": "¿A quién se dirigían las alternativas dentro del marco comunitario previstas entre las actuaciones históricas?",
+      "opciones": [
+        "A cualquier persona que solicitara una prestación económica de inclusión.",
+        "Solo a personas que ya estuvieran atendidas por servicios especializados.",
+        "A personas que carecieran de una estructura adecuada de convivencia familiar."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0026",
+      "pregunta": "¿Qué elemento forma parte de la definición esencial actual de la prestación 2.1.1?",
+      "opciones": [
+        "La inserción laboral como único objetivo de la intervención.",
+        "La sustitución necesaria del entorno habitual por un recurso residencial.",
+        "La recuperación del vínculo con el entorno cuando éste se deteriora o se pierde."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0027",
+      "pregunta": "¿Qué caracteriza a la prestación 2.1.2 relacionada con el antiguo contenido de convivencia y reinserción?",
+      "opciones": [
+        "La atención social, psicológica y educativa a la infancia y familia mediante intervención individual, familiar y grupal.",
+        "El apoyo a itinerarios de inclusión coordinados específicamente con el sistema de empleo.",
+        "El alojamiento temporal o permanente para personas en riesgo o situación de exclusión."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0028",
+      "pregunta": "¿Qué rasgo diferencia específicamente la prestación 2.1.3 de la equivalencia principal 2.1.1?",
+      "opciones": [
+        "Proporciona alternativas de alojamiento temporal o permanente.",
+        "Se centra en el acompañamiento para la inserción social y laboral y se coordina con el sistema de empleo.",
+        "Se dirige a resolver conflictos comunitarios mediante mediación intercultural."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0029",
+      "pregunta": "¿Qué finalidad corresponde a la prestación 2.1.5?",
+      "opciones": [
+        "Desarrollar exclusivamente itinerarios de inserción laboral.",
+        "Favorecer la comunicación, la inclusión y la resolución de conflictos mediante mediación comunitaria e intercultural.",
+        "Sustituir la estructura familiar mediante alojamiento alternativo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0030",
+      "pregunta": "¿Cómo describe el documento el bloque 2.2 «Apoyo a la inclusión social»?",
+      "opciones": [
+        "Como un dispositivo territorial limitado a los Centros de Servicios Sociales Comunitarios.",
+        "Como un conjunto de prestaciones específicas para colectivos o situaciones que requieren apoyos de mayor intensidad.",
+        "Como la equivalencia única y completa del antiguo Servicio de Convivencia y Reinserción Social."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0031",
+      "pregunta": "¿Qué conexión establece el documento entre la prestación 5.1.14 «Alojamiento alternativo» y la regulación histórica?",
+      "opciones": [
+        "La identifica con el antiguo tratamiento psicosocial en marcos convivenciales.",
+        "La vincula con la antigua búsqueda de alternativas convivenciales en el marco comunitario.",
+        "La considera equivalente al acompañamiento para la inserción social y laboral."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0032",
+      "pregunta": "¿Qué principio exige actuar antes de que se consoliden procesos graves de exclusión o ruptura de la convivencia?",
+      "opciones": [
+        "La sustitución de las redes informales por recursos institucionales.",
+        "La derivación automática a servicios especializados.",
+        "La prevención y detección temprana de factores de riesgo y exclusión."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0033",
+      "pregunta": "¿En qué fases debe participar activamente la persona conforme al enfoque de intervención descrito?",
+      "opciones": [
+        "Solo en la valoración inicial y en el cierre.",
+        "Únicamente en la elección de prestaciones económicas.",
+        "En la valoración, planificación, intervención y evaluación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0034",
+      "pregunta": "¿Qué combinación refleja correctamente el enfoque de capacidades señalado en el documento?",
+      "opciones": [
+        "Derivación, especialización y alejamiento del entorno comunitario.",
+        "Control, institucionalización y sustitución de decisiones.",
+        "Autonomía, empoderamiento y recuperación de vínculos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0035",
+      "pregunta": "¿Con qué sistemas menciona expresamente el documento la necesidad de coordinación, además de los propios servicios sociales?",
+      "opciones": [
+        "Salud, educación, empleo, vivienda, justicia y otros sistemas.",
+        "Exclusivamente empleo, vivienda y justicia.",
+        "Únicamente salud y educación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0036",
+      "pregunta": "¿Qué elementos sostienen la continuidad de la atención según los principios de intervención del tema?",
+      "opciones": [
+        "La persona profesional de referencia y, cuando corresponda, el Proyecto de Intervención Social.",
+        "El alojamiento alternativo y la mediación comunitaria en todos los casos.",
+        "La derivación inmediata a recursos especializados y el cierre del caso en atención primaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0037",
+      "pregunta": "¿Qué perspectiva transversal forma parte del enfoque de intervención descrito en el documento?",
+      "opciones": [
+        "Perspectiva de género, igualdad de trato, accesibilidad universal y respeto a la diversidad.",
+        "Prioridad de la intervención residencial sobre la comunitaria.",
+        "Exclusividad del enfoque laboral frente al familiar y comunitario."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0038",
+      "pregunta": "¿Qué papel atribuye el documento a los Servicios Sociales Comunitarios respecto de situaciones de vulnerabilidad, convivencia y exclusión?",
+      "opciones": [
+        "Puerta de entrada, espacio de proximidad y nivel básico para detectar, valorar e intervenir.",
+        "Órgano centrado únicamente en la financiación de prestaciones.",
+        "Nivel exclusivamente especializado que actúa tras la derivación autonómica."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0039",
+      "pregunta": "¿Qué actuación de los Servicios Sociales Comunitarios conecta la valoración de la situación con la formulación técnica del caso?",
+      "opciones": [
+        "Determinar automáticamente un recurso de alojamiento alternativo.",
+        "Remitir toda situación de vulnerabilidad al nivel especializado.",
+        "Formular el diagnóstico social de la persona, familia o unidad de convivencia."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0040",
+      "pregunta": "¿Cuándo señala el documento que debe elaborarse, seguirse y evaluarse el Proyecto de Intervención Social?",
+      "opciones": [
+        "Solo cuando intervenga un servicio especializado.",
+        "En todos los casos sin excepción.",
+        "Cuando sea necesario."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0041",
+      "pregunta": "¿Cuál de las siguientes tareas corresponde al papel de los Servicios Sociales Comunitarios descrito en el tema?",
+      "opciones": [
+        "Limitar la intervención a prestaciones de carácter económico.",
+        "Promover medidas de inclusión social, educativa y laboral.",
+        "Sustituir la coordinación intersistemas por actuaciones exclusivamente internas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0042",
+      "pregunta": "En el ámbito del Tema 25, ¿qué indicadores puede detectar específicamente el/la trabajador/a social según el documento?",
+      "opciones": [
+        "Exclusivamente situaciones con resolución administrativa previa.",
+        "Vulnerabilidad, aislamiento, conflicto convivencial, desarraigo o exclusión.",
+        "Solo ausencia de ingresos y desempleo."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0043",
+      "pregunta": "¿Qué combinación de técnicas aparece vinculada a la valoración integral realizada por el/la trabajador/a social?",
+      "opciones": [
+        "Encuesta comunitaria, derivación automática y cierre administrativo.",
+        "Entrevista, visita domiciliaria y valoración de necesidades, capacidades y redes de apoyo.",
+        "Alojamiento alternativo, mediación y financiación estatal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0044",
+      "pregunta": "¿Cómo deben definirse los objetivos y actuaciones dentro del Proyecto de Intervención Social según el documento?",
+      "opciones": [
+        "Exclusivamente por los recursos especializados que intervengan.",
+        "De forma consensuada.",
+        "De forma unilateral por el profesional de referencia."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T25-P0045",
+      "pregunta": "¿Qué función profesional responde al enfoque comunitario y de fortalecimiento de apoyos del Tema 25?",
+      "opciones": [
+        "Movilizar recursos comunitarios y redes formales e informales.",
+        "Sustituir las redes informales por dispositivos institucionales.",
+        "Concentrar la intervención únicamente en recursos autonómicos."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0046",
+      "pregunta": "¿Cuándo contempla el documento una derivación responsable a recursos especializados?",
+      "opciones": [
+        "Únicamente después de finalizar el seguimiento municipal.",
+        "Siempre que exista cualquier factor de vulnerabilidad.",
+        "Cuando el nivel primario no sea suficiente."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0047",
+      "pregunta": "¿Cómo debe realizarse el seguimiento profesional según el documento?",
+      "opciones": [
+        "Manteniendo el plan inicial sin modificaciones para preservar la continuidad.",
+        "Limitándolo a comprobar si se ha producido una derivación a otro recurso.",
+        "Mediante indicadores y revisando el plan cuando cambien las circunstancias."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0048",
+      "pregunta": "Ante una familia con deterioro de la convivencia, aislamiento, desempleo prolongado, dificultades educativas de menores y pérdida de redes, ¿cuál es la primera fase propuesta en el supuesto práctico del tema?",
+      "opciones": [
+        "Acogida y valoración inicial para identificar demanda, necesidades latentes, factores de riesgo y urgencias.",
+        "Cierre de la intervención tras facilitar información sobre empleo.",
+        "Derivación inmediata a alojamiento alternativo."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T25-P0049",
+      "pregunta": "En el supuesto práctico municipal del tema, ¿qué debe concretar el Proyecto de Intervención Social?",
+      "opciones": [
+        "Únicamente la prestación económica y la fecha de cierre.",
+        "Solo las derivaciones a recursos especializados y los órganos financiadores.",
+        "Actuaciones, responsables, plazos, compromisos e indicadores."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T25-P0050",
+      "pregunta": "¿Qué diferencia esencial señala el documento entre la prestación 2.1.1 y la 2.1.3?",
+      "opciones": [
+        "La 2.1.1 es la equivalencia principal y general de prevención de la exclusión e inserción social, mientras que la 2.1.3 se centra específicamente en el acompañamiento para la inserción social y laboral.",
+        "La 2.1.1 corresponde al nivel especializado exclusivamente, mientras que la 2.1.3 es una prestación económica local.",
+        "La 2.1.1 es una prestación de alojamiento, mientras que la 2.1.3 se centra en mediación comunitaria."
+      ],
+      "correcta": 0
+    }
+  ]
+}

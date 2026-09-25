@@ -1,0 +1,506 @@
+{
+  "tema": 20,
+  "titulo": "El Plan Concertado",
+  "preguntas": [
+    {
+      "id": "T20-P0001",
+      "pregunta": "Según el material del Tema 20, ¿cuál es la caracterización más precisa del Plan Concertado?",
+      "opciones": [
+        "Un instrumento estable de cooperación técnica y financiera entre Administraciones para sostener la red local de servicios sociales de atención primaria.",
+        "El catálogo andaluz que determina por sí mismo el contenido, acceso y naturaleza jurídica de cada prestación.",
+        "Una ley estatal de servicios sociales que reconoce directamente prestaciones subjetivas a toda la ciudadanía."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0002",
+      "pregunta": "¿Qué hecho se identifica como origen del Plan Concertado en 1988?",
+      "opciones": [
+        "El acuerdo entre la Administración del Estado y las comunidades autónomas mediante un Convenio-Programa para desarrollar prestaciones básicas de servicios sociales de corporaciones locales.",
+        "La creación del Sistema de Información de Usuarios de Servicios Sociales como requisito previo para financiar a las entidades locales.",
+        "La aprobación de una ley estatal única que asumió la gestión directa de los servicios sociales municipales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0003",
+      "pregunta": "¿Qué dato describe correctamente la incorporación de Andalucía al Plan Concertado?",
+      "opciones": [
+        "Andalucía se incorporó en 2002 con la aprobación del Decreto 203/2002, sin convenio previo con el Estado.",
+        "Andalucía se incorporó el 5 de mayo de 1989 y comenzó a prorrogar el convenio a partir de 1994.",
+        "Andalucía suscribió el Convenio de Cooperación con el Estado el 5 de mayo de 1988 y lo prorroga desde 1989."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0004",
+      "pregunta": "Cuando el tema califica al Plan Concertado como «continuado pero presupuestario», ¿qué significa?",
+      "opciones": [
+        "Que la cooperación se mantiene en el tiempo, mientras las cuantías y reglas operativas se concretan en cada ejercicio.",
+        "Que cada proyecto tiene duración indefinida y conserva automáticamente la misma financiación de un año a otro.",
+        "Que el Plan solo existe cuando se aprueba una nueva ley presupuestaria específica y desaparece al cierre del ejercicio."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0005",
+      "pregunta": "¿Cuál es la finalidad esencial atribuida al Plan Concertado?",
+      "opciones": [
+        "Mantener una red de servicios sociales de atención primaria gestionada por entidades locales y facilitar cuatro prestaciones básicas.",
+        "Centralizar en la Administración General del Estado la prestación directa de todos los servicios sociales comunitarios.",
+        "Sustituir los catálogos autonómicos de prestaciones por una única cartera estatal de servicios sociales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0006",
+      "pregunta": "¿Qué secuencia cronológica de sistemas de información aparece en el tema?",
+      "opciones": [
+        "SEGISS en 1994, SIESS en 2002 y SIUSS regulado en 2025.",
+        "SIUSS en 1994, SEGISS en 2025 y SIESS regulado en 2026.",
+        "SIESS en 1994, SIUSS en 2025 y SEGISS regulado en 2026."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0007",
+      "pregunta": "¿Qué expresa el rasgo de «cofinanciado» del Plan Concertado?",
+      "opciones": [
+        "Que la financiación corresponde exclusivamente a las comunidades autónomas y las entidades locales solo ejecutan.",
+        "Que combina recursos estatales, autonómicos y, según determine cada comunidad autónoma, locales.",
+        "Que exige siempre idéntico porcentaje de aportación al Estado, a la comunidad autónoma y a cada ayuntamiento."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0008",
+      "pregunta": "¿Cómo se traduce operativamente el principio de equidad territorial?",
+      "opciones": [
+        "Todos los municipios reciben la misma cantidad por habitante con independencia de superficie, dispersión o estructura demográfica.",
+        "Los criterios de reparto intentan compensar diferencias de población, superficie, dispersión y otras variables territoriales.",
+        "La financiación se distribuye únicamente en función del número de profesionales adscritos a cada centro de servicios sociales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0009",
+      "pregunta": "En el Plan Concertado, ¿qué implica el principio de globalidad y polivalencia?",
+      "opciones": [
+        "Que el nivel primario aborda necesidades diversas mediante valoración integral y respuesta coordinada.",
+        "Que la intervención primaria se limita a derivar casos sin realizar valoración ni coordinación con otros recursos.",
+        "Que cada necesidad social debe ser atendida por un recurso monográfico independiente del resto del sistema."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0010",
+      "pregunta": "¿Cuál de los siguientes es un objetivo explícito del Plan Concertado relacionado con la información?",
+      "opciones": [
+        "Sustituir los registros locales por un único expediente económico gestionado exclusivamente por el Estado.",
+        "Limitar la evaluación a comprobar el gasto presupuestario, excluyendo datos sobre cobertura o personas usuarias.",
+        "Generar información comparable sobre necesidades, cobertura, actividad, personas usuarias y financiación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0011",
+      "pregunta": "¿Cuál es el conjunto correcto de las cuatro prestaciones básicas históricas del Plan Concertado?",
+      "opciones": [
+        "Información y orientación; teleasistencia; renta mínima; atención residencial permanente.",
+        "Ayuda a domicilio; dependencia; discapacidad; protección de menores.",
+        "Información y orientación; ayuda a domicilio y apoyo a la unidad de convivencia; alojamiento alternativo; prevención e inserción social."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0012",
+      "pregunta": "¿Qué actuación encaja en la prestación de información y orientación según el tema?",
+      "opciones": [
+        "Recepción de la demanda, valoración inicial, orientación, asesoramiento, derivación y, cuando proceda, diagnóstico e intervención social.",
+        "Únicamente la tramitación económica de prestaciones ya reconocidas por otros órganos.",
+        "Exclusivamente la entrega de información administrativa, sin valoración ni posibilidad de derivación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0013",
+      "pregunta": "¿Qué precisión debe hacerse respecto de la ayuda a domicilio dentro del Plan Concertado?",
+      "opciones": [
+        "Es exactamente la misma prestación jurídica que la reconocida en dependencia y comparte necesariamente idéntica intensidad.",
+        "No debe confundirse la prestación básica del Plan con la intensidad y el régimen jurídico del servicio reconocido en el Sistema para la Autonomía y Atención a la Dependencia.",
+        "El Plan Concertado excluye cualquier apoyo en el domicilio y solo financia intervenciones fuera del entorno habitual."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0014",
+      "pregunta": "¿En qué situación responde principalmente la prestación de alojamiento alternativo?",
+      "opciones": [
+        "Cuando el objetivo principal es mantener a la persona en su domicilio mediante apoyos domésticos y personales.",
+        "Cuando la persona necesita exclusivamente información sobre recursos, aunque disponga de alojamiento adecuado.",
+        "Cuando falta alojamiento, el domicilio resulta inviable o existe una crisis de convivencia que exige separación o protección."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0015",
+      "pregunta": "¿Qué posibilidad de financiación se menciona expresamente para 2026 dentro del alojamiento alternativo?",
+      "opciones": [
+        "Solo ayudas económicas individuales para pago de alquiler, excluyendo dispositivos de acogida.",
+        "Centros de acogida y soluciones para personas sin hogar inspiradas en enfoques housing led y housing first.",
+        "Exclusivamente residencias permanentes de titularidad estatal y gestión centralizada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0016",
+      "pregunta": "¿Qué caracteriza a la prestación de prevención e inserción social?",
+      "opciones": [
+        "Se limita a intervenir una vez consolidada la exclusión y excluye cualquier actuación preventiva.",
+        "Busca evitar la aparición o agravamiento de riesgo, exclusión o desprotección y favorecer autonomía, participación e inclusión social.",
+        "Tiene carácter exclusivamente individual y no admite intervención con familias, grupos o comunidad."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0017",
+      "pregunta": "¿Cuál de las siguientes asociaciones conceptuales es correcta?",
+      "opciones": [
+        "Prestaciones = qué respuesta se ofrece; equipamientos = desde dónde se organiza o presta; programas/proyectos = cómo se concreta la actuación; financiación = con qué recursos se sostiene.",
+        "Prestaciones = con qué recursos; equipamientos = qué derecho se reconoce; programas = quién financia; financiación = dónde se presta.",
+        "Prestaciones = quién certifica; equipamientos = cómo se evalúa; programas = dónde se registra; financiación = qué necesidad se valora."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0018",
+      "pregunta": "¿Qué papel tiene el centro de servicios sociales dentro de la red descrita en el tema?",
+      "opciones": [
+        "Es la referencia territorial del nivel primario, concentra equipos profesionales, organiza la atención, conecta recursos y permite el seguimiento.",
+        "Es un equipamiento especializado de segundo nivel destinado únicamente al alojamiento residencial.",
+        "Es una unidad administrativa estatal que distribuye directamente los créditos a los municipios."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0019",
+      "pregunta": "Según el Decreto 203/2002 tal como se explica en el tema, ¿cómo se trata la construcción o reforma de centros?",
+      "opciones": [
+        "Se incluye siempre como gasto ordinario de mantenimiento funcional de los servicios sociales comunitarios.",
+        "Se financia exclusivamente con el crédito estatal del Plan y no puede recibir financiación autonómica.",
+        "Queda fuera del sistema ordinario de financiación regulado por ese decreto y se articula mediante convenios específicos."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0020",
+      "pregunta": "¿Qué función corresponde al Estado dentro del Plan Concertado?",
+      "opciones": [
+        "Gestionar ordinariamente los centros municipales y resolver las prestaciones locales.",
+        "Seleccionar directamente a todo el personal de los servicios sociales comunitarios de los ayuntamientos.",
+        "Consignar crédito, acordar con las comunidades autónomas criterios y distribución, cooperar técnicamente y mantener el sistema estatal de información y evaluación."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0021",
+      "pregunta": "¿Qué función se atribuye a la Junta de Andalucía dentro del Plan?",
+      "opciones": [
+        "Planificar y coordinar, aportar financiación, seleccionar o acordar proyectos, distribuir y transferir fondos, fijar documentación y verificar la ejecución.",
+        "Sustituir automáticamente a los ayuntamientos en la gestión ordinaria del nivel primario.",
+        "Limitarse a recibir datos estadísticos sin intervenir en la distribución de fondos a entidades locales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0022",
+      "pregunta": "¿Cuál es la posición de la Diputación de Sevilla según el reparto competencial descrito?",
+      "opciones": [
+        "Gestiona o presta asistencia en el ámbito supramunicipal y apoya a municipios conforme al reparto territorial andaluz.",
+        "Financia directamente a Mairena del Aljarafe como regla general del Plan cuando el municipio recibe asignación propia.",
+        "Fija los criterios estatales de reparto y determina la asignación de cada comunidad autónoma."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0023",
+      "pregunta": "¿Qué corresponde al Ayuntamiento de Mairena del Aljarafe en la ejecución del Plan?",
+      "opciones": [
+        "Aprobar los criterios estatales de distribución territorial del crédito entre comunidades autónomas.",
+        "Dictar la orden autonómica anual de transferencias a diputaciones y municipios.",
+        "Organizar y gestionar sus servicios sociales comunitarios, ejecutar proyectos y presupuesto, aportar documentación, certificar y evaluar."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0024",
+      "pregunta": "¿Qué conjunto de funciones se atribuye al profesional de trabajo social en este marco?",
+      "opciones": [
+        "Determinar los criterios estatales de reparto y autorizar la distribución territorial entre comunidades autónomas.",
+        "Aprobar el presupuesto municipal, ordenar transferencias autonómicas y certificar económicamente los fondos.",
+        "Informar, valorar, diagnosticar, diseñar e intervenir, derivar, coordinar, registrar y evaluar dentro de su puesto."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0025",
+      "pregunta": "¿Qué actuación NO debe atribuirse al Estado dentro del Plan Concertado?",
+      "opciones": [
+        "La gestión ordinaria directa de los centros municipales.",
+        "La consignación anual del crédito estatal.",
+        "La cooperación técnica y el mantenimiento del sistema estatal de información y evaluación."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0026",
+      "pregunta": "¿Qué actuación NO corresponde por regla general al profesional de trabajo social?",
+      "opciones": [
+        "Orientar, derivar y coordinar la intervención social.",
+        "Aprobar transferencias o resolver prestaciones cuando la competencia corresponde a otro órgano.",
+        "Registrar actuaciones y aportar datos para la evaluación."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0027",
+      "pregunta": "¿Qué secuencia refleja mejor la cadena competencial descrita en el tema?",
+      "opciones": [
+        "Entidad local distribuye territorialmente → Estado ejecuta → Junta certifica → equipos transfieren fondos → Diputación evalúa.",
+        "Estado acuerda y distribuye territorialmente → Junta programa, cofinancia y transfiere → entidad local gestiona y ejecuta → equipos intervienen y registran → entidad local certifica y evalúa.",
+        "Junta presta directamente → Estado certifica → entidad local fija criterios estatales → equipos aprueban presupuesto → Consejo Territorial ejecuta."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0028",
+      "pregunta": "¿Qué precepto se cita como base para la distribución territorial de créditos estatales destinados a planes conjuntos?",
+      "opciones": [
+        "El artículo 10 del Real Decreto Legislativo 5/2015.",
+        "El artículo 92 del Estatuto de Autonomía para Andalucía.",
+        "El artículo 86.2 de la Ley 47/2003, General Presupuestaria."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0029",
+      "pregunta": "¿Qué establece el tema sobre la aportación mínima de las entidades locales andaluzas en 2026?",
+      "opciones": [
+        "Cada ayuntamiento debe aportar obligatoriamente al menos el 50 % del coste total del proyecto.",
+        "No existe una aportación mínima local obligatoria; la decisión de cofinanciar corresponde a cada entidad local.",
+        "Cada entidad local debe aportar exactamente la misma cantidad que reciba del Estado."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0030",
+      "pregunta": "¿Qué regla de cofinanciación se aplica a las comunidades autónomas en los proyectos seleccionados para 2026?",
+      "opciones": [
+        "Deben aportar exactamente la mitad de la asignación estatal.",
+        "Deben aportar al menos una cantidad igual a la asignación estatal.",
+        "No están obligadas a aportar financiación propia si existen aportaciones municipales."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0031",
+      "pregunta": "¿Qué ponderación tiene la población en los criterios estatales de distribución de 2026?",
+      "opciones": [
+        "95,0 %.",
+        "85,0 %.",
+        "90,0 %."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0032",
+      "pregunta": "¿Qué ponderación corresponde a la superficie en el reparto estatal de 2026?",
+      "opciones": [
+        "1,5 %.",
+        "2,3 %.",
+        "5,0 %."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0033",
+      "pregunta": "¿Qué ponderación se asigna a la población dependiente en los criterios estatales de 2026?",
+      "opciones": [
+        "0,7 %.",
+        "1,5 %.",
+        "2,3 %."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0034",
+      "pregunta": "¿Qué ponderación se asigna a la dispersión en los criterios estatales de 2026?",
+      "opciones": [
+        "2,3 %.",
+        "1,5 %.",
+        "0,5 %."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0035",
+      "pregunta": "¿Qué combinación de ponderaciones es correcta para grandes urbes e insularidad en 2026?",
+      "opciones": [
+        "Grandes urbes: 0,7 %; insularidad: 0,5 %.",
+        "Grandes urbes: 0,5 %; insularidad: 0,7 %.",
+        "Grandes urbes: 1,5 %; insularidad: 2,3 %."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0036",
+      "pregunta": "¿Qué precisión hace el tema sobre los datos utilizados en los criterios estatales de reparto de 2026?",
+      "opciones": [
+        "Los criterios usaron datos actualizados a 2021 y se mantuvieron en 2026 por la prórroga presupuestaria.",
+        "Se recalcularon íntegramente con datos de 2026 y no guardan relación con ejercicios anteriores.",
+        "Se mantuvieron con datos de 2011 debido a que el Plan prohíbe actualizar las variables territoriales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0037",
+      "pregunta": "¿Entre qué entidades distribuye la Consejería andaluza los créditos de servicios sociales comunitarios según el Decreto 203/2002?",
+      "opciones": [
+        "Únicamente entre diputaciones provinciales, que después reparten obligatoriamente a todos los municipios.",
+        "Entre diputaciones provinciales y ayuntamientos de municipios de más de 20.000 habitantes.",
+        "Exclusivamente entre ayuntamientos de menos de 20.000 habitantes."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0038",
+      "pregunta": "¿Cuál es la referencia mínima transitoria por habitante mencionada para el sistema andaluz de financiación?",
+      "opciones": [
+        "7,21 euros por habitante, dentro de las disponibilidades presupuestarias.",
+        "6,21 euros por habitante, con carácter obligatorio e independiente del presupuesto.",
+        "8,21 euros por habitante, aplicable solo a municipios de menos de 20.000 habitantes."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0039",
+      "pregunta": "¿Qué documentación debe aportar la entidad local para percibir las transferencias según el esquema explicado en el tema?",
+      "opciones": [
+        "Solo la ficha de presentación del ejercicio corriente y una memoria técnica sin certificación económica.",
+        "Ficha de evaluación del ejercicio anterior, certificado de Intervención sobre destino de los fondos, ficha de presentación del ejercicio corriente y certificado relativo a la aportación propia presupuestada.",
+        "Únicamente el certificado de empadronamiento y la relación nominal de personas usuarias atendidas."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0040",
+      "pregunta": "¿Qué ocurre con los remanentes no comprometidos de las transferencias?",
+      "opciones": [
+        "Deben devolverse siempre al Estado al cierre del ejercicio, sin posibilidad de incorporación.",
+        "Conservan su destino y se incorporan al ejercicio siguiente como situación de tesorería en el origen.",
+        "Pierden automáticamente su finalidad específica y pasan a financiar cualquier gasto municipal."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0041",
+      "pregunta": "¿Cuál fue el crédito estatal para prestaciones básicas indicado para 2026?",
+      "opciones": [
+        "41.750.905 euros.",
+        "198.704.000 euros destinados íntegramente a prestaciones básicas.",
+        "108.704.000 euros."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0042",
+      "pregunta": "¿Qué asignación estatal recibió Andalucía para prestaciones básicas en 2026 según el tema?",
+      "opciones": [
+        "19.957.791,74 euros, equivalentes al 18,39 % del reparto.",
+        "41.750.905 euros, equivalentes al 18,39 % del reparto estatal.",
+        "216.170,52 euros, equivalentes al 19,95 % del reparto."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0043",
+      "pregunta": "¿Cuál fue la aportación autonómica andaluza distribuida por la Orden de 15 de junio de 2026?",
+      "opciones": [
+        "19.957.791,74 euros.",
+        "108.704.000,00 euros.",
+        "41.750.905,00 euros."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0044",
+      "pregunta": "¿Qué cuantía de aportación autonómica se asignó a Mairena del Aljarafe para prestaciones básicas en 2026?",
+      "opciones": [
+        "216.170,52 euros por habitante.",
+        "19.957.791,74 euros.",
+        "216.170,52 euros."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0045",
+      "pregunta": "En el ciclo anual de gestión del Plan, ¿qué secuencia es correcta después de la transferencia?",
+      "opciones": [
+        "Evaluación → dotación → ejecución → acuerdo.",
+        "Ajuste → programación → dotación → seguimiento.",
+        "Ejecución → seguimiento → evaluación → ajuste."
+      ],
+      "correcta": 2
+    },
+    {
+      "id": "T20-P0046",
+      "pregunta": "¿Qué doble función cumple la evaluación del Plan Concertado?",
+      "opciones": [
+        "Resolver individualmente cada prestación y sustituir el control económico de la Intervención.",
+        "Acreditar que los fondos se destinan a la finalidad prevista y conocer la cobertura y evolución de la red.",
+        "Determinar exclusivamente la capacidad funcional de las personas usuarias y emitir diagnósticos clínicos."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0047",
+      "pregunta": "¿Cuál de las siguientes distinciones es correcta?",
+      "opciones": [
+        "La evaluación del Plan analiza ejecución, cobertura, actividad y financiación; la valoración social es un proceso técnico individual o familiar; la fiscalización/certificación de Intervención es control económico-presupuestario.",
+        "La valoración social y la certificación de Intervención son el mismo procedimiento y ambas dependen del profesional de trabajo social.",
+        "La evaluación del Plan se limita al diagnóstico individual y excluye la ejecución presupuestaria."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0048",
+      "pregunta": "¿Qué asociación entre documento y función es correcta?",
+      "opciones": [
+        "Ficha de presentación = resultados anteriores; ficha de evaluación = previsiones futuras; certificado de Intervención = diagnóstico social.",
+        "Ficha de presentación = programación y previsiones del ejercicio; ficha de evaluación = resultados del ejercicio anterior; certificado de Intervención = acreditación económico-presupuestaria.",
+        "Ficha de presentación = certificación contable; ficha de evaluación = resolución administrativa; certificado de Intervención = estadística agregada."
+      ],
+      "correcta": 1
+    },
+    {
+      "id": "T20-P0049",
+      "pregunta": "¿Qué efecto tiene el Sistema de Información Estatal de Servicios Sociales sobre las obligaciones documentales del Plan?",
+      "opciones": [
+        "Favorece datos interoperables y moderniza la información, pero no elimina las obligaciones documentales específicas asociadas a las transferencias.",
+        "Sustituye por completo fichas y certificados, que dejan de exigirse desde 2026.",
+        "Se limita a datos clínicos y no tiene relación con el conocimiento o la evaluación de los servicios sociales."
+      ],
+      "correcta": 0
+    },
+    {
+      "id": "T20-P0050",
+      "pregunta": "¿Qué comparación resume correctamente Plan Concertado, Sistema Público andaluz y Catálogo de Prestaciones?",
+      "opciones": [
+        "El Plan determina por sí solo el contenido jurídico de cada prestación; el Catálogo distribuye créditos; y el Sistema Público solo registra estadísticas.",
+        "El Plan explica quién coopera y financia; el Sistema Público andaluz, cómo se organiza la atención social; y el Catálogo, qué prestación existe y cómo se accede.",
+        "El Plan y el Catálogo son equivalentes, mientras el Sistema Público andaluz se limita a repartir financiación estatal."
+      ],
+      "correcta": 1
+    }
+  ]
+}
